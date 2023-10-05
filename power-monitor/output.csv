@@ -1,0 +1,1712 @@
+____________________________________________________________________
+			P o w e r T O P
+
+____________________________________________________________________
+ *  *  *   System Information   *  *  *
+
+PowerTOP Version;v2.11-1-g7ef7f79 ran at Thu Oct  5 08:19:14 2023
+
+Kernel Version;Linux version 5.15.0-79-generic
+System Name;SupermicroX11DPG-OT-CPU123456789
+CPU Information;56 Intel(R) Xeon(R) Gold 5120 CPU @ 2.20GHz
+OS Information;Ubuntu 20.04.6 LTS
+
+Target: 1 units/s;System:  211.3 wakeup/s;CPU:  1.9% usage;GPU: 0 ops/s;GFX: 0 wakeups/s;VFS: 0 ops/s;
+
+____________________________________________________________________
+ *  *  *   Top 10 Power Consumers   *  *  *
+
+Usage;Events/s;Category;Description;PW Estimate
+  0.1%; 87.5;Interrupt;[3] net_rx(softirq);  348 mW  
+  0.0%; 70.4;kWork;dbs_work_handler;  278 mW  
+  0.0%; 26.2;Timer;tick_sched_timer;  104 mW  
+  0.0%; 13.1;Timer;watchdog_timer_fn; 51.8 mW  
+  1.1%; 0.05;Process;[PID 77178] powertop --csv=output.csv ; 17.8 mW  
+  0.0%;  3.9;kWork;psi_avgs_work; 15.5 mW  
+  0.1%;  2.1;Process;[PID 1740] /usr/bin/containerd ; 9.10 mW  
+  0.0%;  1.2;Interrupt;[301] ahci[0000:00:17.0]; 4.89 mW  
+  0.0%;  1.0;Process;[PID 15] [rcu_sched]; 3.96 mW  
+  0.0%;  1.0;Timer;sched_rt_period_timer; 3.92 mW  
+
+____________________________________________________________________
+ *  *  *   Processor Idle State Report   *  *  *
+
+Package;0
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 95.1%
+;
+;
+;
+;
+;
+
+;Core 0
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 90.3%
+;Core 1
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 98.1%
+;Core 2
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 99.6%
+;Core 3
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 91.2%
+;Core 4
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 90.3%
+;Core 5
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 98.1%
+;Core 6
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 90.3%
+;Core 8
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 90.3%
+;Core 9
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 99.8%
+;Core 10
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 99.7%
+;Core 11
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 94.0%
+;Core 12
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 99.1%
+;Core 13
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 99.8%
+;Core 14
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 90.5%
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+
+CPU;0;CPU;28
+POLL;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1E;  0.0%;   1.3 ms;  0.0%;   0.0 ms
+C6; 99.7%;  81.8 ms; 80.9%;1350.3 ms
+CPU;1;CPU;29
+POLL;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1E;  0.0%;   0.2 ms;  0.0%;   0.2 ms
+C6; 99.5%; 311.2 ms; 96.8%; 358.9 ms
+CPU;2;CPU;30
+POLL;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1E;  0.0%;   0.3 ms;  0.0%;   0.3 ms
+C6; 99.5%; 569.3 ms; 99.8%; 499.4 ms
+CPU;3;CPU;31
+POLL;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1E;  0.0%;   0.0 ms;  0.0%;   0.3 ms
+C6; 99.5%;2491.5 ms; 82.8%; 828.5 ms
+CPU;4;CPU;32
+POLL;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1;  0.0%;   1.9 ms;  0.0%;   0.0 ms
+C1E;  0.0%;   0.0 ms;  0.0%;   0.1 ms
+C6; 99.6%; 463.6 ms; 80.9%; 506.4 ms
+CPU;5;CPU;33
+POLL;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1E;  0.0%;   0.2 ms;  0.0%;   0.3 ms
+C6; 99.6%; 643.4 ms; 96.6%; 317.2 ms
+CPU;6;CPU;34
+POLL;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1E;  0.0%;   0.0 ms;  0.0%;   0.2 ms
+C6; 99.6%;3325.3 ms; 81.0%;2315.9 ms
+CPU;7;CPU
+35;POLL;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1E;  0.0%;   0.2 ms;  0.0%
+   0.3 ms;C6; 99.6%;  74.4 ms; 81.0%
+1157.9 ms;CPU;8;CPU
+36;POLL;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1E;  0.0%;   0.4 ms;  0.0%
+   0.3 ms;C6; 99.6%;  81.8 ms;100.0%
+ 488.3 ms;CPU;9;CPU
+37;POLL;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1E;  0.0%;   0.2 ms;  0.0%
+   0.3 ms;C6; 99.6%;  86.8 ms; 99.8%
+ 232.3 ms;CPU;10;CPU
+38;POLL;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1E;  0.0%;   0.3 ms;  0.0%
+   1.2 ms;C6; 99.8%; 416.2 ms; 88.2%
+ 192.1 ms;CPU;11;CPU
+39;POLL;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1E;  0.0%;   0.2 ms;  0.0%
+   0.2 ms;C6; 99.8%; 512.4 ms; 98.5%
+ 386.6 ms;CPU;12;CPU
+40;POLL;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1E;  0.0%;   0.2 ms;  0.0%
+   0.2 ms;C6; 99.9%; 588.1 ms; 99.7%
+  13.3 ms;CPU;13;CPU
+41;POLL;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1E;  0.0%;   0.0 ms;  0.0%
+   0.1 ms;C6; 99.9%; 434.7 ms; 81.0%
+2318.2 ms;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+
+Package;1
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 85.4%
+;
+;
+;
+;
+;
+
+;Core 0
+POLL;  0.0%
+C1;  0.1%
+C1E;  0.0%
+C6; 95.9%
+;Core 1
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 89.7%
+;Core 2
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 80.8%
+;Core 3
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 85.6%
+;Core 4
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 80.8%
+;Core 5
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 80.8%
+;Core 6
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 98.2%
+;Core 8
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 80.9%
+;Core 9
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 80.9%
+;Core 10
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 80.9%
+;Core 11
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 81.0%
+;Core 12
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 81.0%
+;Core 13
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 98.1%
+;Core 14
+POLL;  0.0%
+C1;  0.0%
+C1E;  0.0%
+C6; 81.0%
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+
+CPU;14;CPU;42
+POLL;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1;  0.0%;   0.0 ms;  0.1%;   2.9 ms
+C1E;  0.0%;   0.0 ms;  0.0%;   0.2 ms
+C6; 98.7%;1646.3 ms; 93.1%; 477.9 ms
+CPU;15;CPU;43
+POLL;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1E;  0.0%;   0.5 ms;  0.0%;   0.0 ms
+C6; 98.4%; 820.6 ms; 81.1%;2705.3 ms
+CPU;16;CPU;44
+POLL;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1E;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C6; 80.5%;2685.3 ms; 81.1%;2029.0 ms
+CPU;17;CPU;45
+POLL;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1E;  0.0%;   0.0 ms;  0.0%;   0.2 ms
+C6; 80.5%;2686.0 ms; 90.7%; 698.9 ms
+CPU;18;CPU;46
+POLL;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1E;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C6; 80.5%;2687.3 ms; 81.1%;2319.4 ms
+CPU;19;CPU;47
+POLL;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1E;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C6; 80.6%;2688.7 ms; 81.1%;2319.4 ms
+CPU;20;CPU;48
+POLL;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C1E;  0.0%;   0.0 ms;  0.0%;   0.0 ms
+C6; 98.3%; 546.6 ms; 98.2%; 231.4 ms
+CPU;21;CPU
+49;POLL;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1E;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C6; 80.6%;2691.3 ms; 81.1%
+2320.0 ms;CPU;22;CPU
+50;POLL;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1E;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C6; 80.7%;1242.7 ms; 81.1%
+2707.3 ms;CPU;23;CPU
+51;POLL;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1E;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C6; 80.7%;2694.0 ms; 81.1%
+2707.3 ms;CPU;24;CPU
+52;POLL;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1E;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C6; 80.8%;2696.0 ms; 81.1%
+2708.0 ms;CPU;25;CPU
+53;POLL;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1E;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C6; 80.8%;2697.3 ms; 81.1%
+2321.1 ms;CPU;26;CPU
+54;POLL;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1;  0.0%;   0.4 ms;  0.0%
+   0.0 ms;C1E;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C6; 99.9%; 714.2 ms; 96.3%
+ 917.8 ms;CPU;27;CPU
+55;POLL;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C1E;  0.0%;   0.0 ms;  0.0%
+   0.0 ms;C6; 80.9%;2700.0 ms; 81.2%
+2321.7 ms;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+
+____________________________________________________________________
+ *  *  *   Processor Frequency Report   *  *  *
+
+Package;0
+Idle;  99.5% 
+1000 MHz;   0.5% 
+;
+;
+;
+;
+;
+;
+
+;Core 0
+Idle;  99.9% 
+1000 MHz;   0.1% 
+;Core 1
+Idle; 100.0% 
+1000 MHz;   0.0% 
+;Core 2
+Idle; 100.0% 
+1000 MHz;   0.0% 
+;Core 3
+Idle; 100.0% 
+1000 MHz;   0.0% 
+;Core 4
+Idle; 100.0% 
+1000 MHz;   0.0% 
+;Core 5
+Idle; 100.0% 
+1000 MHz;   0.0% 
+;Core 6
+Idle; 100.0% 
+1000 MHz;   0.0% 
+;Core 8
+Idle;  99.9% 
+1000 MHz;   0.1% 
+;Core 9
+Idle;  99.9% 
+1000 MHz;   0.1% 
+;Core 10
+Idle;  99.9% 
+1000 MHz;   0.1% 
+;Core 11
+Idle; 100.0% 
+1000 MHz;   0.0% 
+;Core 12
+Idle; 100.0% 
+1000 MHz;   0.0% 
+;Core 13
+Idle; 100.0% 
+1000 MHz;   0.0% 
+;Core 14
+Idle; 100.0% 
+1000 MHz;   0.0% 
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+
+CPU 0;CPU 28
+Idle;  99.9% ; 100.0% 
+1000 MHz;   0.1% ;   0.0% 
+CPU 1;CPU 29
+Idle; 100.0% ; 100.0% 
+1000 MHz;   0.0% ;   0.0% 
+CPU 2;CPU 30
+Idle; 100.0% ; 100.0% 
+1000 MHz;   0.0% ;   0.0% 
+CPU 3;CPU 31
+Idle; 100.0% ; 100.0% 
+1000 MHz;   0.0% ;   0.0% 
+CPU 4;CPU 32
+Idle; 100.0% ; 100.0% 
+1000 MHz;   0.0% ;   0.0% 
+CPU 5;CPU 33
+Idle; 100.0% ; 100.0% 
+1000 MHz;   0.0% ;   0.0% 
+CPU 6;CPU 34
+Idle; 100.0% ; 100.0% 
+1000 MHz;   0.0% ;   0.0% 
+CPU 7
+CPU 35;Idle;  99.9% 
+ 100.0% ;1000 MHz;   0.1% 
+   0.0% ;CPU 8
+CPU 36;Idle;  99.9% 
+ 100.0% ;1000 MHz;   0.1% 
+   0.0% ;CPU 9
+CPU 37;Idle;  99.9% 
+ 100.0% ;1000 MHz;   0.1% 
+   0.0% ;CPU 10
+CPU 38;Idle; 100.0% 
+ 100.0% ;1000 MHz;   0.0% 
+   0.0% ;CPU 11
+CPU 39;Idle; 100.0% 
+ 100.0% ;1000 MHz;   0.0% 
+   0.0% ;CPU 12
+CPU 40;Idle; 100.0% 
+ 100.0% ;1000 MHz;   0.0% 
+   0.0% ;CPU 13
+CPU 41;Idle; 100.0% 
+ 100.0% ;1000 MHz;   0.0% 
+   0.0% ;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+
+Package;1
+Idle;  99.8% 
+1000 MHz;   0.2% 
+3.21 GHz;   0.0% 
+1100 MHz;   0.0% 
+;
+;
+;
+;
+
+;Core 0
+Idle; 100.0% 
+1000 MHz;   0.0% 
+1100 MHz;   0.0% 
+1500 MHz;   0.0% 
+;Core 1
+Idle; 100.0% 
+1000 MHz;   0.0% 
+1100 MHz;   0.0% 
+3.21 GHz;   0.0% 
+;Core 2
+Idle; 100.0% 
+1000 MHz;   0.0% 
+;Core 3
+Idle;  99.9% 
+1000 MHz;   0.1% 
+3.21 GHz;   0.0% 
+;Core 4
+Idle; 100.0% 
+1000 MHz;   0.0% 
+;Core 5
+Idle; 100.0% 
+1000 MHz;   0.0% 
+;Core 6
+Idle; 100.0% 
+1000 MHz;   0.0% 
+;Core 8
+Idle; 100.0% 
+1000 MHz;   0.0% 
+;Core 9
+Idle; 100.0% 
+1000 MHz;   0.0% 
+;Core 10
+Idle; 100.0% 
+1000 MHz;   0.0% 
+;Core 11
+Idle; 100.0% 
+1000 MHz;   0.0% 
+;Core 12
+Idle; 100.0% 
+1000 MHz;   0.0% 
+;Core 13
+Idle;  99.9% 
+1000 MHz;   0.1% 
+3.21 GHz;   0.0% 
+1100 MHz;   0.0% 
+;Core 14
+Idle; 100.0% 
+1000 MHz;   0.0% 
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+;
+
+CPU 14;CPU 42
+Idle; 100.0% ; 100.0% 
+1000 MHz;   0.0% ;   0.0% 
+   0.0% 
+   0.0% 
+CPU 15;CPU 43
+Idle; 100.0% ; 100.0% 
+1000 MHz;   0.0% ;   0.0% 
+1100 MHz;   0.0% ;
+3.21 GHz;   0.0% ;
+CPU 16;CPU 44
+Idle; 100.0% ; 100.0% 
+1000 MHz;   0.0% ;   0.0% 
+CPU 17;CPU 45
+Idle; 100.0% ;  99.9% 
+1000 MHz;   0.0% ;   0.1% 
+   0.0% 
+CPU 18;CPU 46
+Idle; 100.0% ; 100.0% 
+1000 MHz;   0.0% ;   0.0% 
+CPU 19;CPU 47
+Idle; 100.0% ; 100.0% 
+1000 MHz;   0.0% ;   0.0% 
+CPU 20;CPU 48
+Idle; 100.0% ; 100.0% 
+1000 MHz;   0.0% ;   0.0% 
+CPU 21
+CPU 49;Idle; 100.0% 
+ 100.0% ;1000 MHz;   0.0% 
+   0.0% ;
+CPU 22
+CPU 50;Idle; 100.0% 
+ 100.0% ;1000 MHz;   0.0% 
+   0.0% ;
+CPU 23
+CPU 51;Idle; 100.0% 
+ 100.0% ;1000 MHz;   0.0% 
+   0.0% ;
+CPU 24
+CPU 52;Idle; 100.0% 
+ 100.0% ;1000 MHz;   0.0% 
+   0.0% ;
+CPU 25
+CPU 53;Idle; 100.0% 
+ 100.0% ;1000 MHz;   0.0% 
+   0.0% ;
+CPU 26
+CPU 54;Idle;  99.9% 
+ 100.0% ;1000 MHz;   0.1% 
+   0.0% ;3.21 GHz;   0.0% 
+1100 MHz;   0.0% 
+CPU 27
+CPU 55;Idle; 100.0% 
+ 100.0% ;1000 MHz;   0.0% 
+   0.0% ;
+;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+;;
+
+____________________________________________________________________
+ *  *  *   Overview of Software Power Consumers   *  *  *
+
+Usage;Wakeups/s;GPU ops/s;Disk IO/s;GFX Wakeups/s;Category;Description;PW Estimate
+  1.3 ms/s; 87.5;;;;Interrupt;[3] net_rx(softirq);  348 mW  
+247.6 us/s; 70.4;;;;kWork;dbs_work_handler;  278 mW  
+245.8 us/s; 26.2;;;;Timer;tick_sched_timer;  104 mW  
+109.3 us/s; 13.1;;;;Timer;watchdog_timer_fn; 51.8 mW  
+ 11.3 ms/s; 0.05;;;;Process;[PID 77178] powertop --csv=output.csv ; 17.8 mW  
+ 76.5 us/s;  3.9;;;;kWork;psi_avgs_work; 15.5 mW  
+589.7 us/s;  2.1;;;;Process;[PID 1740] /usr/bin/containerd ; 9.10 mW  
+ 12.5 us/s;  1.2;;;;Interrupt;[301] ahci[0000:00:17.0]; 4.89 mW  
+ 39.0 us/s;  1.0;;;;Process;[PID 15] [rcu_sched]; 3.96 mW  
+ 14.4 us/s;  1.0;;;;Timer;sched_rt_period_timer; 3.92 mW  
+ 95.3 us/s;  0.9;;;;kWork;i40e_service_task; 3.85 mW  
+458.3 us/s;  0.8;;;;Process;[PID 1700] /usr/bin/containerd ; 3.83 mW  
+ 11.2 us/s;  0.9;;;;kWork;pci_pme_list_scan; 3.72 mW  
+ 18.5 us/s;  0.4;;;;Interrupt;[4] block(softirq); 1.59 mW  
+ 49.9 us/s;  0.3;;;;kWork;fb_flashcursor; 1.44 mW  
+  0.9 ms/s;;;;;Process;[PID 1504] /usr/sbin/irqbalance --foreground ; 1.39 mW  
+  1.4 us/s;  0.3;;;;kWork;lru_add_drain_per_cpu; 1.37 mW  
+  0.7 ms/s;;;;;Interrupt;[7] sched(softirq); 1.10 mW  
+ 18.3 us/s; 0.20;;;;Process;[PID 360] [kcompactd0];  808 uW  
+  7.4 us/s; 0.15;;;;kWork;blk_mq_run_work_fn;  596 uW  
+  1.0 us/s; 0.15;;;;Process;[PID 270] [ksoftirqd/42];  586 uW  
+313.7 us/s;;;;;Process;[PID 1763] /usr/bin/containerd ;  489 uW  
+293.3 us/s;;;;;Timer;hrtimer_wakeup;  458 uW  
+ 13.1 us/s; 0.10;;;;Process;[PID 342] [ksoftirqd/54];  410 uW  
+  1.2 us/s; 0.10;;;;kWork;blk_mq_requeue_work;  391 uW  
+  0.3 us/s; 0.10;;;;kWork;blk_mq_timeout_work;  390 uW  
+153.3 us/s;;;;;Process;[PID 35333] [kworker/0:1];  239 uW  
+ 20.7 us/s; 0.05;;;;Process;[PID 880] [jbd2/sda2-8];  227 uW  
+ 17.9 us/s; 0.05;;;;Timer;mix_interrupt_randomness;  223 uW  
+ 14.4 us/s; 0.05;;;;Process;[PID 35327] /lib/systemd/systemd-networkd ;  217 uW  
+138.2 us/s;;;;;Interrupt;[63] i40e-eno0-TxRx-18;  216 uW  
+ 11.6 us/s; 0.05;;;;kWork;flush_memcg_stats_dwork;  213 uW  
+  8.5 us/s; 0.05;;;;Process;[PID 14] [ksoftirqd/0];  208 uW  
+  1.9 us/s; 0.05;;;;kWork;ext4_end_io_rsv_work;  198 uW  
+  0.2 us/s; 0.05;;;;kWork;neigh_periodic_work;  195 uW  
+115.0 us/s;;;;;Process;[PID 4333] [kworker/7:0];  179 uW  
+113.7 us/s;;;;;Process;[PID 77066] [kworker/u113:0];  177 uW  
+111.6 us/s;;;;;Process;[PID 19950] [kworker/8:0];  174 uW  
+104.8 us/s;;;;;Interrupt;[1] timer(softirq);  164 uW  
+104.2 us/s;;;;;Interrupt;[9] RCU(softirq);  162 uW  
+ 97.0 us/s;;;;;Process;[PID 35335] [kworker/48:0];  151 uW  
+ 83.6 us/s;;;;;Process;[PID 513] [kworker/9:2];  130 uW  
+ 80.4 us/s;;;;;Timer;process_timeout;  125 uW  
+ 73.9 us/s;;;;;Process;[PID 67430] [kworker/26:2];  115 uW  
+ 60.3 us/s;;;;;Timer;delayed_work_timer_fn;    0 mW  
+ 51.5 us/s;;;;;Process;[PID 356] [kworker/1:2];    0 mW  
+ 44.2 us/s;;;;;Process;[PID 35326] [kworker/38:0];    0 mW  
+ 42.7 us/s;;;;;Process;[PID 67305] [kworker/20:2];    0 mW  
+ 40.1 us/s;;;;;kWork;vmstat_shepherd;    0 mW  
+ 35.9 us/s;;;;;Timer;cursor_timer_handler;    0 mW  
+ 35.9 us/s;;;;;Process;[PID 1404] /sbin/multipathd -d -s ;    0 mW  
+ 34.9 us/s;;;;;Process;[PID 424] [kworker/29:1];    0 mW  
+ 29.9 us/s;;;;;Process;[PID 76068] [kworker/u114:1];    0 mW  
+ 29.6 us/s;;;;;Process;[PID 485] [kworker/39:1];    0 mW  
+ 26.3 us/s;;;;;Process;[PID 540] [kworker/37:2];    0 mW  
+ 24.3 us/s;;;;;Process;[PID 494] [kworker/33:1];    0 mW  
+ 24.2 us/s;;;;;Process;[PID 1400] /sbin/multipathd -d -s ;    0 mW  
+ 24.1 us/s;;;;;Process;[PID 33620] [kworker/15:0];    0 mW  
+ 24.1 us/s;;;;;Process;[PID 34392] [kworker/13:0];    0 mW  
+ 21.9 us/s;;;;;kWork;handle_update;    0 mW  
+ 21.9 us/s;;;;;kWork;drm_fb_helper_damage_work;    0 mW  
+ 20.9 us/s;;;;;Process;[PID 493] [kworker/5:1];    0 mW  
+ 20.9 us/s;;;;;Process;[PID 72802] [kworker/42:2];    0 mW  
+ 19.0 us/s;;;;;Process;[PID 76088] [kworker/45:1];    0 mW  
+ 18.9 us/s;;;;;Process;[PID 361] [kcompactd1];    0 mW  
+ 18.6 us/s;;;;;Timer;i40e_service_timer;    0 mW  
+ 18.4 us/s;;;;;Process;[PID 479] [kworker/12:1];    0 mW  
+ 18.2 us/s;;;;;Process;[PID 34277] [kworker/22:0];    0 mW  
+ 18.2 us/s;;;;;Process;[PID 543] [kworker/40:2];    0 mW  
+ 17.8 us/s;;;;;Process;[PID 533] [kworker/30:2];    0 mW  
+ 17.3 us/s;;;;;Process;[PID 19072] [kworker/11:0];    0 mW  
+ 16.6 us/s;;;;;Process;[PID 478] [kworker/10:1];    0 mW  
+ 16.0 us/s;;;;;Process;[PID 508] [kworker/4:2];    0 mW  
+ 15.5 us/s;;;;;Process;[PID 33478] [kworker/54:2];    0 mW  
+ 15.1 us/s;;;;;Process;[PID 539] [kworker/36:2];    0 mW  
+ 15.0 us/s;;;;;Process;[PID 506] [kworker/2:2];    0 mW  
+ 14.8 us/s;;;;;Process;[PID 24969] [kworker/14:0];    0 mW  
+ 14.6 us/s;;;;;Process;[PID 483] [kworker/31:1];    0 mW  
+ 14.2 us/s;;;;;Process;[PID 1] /lib/systemd/systemd --system --deserialize 29 ;    0 mW  
+ 14.1 us/s;;;;;Process;[PID 535] [kworker/32:2];    0 mW  
+ 13.6 us/s;;;;;Process;[PID 67132] [kworker/21:0];    0 mW  
+ 13.0 us/s;;;;;Process;[PID 544] [kworker/41:2];    0 mW  
+ 12.9 us/s;;;;;Process;[PID 34736] [kworker/3:0];    0 mW  
+ 12.9 us/s;;;;;Process;[PID 531] [kworker/27:2];    0 mW  
+ 12.9 us/s;;;;;Process;[PID 1484] /usr/lib/accountsservice/accounts-daemon ;    0 mW  
+ 12.3 us/s;;;;;Process;[PID 527] [kworker/23:2];    0 mW  
+ 12.3 us/s;;;;;Process;[PID 34276] [kworker/24:0];    0 mW  
+ 12.3 us/s;;;;;Process;[PID 76946] [kworker/44:2];    0 mW  
+ 12.2 us/s;;;;;Process;[PID 61451] [kworker/19:2];    0 mW  
+ 12.2 us/s;;;;;Process;[PID 73997] [kworker/17:0];    0 mW  
+ 12.0 us/s;;;;;Process;[PID 74774] [kworker/18:1];    0 mW  
+ 11.5 us/s;;;;;Process;[PID 19913] [kworker/49:3];    0 mW  
+ 11.5 us/s;;;;;Process;[PID 3217] [kworker/25:0];    0 mW  
+ 11.3 us/s;;;;;Process;[PID 447] [kworker/16:1];    0 mW  
+ 11.2 us/s;;;;;Process;[PID 35330] [kworker/6:0];    0 mW  
+ 11.2 us/s;;;;;Process;[PID 75006] [kworker/43:0];    0 mW  
+ 10.8 us/s;;;;;Process;[PID 70800] [kworker/28:0];    0 mW  
+ 10.7 us/s;;;;;Process;[PID 74143] [kworker/47:2];    0 mW  
+ 10.6 us/s;;;;;Process;[PID 549] [kworker/46:2];    0 mW  
+ 10.5 us/s;;;;;kWork;wb_workfn;    0 mW  
+
+
+The system baseline power is estimated at:  24.2  W;
+____________________________________________________________________
+ *  *  *   Device Power Report   *  *  *
+
+Usage;Device Name;PW Estimate
+  2.0%;DRAM;  19.3 W   
+  2.0%;DRAM;  3.16 W   
+  2.0%;CPU misc;  865 mW   
+  2.0%;CPU misc;  865 mW   
+  2.0%;CPU core;    0 mW   
+  2.0%;CPU core;    0 mW   
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: ASPEED Technology, Inc. ASPEED Graphics Family;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;USB device: usb-device-0557-2419;           
+100.0%;USB device: usb-device-0557-7000;           
+100.0%;USB device: UC-10KM V1.3.124 (ATEN);           
+100.0%;USB device: xHCI Host Controller;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+100.0%;PCI Device: Intel Corporation C620 Series Chipset Family SATA Controller [AHCI mode];           
+100.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+100.0%;PCI Device: Intel Corporation C620 Series Chipset Family Power Management Controller;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+100.0%;PCI Device: Intel Corporation Device 37c5;           
+100.0%;PCI Device: Intel Corporation C620 Series Chipset Family PCI Express Root Port #1;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MROM 0;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+100.0%;PCI Device: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 1;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 1;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Device 37c0;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E UPI Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 2;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 2;           
+100.0%;PCI Device: Intel Corporation C622 Series Chipset LPC/eSPI Controller;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E MM/Vt-d Configuration Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MEI Controller #3;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+100.0%;PCI Device: Intel Corporation Ethernet Connection X722 for 10GBASE-T;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port A;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E UPI Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MEI Controller #1;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 2;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 1;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 1;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E KTI 0;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 2;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 2;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MROM 1;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+100.0%;PCI Device: Intel Corporation C620 Series Chipset Family PCI Express Root Port #6;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E RAS;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+100.0%;PCI Device: Intel Corporation C620 Series Chipset Family SSATA Controller [AHCI mode];           
+100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 1;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 1;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 1;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E DECS Channel 2;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port B;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E DECS Channel 2;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation C620 Series Chipset Family SPI Controller;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 2;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 1;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+100.0%;PCI Device: NVIDIA Corporation TU102 [GeForce RTX 2080 Ti];           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E KTI 0;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E DMI3 Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 2;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E KTI 0;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port C;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation C620 Series Chipset Family Thermal Subsystem;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 2;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: NVIDIA Corporation TU102 [GeForce RTX 2080 Ti];           
+100.0%;PCI Device: Intel Corporation Sky Lake-E UPI Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port A;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 2;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E IOAPIC;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E UPI Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 1;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E DECS Channel 2;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E DECS Channel 2;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E IOAPIC;           
+100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MEI Controller #2;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 2;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 1;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 2;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 2;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Ethernet Connection X722 for 10GBASE-T;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 1;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 1;           
+100.0%;PCI Device: Intel Corporation C620 Series Chipset Family SMBus;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation C620 Series Chipset Family USB 3.0 xHCI Controller;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E MM/Vt-d Configuration Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E KTI 0;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E RAS;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+ 95.3 pkts/s;Network interface: eno0 (i40e);           
+  0.0%;USB device: xHCI Host Controller;           
+  0.0%;USB device: xHCI Host Controller;           
+  0.0%;USB device: xHCI Host Controller;           
+  0.0 pkts/s;nic:docker0;           
+  0.0 pkts/s;Network interface: ens4f1 (i40e);           
+  0.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+  0.0%;PCI Device: NVIDIA Corporation TU102 High Definition Audio Controller;           
+  0.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port A;           
+  0.0%;PCI Device: NVIDIA Corporation TU102 USB 3.1 Host Controller;           
+  0.0%;PCI Device: NVIDIA Corporation TU102 USB Type-C UCSI Controller;           
+  0.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+  0.0%;PCI Device: NVIDIA Corporation TU102 High Definition Audio Controller;           
+  0.0%;PCI Device: NVIDIA Corporation TU102 USB 3.1 Host Controller;           
+  0.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+  0.0%;runtime-Fixed MDIO bus.0;           
+  0.0%;USB device: xHCI Host Controller;           
+  0.0%;USB device: xHCI Host Controller;           
+  0.0%;runtime-PNP0C14:00;           
+  0.0%;runtime-alarmtimer.0.auto;           
+  0.0%;runtime-reg-dummy;           
+  0.0%;runtime-ACPI000D:00;           
+  0.0%;runtime-coretemp.1;           
+  0.0%;PCI Device: NVIDIA Corporation TU102 USB Type-C UCSI Controller;           
+  0.0%;runtime-PCCT;           
+  0.0%;runtime-eisa.0;           
+  0.0%;runtime-microcode;           
+  0.0%;runtime-dmi-ipmi-si.0;           
+  0.0%;runtime-kgdboc;           
+  0.0%;runtime-PNP0C04:00;           
+  0.0%;I2C Adapter (i2c-10): NVIDIA i2c adapter 3 at 3f:00.0;           
+  0.0%;I2C Adapter (i2c-3): NVIDIA i2c adapter 3 at 3d:00.0;           
+  0.0%;runtime-IPI0001:00;           
+  0.0%;runtime-pcspkr;           
+  0.0%;runtime-PNP0003:00;           
+  0.0%;runtime-PNP0C33:00;           
+  0.0%;runtime-serial8250;           
+  0.0%;runtime-ACPI000C:00;           
+  0.0%;runtime-PNP0103:00;           
+  0.0%;runtime-ipmi_bmc.0;           
+  0.0%;runtime-PNP0800:00;           
+  0.0%;runtime-coretemp.0;           
+  0.0%;I2C Adapter (i2c-12): NVIDIA i2c adapter 6 at 3f:00.0;           
+  0.0%;I2C Adapter (i2c-1): NVIDIA i2c adapter 1 at 3d:00.0;           
+  0.0%;I2C Adapter (i2c-8): NVIDIA i2c adapter 1 at 3f:00.0;           
+  0.0%;I2C Adapter (i2c-6): NVIDIA i2c adapter 7 at 3d:00.0;           
+  0.0%;I2C Adapter (i2c-13): NVIDIA i2c adapter 7 at 3f:00.0;           
+  0.0%;I2C Adapter (i2c-4): NVIDIA i2c adapter 5 at 3d:00.0;           
+  0.0%;I2C Adapter (i2c-11): NVIDIA i2c adapter 5 at 3f:00.0;           
+  0.0%;I2C Adapter (i2c-2): NVIDIA i2c adapter 2 at 3d:00.0;           
+  0.0%;I2C Adapter (i2c-0): AST i2c bit bus;           
+  0.0%;I2C Adapter (i2c-9): NVIDIA i2c adapter 2 at 3f:00.0;           
+  0.0%;I2C Adapter (i2c-7): NVIDIA i2c adapter 8 at 3d:00.0;           
+  0.0%;I2C Adapter (i2c-14): NVIDIA i2c adapter 8 at 3f:00.0;           
+  0.0%;I2C Adapter (i2c-5): NVIDIA i2c adapter 6 at 3d:00.0;           
+____________________________________________________________________
+ *  *  *   Process Device Activity   *  *  *
+
+Process;Device
+systemd;/dev/autofs
+;/dev/kmsg
+;/dev/rfkill
+bpfilter_umh;/dev/kmsg
+multipathd;/dev/mapper/control
+systemd-logind;/dev/input/event0
+;/dev/input/event1
+;/dev/input/event3
+systemd-journal;/dev/kmsg
+;/dev/kmsg
+
+____________________________________________________________________
+ *  *  *   AHCI ALPM Residency Statistics - Not supported on this macine   *  *  *
+
+____________________________________________________________________
+ *  *  *   Software Settings in Need of Tuning   *  *  *
+
+Description;Script
+Enable SATA link power management for host7;echo 'min_power' > '/sys/class/scsi_host/host7/link_power_management_policy';
+Enable SATA link power management for host8;echo 'min_power' > '/sys/class/scsi_host/host8/link_power_management_policy';
+Enable SATA link power management for host9;echo 'min_power' > '/sys/class/scsi_host/host9/link_power_management_policy';
+VM writeback timeout;echo '1500' > '/proc/sys/vm/dirty_writeback_centisecs';
+NMI watchdog should be turned off;echo '0' > '/proc/sys/kernel/nmi_watchdog';
+Enable SATA link power management for host0;echo 'min_power' > '/sys/class/scsi_host/host0/link_power_management_policy';
+Enable SATA link power management for host2;echo 'min_power' > '/sys/class/scsi_host/host2/link_power_management_policy';
+Enable SATA link power management for host4;echo 'min_power' > '/sys/class/scsi_host/host4/link_power_management_policy';
+Enable SATA link power management for host6;echo 'min_power' > '/sys/class/scsi_host/host6/link_power_management_policy';
+Enable SATA link power management for host1;echo 'min_power' > '/sys/class/scsi_host/host1/link_power_management_policy';
+Enable SATA link power management for host3;echo 'min_power' > '/sys/class/scsi_host/host3/link_power_management_policy';
+Enable SATA link power management for host5;echo 'min_power' > '/sys/class/scsi_host/host5/link_power_management_policy';
+Autosuspend for USB device UC-10KM V1.3.124 [ATEN];echo 'auto' > '/sys/bus/usb/devices/1-3/power/control';
+Autosuspend for unknown USB device 1-6.1 (0557:2419);echo 'auto' > '/sys/bus/usb/devices/1-6.1/power/control';
+Runtime PM for I2C Adapter i2c-0 (AST i2c bit bus);echo 'auto' > '/sys/bus/i2c/devices/i2c-0/device/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E VT-d;echo 'auto' > '/sys/bus/pci/devices/0000:d7:05.0/power/control';
+Runtime PM for PCI Device ASPEED Technology, Inc. ASPEED Graphics Family;echo 'auto' > '/sys/bus/pci/devices/0000:03:00.0/power/control';
+Runtime PM for disk sda;echo 'auto' > '/sys/block/sda/device/power/control';
+Runtime PM for disk sdb;echo 'auto' > '/sys/block/sdb/device/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:0f.3/power/control';
+Runtime PM for port ata9 of PCI device: Intel Corporation C620 Series Chipset Family SATA Controller [AHCI mode];echo 'auto' > '/sys/bus/pci/devices/0000:00:17.0/ata9/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E MM/Vt-d Configuration Registers;echo 'auto' > '/sys/bus/pci/devices/0000:80:05.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E M3KTI Registers;echo 'auto' > '/sys/bus/pci/devices/0000:d7:12.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Ubox Registers;echo 'auto' > '/sys/bus/pci/devices/0000:80:08.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CBDMA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:00:04.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:1d.0/power/control';
+Runtime PM for PCI Device ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge;echo 'auto' > '/sys/bus/pci/devices/0000:02:00.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:0a.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:0f.5/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Integrated Memory Controller;echo 'auto' > '/sys/bus/pci/devices/0000:3a:0a.3/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:0e.4/power/control';
+Runtime PM for PCI Device Intel Corporation C620 Series Chipset Family SATA Controller [AHCI mode];echo 'auto' > '/sys/bus/pci/devices/0000:00:17.0/power/control';
+Runtime PM for port ata3 of PCI device: Intel Corporation C620 Series Chipset Family SATA Controller [AHCI mode];echo 'auto' > '/sys/bus/pci/devices/0000:00:17.0/ata3/power/control';
+Runtime PM for port ata4 of PCI device: Intel Corporation C620 Series Chipset Family SATA Controller [AHCI mode];echo 'auto' > '/sys/bus/pci/devices/0000:00:17.0/ata4/power/control';
+Runtime PM for port ata5 of PCI device: Intel Corporation C620 Series Chipset Family SATA Controller [AHCI mode];echo 'auto' > '/sys/bus/pci/devices/0000:00:17.0/ata5/power/control';
+Runtime PM for port ata6 of PCI device: Intel Corporation C620 Series Chipset Family SATA Controller [AHCI mode];echo 'auto' > '/sys/bus/pci/devices/0000:00:17.0/ata6/power/control';
+Runtime PM for port ata7 of PCI device: Intel Corporation C620 Series Chipset Family SATA Controller [AHCI mode];echo 'auto' > '/sys/bus/pci/devices/0000:00:17.0/ata7/power/control';
+Runtime PM for port ata8 of PCI device: Intel Corporation C620 Series Chipset Family SATA Controller [AHCI mode];echo 'auto' > '/sys/bus/pci/devices/0000:00:17.0/ata8/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E VT-d;echo 'auto' > '/sys/bus/pci/devices/0000:85:05.0/power/control';
+Runtime PM for port ata10 of PCI device: Intel Corporation C620 Series Chipset Family SATA Controller [AHCI mode];echo 'auto' > '/sys/bus/pci/devices/0000:00:17.0/ata10/power/control';
+Runtime PM for PCI Device Intel Corporation C620 Series Chipset Family Power Management Controller;echo 'auto' > '/sys/bus/pci/devices/0000:00:1f.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:10.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Integrated Memory Controller;echo 'auto' > '/sys/bus/pci/devices/0000:ae:0a.3/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:09.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:0f.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E PCU Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:1e.5/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E IOAPIC;echo 'auto' > '/sys/bus/pci/devices/0000:00:05.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Ubox Registers;echo 'auto' > '/sys/bus/pci/devices/0000:80:08.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E UPI Registers;echo 'auto' > '/sys/bus/pci/devices/0000:d7:0f.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:0e.7/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E LMDP Channel 2;echo 'auto' > '/sys/bus/pci/devices/0000:ae:0d.3/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E LMDP Channel 2;echo 'auto' > '/sys/bus/pci/devices/0000:3a:0d.3/power/control';
+Runtime PM for PCI Device Intel Corporation C622 Series Chipset LPC/eSPI Controller;echo 'auto' > '/sys/bus/pci/devices/0000:00:1f.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:05.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CBDMA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:80:04.3/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E LMDP Channel 1;echo 'auto' > '/sys/bus/pci/devices/0000:3a:0a.7/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Integrated Memory Controller;echo 'auto' > '/sys/bus/pci/devices/0000:ae:0a.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Integrated Memory Controller;echo 'auto' > '/sys/bus/pci/devices/0000:3a:0a.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E LMDP Channel 1;echo 'auto' > '/sys/bus/pci/devices/0000:ae:0a.7/power/control';
+Runtime PM for PCI Device Intel Corporation C620 Series Chipset Family MROM 0;echo 'auto' > '/sys/bus/pci/devices/0000:00:11.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:0e.2/power/control';
+Runtime PM for port ata1 of PCI device: Intel Corporation C620 Series Chipset Family SSATA Controller [AHCI mode];echo 'auto' > '/sys/bus/pci/devices/0000:00:11.5/ata1/power/control';
+Runtime PM for PCI Device Intel Corporation Ethernet Connection X722 for 10GBASE-T;echo 'auto' > '/sys/bus/pci/devices/0000:60:00.0/power/control';
+Runtime PM for port ata2 of PCI device: Intel Corporation C620 Series Chipset Family SSATA Controller [AHCI mode];echo 'auto' > '/sys/bus/pci/devices/0000:00:11.5/ata2/power/control';
+Runtime PM for PCI Device Intel Corporation C620 Series Chipset Family SSATA Controller [AHCI mode];echo 'auto' > '/sys/bus/pci/devices/0000:00:11.5/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E M2PCI Registers;echo 'auto' > '/sys/bus/pci/devices/0000:5d:16.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;echo 'auto' > '/sys/bus/pci/devices/0000:d7:05.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E IOAPIC;echo 'auto' > '/sys/bus/pci/devices/0000:80:05.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:09.7/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:09.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E RAS;echo 'auto' > '/sys/bus/pci/devices/0000:80:05.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CBDMA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:00:04.4/power/control';
+Runtime PM for PCI Device Intel Corporation C620 Series Chipset Family MEI Controller #3;echo 'auto' > '/sys/bus/pci/devices/0000:00:16.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:08.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E VT-d;echo 'auto' > '/sys/bus/pci/devices/0000:17:05.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:05.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;echo 'auto' > '/sys/bus/pci/devices/0000:3a:05.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;echo 'auto' > '/sys/bus/pci/devices/0000:ae:05.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:09.1/power/control';
+Runtime PM for PCI Device Intel Corporation C620 Series Chipset Family SPI Controller;echo 'auto' > '/sys/bus/pci/devices/0000:00:1f.5/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E LMS Channel 1;echo 'auto' > '/sys/bus/pci/devices/0000:ae:0a.6/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E LMS Channel 1;echo 'auto' > '/sys/bus/pci/devices/0000:3a:0a.6/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CBDMA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:80:04.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:08.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:08.7/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E LMS Channel 2;echo 'auto' > '/sys/bus/pci/devices/0000:3a:0b.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E M2PCI Registers;echo 'auto' > '/sys/bus/pci/devices/0000:5d:15.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:09.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CBDMA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:80:04.6/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:08.6/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:0e.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E PCI Express Root Port B;echo 'auto' > '/sys/bus/pci/devices/0000:d7:01.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:0e.5/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E KTI 0;echo 'auto' > '/sys/bus/pci/devices/0000:5d:0f.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E LM Channel 2;echo 'auto' > '/sys/bus/pci/devices/0000:ae:0d.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E LM Channel 2;echo 'auto' > '/sys/bus/pci/devices/0000:3a:0d.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E PCU Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:1e.3/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E LMDP Channel 1;echo 'auto' > '/sys/bus/pci/devices/0000:ae:0c.7/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E LMDP Channel 1;echo 'auto' > '/sys/bus/pci/devices/0000:3a:0c.7/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:08.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:09.3/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:0f.3/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E M3KTI Registers;echo 'auto' > '/sys/bus/pci/devices/0000:5d:12.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CBDMA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:00:04.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:1d.3/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E LMS Channel 2;echo 'auto' > '/sys/bus/pci/devices/0000:ae:0b.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;echo 'auto' > '/sys/bus/pci/devices/0000:5d:05.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:08.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E RAS Configuration Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:05.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Ubox Registers;echo 'auto' > '/sys/bus/pci/devices/0000:00:08.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E RAS Configuration Registers;echo 'auto' > '/sys/bus/pci/devices/0000:d7:05.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E PCU Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:1e.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:0f.7/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Integrated Memory Controller;echo 'auto' > '/sys/bus/pci/devices/0000:ae:0c.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Integrated Memory Controller;echo 'auto' > '/sys/bus/pci/devices/0000:3a:0c.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:1d.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:0f.1/power/control';
+Runtime PM for PCI Device Intel Corporation C620 Series Chipset Family MROM 1;echo 'auto' > '/sys/bus/pci/devices/0000:00:11.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CBDMA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:80:04.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:08.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E RAS Configuration Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:05.2/power/control';
+Runtime PM for PCI Device Intel Corporation C620 Series Chipset Family PCI Express Root Port #1;echo 'auto' > '/sys/bus/pci/devices/0000:00:1c.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:0e.3/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E M3KTI Registers;echo 'auto' > '/sys/bus/pci/devices/0000:5d:12.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E PCU Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:1e.1/power/control';
+Runtime PM for PCI Device Intel Corporation C620 Series Chipset Family MEI Controller #1;echo 'auto' > '/sys/bus/pci/devices/0000:00:16.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E M2PCI Registers;echo 'auto' > '/sys/bus/pci/devices/0000:d7:16.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E PCU Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:1e.6/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:10.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E LM Channel 1;echo 'auto' > '/sys/bus/pci/devices/0000:ae:0c.5/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E LM Channel 1;echo 'auto' > '/sys/bus/pci/devices/0000:3a:0c.5/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:09.7/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:09.5/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:0f.6/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:1d.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:0e.7/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:0f.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:0f.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:0e.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E KTI 0;echo 'auto' > '/sys/bus/pci/devices/0000:d7:0e.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:08.5/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Integrated Memory Controller;echo 'auto' > '/sys/bus/pci/devices/0000:ae:09.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E UPI Registers;echo 'auto' > '/sys/bus/pci/devices/0000:d7:0e.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E PCU Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:1e.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:0a.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E LM Channel 1;echo 'auto' > '/sys/bus/pci/devices/0000:3a:0a.5/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E LM Channel 1;echo 'auto' > '/sys/bus/pci/devices/0000:ae:0a.5/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Integrated Memory Controller;echo 'auto' > '/sys/bus/pci/devices/0000:ae:0c.3/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Integrated Memory Controller;echo 'auto' > '/sys/bus/pci/devices/0000:3a:0c.3/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CBDMA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:00:04.7/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Integrated Memory Controller;echo 'auto' > '/sys/bus/pci/devices/0000:3a:09.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:09.5/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E UPI Registers;echo 'auto' > '/sys/bus/pci/devices/0000:5d:0f.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:0e.5/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Integrated Memory Controller;echo 'auto' > '/sys/bus/pci/devices/0000:ae:0a.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Integrated Memory Controller;echo 'auto' > '/sys/bus/pci/devices/0000:3a:0a.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CBDMA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:80:04.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:08.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:10.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Ubox Registers;echo 'auto' > '/sys/bus/pci/devices/0000:00:08.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E PCU Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:1e.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Integrated Memory Controller;echo 'auto' > '/sys/bus/pci/devices/0000:ae:0c.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Integrated Memory Controller;echo 'auto' > '/sys/bus/pci/devices/0000:3a:0c.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:1d.3/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CBDMA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:00:04.5/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:09.3/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E KTI 0;echo 'auto' > '/sys/bus/pci/devices/0000:5d:0e.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:0f.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:08.3/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CBDMA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:80:04.7/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Integrated Memory Controller;echo 'auto' > '/sys/bus/pci/devices/0000:3a:0a.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:0f.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E RAS Configuration Registers;echo 'auto' > '/sys/bus/pci/devices/0000:5d:05.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:09.6/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:09.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CBDMA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:00:04.3/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:1d.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:0a.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CBDMA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:00:04.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:0f.6/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E PCU Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:1e.0/power/control';
+Runtime PM for PCI Device Intel Corporation Ethernet Connection X722 for 10GBASE-T;echo 'auto' > '/sys/bus/pci/devices/0000:60:00.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E LM Channel 2;echo 'auto' > '/sys/bus/pci/devices/0000:3a:0b.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Integrated Memory Controller;echo 'auto' > '/sys/bus/pci/devices/0000:ae:0a.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:08.7/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E DECS Channel 2;echo 'auto' > '/sys/bus/pci/devices/0000:3a:0b.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E VT-d;echo 'auto' > '/sys/bus/pci/devices/0000:ae:05.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E DECS Channel 2;echo 'auto' > '/sys/bus/pci/devices/0000:ae:0b.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E VT-d;echo 'auto' > '/sys/bus/pci/devices/0000:3a:05.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:0e.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E KTI 0;echo 'auto' > '/sys/bus/pci/devices/0000:d7:0f.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:0e.6/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E LMS Channel 2;echo 'auto' > '/sys/bus/pci/devices/0000:ae:0d.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E LMS Channel 2;echo 'auto' > '/sys/bus/pci/devices/0000:3a:0d.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E PCU Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:1e.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Integrated Memory Controller;echo 'auto' > '/sys/bus/pci/devices/0000:ae:0a.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E PCI Express Root Port A;echo 'auto' > '/sys/bus/pci/devices/0000:d7:00.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Integrated Memory Controller;echo 'auto' > '/sys/bus/pci/devices/0000:3a:0a.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:08.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E LMS Channel 1;echo 'auto' > '/sys/bus/pci/devices/0000:ae:0c.6/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:08.5/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CBDMA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:80:04.5/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Integrated Memory Controller;echo 'auto' > '/sys/bus/pci/devices/0000:3a:08.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Integrated Memory Controller;echo 'auto' > '/sys/bus/pci/devices/0000:ae:08.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E VT-d;echo 'auto' > '/sys/bus/pci/devices/0000:5d:05.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:09.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E LMDP Channel 2;echo 'auto' > '/sys/bus/pci/devices/0000:3a:0b.3/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E LMS Channel 1;echo 'auto' > '/sys/bus/pci/devices/0000:3a:0c.6/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E LMDP Channel 2;echo 'auto' > '/sys/bus/pci/devices/0000:ae:0b.3/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E M3KTI Registers;echo 'auto' > '/sys/bus/pci/devices/0000:5d:12.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E M3KTI Registers;echo 'auto' > '/sys/bus/pci/devices/0000:d7:12.0/power/control';
+Runtime PM for PCI Device Intel Corporation C620 Series Chipset Family MEI Controller #2;echo 'auto' > '/sys/bus/pci/devices/0000:00:16.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E UPI Registers;echo 'auto' > '/sys/bus/pci/devices/0000:5d:0e.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E M2PCI Registers;echo 'auto' > '/sys/bus/pci/devices/0000:d7:15.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:09.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E LM Channel 2;echo 'auto' > '/sys/bus/pci/devices/0000:ae:0b.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CBDMA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:00:04.6/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:0e.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E DECS Channel 2;echo 'auto' > '/sys/bus/pci/devices/0000:ae:0d.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E RAS Configuration Registers;echo 'auto' > '/sys/bus/pci/devices/0000:3a:05.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E DMI3 Registers;echo 'auto' > '/sys/bus/pci/devices/0000:00:00.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E DECS Channel 2;echo 'auto' > '/sys/bus/pci/devices/0000:3a:0d.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E PCU Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:1e.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:08.3/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:10.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E M3KTI Registers;echo 'auto' > '/sys/bus/pci/devices/0000:d7:12.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:0f.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:0f.7/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:1d.2/power/control';
+Runtime PM for PCI Device Intel Corporation C620 Series Chipset Family Thermal Subsystem;echo 'auto' > '/sys/bus/pci/devices/0000:00:14.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Integrated Memory Controller;echo 'auto' > '/sys/bus/pci/devices/0000:ae:0c.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Integrated Memory Controller;echo 'auto' > '/sys/bus/pci/devices/0000:3a:0c.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E RAS Configuration Registers;echo 'auto' > '/sys/bus/pci/devices/0000:ae:05.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:0e.3/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E PCU Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:1e.6/power/control';
+Runtime PM for PCI Device Intel Corporation C620 Series Chipset Family SMBus;echo 'auto' > '/sys/bus/pci/devices/0000:00:1f.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Ubox Registers;echo 'auto' > '/sys/bus/pci/devices/0000:80:08.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E PCU Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:1e.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E RAS;echo 'auto' > '/sys/bus/pci/devices/0000:00:05.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E M2PCI Registers;echo 'auto' > '/sys/bus/pci/devices/0000:d7:16.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E PCU Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:1e.5/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:0a.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Integrated Memory Controller;echo 'auto' > '/sys/bus/pci/devices/0000:ae:0c.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Integrated Memory Controller;echo 'auto' > '/sys/bus/pci/devices/0000:3a:0c.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:09.6/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:0f.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:0f.5/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E PCU Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:1e.3/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E MM/Vt-d Configuration Registers;echo 'auto' > '/sys/bus/pci/devices/0000:00:05.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E Ubox Registers;echo 'auto' > '/sys/bus/pci/devices/0000:00:08.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:0e.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:08.6/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:08.1/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:0e.2/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:09.0/power/control';
+Runtime PM for PCI Device Intel Corporation C620 Series Chipset Family USB 3.0 xHCI Controller;echo 'auto' > '/sys/bus/pci/devices/0000:00:14.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:85:0e.6/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CHA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:17:1d.0/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E M2PCI Registers;echo 'auto' > '/sys/bus/pci/devices/0000:5d:16.4/power/control';
+Runtime PM for PCI Device Intel Corporation Sky Lake-E CBDMA Registers;echo 'auto' > '/sys/bus/pci/devices/0000:80:04.1/power/control';
+____________________________________________________________________
+ *  *  *   Untunable Software Issues   *  *  *
+
+Description
+____________________________________________________________________
+ *  *  *   Optimal Tuned Software Settings   *  *  *
+
+Description
+Runtime PM for I2C Adapter i2c-4 (NVIDIA i2c adapter 5 at 3d:00.0)
+Runtime PM for I2C Adapter i2c-11 (NVIDIA i2c adapter 5 at 3f:00.0)
+Runtime PM for I2C Adapter i2c-2 (NVIDIA i2c adapter 2 at 3d:00.0)
+Autosuspend for USB device xHCI Host Controller [usb5]
+Runtime PM for I2C Adapter i2c-9 (NVIDIA i2c adapter 2 at 3f:00.0)
+Autosuspend for USB device xHCI Host Controller [usb3]
+Runtime PM for I2C Adapter i2c-7 (NVIDIA i2c adapter 8 at 3d:00.0)
+Runtime PM for I2C Adapter i2c-14 (NVIDIA i2c adapter 8 at 3f:00.0)
+Runtime PM for I2C Adapter i2c-5 (NVIDIA i2c adapter 6 at 3d:00.0)
+Autosuspend for USB device xHCI Host Controller [usb2]
+Runtime PM for I2C Adapter i2c-12 (NVIDIA i2c adapter 6 at 3f:00.0)
+Runtime PM for I2C Adapter i2c-6 (NVIDIA i2c adapter 7 at 3d:00.0)
+Runtime PM for I2C Adapter i2c-13 (NVIDIA i2c adapter 7 at 3f:00.0)
+Autosuspend for USB device xHCI Host Controller [usb4]
+Autosuspend for unknown USB device 1-6 (0557:7000)
+Autosuspend for USB device xHCI Host Controller [usb6]
+Autosuspend for USB device xHCI Host Controller [usb1]
+Runtime PM for I2C Adapter i2c-3 (NVIDIA i2c adapter 3 at 3d:00.0)
+Runtime PM for I2C Adapter i2c-10 (NVIDIA i2c adapter 3 at 3f:00.0)
+Runtime PM for I2C Adapter i2c-1 (NVIDIA i2c adapter 1 at 3d:00.0)
+Runtime PM for I2C Adapter i2c-8 (NVIDIA i2c adapter 1 at 3f:00.0)
+Runtime PM for PCI Device NVIDIA Corporation TU102 [GeForce RTX 2080 Ti]
+Runtime PM for PCI Device NVIDIA Corporation TU102 USB 3.1 Host Controller
+Runtime PM for PCI Device PLX Technology, Inc. Device 9797
+Runtime PM for PCI Device Intel Corporation C620 Series Chipset Family PCI Express Root Port #6
+Runtime PM for PCI Device NVIDIA Corporation TU102 [GeForce RTX 2080 Ti]
+Runtime PM for PCI Device Intel Corporation Device 37c0
+Runtime PM for PCI Device PLX Technology, Inc. Device 9797
+Runtime PM for PCI Device NVIDIA Corporation TU102 USB 3.1 Host Controller
+Runtime PM for PCI Device Intel Corporation Sky Lake-E PCI Express Root Port A
+Runtime PM for PCI Device Intel Corporation Sky Lake-E PCI Express Root Port C
+Runtime PM for PCI Device PLX Technology, Inc. Device 9797
+Runtime PM for PCI Device PLX Technology, Inc. Device 9797
+Runtime PM for PCI Device NVIDIA Corporation TU102 High Definition Audio Controller
+Runtime PM for PCI Device PLX Technology, Inc. Device 9797
+Runtime PM for PCI Device Intel Corporation Device 37c5
+Runtime PM for PCI Device NVIDIA Corporation TU102 USB Type-C UCSI Controller
+Runtime PM for PCI Device NVIDIA Corporation TU102 USB Type-C UCSI Controller
+Runtime PM for PCI Device PLX Technology, Inc. Device 9797
+Runtime PM for PCI Device NVIDIA Corporation TU102 High Definition Audio Controller
+Runtime PM for PCI Device Intel Corporation Sky Lake-E PCI Express Root Port A
+
+____________________________________________________________________
+ *  *  *   Wake status of the devices   *  *  *
+
+Description;Script
+Wake status for USB device usb5;echo 'enabled' > '/sys/bus/usb/devices/usb5/power/wakeup';
+Wake status for USB device usb3;echo 'enabled' > '/sys/bus/usb/devices/usb3/power/wakeup';
+Wake status for USB device usb1;echo 'enabled' > '/sys/bus/usb/devices/usb1/power/wakeup';
+Wake status for USB device usb6;echo 'enabled' > '/sys/bus/usb/devices/usb6/power/wakeup';
+Wake status for USB device usb4;echo 'enabled' > '/sys/bus/usb/devices/usb4/power/wakeup';
+Wake status for USB device usb2;echo 'enabled' > '/sys/bus/usb/devices/usb2/power/wakeup';
+Wake status for USB device 1-6;echo 'enabled' > '/sys/bus/usb/devices/1-6/power/wakeup';

@@ -59,3 +59,5 @@ data_file =sys.argv[1]
 df = get_data_from_file(data_file)
 print(df)
 
+df.to_csv('result.csv')
+
