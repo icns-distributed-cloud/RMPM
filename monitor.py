@@ -32,8 +32,8 @@ while(True):
             g_index = line.find("gpu")
             print(line)
             if c_index != -1:
-                if "N" not in  line[c_index+12:c_index+16]:
-                    result = [(line[c_index+12:line.find("C")])]
+                if "N" not in  line[c_index+5:line.find("C")]:
+                    result = [(line[c_index+5:line.find("C")])]
                     print(result)
                     writer_c.writerow(result)
             if g_index != -1:
