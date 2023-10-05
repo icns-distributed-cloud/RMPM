@@ -1,0 +1,3089 @@
+2023-09-26 09:22:40;  *  *  *   Device Power Report   *  *  *
+
+2023-09-26 09:22:40; 
+
+2023-09-26 09:22:40; Usage;Device Name;PW Estimate
+
+2023-09-26 09:22:40;   6.0%;DRAM;  3.45 W   
+
+2023-09-26 09:22:40;   6.0%;CPU misc;  1.29 W   
+
+2023-09-26 09:22:40;   6.0%;DRAM;  1.04 W   
+
+2023-09-26 09:22:40;   6.0%;CPU misc;  253 mW   
+
+2023-09-26 09:22:40;   6.0%;CPU core;    0 mW   
+
+2023-09-26 09:22:40;   6.0%;CPU core;    0 mW   
+
+2023-09-26 09:22:40; 116.9 pkts/s;Network interface: eno0 (i40e);           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: ASPEED Technology, Inc. ASPEED Graphics Family;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;USB device: usb-device-0557-2419;           
+
+2023-09-26 09:22:40; 100.0%;USB device: usb-device-0557-7000;           
+
+2023-09-26 09:22:40; 100.0%;USB device: UC-10KM V1.3.124 (ATEN);           
+
+2023-09-26 09:22:40; 100.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family SATA Controller [AHCI mode];           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family Power Management Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Device 37c5;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family PCI Express Root Port #1;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MROM 0;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 1;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 1;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Device 37c0;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E UPI Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 2;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 2;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation C622 Series Chipset LPC/eSPI Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E MM/Vt-d Configuration Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MEI Controller #3;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Ethernet Connection X722 for 10GBASE-T;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port A;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 1;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 1;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E KTI 0;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 2;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E UPI Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 2;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 2;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MROM 1;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family PCI Express Root Port #6;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MEI Controller #1;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family SSATA Controller [AHCI mode];           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 1;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 1;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 1;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E DECS Channel 2;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port B;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E DECS Channel 2;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family SPI Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 2;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 1;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: NVIDIA Corporation TU102 [GeForce RTX 2080 Ti];           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 2;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E DMI3 Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E KTI 0;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port C;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family Thermal Subsystem;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E KTI 0;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 2;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 2;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port A;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E UPI Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: NVIDIA Corporation TU102 [GeForce RTX 2080 Ti];           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOAPIC;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E UPI Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 1;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E DECS Channel 2;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E DECS Channel 2;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOAPIC;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MEI Controller #2;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 2;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 1;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 2;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 2;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Ethernet Connection X722 for 10GBASE-T;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 1;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 1;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family SMBus;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family USB 3.0 xHCI Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E MM/Vt-d Configuration Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E KTI 0;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:22:40; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:22:40;   0.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:22:40;   0.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:22:40;   0.0%;PCI Device: NVIDIA Corporation TU102 USB 3.1 Host Controller;           
+
+2023-09-26 09:22:40;   0.0%;PCI Device: NVIDIA Corporation TU102 High Definition Audio Controller;           
+
+2023-09-26 09:22:40;   0.0%;PCI Device: NVIDIA Corporation TU102 USB Type-C UCSI Controller;           
+
+2023-09-26 09:22:40;   0.0 pkts/s;nic:docker0;           
+
+2023-09-26 09:22:40;   0.0 pkts/s;Network interface: ens4f1 (i40e);           
+
+2023-09-26 09:22:40;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:22:40;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:22:40;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:22:40;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:22:40;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:22:40;   0.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:22:40;   0.0%;runtime-dmi-ipmi-si.0;           
+
+2023-09-26 09:22:40;   0.0%;PCI Device: NVIDIA Corporation TU102 USB 3.1 Host Controller;           
+
+2023-09-26 09:22:40;   0.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port A;           
+
+2023-09-26 09:22:40;   0.0%;PCI Device: NVIDIA Corporation TU102 USB Type-C UCSI Controller;           
+
+2023-09-26 09:22:40;   0.0%;PCI Device: NVIDIA Corporation TU102 High Definition Audio Controller;           
+
+2023-09-26 09:22:40;   0.0%;runtime-PNP0C14:00;           
+
+2023-09-26 09:22:40;   0.0%;runtime-alarmtimer.0.auto;           
+
+2023-09-26 09:22:40;   0.0%;runtime-reg-dummy;           
+
+2023-09-26 09:22:40;   0.0%;runtime-ACPI000D:00;           
+
+2023-09-26 09:22:40;   0.0%;runtime-kgdboc;           
+
+2023-09-26 09:22:40;   0.0%;runtime-PCCT;           
+
+2023-09-26 09:22:40;   0.0%;runtime-eisa.0;           
+
+2023-09-26 09:22:40;   0.0%;runtime-microcode;           
+
+2023-09-26 09:22:40;   0.0%;I2C Adapter (i2c-7): NVIDIA i2c adapter 8 at 3d:00.0;           
+
+2023-09-26 09:22:40;   0.0%;I2C Adapter (i2c-14): NVIDIA i2c adapter 8 at 3f:00.0;           
+
+2023-09-26 09:22:40;   0.0%;I2C Adapter (i2c-5): NVIDIA i2c adapter 6 at 3d:00.0;           
+
+2023-09-26 09:22:40;   0.0%;I2C Adapter (i2c-8): NVIDIA i2c adapter 1 at 3f:00.0;           
+
+2023-09-26 09:22:40;   0.0%;runtime-Fixed MDIO bus.0;           
+
+2023-09-26 09:22:40;   0.0%;runtime-PNP0003:00;           
+
+2023-09-26 09:22:40;   0.0%;runtime-PNP0C33:00;           
+
+2023-09-26 09:22:40;   0.0%;runtime-serial8250;           
+
+2023-09-26 09:22:40;   0.0%;runtime-PNP0C04:00;           
+
+2023-09-26 09:22:40;   0.0%;runtime-PNP0103:00;           
+
+2023-09-26 09:22:40;   0.0%;runtime-ipmi_bmc.0;           
+
+2023-09-26 09:22:40;   0.0%;runtime-PNP0800:00;           
+
+2023-09-26 09:22:40;   0.0%;runtime-ACPI000C:00;           
+
+2023-09-26 09:22:40;   0.0%;I2C Adapter (i2c-10): NVIDIA i2c adapter 3 at 3f:00.0;           
+
+2023-09-26 09:22:40;   0.0%;I2C Adapter (i2c-9): NVIDIA i2c adapter 2 at 3f:00.0;           
+
+2023-09-26 09:22:40;   0.0%;I2C Adapter (i2c-12): NVIDIA i2c adapter 6 at 3f:00.0;           
+
+2023-09-26 09:22:40;   0.0%;I2C Adapter (i2c-0): AST i2c bit bus;           
+
+2023-09-26 09:22:40;   0.0%;I2C Adapter (i2c-2): NVIDIA i2c adapter 2 at 3d:00.0;           
+
+2023-09-26 09:22:40;   0.0%;I2C Adapter (i2c-3): NVIDIA i2c adapter 3 at 3d:00.0;           
+
+2023-09-26 09:22:40;   0.0%;runtime-IPI0001:00;           
+
+2023-09-26 09:22:40;   0.0%;I2C Adapter (i2c-1): NVIDIA i2c adapter 1 at 3d:00.0;           
+
+2023-09-26 09:22:40;   0.0%;I2C Adapter (i2c-11): NVIDIA i2c adapter 5 at 3f:00.0;           
+
+2023-09-26 09:22:40;   0.0%;I2C Adapter (i2c-4): NVIDIA i2c adapter 5 at 3d:00.0;           
+
+2023-09-26 09:22:40;   0.0%;I2C Adapter (i2c-13): NVIDIA i2c adapter 7 at 3f:00.0;           
+
+2023-09-26 09:22:40;   0.0%;runtime-pcspkr;           
+
+2023-09-26 09:22:40;   0.0%;I2C Adapter (i2c-6): NVIDIA i2c adapter 7 at 3d:00.0;           
+
+2023-09-26 09:23:08;  *  *  *   Device Power Report   *  *  *
+
+2023-09-26 09:23:08; 
+
+2023-09-26 09:23:08; Usage;Device Name;PW Estimate
+
+2023-09-26 09:23:08;   3.5%;DRAM;  3.07 W   
+
+2023-09-26 09:23:08;   3.5%;CPU misc;  1.01 W   
+
+2023-09-26 09:23:08;   3.5%;DRAM;  782 mW   
+
+2023-09-26 09:23:08;   3.5%;CPU misc;  230 mW   
+
+2023-09-26 09:23:08;   3.5%;CPU core;    0 mW   
+
+2023-09-26 09:23:08;   3.5%;CPU core;    0 mW   
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: ASPEED Technology, Inc. ASPEED Graphics Family;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;USB device: usb-device-0557-2419;           
+
+2023-09-26 09:23:08; 100.0%;USB device: usb-device-0557-7000;           
+
+2023-09-26 09:23:08; 100.0%;USB device: UC-10KM V1.3.124 (ATEN);           
+
+2023-09-26 09:23:08; 100.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family SATA Controller [AHCI mode];           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family Power Management Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Device 37c5;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family PCI Express Root Port #1;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MROM 0;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 1;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 1;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Device 37c0;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E UPI Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 2;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 2;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation C622 Series Chipset LPC/eSPI Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E MM/Vt-d Configuration Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MEI Controller #3;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Ethernet Connection X722 for 10GBASE-T;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port A;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 1;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 1;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E KTI 0;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 2;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E UPI Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 2;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 2;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MROM 1;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family PCI Express Root Port #6;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MEI Controller #1;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family SSATA Controller [AHCI mode];           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 1;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 1;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 1;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E DECS Channel 2;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port B;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E DECS Channel 2;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family SPI Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 2;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 1;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: NVIDIA Corporation TU102 [GeForce RTX 2080 Ti];           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 2;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E DMI3 Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E KTI 0;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port C;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family Thermal Subsystem;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E KTI 0;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 2;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 2;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port A;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E UPI Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: NVIDIA Corporation TU102 [GeForce RTX 2080 Ti];           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOAPIC;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E UPI Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 1;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E DECS Channel 2;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E DECS Channel 2;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOAPIC;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MEI Controller #2;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 2;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 1;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 2;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 2;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Ethernet Connection X722 for 10GBASE-T;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 1;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 1;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family SMBus;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family USB 3.0 xHCI Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E MM/Vt-d Configuration Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E KTI 0;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:08; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:08;  94.4 pkts/s;Network interface: eno0 (i40e);           
+
+2023-09-26 09:23:08;   0.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:23:08;   0.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:23:08;   0.0%;PCI Device: NVIDIA Corporation TU102 USB 3.1 Host Controller;           
+
+2023-09-26 09:23:08;   0.0%;PCI Device: NVIDIA Corporation TU102 High Definition Audio Controller;           
+
+2023-09-26 09:23:08;   0.0%;PCI Device: NVIDIA Corporation TU102 USB Type-C UCSI Controller;           
+
+2023-09-26 09:23:08;   0.0 pkts/s;nic:docker0;           
+
+2023-09-26 09:23:08;   0.0 pkts/s;Network interface: ens4f1 (i40e);           
+
+2023-09-26 09:23:08;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:23:08;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:23:08;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:23:08;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:23:08;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:23:08;   0.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:23:08;   0.0%;runtime-dmi-ipmi-si.0;           
+
+2023-09-26 09:23:08;   0.0%;PCI Device: NVIDIA Corporation TU102 USB 3.1 Host Controller;           
+
+2023-09-26 09:23:08;   0.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port A;           
+
+2023-09-26 09:23:08;   0.0%;PCI Device: NVIDIA Corporation TU102 USB Type-C UCSI Controller;           
+
+2023-09-26 09:23:08;   0.0%;PCI Device: NVIDIA Corporation TU102 High Definition Audio Controller;           
+
+2023-09-26 09:23:08;   0.0%;runtime-PNP0C14:00;           
+
+2023-09-26 09:23:08;   0.0%;runtime-alarmtimer.0.auto;           
+
+2023-09-26 09:23:08;   0.0%;runtime-reg-dummy;           
+
+2023-09-26 09:23:08;   0.0%;runtime-ACPI000D:00;           
+
+2023-09-26 09:23:08;   0.0%;runtime-kgdboc;           
+
+2023-09-26 09:23:08;   0.0%;runtime-PCCT;           
+
+2023-09-26 09:23:08;   0.0%;runtime-eisa.0;           
+
+2023-09-26 09:23:08;   0.0%;runtime-microcode;           
+
+2023-09-26 09:23:08;   0.0%;I2C Adapter (i2c-7): NVIDIA i2c adapter 8 at 3d:00.0;           
+
+2023-09-26 09:23:08;   0.0%;I2C Adapter (i2c-14): NVIDIA i2c adapter 8 at 3f:00.0;           
+
+2023-09-26 09:23:08;   0.0%;I2C Adapter (i2c-5): NVIDIA i2c adapter 6 at 3d:00.0;           
+
+2023-09-26 09:23:08;   0.0%;I2C Adapter (i2c-8): NVIDIA i2c adapter 1 at 3f:00.0;           
+
+2023-09-26 09:23:08;   0.0%;runtime-Fixed MDIO bus.0;           
+
+2023-09-26 09:23:08;   0.0%;runtime-PNP0003:00;           
+
+2023-09-26 09:23:08;   0.0%;runtime-PNP0C33:00;           
+
+2023-09-26 09:23:08;   0.0%;runtime-serial8250;           
+
+2023-09-26 09:23:08;   0.0%;runtime-PNP0C04:00;           
+
+2023-09-26 09:23:08;   0.0%;runtime-PNP0103:00;           
+
+2023-09-26 09:23:08;   0.0%;runtime-ipmi_bmc.0;           
+
+2023-09-26 09:23:08;   0.0%;runtime-PNP0800:00;           
+
+2023-09-26 09:23:08;   0.0%;runtime-ACPI000C:00;           
+
+2023-09-26 09:23:08;   0.0%;I2C Adapter (i2c-10): NVIDIA i2c adapter 3 at 3f:00.0;           
+
+2023-09-26 09:23:08;   0.0%;I2C Adapter (i2c-9): NVIDIA i2c adapter 2 at 3f:00.0;           
+
+2023-09-26 09:23:08;   0.0%;I2C Adapter (i2c-12): NVIDIA i2c adapter 6 at 3f:00.0;           
+
+2023-09-26 09:23:08;   0.0%;I2C Adapter (i2c-0): AST i2c bit bus;           
+
+2023-09-26 09:23:08;   0.0%;I2C Adapter (i2c-2): NVIDIA i2c adapter 2 at 3d:00.0;           
+
+2023-09-26 09:23:08;   0.0%;I2C Adapter (i2c-3): NVIDIA i2c adapter 3 at 3d:00.0;           
+
+2023-09-26 09:23:08;   0.0%;runtime-IPI0001:00;           
+
+2023-09-26 09:23:08;   0.0%;I2C Adapter (i2c-1): NVIDIA i2c adapter 1 at 3d:00.0;           
+
+2023-09-26 09:23:08;   0.0%;I2C Adapter (i2c-11): NVIDIA i2c adapter 5 at 3f:00.0;           
+
+2023-09-26 09:23:08;   0.0%;I2C Adapter (i2c-4): NVIDIA i2c adapter 5 at 3d:00.0;           
+
+2023-09-26 09:23:08;   0.0%;I2C Adapter (i2c-13): NVIDIA i2c adapter 7 at 3f:00.0;           
+
+2023-09-26 09:23:08;   0.0%;runtime-pcspkr;           
+
+2023-09-26 09:23:08;   0.0%;I2C Adapter (i2c-6): NVIDIA i2c adapter 7 at 3d:00.0;           
+
+2023-09-26 09:23:38;  *  *  *   Device Power Report   *  *  *
+
+2023-09-26 09:23:38; 
+
+2023-09-26 09:23:38; Usage;Device Name;PW Estimate
+
+2023-09-26 09:23:38;  66.4%;DRAM;  10.3 W   
+
+2023-09-26 09:23:38;  66.4%;CPU misc;  6.34 W   
+
+2023-09-26 09:23:38;  66.4%;DRAM;  4.11 W   
+
+2023-09-26 09:23:38;  66.4%;CPU misc;  2.23 W   
+
+2023-09-26 09:23:38;  66.4%;CPU core;    0 mW   
+
+2023-09-26 09:23:38;  66.4%;CPU core;    0 mW   
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: ASPEED Technology, Inc. ASPEED Graphics Family;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;USB device: usb-device-0557-2419;           
+
+2023-09-26 09:23:38; 100.0%;USB device: usb-device-0557-7000;           
+
+2023-09-26 09:23:38; 100.0%;USB device: UC-10KM V1.3.124 (ATEN);           
+
+2023-09-26 09:23:38; 100.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family SATA Controller [AHCI mode];           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family Power Management Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Device 37c5;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family PCI Express Root Port #1;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 1;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 1;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Device 37c0;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E UPI Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 2;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 2;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation C622 Series Chipset LPC/eSPI Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MEI Controller #3;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Ethernet Connection X722 for 10GBASE-T;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port A;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E MM/Vt-d Configuration Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 1;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 2;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 1;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 2;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MROM 1;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E KTI 0;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family PCI Express Root Port #6;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 2;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 2;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MEI Controller #1;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E DECS Channel 2;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family SSATA Controller [AHCI mode];           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 1;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 1;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 1;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port B;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E DECS Channel 2;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family SPI Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 1;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: NVIDIA Corporation TU102 [GeForce RTX 2080 Ti];           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E UPI Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E DMI3 Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 2;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E KTI 0;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E KTI 0;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port C;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 2;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 2;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 2;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port A;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E UPI Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: NVIDIA Corporation TU102 [GeForce RTX 2080 Ti];           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E DECS Channel 2;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOAPIC;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E UPI Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 1;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E DECS Channel 2;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOAPIC;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MEI Controller #2;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 1;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 2;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 2;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family Thermal Subsystem;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MROM 0;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Ethernet Connection X722 for 10GBASE-T;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family SMBus;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 1;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 1;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E KTI 0;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E MM/Vt-d Configuration Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:23:38; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family USB 3.0 xHCI Controller;           
+
+2023-09-26 09:23:38;  94.6 pkts/s;Network interface: eno0 (i40e);           
+
+2023-09-26 09:23:38;   0.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:23:38;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:23:38;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:23:38;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:23:38;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:23:38;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:23:38;   0.0 pkts/s;Network interface: ens4f1 (i40e);           
+
+2023-09-26 09:23:38;   0.0 pkts/s;nic:docker0;           
+
+2023-09-26 09:23:38;   0.0%;PCI Device: NVIDIA Corporation TU102 USB Type-C UCSI Controller;           
+
+2023-09-26 09:23:38;   0.0%;PCI Device: NVIDIA Corporation TU102 High Definition Audio Controller;           
+
+2023-09-26 09:23:38;   0.0%;PCI Device: NVIDIA Corporation TU102 USB 3.1 Host Controller;           
+
+2023-09-26 09:23:38;   0.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:23:38;   0.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:23:38;   0.0%;runtime-dmi-ipmi-si.0;           
+
+2023-09-26 09:23:38;   0.0%;PCI Device: NVIDIA Corporation TU102 USB 3.1 Host Controller;           
+
+2023-09-26 09:23:38;   0.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port A;           
+
+2023-09-26 09:23:38;   0.0%;PCI Device: NVIDIA Corporation TU102 USB Type-C UCSI Controller;           
+
+2023-09-26 09:23:38;   0.0%;PCI Device: NVIDIA Corporation TU102 High Definition Audio Controller;           
+
+2023-09-26 09:23:38;   0.0%;runtime-PNP0C14:00;           
+
+2023-09-26 09:23:38;   0.0%;runtime-alarmtimer.0.auto;           
+
+2023-09-26 09:23:38;   0.0%;runtime-reg-dummy;           
+
+2023-09-26 09:23:38;   0.0%;runtime-ACPI000D:00;           
+
+2023-09-26 09:23:38;   0.0%;runtime-kgdboc;           
+
+2023-09-26 09:23:38;   0.0%;runtime-PCCT;           
+
+2023-09-26 09:23:38;   0.0%;runtime-eisa.0;           
+
+2023-09-26 09:23:38;   0.0%;runtime-microcode;           
+
+2023-09-26 09:23:38;   0.0%;I2C Adapter (i2c-7): NVIDIA i2c adapter 8 at 3d:00.0;           
+
+2023-09-26 09:23:38;   0.0%;runtime-PNP0003:00;           
+
+2023-09-26 09:23:38;   0.0%;I2C Adapter (i2c-14): NVIDIA i2c adapter 8 at 3f:00.0;           
+
+2023-09-26 09:23:38;   0.0%;I2C Adapter (i2c-5): NVIDIA i2c adapter 6 at 3d:00.0;           
+
+2023-09-26 09:23:38;   0.0%;I2C Adapter (i2c-3): NVIDIA i2c adapter 3 at 3d:00.0;           
+
+2023-09-26 09:23:38;   0.0%;runtime-PNP0C33:00;           
+
+2023-09-26 09:23:38;   0.0%;runtime-serial8250;           
+
+2023-09-26 09:23:38;   0.0%;runtime-PNP0C04:00;           
+
+2023-09-26 09:23:38;   0.0%;runtime-PNP0103:00;           
+
+2023-09-26 09:23:38;   0.0%;runtime-ipmi_bmc.0;           
+
+2023-09-26 09:23:38;   0.0%;runtime-PNP0800:00;           
+
+2023-09-26 09:23:38;   0.0%;runtime-ACPI000C:00;           
+
+2023-09-26 09:23:38;   0.0%;runtime-Fixed MDIO bus.0;           
+
+2023-09-26 09:23:38;   0.0%;I2C Adapter (i2c-10): NVIDIA i2c adapter 3 at 3f:00.0;           
+
+2023-09-26 09:23:38;   0.0%;I2C Adapter (i2c-9): NVIDIA i2c adapter 2 at 3f:00.0;           
+
+2023-09-26 09:23:38;   0.0%;I2C Adapter (i2c-8): NVIDIA i2c adapter 1 at 3f:00.0;           
+
+2023-09-26 09:23:38;   0.0%;I2C Adapter (i2c-12): NVIDIA i2c adapter 6 at 3f:00.0;           
+
+2023-09-26 09:23:38;   0.0%;I2C Adapter (i2c-0): AST i2c bit bus;           
+
+2023-09-26 09:23:38;   0.0%;I2C Adapter (i2c-2): NVIDIA i2c adapter 2 at 3d:00.0;           
+
+2023-09-26 09:23:38;   0.0%;runtime-IPI0001:00;           
+
+2023-09-26 09:23:38;   0.0%;I2C Adapter (i2c-1): NVIDIA i2c adapter 1 at 3d:00.0;           
+
+2023-09-26 09:23:38;   0.0%;I2C Adapter (i2c-11): NVIDIA i2c adapter 5 at 3f:00.0;           
+
+2023-09-26 09:23:38;   0.0%;I2C Adapter (i2c-4): NVIDIA i2c adapter 5 at 3d:00.0;           
+
+2023-09-26 09:23:38;   0.0%;I2C Adapter (i2c-13): NVIDIA i2c adapter 7 at 3f:00.0;           
+
+2023-09-26 09:23:38;   0.0%;I2C Adapter (i2c-6): NVIDIA i2c adapter 7 at 3d:00.0;           
+
+2023-09-26 09:23:38;   0.0%;runtime-pcspkr;           
+
+2023-09-26 09:24:06;  *  *  *   Device Power Report   *  *  *
+
+2023-09-26 09:24:06; 
+
+2023-09-26 09:24:06; Usage;Device Name;PW Estimate
+
+2023-09-26 09:24:06;   2.1%;DRAM;  2.95 W   
+
+2023-09-26 09:24:06;   2.1%;CPU misc;  834 mW   
+
+2023-09-26 09:24:06;   2.1%;DRAM;  639 mW   
+
+2023-09-26 09:24:06;   2.1%;CPU misc;  195 mW   
+
+2023-09-26 09:24:06;   2.1%;CPU core;    0 mW   
+
+2023-09-26 09:24:06;   2.1%;CPU core;    0 mW   
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: ASPEED Technology, Inc. ASPEED Graphics Family;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;USB device: usb-device-0557-2419;           
+
+2023-09-26 09:24:06; 100.0%;USB device: usb-device-0557-7000;           
+
+2023-09-26 09:24:06; 100.0%;USB device: UC-10KM V1.3.124 (ATEN);           
+
+2023-09-26 09:24:06; 100.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family SATA Controller [AHCI mode];           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family Power Management Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Device 37c5;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family PCI Express Root Port #1;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MROM 0;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 1;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 1;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Device 37c0;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E UPI Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 2;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 2;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation C622 Series Chipset LPC/eSPI Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E MM/Vt-d Configuration Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MEI Controller #3;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Ethernet Connection X722 for 10GBASE-T;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port A;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 1;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 1;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E KTI 0;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 2;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E UPI Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 2;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 2;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MROM 1;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family PCI Express Root Port #6;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MEI Controller #1;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family SSATA Controller [AHCI mode];           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 1;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 1;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 1;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E DECS Channel 2;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port B;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E DECS Channel 2;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family SPI Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 2;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 1;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: NVIDIA Corporation TU102 [GeForce RTX 2080 Ti];           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 2;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E DMI3 Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E KTI 0;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port C;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family Thermal Subsystem;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E KTI 0;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 2;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 2;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port A;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E UPI Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: NVIDIA Corporation TU102 [GeForce RTX 2080 Ti];           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOAPIC;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E UPI Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 1;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E DECS Channel 2;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E DECS Channel 2;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOAPIC;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MEI Controller #2;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 2;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 1;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 2;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 2;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Ethernet Connection X722 for 10GBASE-T;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 1;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 1;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family SMBus;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family USB 3.0 xHCI Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E MM/Vt-d Configuration Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E KTI 0;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:06; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:06;  89.8 pkts/s;Network interface: eno0 (i40e);           
+
+2023-09-26 09:24:06;   0.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:24:06;   0.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:24:06;   0.0%;PCI Device: NVIDIA Corporation TU102 USB 3.1 Host Controller;           
+
+2023-09-26 09:24:06;   0.0%;PCI Device: NVIDIA Corporation TU102 High Definition Audio Controller;           
+
+2023-09-26 09:24:06;   0.0%;PCI Device: NVIDIA Corporation TU102 USB Type-C UCSI Controller;           
+
+2023-09-26 09:24:06;   0.0 pkts/s;nic:docker0;           
+
+2023-09-26 09:24:06;   0.0 pkts/s;Network interface: ens4f1 (i40e);           
+
+2023-09-26 09:24:06;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:24:06;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:24:06;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:24:06;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:24:06;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:24:06;   0.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:24:06;   0.0%;runtime-dmi-ipmi-si.0;           
+
+2023-09-26 09:24:06;   0.0%;PCI Device: NVIDIA Corporation TU102 USB 3.1 Host Controller;           
+
+2023-09-26 09:24:06;   0.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port A;           
+
+2023-09-26 09:24:06;   0.0%;PCI Device: NVIDIA Corporation TU102 USB Type-C UCSI Controller;           
+
+2023-09-26 09:24:06;   0.0%;PCI Device: NVIDIA Corporation TU102 High Definition Audio Controller;           
+
+2023-09-26 09:24:06;   0.0%;runtime-PNP0C14:00;           
+
+2023-09-26 09:24:06;   0.0%;runtime-alarmtimer.0.auto;           
+
+2023-09-26 09:24:06;   0.0%;runtime-reg-dummy;           
+
+2023-09-26 09:24:06;   0.0%;runtime-ACPI000D:00;           
+
+2023-09-26 09:24:06;   0.0%;runtime-kgdboc;           
+
+2023-09-26 09:24:06;   0.0%;runtime-PCCT;           
+
+2023-09-26 09:24:06;   0.0%;runtime-eisa.0;           
+
+2023-09-26 09:24:06;   0.0%;runtime-microcode;           
+
+2023-09-26 09:24:06;   0.0%;I2C Adapter (i2c-7): NVIDIA i2c adapter 8 at 3d:00.0;           
+
+2023-09-26 09:24:06;   0.0%;I2C Adapter (i2c-14): NVIDIA i2c adapter 8 at 3f:00.0;           
+
+2023-09-26 09:24:06;   0.0%;I2C Adapter (i2c-5): NVIDIA i2c adapter 6 at 3d:00.0;           
+
+2023-09-26 09:24:06;   0.0%;I2C Adapter (i2c-8): NVIDIA i2c adapter 1 at 3f:00.0;           
+
+2023-09-26 09:24:06;   0.0%;runtime-Fixed MDIO bus.0;           
+
+2023-09-26 09:24:06;   0.0%;runtime-PNP0003:00;           
+
+2023-09-26 09:24:06;   0.0%;runtime-PNP0C33:00;           
+
+2023-09-26 09:24:06;   0.0%;runtime-serial8250;           
+
+2023-09-26 09:24:06;   0.0%;runtime-PNP0C04:00;           
+
+2023-09-26 09:24:06;   0.0%;runtime-PNP0103:00;           
+
+2023-09-26 09:24:06;   0.0%;runtime-ipmi_bmc.0;           
+
+2023-09-26 09:24:06;   0.0%;runtime-PNP0800:00;           
+
+2023-09-26 09:24:06;   0.0%;runtime-ACPI000C:00;           
+
+2023-09-26 09:24:06;   0.0%;I2C Adapter (i2c-10): NVIDIA i2c adapter 3 at 3f:00.0;           
+
+2023-09-26 09:24:06;   0.0%;I2C Adapter (i2c-9): NVIDIA i2c adapter 2 at 3f:00.0;           
+
+2023-09-26 09:24:06;   0.0%;I2C Adapter (i2c-12): NVIDIA i2c adapter 6 at 3f:00.0;           
+
+2023-09-26 09:24:06;   0.0%;I2C Adapter (i2c-0): AST i2c bit bus;           
+
+2023-09-26 09:24:06;   0.0%;I2C Adapter (i2c-2): NVIDIA i2c adapter 2 at 3d:00.0;           
+
+2023-09-26 09:24:06;   0.0%;I2C Adapter (i2c-3): NVIDIA i2c adapter 3 at 3d:00.0;           
+
+2023-09-26 09:24:06;   0.0%;runtime-IPI0001:00;           
+
+2023-09-26 09:24:06;   0.0%;I2C Adapter (i2c-1): NVIDIA i2c adapter 1 at 3d:00.0;           
+
+2023-09-26 09:24:06;   0.0%;I2C Adapter (i2c-11): NVIDIA i2c adapter 5 at 3f:00.0;           
+
+2023-09-26 09:24:06;   0.0%;I2C Adapter (i2c-4): NVIDIA i2c adapter 5 at 3d:00.0;           
+
+2023-09-26 09:24:06;   0.0%;I2C Adapter (i2c-13): NVIDIA i2c adapter 7 at 3f:00.0;           
+
+2023-09-26 09:24:06;   0.0%;runtime-pcspkr;           
+
+2023-09-26 09:24:06;   0.0%;I2C Adapter (i2c-6): NVIDIA i2c adapter 7 at 3d:00.0;           
+
+2023-09-26 09:24:34;  *  *  *   Device Power Report   *  *  *
+
+2023-09-26 09:24:34; 
+
+2023-09-26 09:24:34; Usage;Device Name;PW Estimate
+
+2023-09-26 09:24:34;   2.0%;DRAM;  2.69 W   
+
+2023-09-26 09:24:34;   2.0%;CPU misc;  848 mW   
+
+2023-09-26 09:24:34;   2.0%;DRAM;  568 mW   
+
+2023-09-26 09:24:34;   2.0%;CPU misc;  280 mW   
+
+2023-09-26 09:24:34;   2.0%;CPU core;    0 mW   
+
+2023-09-26 09:24:34;   2.0%;CPU core;    0 mW   
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: ASPEED Technology, Inc. ASPEED Graphics Family;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;USB device: usb-device-0557-2419;           
+
+2023-09-26 09:24:34; 100.0%;USB device: usb-device-0557-7000;           
+
+2023-09-26 09:24:34; 100.0%;USB device: UC-10KM V1.3.124 (ATEN);           
+
+2023-09-26 09:24:34; 100.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family SATA Controller [AHCI mode];           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family Power Management Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Device 37c5;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family PCI Express Root Port #1;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MROM 0;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 1;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 1;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Device 37c0;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E UPI Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 2;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 2;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation C622 Series Chipset LPC/eSPI Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E MM/Vt-d Configuration Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MEI Controller #3;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Ethernet Connection X722 for 10GBASE-T;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: ASPEED Technology, Inc. AST1150 PCI-to-PCI Bridge;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port A;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 1;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 1;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E KTI 0;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 2;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E UPI Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 2;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 2;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MROM 1;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family PCI Express Root Port #6;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MEI Controller #1;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family SSATA Controller [AHCI mode];           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 1;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 1;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 1;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E DECS Channel 2;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port B;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E DECS Channel 2;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family SPI Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 2;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 1;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: NVIDIA Corporation TU102 [GeForce RTX 2080 Ti];           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 2;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E DMI3 Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E KTI 0;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port C;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS Configuration Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family Thermal Subsystem;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E KTI 0;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 2;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 2;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port A;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E UPI Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: NVIDIA Corporation TU102 [GeForce RTX 2080 Ti];           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E M3KTI Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOAPIC;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E UPI Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 1;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E VT-d;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E DECS Channel 2;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E DECS Channel 2;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOAPIC;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family MEI Controller #2;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMDP Channel 2;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E LMS Channel 1;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 2;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 2;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Ethernet Connection X722 for 10GBASE-T;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E M2PCI Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 1;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E LM Channel 1;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family SMBus;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation C620 Series Chipset Family USB 3.0 xHCI Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CBDMA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E MM/Vt-d Configuration Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E KTI 0;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Ubox Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E IOxAPIC Configuration Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E RAS;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E PCU Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E Integrated Memory Controller;           
+
+2023-09-26 09:24:34; 100.0%;PCI Device: Intel Corporation Sky Lake-E CHA Registers;           
+
+2023-09-26 09:24:34;  92.9 pkts/s;Network interface: eno0 (i40e);           
+
+2023-09-26 09:24:34;   0.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:24:34;   0.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:24:34;   0.0%;PCI Device: NVIDIA Corporation TU102 USB 3.1 Host Controller;           
+
+2023-09-26 09:24:34;   0.0%;PCI Device: NVIDIA Corporation TU102 High Definition Audio Controller;           
+
+2023-09-26 09:24:34;   0.0%;PCI Device: NVIDIA Corporation TU102 USB Type-C UCSI Controller;           
+
+2023-09-26 09:24:34;   0.0 pkts/s;nic:docker0;           
+
+2023-09-26 09:24:34;   0.0 pkts/s;Network interface: ens4f1 (i40e);           
+
+2023-09-26 09:24:34;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:24:34;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:24:34;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:24:34;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:24:34;   0.0%;USB device: xHCI Host Controller;           
+
+2023-09-26 09:24:34;   0.0%;PCI Device: PLX Technology, Inc. Device 9797;           
+
+2023-09-26 09:24:34;   0.0%;runtime-dmi-ipmi-si.0;           
+
+2023-09-26 09:24:34;   0.0%;PCI Device: NVIDIA Corporation TU102 USB 3.1 Host Controller;           
+
+2023-09-26 09:24:34;   0.0%;PCI Device: Intel Corporation Sky Lake-E PCI Express Root Port A;           
+
+2023-09-26 09:24:34;   0.0%;PCI Device: NVIDIA Corporation TU102 USB Type-C UCSI Controller;           
+
+2023-09-26 09:24:34;   0.0%;PCI Device: NVIDIA Corporation TU102 High Definition Audio Controller;           
+
+2023-09-26 09:24:34;   0.0%;runtime-PNP0C14:00;           
+
+2023-09-26 09:24:34;   0.0%;runtime-alarmtimer.0.auto;           
+
+2023-09-26 09:24:34;   0.0%;runtime-reg-dummy;           
+
+2023-09-26 09:24:34;   0.0%;runtime-ACPI000D:00;           
+
+2023-09-26 09:24:34;   0.0%;runtime-kgdboc;           
+
+2023-09-26 09:24:34;   0.0%;runtime-PCCT;           
+
+2023-09-26 09:24:34;   0.0%;runtime-eisa.0;           
+
+2023-09-26 09:24:34;   0.0%;runtime-microcode;           
+
+2023-09-26 09:24:34;   0.0%;I2C Adapter (i2c-7): NVIDIA i2c adapter 8 at 3d:00.0;           
+
+2023-09-26 09:24:34;   0.0%;I2C Adapter (i2c-14): NVIDIA i2c adapter 8 at 3f:00.0;           
+
+2023-09-26 09:24:34;   0.0%;I2C Adapter (i2c-5): NVIDIA i2c adapter 6 at 3d:00.0;           
+
+2023-09-26 09:24:34;   0.0%;I2C Adapter (i2c-8): NVIDIA i2c adapter 1 at 3f:00.0;           
+
+2023-09-26 09:24:34;   0.0%;runtime-Fixed MDIO bus.0;           
+
+2023-09-26 09:24:34;   0.0%;runtime-PNP0003:00;           
+
+2023-09-26 09:24:34;   0.0%;runtime-PNP0C33:00;           
+
+2023-09-26 09:24:34;   0.0%;runtime-serial8250;           
+
+2023-09-26 09:24:34;   0.0%;runtime-PNP0C04:00;           
+
+2023-09-26 09:24:34;   0.0%;runtime-PNP0103:00;           
+
+2023-09-26 09:24:34;   0.0%;runtime-ipmi_bmc.0;           
+
+2023-09-26 09:24:34;   0.0%;runtime-PNP0800:00;           
+
+2023-09-26 09:24:34;   0.0%;runtime-ACPI000C:00;           
+
+2023-09-26 09:24:34;   0.0%;I2C Adapter (i2c-10): NVIDIA i2c adapter 3 at 3f:00.0;           
+
+2023-09-26 09:24:34;   0.0%;I2C Adapter (i2c-9): NVIDIA i2c adapter 2 at 3f:00.0;           
+
+2023-09-26 09:24:34;   0.0%;I2C Adapter (i2c-12): NVIDIA i2c adapter 6 at 3f:00.0;           
+
+2023-09-26 09:24:34;   0.0%;I2C Adapter (i2c-0): AST i2c bit bus;           
+
+2023-09-26 09:24:34;   0.0%;I2C Adapter (i2c-2): NVIDIA i2c adapter 2 at 3d:00.0;           
+
+2023-09-26 09:24:34;   0.0%;I2C Adapter (i2c-3): NVIDIA i2c adapter 3 at 3d:00.0;           
+
+2023-09-26 09:24:34;   0.0%;runtime-IPI0001:00;           
+
+2023-09-26 09:24:34;   0.0%;I2C Adapter (i2c-1): NVIDIA i2c adapter 1 at 3d:00.0;           
+
+2023-09-26 09:24:34;   0.0%;I2C Adapter (i2c-11): NVIDIA i2c adapter 5 at 3f:00.0;           
+
+2023-09-26 09:24:34;   0.0%;I2C Adapter (i2c-4): NVIDIA i2c adapter 5 at 3d:00.0;           
+
+2023-09-26 09:24:34;   0.0%;I2C Adapter (i2c-13): NVIDIA i2c adapter 7 at 3f:00.0;           
+
+2023-09-26 09:24:34;   0.0%;runtime-pcspkr;           
+
+2023-09-26 09:24:34;   0.0%;I2C Adapter (i2c-6): NVIDIA i2c adapter 7 at 3d:00.0;           

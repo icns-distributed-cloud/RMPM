@@ -1,0 +1,1059 @@
+2023-09-26 09:22:40;  *  *  *   Overview of Software Power Consumers   *  *  *
+
+2023-09-26 09:22:40; 
+
+2023-09-26 09:22:40; Usage;Wakeups/s;GPU ops/s;Disk IO/s;GFX Wakeups/s;Category;Description;PW Estimate
+
+2023-09-26 09:22:40;   1.7 ms/s;112.0;;;;Interrupt;[3] net_rx(softirq);  445 mW  
+
+2023-09-26 09:22:40; 364.4 us/s;101.3;;;;kWork;dbs_work_handler;  401 mW  
+
+2023-09-26 09:22:40; 459.1 us/s; 43.9;;;;Timer;tick_sched_timer;  174 mW  
+
+2023-09-26 09:22:40; 106.6 us/s; 13.7;;;;Timer;watchdog_timer_fn; 54.2 mW  
+
+2023-09-26 09:22:40;  16.6 ms/s;;;;;Process;[PID 2439] python3; 25.9 mW  
+
+2023-09-26 09:22:40;  16.1 ms/s; 0.05;;;;Process;[PID 2598] cuda-EvtHandlr; 25.3 mW  
+
+2023-09-26 09:22:40; 128.7 us/s;  6.3;;;;kWork;psi_avgs_work; 25.0 mW  
+
+2023-09-26 09:22:40;  10.6 ms/s; 0.05;;;;Process;[PID 2879] powertop --csv=powertop_output.csv ; 16.7 mW  
+
+2023-09-26 09:22:40;  28.0 us/s;  3.9;;;;kWork;flush_to_ldisc; 15.3 mW  
+
+2023-09-26 09:22:40;  76.9 us/s;  2.7;;;;Interrupt;[303] nvidia; 10.7 mW  
+
+2023-09-26 09:22:40; 369.6 us/s;  2.4;;;;Process;[PID 1722] /usr/bin/containerd ; 10.1 mW  
+
+2023-09-26 09:22:40; 103.5 us/s;  2.1;;;;Process;[PID 15] [rcu_sched]; 8.55 mW  
+
+2023-09-26 09:22:40;  68.2 us/s;  1.7;;;;Interrupt;[304] nvidia; 6.74 mW  
+
+2023-09-26 09:22:40; 305.4 us/s;  1.5;;;;Process;[PID 1728] /usr/bin/containerd ; 6.53 mW  
+
+2023-09-26 09:22:40;  45.2 us/s;  1.5;;;;kWork;fb_flashcursor; 6.12 mW  
+
+2023-09-26 09:22:40;  11.2 us/s;  1.4;;;;kWork;lru_add_drain_per_cpu; 5.48 mW  
+
+2023-09-26 09:22:40; 255.3 us/s;  1.0;;;;Process;[PID 1736] /usr/bin/containerd ; 4.30 mW  
+
+2023-09-26 09:22:40;  14.6 us/s;  1.0;;;;Timer;sched_rt_period_timer; 4.12 mW  
+
+2023-09-26 09:22:40;  95.7 us/s;  0.9;;;;kWork;i40e_service_task; 3.86 mW  
+
+2023-09-26 09:22:40;  10.7 us/s;  0.9;;;;kWork;pci_pme_list_scan; 3.72 mW  
+
+2023-09-26 09:22:40;  29.8 us/s;  0.9;;;;kWork;free_work; 3.56 mW  
+
+2023-09-26 09:22:40;  20.4 us/s;  0.7;;;;Interrupt;[4] block(softirq); 2.96 mW  
+
+2023-09-26 09:22:40;   1.6 ms/s;;;;;Process;[PID 2878] python3; 2.43 mW  
+
+2023-09-26 09:22:40; 344.3 us/s;  0.4;;;;Process;[PID 1695] /usr/bin/containerd ; 2.29 mW  
+
+2023-09-26 09:22:40;  21.3 us/s;  0.5;;;;Process;[PID 361] [kcompactd0]; 1.98 mW  
+
+2023-09-26 09:22:40;  72.8 us/s;  0.4;;;;Process;[PID 2557] irq/304-nvidia; 1.67 mW  
+
+2023-09-26 09:22:40;   1.0 ms/s;;;;;Interrupt;[7] sched(softirq); 1.60 mW  
+
+2023-09-26 09:22:40;   0.9 ms/s;;;;;Process;[PID 2854] -bash ; 1.41 mW  
+
+2023-09-26 09:22:40;   0.9 ms/s;;;;;Process;[PID 1506] /usr/sbin/irqbalance --foreground ; 1.36 mW  
+
+2023-09-26 09:22:40;  72.0 us/s; 0.30;;;;Process;[PID 2554] irq/303-nvidia; 1.28 mW  
+
+2023-09-26 09:22:40;   2.2 us/s; 0.25;;;;kWork;blk_mq_requeue_work;  979 uW  
+
+2023-09-26 09:22:40; 333.1 us/s; 0.10;;;;Process;[PID 1735] /usr/bin/containerd ;  910 uW  
+
+2023-09-26 09:22:40;  50.6 us/s; 0.20;;;;kWork;flush_memcg_stats_dwork;  860 uW  
+
+2023-09-26 09:22:40; 359.5 us/s; 0.05;;;;Timer;hrtimer_wakeup;  756 uW  
+
+2023-09-26 09:22:40; 411.9 us/s;;;;;Process;[PID 2853] sshd: icns@pts/3 ;  643 uW  
+
+2023-09-26 09:22:40;   5.4 us/s; 0.15;;;;kWork;blk_mq_run_work_fn;  594 uW  
+
+2023-09-26 09:22:40;   0.4 us/s; 0.15;;;;kWork;blk_mq_timeout_work;  586 uW  
+
+2023-09-26 09:22:40; 183.5 us/s; 0.05;;;;Process;[PID 1729] /usr/bin/containerd ;  481 uW  
+
+2023-09-26 09:22:40;  34.9 us/s; 0.10;;;;Process;[PID 1411] /sbin/multipathd -d -s ;  445 uW  
+
+2023-09-26 09:22:40;  20.8 us/s; 0.10;;;;Process;[PID 1493] /usr/lib/accountsservice/accounts-daemon ;  423 uW  
+
+2023-09-26 09:22:40;  18.9 us/s; 0.10;;;;Process;[PID 362] [kcompactd1];  420 uW  
+
+2023-09-26 09:22:40;   4.9 us/s; 0.10;;;;Process;[PID 2562] UVM GPU1 KC;  398 uW  
+
+2023-09-26 09:22:40;   3.5 us/s; 0.10;;;;Process;[PID 14] [ksoftirqd/0];  396 uW  
+
+2023-09-26 09:22:40;  55.3 us/s; 0.05;;;;Process;[PID 2599] python3;  281 uW  
+
+2023-09-26 09:22:40; 179.3 us/s;;;;;Interrupt;[9] RCU(softirq);  280 uW  
+
+2023-09-26 09:22:40; 165.7 us/s;;;;;Interrupt;[87] i40e-eno0-TxRx-42;  258 uW  
+
+2023-09-26 09:22:40;  32.8 us/s; 0.05;;;;Process;[PID 2559] nv_queue;  246 uW  
+
+2023-09-26 09:22:40; 152.6 us/s;;;;;Interrupt;[1] timer(softirq);  238 uW  
+
+2023-09-26 09:22:40; 150.5 us/s;;;;;Process;[PID 18] [kworker/0:1];  235 uW  
+
+2023-09-26 09:22:40;  24.1 us/s; 0.05;;;;Process;[PID 1407] /sbin/multipathd -d -s ;  233 uW  
+
+2023-09-26 09:22:40; 147.1 us/s;;;;;Process;[PID 532] [kworker/31:2];  230 uW  
+
+2023-09-26 09:22:40; 146.6 us/s;;;;;Process;[PID 542] [kworker/41:2];  229 uW  
+
+2023-09-26 09:22:40;   9.0 us/s; 0.05;;;;Process;[PID 1477] /lib/systemd/systemd-resolved ;  209 uW  
+
+2023-09-26 09:22:40;   8.8 us/s; 0.05;;;;Process;[PID 1439] /lib/systemd/systemd-timesyncd ;  209 uW  
+
+2023-09-26 09:22:40;   8.7 us/s; 0.05;;;;Process;[PID 1028] /lib/systemd/systemd-udevd ;  209 uW  
+
+2023-09-26 09:22:40;   5.2 us/s; 0.05;;;;Process;[PID 1746] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ;  203 uW  
+
+2023-09-26 09:22:40;   4.3 us/s; 0.05;;;;Process;[PID 2560] vidmem lazy fre;  202 uW  
+
+2023-09-26 09:22:40;   4.2 us/s; 0.05;;;;Process;[PID 2561] UVM GPU1 BH;  202 uW  
+
+2023-09-26 09:22:40;   4.0 us/s; 0.05;;;;Process;[PID 2563] vidmem lazy fre;  201 uW  
+
+2023-09-26 09:22:40;   1.8 us/s; 0.05;;;;kWork;wb_workfn;  198 uW  
+
+2023-09-26 09:22:40;   1.6 us/s; 0.05;;;;Process;[PID 277] [ksoftirqd/43];  198 uW  
+
+2023-09-26 09:22:40;   0.4 us/s; 0.05;;;;Process;[PID 29] [ksoftirqd/2];  196 uW  
+
+2023-09-26 09:22:40;   0.3 us/s; 0.05;;;;kWork;addrconf_verify_work;  196 uW  
+
+2023-09-26 09:22:40;   0.3 us/s; 0.05;;;;kWork;neigh_periodic_work;  196 uW  
+
+2023-09-26 09:22:40;   0.1 us/s; 0.05;;;;kWork;kfree_rcu_monitor;  195 uW  
+
+2023-09-26 09:22:40;   0.0 us/s; 0.05;;;;kWork;ext4_end_io_rsv_work;  195 uW  
+
+2023-09-26 09:22:40; 124.4 us/s;;;;;Process;[PID 536] [kworker/35:2];  194 uW  
+
+2023-09-26 09:22:40; 121.0 us/s;;;;;Process;[PID 1696] /usr/bin/containerd ;  189 uW  
+
+2023-09-26 09:22:40; 119.6 us/s;;;;;Process;[PID 2774] [kworker/u113:0];  187 uW  
+
+2023-09-26 09:22:40; 115.3 us/s;;;;;Process;[PID 1697] /usr/bin/containerd ;  180 uW  
+
+2023-09-26 09:22:40; 113.1 us/s;;;;;Timer;delayed_work_timer_fn;  176 uW  
+
+2023-09-26 09:22:40; 111.0 us/s;;;;;Timer;process_timeout;  173 uW  
+
+2023-09-26 09:22:40; 110.8 us/s;;;;;Process;[PID 1733] /usr/bin/containerd ;  173 uW  
+
+2023-09-26 09:22:40; 108.9 us/s;;;;;Process;[PID 2887] bash;  170 uW  
+
+2023-09-26 09:22:40; 105.6 us/s;;;;;Process;[PID 2886] bash;  165 uW  
+
+2023-09-26 09:22:40;  99.9 us/s;;;;;Process;[PID 1721] /usr/bin/containerd ;  156 uW  
+
+2023-09-26 09:22:40;  95.8 us/s;;;;;Process;[PID 2885] bash;  150 uW  
+
+2023-09-26 09:22:40;  94.7 us/s;;;;;Process;[PID 1720] /usr/bin/containerd ;  148 uW  
+
+2023-09-26 09:22:40;  90.3 us/s;;;;;Process;[PID 1698] /usr/bin/containerd ;  141 uW  
+
+2023-09-26 09:22:40;  85.1 us/s;;;;;Process;[PID 1718] /usr/bin/containerd ;  133 uW  
+
+2023-09-26 09:22:40;  84.9 us/s;;;;;Process;[PID 2889] bash;  133 uW  
+
+2023-09-26 09:22:40;  81.3 us/s;;;;;Process;[PID 1737] /usr/bin/containerd ;  127 uW  
+
+2023-09-26 09:22:40;  80.7 us/s;;;;;Process;[PID 2891] bash;  126 uW  
+
+2023-09-26 09:22:40;  80.6 us/s;;;;;kWork;vmstat_update;  126 uW  
+
+2023-09-26 09:22:40;  78.6 us/s;;;;;Process;[PID 2885] ls;  123 uW  
+
+2023-09-26 09:22:40;  77.8 us/s;;;;;Process;[PID 442] [kworker/30:1];  121 uW  
+
+2023-09-26 09:22:40;  74.7 us/s;;;;;Process;[PID 1726] /usr/bin/containerd ;  116 uW  
+
+2023-09-26 09:22:40;  71.7 us/s;;;;;Process;[PID 2888] bash;  112 uW  
+
+2023-09-26 09:22:40;  71.3 us/s;;;;;Process;[PID 530] [kworker/29:2];  111 uW  
+
+2023-09-26 09:22:40;  70.8 us/s;;;;;Process;[PID 1734] /usr/bin/containerd ;  110 uW  
+
+2023-09-26 09:22:40;  69.0 us/s;;;;;Process;[PID 458] [kworker/48:1];  108 uW  
+
+2023-09-26 09:22:40;  66.1 us/s;;;;;Process;[PID 538] [kworker/37:2];  103 uW  
+
+2023-09-26 09:22:40;  65.1 us/s;;;;;Process;[PID 457] [kworker/47:1];  101 uW  
+
+2023-09-26 09:22:40;  63.9 us/s;;;;;Process;[PID 2890] bash;    0 mW  
+
+2023-09-26 09:22:40;  63.0 us/s;;;;;Process;[PID 508] [kworker/7:2];    0 mW  
+
+2023-09-26 09:22:40;  56.9 us/s;;;;;Process;[PID 2174] sshd: icns@pts/0 ;    0 mW  
+
+2023-09-26 09:22:40;  55.1 us/s;;;;;Process;[PID 459] [kworker/49:1];    0 mW  
+
+2023-09-26 09:22:40;  53.5 us/s;;;;;Process;[PID 2887] ls;    0 mW  
+
+2023-09-26 09:22:40;  52.2 us/s;;;;;Process;[PID 357] [kworker/1:2];    0 mW  
+
+2023-09-26 09:22:40;  52.0 us/s;;;;;Process;[PID 507] [kworker/6:2];    0 mW  
+
+2023-09-26 09:22:40; 
+
+2023-09-26 09:22:40; 
+
+2023-09-26 09:22:40; The system baseline power is estimated at:  6.04  W;
+
+2023-09-26 09:23:08;  *  *  *   Overview of Software Power Consumers   *  *  *
+
+2023-09-26 09:23:08; 
+
+2023-09-26 09:23:08; Usage;Wakeups/s;GPU ops/s;Disk IO/s;GFX Wakeups/s;Category;Description;PW Estimate
+
+2023-09-26 09:23:08;   1.4 ms/s; 91.1;;;;Interrupt;[3] net_rx(softirq);  362 mW  
+
+2023-09-26 09:23:08; 276.1 us/s; 74.7;;;;kWork;dbs_work_handler;  295 mW  
+
+2023-09-26 09:23:08; 334.6 us/s; 27.0;;;;Timer;tick_sched_timer;  107 mW  
+
+2023-09-26 09:23:08; 105.0 us/s; 13.5;;;;Timer;watchdog_timer_fn; 53.6 mW  
+
+2023-09-26 09:23:08;  64.0 us/s;  7.0;;;;Interrupt;[4] block(softirq); 27.8 mW  
+
+2023-09-26 09:23:08; 123.6 us/s;  6.2;;;;kWork;psi_avgs_work; 24.8 mW  
+
+2023-09-26 09:23:08;  10.5 ms/s;;;;;Process;[PID 2896] powertop --csv=powertop_output.csv ; 16.4 mW  
+
+2023-09-26 09:23:08;  39.8 us/s;  3.7;;;;kWork;fb_flashcursor; 14.7 mW  
+
+2023-09-26 09:23:08;  18.4 us/s;  3.4;;;;kWork;flush_to_ldisc; 13.3 mW  
+
+2023-09-26 09:23:08;   8.5 ms/s;;;;;Process;[PID 2894] python3; 13.3 mW  
+
+2023-09-26 09:23:08; 395.7 us/s;  2.7;;;;Process;[PID 1735] /usr/bin/containerd ; 11.1 mW  
+
+2023-09-26 09:23:08; 249.3 us/s;  1.5;;;;Process;[PID 1722] /usr/bin/containerd ; 6.43 mW  
+
+2023-09-26 09:23:08;  20.4 us/s;  1.4;;;;kWork;blk_mq_run_work_fn; 5.69 mW  
+
+2023-09-26 09:23:08; 101.5 us/s;  1.3;;;;Process;[PID 15] [rcu_sched]; 5.42 mW  
+
+2023-09-26 09:23:08;   7.3 us/s;  1.2;;;;kWork;lru_add_drain_per_cpu; 4.69 mW  
+
+2023-09-26 09:23:08;  50.2 us/s;  1.1;;;;Interrupt;[176] ahci[0000:00:17.0]; 4.56 mW  
+
+2023-09-26 09:23:08; 274.2 us/s;  1.0;;;;Process;[PID 1728] /usr/bin/containerd ; 4.52 mW  
+
+2023-09-26 09:23:08;  13.7 us/s;  1.0;;;;Timer;sched_rt_period_timer; 3.92 mW  
+
+2023-09-26 09:23:08;  95.9 us/s;  0.9;;;;kWork;i40e_service_task; 3.85 mW  
+
+2023-09-26 09:23:08;  11.0 us/s;  0.9;;;;kWork;pci_pme_list_scan; 3.72 mW  
+
+2023-09-26 09:23:08; 329.2 us/s;  0.5;;;;Process;[PID 1695] /usr/bin/containerd ; 2.46 mW  
+
+2023-09-26 09:23:08;   1.2 ms/s;;;;;Process;[PID 2906] sudo; 1.89 mW  
+
+2023-09-26 09:23:08;   0.9 ms/s;;;;;Process;[PID 1506] /usr/sbin/irqbalance --foreground ; 1.35 mW  
+
+2023-09-26 09:23:08;   0.8 ms/s;;;;;Interrupt;[7] sched(softirq); 1.30 mW  
+
+2023-09-26 09:23:08; 582.5 us/s;;;;;kWork;gc_worker;  909 uW  
+
+2023-09-26 09:23:08;  35.9 us/s; 0.20;;;;Process;[PID 1411] /sbin/multipathd -d -s ;  836 uW  
+
+2023-09-26 09:23:08; 528.6 us/s;;;;;Process;[PID 2907] apt-get;  825 uW  
+
+2023-09-26 09:23:08; 264.9 us/s; 0.10;;;;Process;[PID 1756] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ;  803 uW  
+
+2023-09-26 09:23:08;   6.4 us/s; 0.20;;;;kWork;ext4_end_io_rsv_work;  790 uW  
+
+2023-09-26 09:23:08;   2.3 us/s; 0.20;;;;kWork;blk_mq_requeue_work;  784 uW  
+
+2023-09-26 09:23:08;   0.9 us/s; 0.20;;;;kWork;wb_workfn;  781 uW  
+
+2023-09-26 09:23:08;  41.3 us/s; 0.15;;;;Process;[PID 1493] /usr/lib/accountsservice/accounts-daemon ;  649 uW  
+
+2023-09-26 09:23:08; 255.7 us/s; 0.05;;;;Process;[PID 1795] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ;  594 uW  
+
+2023-09-26 09:23:08; 352.2 us/s;;;;;Process;[PID 2853] sshd: icns@pts/3 ;  549 uW  
+
+2023-09-26 09:23:08; 291.8 us/s;;;;;Timer;hrtimer_wakeup;  455 uW  
+
+2023-09-26 09:23:08;  39.7 us/s; 0.10;;;;kWork;flush_memcg_stats_dwork;  452 uW  
+
+2023-09-26 09:23:08; 271.8 us/s;;;;;Process;[PID 1796] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ;  424 uW  
+
+2023-09-26 09:23:08;  19.2 us/s; 0.10;;;;Process;[PID 362] [kcompactd1];  420 uW  
+
+2023-09-26 09:23:08; 259.8 us/s;;;;;Process;[PID 1757] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ;  405 uW  
+
+2023-09-26 09:23:08; 251.1 us/s;;;;;Process;[PID 1789] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ;  392 uW  
+
+2023-09-26 09:23:08;   0.3 us/s; 0.10;;;;kWork;wb_update_bandwidth_workfn;  390 uW  
+
+2023-09-26 09:23:08;   0.2 us/s; 0.10;;;;kWork;blk_mq_timeout_work;  390 uW  
+
+2023-09-26 09:23:08; 240.4 us/s;;;;;Process;[PID 1761] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ;  375 uW  
+
+2023-09-26 09:23:08; 236.6 us/s;;;;;Process;[PID 1790] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ;  369 uW  
+
+2023-09-26 09:23:08; 231.5 us/s;;;;;Process;[PID 18] [kworker/0:1];  361 uW  
+
+2023-09-26 09:23:08; 231.0 us/s;;;;;Process;[PID 1748] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ;  360 uW  
+
+2023-09-26 09:23:08; 226.8 us/s;;;;;Process;[PID 1788] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ;  354 uW  
+
+2023-09-26 09:23:08; 223.6 us/s;;;;;Process;[PID 1753] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ;  349 uW  
+
+2023-09-26 09:23:08; 217.1 us/s;;;;;Process;[PID 1793] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ;  339 uW  
+
+2023-09-26 09:23:08; 213.0 us/s;;;;;Process;[PID 1792] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ;  332 uW  
+
+2023-09-26 09:23:08; 206.7 us/s;;;;;Process;[PID 1791] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ;  322 uW  
+
+2023-09-26 09:23:08; 203.3 us/s;;;;;Process;[PID 1794] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ;  317 uW  
+
+2023-09-26 09:23:08;  61.5 us/s; 0.05;;;;Process;[PID 2907] sudo;  291 uW  
+
+2023-09-26 09:23:08; 173.2 us/s;;;;;Process;[PID 2854] -bash ;  270 uW  
+
+2023-09-26 09:23:08; 161.2 us/s;;;;;Process;[PID 541] [kworker/40:2];  252 uW  
+
+2023-09-26 09:23:08;  18.8 us/s; 0.05;;;;Process;[PID 361] [kcompactd0];  224 uW  
+
+2023-09-26 09:23:08; 143.6 us/s;;;;;Interrupt;[9] RCU(softirq);  224 uW  
+
+2023-09-26 09:23:08; 140.8 us/s;;;;;Interrupt;[1] timer(softirq);  220 uW  
+
+2023-09-26 09:23:08;  12.9 us/s; 0.05;;;;Process;[PID 364] [khugepaged];  215 uW  
+
+2023-09-26 09:23:08; 136.2 us/s;;;;;Process;[PID 959] /lib/systemd/systemd-journald ;  212 uW  
+
+2023-09-26 09:23:08; 132.9 us/s;;;;;Process;[PID 2902] python3;  207 uW  
+
+2023-09-26 09:23:08;   4.5 us/s; 0.05;;;;Process;[PID 1749] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ;  202 uW  
+
+2023-09-26 09:23:08;   3.8 us/s; 0.05;;;;Process;[PID 325] [ksoftirqd/51];  201 uW  
+
+2023-09-26 09:23:08;   3.5 us/s; 0.05;;;;Timer;timerfd_tmrproc;  200 uW  
+
+2023-09-26 09:23:08; 126.2 us/s;;;;;Process;[PID 2906] bash;  197 uW  
+
+2023-09-26 09:23:08; 126.1 us/s;;;;;Interrupt;[87] i40e-eno0-TxRx-42;  197 uW  
+
+2023-09-26 09:23:08;   0.3 us/s; 0.05;;;;kWork;neigh_periodic_work;  195 uW  
+
+2023-09-26 09:23:08;   0.1 us/s; 0.05;;;;kWork;kfree_rcu_work;  195 uW  
+
+2023-09-26 09:23:08;   0.1 us/s; 0.05;;;;kWork;kfree_rcu_monitor;  195 uW  
+
+2023-09-26 09:23:08; 122.3 us/s;;;;;Process;[PID 2905] python3;  191 uW  
+
+2023-09-26 09:23:08; 121.0 us/s;;;;;Process;[PID 787] [kworker/u113:7];  189 uW  
+
+2023-09-26 09:23:08; 110.2 us/s;;;;;Timer;process_timeout;  172 uW  
+
+2023-09-26 09:23:08;  97.6 us/s;;;;;Timer;delayed_work_timer_fn;  152 uW  
+
+2023-09-26 09:23:08;  90.5 us/s;;;;;Process;[PID 2903] python3;  141 uW  
+
+2023-09-26 09:23:08;  81.5 us/s;;;;;Process;[PID 536] [kworker/35:2];  127 uW  
+
+2023-09-26 09:23:08;  69.7 us/s;;;;;Process;[PID 436] [kworker/19:1];  109 uW  
+
+2023-09-26 09:23:08;  66.7 us/s;;;;;Timer;cursor_timer_handler;  104 uW  
+
+2023-09-26 09:23:08;  65.5 us/s;;;;;Process;[PID 514] [kworker/13:2];  102 uW  
+
+2023-09-26 09:23:08;  65.4 us/s;;;;;Process;[PID 2904] sh;  102 uW  
+
+2023-09-26 09:23:08;  63.3 us/s;;;;;Process;[PID 357] [kworker/1:2];    0 mW  
+
+2023-09-26 09:23:08;  62.8 us/s;;;;;Process;[PID 539] [kworker/38:2];    0 mW  
+
+2023-09-26 09:23:08;  59.5 us/s;;;;;Process;[PID 2904] python3;    0 mW  
+
+2023-09-26 09:23:08;  56.2 us/s;;;;;Process;[PID 1956] [kworker/22:3];    0 mW  
+
+2023-09-26 09:23:08;  51.8 us/s;;;;;Process;[PID 533] [kworker/32:2];    0 mW  
+
+2023-09-26 09:23:08;  48.4 us/s;;;;;Process;[PID 457] [kworker/47:1];    0 mW  
+
+2023-09-26 09:23:08;  47.3 us/s;;;;;Process;[PID 1217] [kworker/44:7];    0 mW  
+
+2023-09-26 09:23:08;  46.9 us/s;;;;;Process;[PID 540] [kworker/39:2];    0 mW  
+
+2023-09-26 09:23:08;  46.6 us/s;;;;;Process;[PID 529] [kworker/28:2];    0 mW  
+
+2023-09-26 09:23:08;  44.4 us/s;;;;;kWork;vmstat_update;    0 mW  
+
+2023-09-26 09:23:08;  39.8 us/s;;;;;Process;[PID 511] [kworker/10:2];    0 mW  
+
+2023-09-26 09:23:08;  39.5 us/s;;;;;Process;[PID 538] [kworker/37:2];    0 mW  
+
+2023-09-26 09:23:08;  38.5 us/s;;;;;kWork;vmstat_shepherd;    0 mW  
+
+2023-09-26 09:23:08;  32.4 us/s;;;;;Process;[PID 2903] sh;    0 mW  
+
+2023-09-26 09:23:08;  28.7 us/s;;;;;Process;[PID 1555] /usr/sbin/rsyslogd -n -iNONE ;    0 mW  
+
+2023-09-26 09:23:08;  27.9 us/s;;;;;Process;[PID 453] [kworker/43:1];    0 mW  
+
+2023-09-26 09:23:08;  26.9 us/s;;;;;Process;[PID 2774] [kworker/u113:0];    0 mW  
+
+2023-09-26 09:23:08;  26.9 us/s;;;;;Process;[PID 510] [kworker/9:2];    0 mW  
+
+2023-09-26 09:23:08;  26.3 us/s;;;;;Process;[PID 512] [kworker/11:2];    0 mW  
+
+2023-09-26 09:23:08;  26.0 us/s;;;;;Process;[PID 432] [kworker/15:1];    0 mW  
+
+2023-09-26 09:23:08;  25.9 us/s;;;;;Process;[PID 1439] /lib/systemd/systemd-timesyncd ;    0 mW  
+
+2023-09-26 09:23:08; 
+
+2023-09-26 09:23:08; 
+
+2023-09-26 09:23:08; The system baseline power is estimated at:  5.09  W;
+
+2023-09-26 09:23:38;  *  *  *   Overview of Software Power Consumers   *  *  *
+
+2023-09-26 09:23:38; 
+
+2023-09-26 09:23:38; Usage;Wakeups/s;GPU ops/s;Disk IO/s;GFX Wakeups/s;Category;Description;PW Estimate
+
+2023-09-26 09:23:38;   2.2 ms/s;398.8;;;;kWork;dbs_work_handler;  1.58 W  
+
+2023-09-26 09:23:38;   4.1 ms/s;363.6;;;;Timer;tick_sched_timer;  1.44 W  
+
+2023-09-26 09:23:38; 186.3 ms/s; 39.5;;;;Process;[PID 2935] dpkg;  447 mW  
+
+2023-09-26 09:23:38;   1.6 ms/s;103.1;;;;Interrupt;[176] ahci[0000:00:17.0];  409 mW  
+
+2023-09-26 09:23:38;   1.4 ms/s; 91.0;;;;Interrupt;[3] net_rx(softirq);  362 mW  
+
+2023-09-26 09:23:38; 509.6 us/s; 80.1;;;;kWork;blk_mq_requeue_work;  317 mW  
+
+2023-09-26 09:23:38;   2.4 ms/s; 59.6;;;;Interrupt;[4] block(softirq);  239 mW  
+
+2023-09-26 09:23:38;   1.3 ms/s; 25.8;;;;Process;[PID 15] [rcu_sched];  104 mW  
+
+2023-09-26 09:23:38;   0.8 ms/s; 19.0;;;;kWork;ext4_end_io_rsv_work; 76.4 mW  
+
+2023-09-26 09:23:38;   5.9 ms/s; 15.9;;;;Process;[PID 2909] apt-get; 72.1 mW  
+
+2023-09-26 09:23:38;  36.5 ms/s;  1.8;;;;Process;[PID 3557] apt-check; 64.0 mW  
+
+2023-09-26 09:23:38;  39.3 ms/s; 0.15;;;;Process;[PID 1] /sbin/init maybe-ubiquity ; 61.9 mW  
+
+2023-09-26 09:23:38; 112.9 us/s; 12.7;;;;Timer;watchdog_timer_fn; 50.3 mW  
+
+2023-09-26 09:23:38;   3.7 ms/s;  8.5;;;;Process;[PID 877] [jbd2/sda2-8]; 39.3 mW  
+
+2023-09-26 09:23:38;   1.5 ms/s;  9.1;;;;kWork;bpf_prog_free_deferred; 38.2 mW  
+
+2023-09-26 09:23:38;  53.0 us/s;  9.3;;;;kWork;flush_to_ldisc; 37.0 mW  
+
+2023-09-26 09:23:38; 200.9 us/s;  8.0;;;;kWork;psi_avgs_work; 31.7 mW  
+
+2023-09-26 09:23:38;   0.2 us/s;  7.9;;;;kWork;loop_rootcg_workfn; 31.0 mW  
+
+2023-09-26 09:23:38;  43.3 us/s;  7.8;;;;kWork;blk_mq_run_work_fn; 30.9 mW  
+
+2023-09-26 09:23:38;  11.1 ms/s;  2.4;;;;Process;[PID 3270] mandb; 26.7 mW  
+
+2023-09-26 09:23:38; 124.9 us/s;  6.3;;;;kWork;free_work; 25.0 mW  
+
+2023-09-26 09:23:38;   0.0 us/s;  5.2;;;;kWork;fsnotify_connector_destroy_work; 20.7 mW  
+
+2023-09-26 09:23:38;   7.9 ms/s;  1.9;;;;Process;[PID 3119] frontend; 20.0 mW  
+
+2023-09-26 09:23:38; 347.8 us/s;  4.7;;;;Process;[PID 3147] [kthreadd]; 19.3 mW  
+
+2023-09-26 09:23:38;  10.8 ms/s; 0.15;;;;Process;[PID 2915] powertop --csv=powertop_output.csv ; 17.4 mW  
+
+2023-09-26 09:23:38;   9.3 ms/s;;;;;Process;[PID 3588] inxi; 14.5 mW  
+
+2023-09-26 09:23:38;   7.0 ms/s; 0.25;;;;Process;[PID 1498] /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only ; 11.9 mW  
+
+2023-09-26 09:23:38; 511.7 us/s;  2.8;;;;Process;[PID 3177] blkid; 11.7 mW  
+
+2023-09-26 09:23:38;   7.3 ms/s; 0.05;;;;Process;[PID 3620] inxi; 11.6 mW  
+
+2023-09-26 09:23:38;   7.1 ms/s;;;;;Process;[PID 3604] inxi; 11.1 mW  
+
+2023-09-26 09:23:38; 263.1 us/s;  2.7;;;;Process;[PID 3266] blkid; 10.9 mW  
+
+2023-09-26 09:23:38; 387.8 us/s;  2.6;;;;Process;[PID 1735] /usr/bin/containerd ; 10.9 mW  
+
+2023-09-26 09:23:38; 267.2 us/s;  2.6;;;;Process;[PID 3216] blkid; 10.8 mW  
+
+2023-09-26 09:23:38;   4.8 ms/s;  0.8;;;;Process;[PID 3118] dpkg; 10.7 mW  
+
+2023-09-26 09:23:38;   6.3 ms/s;;;;;Process;[PID 2944] dpkg-deb; 9.75 mW  
+
+2023-09-26 09:23:38;  44.6 us/s;  2.4;;;;kWork;fb_flashcursor; 9.63 mW  
+
+2023-09-26 09:23:38;   5.5 ms/s; 0.10;;;;Interrupt;[7] sched(softirq); 8.90 mW  
+
+2023-09-26 09:23:38;   1.9 ms/s;  1.4;;;;Process;[PID 3535] /usr/lib/packagekit/packagekitd ; 8.56 mW  
+
+2023-09-26 09:23:38; 242.3 us/s;  1.9;;;;Process;[PID 1695] /usr/bin/containerd ; 7.79 mW  
+
+2023-09-26 09:23:38; 227.5 us/s;  1.7;;;;Process;[PID 1722] /usr/bin/containerd ; 7.18 mW  
+
+2023-09-26 09:23:38;  14.4 us/s;  1.8;;;;kWork;lru_add_drain_per_cpu; 7.05 mW  
+
+2023-09-26 09:23:38;   2.2 ms/s;  0.7;;;;Process;[PID 1532] /lib/systemd/systemd-logind ; 6.30 mW  
+
+2023-09-26 09:23:38;   0.8 ms/s;  1.1;;;;Process;[PID 3186] systemctl; 5.71 mW  
+
+2023-09-26 09:23:38;   2.9 us/s;  1.4;;;;kWork;kfree_rcu_monitor; 5.66 mW  
+
+2023-09-26 09:23:38;   0.8 ms/s;  1.1;;;;Process;[PID 3146] systemctl; 5.61 mW  
+
+2023-09-26 09:23:38;   0.8 ms/s;  0.9;;;;Process;[PID 3524] ldconfig.real; 5.03 mW  
+
+2023-09-26 09:23:38;   7.0 us/s;  1.2;;;;kWork;kfree_rcu_work; 4.89 mW  
+
+2023-09-26 09:23:38;  16.3 us/s;  1.0;;;;Process;[PID 14] [ksoftirqd/0]; 4.12 mW  
+
+2023-09-26 09:23:38;  14.9 us/s;  1.0;;;;Timer;sched_rt_period_timer; 4.12 mW  
+
+2023-09-26 09:23:38;   2.3 ms/s; 0.10;;;;Interrupt;[9] RCU(softirq); 4.01 mW  
+
+2023-09-26 09:23:38; 666.2 us/s;  0.7;;;;Process;[PID 3236] systemctl; 3.97 mW  
+
+2023-09-26 09:23:38;   2.5 ms/s;;;;;Process;[PID 3572] lsb_release; 3.95 mW  
+
+2023-09-26 09:23:38;   5.9 us/s;  1.0;;;;kWork;drain_local_stock; 3.91 mW  
+
+2023-09-26 09:23:38;  95.9 us/s;  0.9;;;;kWork;i40e_service_task; 3.86 mW  
+
+2023-09-26 09:23:38;   2.5 ms/s;;;;;Process;[PID 3565] lsb_release; 3.84 mW  
+
+2023-09-26 09:23:38;   2.4 ms/s;;;;;Process;[PID 3584] lsb_release; 3.82 mW  
+
+2023-09-26 09:23:38;   2.4 ms/s;;;;;Process;[PID 3580] lsb_release; 3.74 mW  
+
+2023-09-26 09:23:38;   2.4 ms/s;;;;;Process;[PID 3577] lsb_release; 3.73 mW  
+
+2023-09-26 09:23:38;   2.4 ms/s;;;;;Process;[PID 3586] python3 monitor.py ; 3.73 mW  
+
+2023-09-26 09:23:38;  12.4 us/s;  0.9;;;;kWork;pci_pme_list_scan; 3.73 mW  
+
+2023-09-26 09:23:38;   2.6 us/s;  0.9;;;;kWork;wb_update_bandwidth_workfn; 3.52 mW  
+
+2023-09-26 09:23:38;   2.2 ms/s;;;;;Process;[PID 3578] lsb_release; 3.39 mW  
+
+2023-09-26 09:23:38;   2.1 ms/s;;;;;Process;[PID 3569] lsb_release; 3.33 mW  
+
+2023-09-26 09:23:38;   2.1 ms/s;;;;;Process;[PID 3575] lsb_release; 3.22 mW  
+
+2023-09-26 09:23:38;   2.1 ms/s;;;;;Process;[PID 3571] lsb_release; 3.20 mW  
+
+2023-09-26 09:23:38;  21.1 us/s;  0.8;;;;Process;[PID 361] [kcompactd0]; 3.16 mW  
+
+2023-09-26 09:23:38;   2.0 ms/s;;;;;Process;[PID 3574] lsb_release; 3.10 mW  
+
+2023-09-26 09:23:38;   2.0 ms/s;;;;;Process;[PID 3583] lsb_release; 3.10 mW  
+
+2023-09-26 09:23:38;   2.0 ms/s;;;;;Process;[PID 3581] lsb_release; 3.07 mW  
+
+2023-09-26 09:23:38;   2.0 ms/s;;;;;Process;[PID 3582] lsb_release; 3.07 mW  
+
+2023-09-26 09:23:38; 216.0 us/s;  0.7;;;;Process;[PID 1728] /usr/bin/containerd ; 3.07 mW  
+
+2023-09-26 09:23:38;   2.0 ms/s;;;;;Process;[PID 3570] lsb_release; 3.06 mW  
+
+2023-09-26 09:23:38;   2.0 ms/s;;;;;Process;[PID 3579] lsb_release; 3.05 mW  
+
+2023-09-26 09:23:38;   1.9 ms/s;;;;;Process;[PID 3567] lsb_release; 3.01 mW  
+
+2023-09-26 09:23:38;   1.9 ms/s;;;;;Process;[PID 3573] lsb_release; 2.98 mW  
+
+2023-09-26 09:23:38;   1.9 ms/s;;;;;Process;[PID 3568] lsb_release; 2.97 mW  
+
+2023-09-26 09:23:38;   1.9 ms/s;;;;;Process;[PID 3576] lsb_release; 2.97 mW  
+
+2023-09-26 09:23:38;   1.9 ms/s;;;;;Process;[PID 3566] lsb_release; 2.92 mW  
+
+2023-09-26 09:23:38;   1.8 ms/s;;;;;Process;[PID 3596] ps; 2.74 mW  
+
+2023-09-26 09:23:38;  29.4 us/s;  0.6;;;;kWork;srcu_invoke_callbacks; 2.58 mW  
+
+2023-09-26 09:23:38;   1.5 ms/s;;;;;Process;[PID 3080] dpkg-deb; 2.39 mW  
+
+2023-09-26 09:23:38;   1.3 ms/s;;;;;Process;[PID 3612] ps; 2.11 mW  
+
+2023-09-26 09:23:38;   1.3 ms/s;;;;;Process;[PID 3628] ps; 2.01 mW  
+
+2023-09-26 09:23:38;   1.3 ms/s;;;;;Process;[PID 3089] dpkg-deb; 2.01 mW  
+
+2023-09-26 09:23:38;   1.3 ms/s;;;;;Process;[PID 3107] dpkg-deb; 1.98 mW  
+
+2023-09-26 09:23:38;   0.0 us/s;  0.5;;;;kWork;fsnotify_mark_destroy_workfn; 1.95 mW  
+
+2023-09-26 09:23:38;  72.9 us/s;  0.4;;;;kWork;process_srcu; 1.87 mW  
+
+2023-09-26 09:23:38;   1.1 ms/s;;;;;Process;[PID 3598] ps; 1.75 mW  
+
+2023-09-26 09:23:38;   1.1 ms/s;;;;;Process;[PID 2962] dpkg-deb; 1.64 mW  
+
+2023-09-26 09:23:38;   1.0 ms/s;;;;;Process;[PID 3630] ps; 1.58 mW  
+
+2023-09-26 09:23:38;   1.0 ms/s;;;;;Process;[PID 3259] systemd-sysv-ge; 1.50 mW  
+
+2023-09-26 09:23:38;   1.0 ms/s;;;;;Process;[PID 3203] systemd-gpt-aut; 1.49 mW  
+
+2023-09-26 09:23:38;   0.9 ms/s;;;;;Process;[PID 1506] /usr/sbin/irqbalance --foreground ; 1.39 mW  
+
+2023-09-26 09:23:38;   0.9 ms/s;;;;;Process;[PID 3261] ds-identify; 1.37 mW  
+
+2023-09-26 09:23:38;   0.9 ms/s;;;;;Process;[PID 3211] ds-identify; 1.37 mW  
+
+2023-09-26 09:23:38;   0.8 ms/s; 0.05;;;;Process;[PID 3277] mandb; 1.37 mW  
+
+2023-09-26 09:23:38; 359.6 us/s; 0.20;;;;Process;[PID 1493] /usr/lib/accountsservice/accounts-daemon ; 1.34 mW  
+
+2023-09-26 09:23:38;   0.9 ms/s;;;;;Process;[PID 3172] ds-identify; 1.34 mW  
+
+2023-09-26 09:23:38;   0.7 ms/s; 0.05;;;;Process;[PID 3301] mandb; 1.32 mW  
+
+2023-09-26 09:23:38;   0.7 ms/s; 0.05;;;;Process;[PID 3425] mandb; 1.31 mW  
+
+2023-09-26 09:23:38; 
+
+2023-09-26 09:23:38; 
+
+2023-09-26 09:23:38; The system baseline power is estimated at:  22.9  W;
+
+2023-09-26 09:24:06;  *  *  *   Overview of Software Power Consumers   *  *  *
+
+2023-09-26 09:24:06; 
+
+2023-09-26 09:24:06; Usage;Wakeups/s;GPU ops/s;Disk IO/s;GFX Wakeups/s;Category;Description;PW Estimate
+
+2023-09-26 09:24:06;   1.3 ms/s; 86.2;;;;Interrupt;[3] net_rx(softirq);  342 mW  
+
+2023-09-26 09:24:06; 215.7 us/s; 60.5;;;;kWork;dbs_work_handler;  239 mW  
+
+2023-09-26 09:24:06; 234.4 us/s; 19.4;;;;Timer;tick_sched_timer; 77.1 mW  
+
+2023-09-26 09:24:06; 105.3 us/s; 13.7;;;;Timer;watchdog_timer_fn; 54.4 mW  
+
+2023-09-26 09:24:06; 107.7 us/s;  5.5;;;;kWork;psi_avgs_work; 22.0 mW  
+
+2023-09-26 09:24:06;  10.3 ms/s; 0.05;;;;Process;[PID 3652] powertop --csv=powertop_output.csv ; 16.3 mW  
+
+2023-09-26 09:24:06;  43.9 us/s;  3.2;;;;kWork;fb_flashcursor; 12.8 mW  
+
+2023-09-26 09:24:06; 386.9 us/s;  2.5;;;;Process;[PID 1735] /usr/bin/containerd ; 10.4 mW  
+
+2023-09-26 09:24:06; 281.5 us/s;  1.9;;;;Process;[PID 1722] /usr/bin/containerd ; 8.05 mW  
+
+2023-09-26 09:24:06;  42.5 us/s;  1.8;;;;Interrupt;[4] block(softirq); 7.29 mW  
+
+2023-09-26 09:24:06;  14.2 us/s;  1.0;;;;Timer;sched_rt_period_timer; 3.92 mW  
+
+2023-09-26 09:24:06;  11.3 us/s;  1.0;;;;kWork;pci_pme_list_scan; 3.92 mW  
+
+2023-09-26 09:24:06;  95.1 us/s;  0.9;;;;kWork;i40e_service_task; 3.66 mW  
+
+2023-09-26 09:24:06;  39.9 us/s;  0.9;;;;Process;[PID 15] [rcu_sched]; 3.57 mW  
+
+2023-09-26 09:24:06; 279.3 us/s;  0.6;;;;Process;[PID 1695] /usr/bin/containerd ; 2.78 mW  
+
+2023-09-26 09:24:06; 450.7 us/s;  0.5;;;;kWork;ext4_end_io_rsv_work; 2.65 mW  
+
+2023-09-26 09:24:06;   2.7 us/s;  0.6;;;;kWork;lru_add_drain_per_cpu; 2.35 mW  
+
+2023-09-26 09:24:06; 205.0 us/s;  0.5;;;;Process;[PID 1728] /usr/bin/containerd ; 2.27 mW  
+
+2023-09-26 09:24:06;   2.7 us/s;  0.4;;;;kWork;blk_mq_requeue_work; 1.57 mW  
+
+2023-09-26 09:24:06;   0.9 ms/s;;;;;Process;[PID 1506] /usr/sbin/irqbalance --foreground ; 1.36 mW  
+
+2023-09-26 09:24:06;  18.5 us/s; 0.30;;;;Process;[PID 361] [kcompactd0]; 1.20 mW  
+
+2023-09-26 09:24:06;   0.7 ms/s;;;;;Process;[PID 2774] [kworker/u113:0]; 1.15 mW  
+
+2023-09-26 09:24:06; 585.9 us/s; 0.05;;;;kWork;gc_worker; 1.11 mW  
+
+2023-09-26 09:24:06; 648.1 us/s;;;;;Interrupt;[7] sched(softirq); 1.01 mW  
+
+2023-09-26 09:24:06; 588.0 us/s;;;;;Process;[PID 993] [kworker/u114:2];  917 uW  
+
+2023-09-26 09:24:06;   1.4 us/s; 0.20;;;;kWork;blk_mq_run_work_fn;  783 uW  
+
+2023-09-26 09:24:06;  40.2 us/s; 0.15;;;;kWork;wb_workfn;  648 uW  
+
+2023-09-26 09:24:06; 295.8 us/s;;;;;Timer;hrtimer_wakeup;  461 uW  
+
+2023-09-26 09:24:06;  40.7 us/s; 0.10;;;;Process;[PID 877] [jbd2/sda2-8];  454 uW  
+
+2023-09-26 09:24:06;  21.4 us/s; 0.10;;;;kWork;flush_memcg_stats_dwork;  424 uW  
+
+2023-09-26 09:24:06;   0.2 us/s; 0.10;;;;kWork;blk_mq_timeout_work;  391 uW  
+
+2023-09-26 09:24:06;  89.6 us/s; 0.05;;;;Process;[PID 2019] /usr/lib/snapd/snapd ;  335 uW  
+
+2023-09-26 09:24:06; 205.3 us/s;;;;;Process;[PID 542] [kworker/41:2];  320 uW  
+
+2023-09-26 09:24:06; 186.5 us/s;;;;;Process;[PID 18] [kworker/0:1];  291 uW  
+
+2023-09-26 09:24:06;  36.7 us/s; 0.05;;;;Process;[PID 1411] /sbin/multipathd -d -s ;  252 uW  
+
+2023-09-26 09:24:06;  15.8 us/s; 0.05;;;;Process;[PID 2377] /usr/libexec/fwupd/fwupd ;  220 uW  
+
+2023-09-26 09:24:06;  14.3 us/s; 0.05;;;;Timer;mix_interrupt_randomness;  217 uW  
+
+2023-09-26 09:24:06;  11.8 us/s; 0.05;;;;Process;[PID 364] [khugepaged];  214 uW  
+
+2023-09-26 09:24:06; 135.0 us/s;;;;;Interrupt;[87] i40e-eno0-TxRx-42;  211 uW  
+
+2023-09-26 09:24:06;   8.2 us/s; 0.05;;;;Process;[PID 1941] /usr/lib/snapd/snapd ;  208 uW  
+
+2023-09-26 09:24:06;   4.4 us/s; 0.05;;;;Process;[PID 1746] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ;  202 uW  
+
+2023-09-26 09:24:06;   1.0 us/s; 0.05;;;;Process;[PID 14] [ksoftirqd/0];  197 uW  
+
+2023-09-26 09:24:06;   0.4 us/s; 0.05;;;;kWork;neigh_periodic_work;  196 uW  
+
+2023-09-26 09:24:06;   0.2 us/s; 0.05;;;;kWork;wb_update_bandwidth_workfn;  195 uW  
+
+2023-09-26 09:24:06; 122.9 us/s;;;;;Process;[PID 2020] /usr/lib/snapd/snapd ;  192 uW  
+
+2023-09-26 09:24:06; 105.7 us/s;;;;;Interrupt;[1] timer(softirq);  165 uW  
+
+2023-09-26 09:24:06;  89.7 us/s;;;;;Interrupt;[9] RCU(softirq);  140 uW  
+
+2023-09-26 09:24:06;  89.3 us/s;;;;;Process;[PID 2208] /usr/lib/snapd/snapd ;  139 uW  
+
+2023-09-26 09:24:06;  84.2 us/s;;;;;Timer;delayed_work_timer_fn;  131 uW  
+
+2023-09-26 09:24:06;  81.0 us/s;;;;;Timer;process_timeout;  126 uW  
+
+2023-09-26 09:24:06;  74.2 us/s;;;;;Process;[PID 448] [kworker/34:1];  116 uW  
+
+2023-09-26 09:24:06;  72.7 us/s;;;;;Process;[PID 529] [kworker/28:2];  113 uW  
+
+2023-09-26 09:24:06;  68.9 us/s;;;;;Process;[PID 2300] /usr/lib/snapd/snapd ;  107 uW  
+
+2023-09-26 09:24:06;  64.8 us/s;;;;;Process;[PID 453] [kworker/43:1];  101 uW  
+
+2023-09-26 09:24:06;  63.0 us/s;;;;;Process;[PID 459] [kworker/49:1];    0 mW  
+
+2023-09-26 09:24:06;  62.5 us/s;;;;;Process;[PID 436] [kworker/19:1];    0 mW  
+
+2023-09-26 09:24:06;  62.3 us/s;;;;;Process;[PID 2312] /usr/lib/snapd/snapd ;    0 mW  
+
+2023-09-26 09:24:06;  61.3 us/s;;;;;Process;[PID 507] [kworker/6:2];    0 mW  
+
+2023-09-26 09:24:06;  59.2 us/s;;;;;Process;[PID 457] [kworker/47:1];    0 mW  
+
+2023-09-26 09:24:06;  58.4 us/s;;;;;Process;[PID 1944] /usr/lib/snapd/snapd ;    0 mW  
+
+2023-09-26 09:24:06;  52.5 us/s;;;;;Process;[PID 1942] /usr/lib/snapd/snapd ;    0 mW  
+
+2023-09-26 09:24:06;  49.1 us/s;;;;;Timer;cursor_timer_handler;    0 mW  
+
+2023-09-26 09:24:06;  41.0 us/s;;;;;Process;[PID 2017] /usr/lib/snapd/snapd ;    0 mW  
+
+2023-09-26 09:24:06;  40.3 us/s;;;;;Process;[PID 2314] /usr/lib/snapd/snapd ;    0 mW  
+
+2023-09-26 09:24:06;  39.8 us/s;;;;;Process;[PID 543] [kworker/42:2];    0 mW  
+
+2023-09-26 09:24:06;  38.4 us/s;;;;;kWork;vmstat_shepherd;    0 mW  
+
+2023-09-26 09:24:06;  37.8 us/s;;;;;Process;[PID 432] [kworker/15:1];    0 mW  
+
+2023-09-26 09:24:06;  35.3 us/s;;;;;Process;[PID 532] [kworker/31:2];    0 mW  
+
+2023-09-26 09:24:06;  32.9 us/s;;;;;Process;[PID 2299] /usr/lib/snapd/snapd ;    0 mW  
+
+2023-09-26 09:24:06;  32.4 us/s;;;;;Process;[PID 442] [kworker/30:1];    0 mW  
+
+2023-09-26 09:24:06;  28.1 us/s;;;;;Process;[PID 2069] /usr/lib/snapd/snapd ;    0 mW  
+
+2023-09-26 09:24:06;  27.5 us/s;;;;;Process;[PID 1407] /sbin/multipathd -d -s ;    0 mW  
+
+2023-09-26 09:24:06;  27.4 us/s;;;;;Process;[PID 536] [kworker/35:2];    0 mW  
+
+2023-09-26 09:24:06;  25.8 us/s;;;;;Process;[PID 511] [kworker/10:2];    0 mW  
+
+2023-09-26 09:24:06;  25.5 us/s;;;;;Interrupt;[176] ahci[0000:00:17.0];    0 mW  
+
+2023-09-26 09:24:06;  24.7 us/s;;;;;Process;[PID 1943] /usr/lib/snapd/snapd ;    0 mW  
+
+2023-09-26 09:24:06;  24.0 us/s;;;;;kWork;vmstat_update;    0 mW  
+
+2023-09-26 09:24:06;  23.3 us/s;;;;;Process;[PID 2317] /usr/lib/snapd/snapd ;    0 mW  
+
+2023-09-26 09:24:06;  23.0 us/s;;;;;kWork;drm_fb_helper_damage_work;    0 mW  
+
+2023-09-26 09:24:06;  22.7 us/s;;;;;Timer;tcp_orphan_update;    0 mW  
+
+2023-09-26 09:24:06;  22.3 us/s;;;;;Process;[PID 541] [kworker/40:2];    0 mW  
+
+2023-09-26 09:24:06;  21.2 us/s;;;;;Process;[PID 458] [kworker/48:1];    0 mW  
+
+2023-09-26 09:24:06;  20.8 us/s;;;;;Process;[PID 787] [kworker/u113:7];    0 mW  
+
+2023-09-26 09:24:06;  19.7 us/s;;;;;Process;[PID 538] [kworker/37:2];    0 mW  
+
+2023-09-26 09:24:06;  19.0 us/s;;;;;kWork;handle_update;    0 mW  
+
+2023-09-26 09:24:06;  19.0 us/s;;;;;Process;[PID 505] [kworker/4:2];    0 mW  
+
+2023-09-26 09:24:06;  18.8 us/s;;;;;Process;[PID 506] [kworker/5:2];    0 mW  
+
+2023-09-26 09:24:06;  18.3 us/s;;;;;Process;[PID 362] [kcompactd1];    0 mW  
+
+2023-09-26 09:24:06;  17.9 us/s;;;;;Process;[PID 1493] /usr/lib/accountsservice/accounts-daemon ;    0 mW  
+
+2023-09-26 09:24:06;  17.7 us/s;;;;;Timer;i40e_service_timer;    0 mW  
+
+2023-09-26 09:24:06;  17.5 us/s;;;;;Process;[PID 2068] /usr/lib/snapd/snapd ;    0 mW  
+
+2023-09-26 09:24:06;  16.9 us/s;;;;;Process;[PID 438] [kworker/21:1];    0 mW  
+
+2023-09-26 09:24:06;  16.5 us/s;;;;;Process;[PID 460] [kworker/51:1];    0 mW  
+
+2023-09-26 09:24:06;  16.1 us/s;;;;;Process;[PID 437] [kworker/20:1];    0 mW  
+
+2023-09-26 09:24:06;  15.8 us/s;;;;;Process;[PID 959] /lib/systemd/systemd-journald ;    0 mW  
+
+2023-09-26 09:24:06;  15.8 us/s;;;;;Process;[PID 540] [kworker/39:2];    0 mW  
+
+2023-09-26 09:24:06;  15.5 us/s;;;;;Process;[PID 2996] [kworker/29:0];    0 mW  
+
+2023-09-26 09:24:06;  14.8 us/s;;;;;Process;[PID 539] [kworker/38:2];    0 mW  
+
+2023-09-26 09:24:06;  14.8 us/s;;;;;Process;[PID 1] /sbin/init maybe-ubiquity ;    0 mW  
+
+2023-09-26 09:24:06;  14.4 us/s;;;;;Process;[PID 456] [kworker/46:1];    0 mW  
+
+2023-09-26 09:24:06; 
+
+2023-09-26 09:24:06; 
+
+2023-09-26 09:24:06; The system baseline power is estimated at:  4.61  W;
+
+2023-09-26 09:24:34;  *  *  *   Overview of Software Power Consumers   *  *  *
+
+2023-09-26 09:24:34; 
+
+2023-09-26 09:24:34; Usage;Wakeups/s;GPU ops/s;Disk IO/s;GFX Wakeups/s;Category;Description;PW Estimate
+
+2023-09-26 09:24:34;   1.3 ms/s; 87.8;;;;Interrupt;[3] net_rx(softirq);  349 mW  
+
+2023-09-26 09:24:34; 225.3 us/s; 66.2;;;;kWork;dbs_work_handler;  262 mW  
+
+2023-09-26 09:24:34; 202.9 us/s; 19.9;;;;Timer;tick_sched_timer; 79.0 mW  
+
+2023-09-26 09:24:34; 105.1 us/s; 13.8;;;;Timer;watchdog_timer_fn; 54.8 mW  
+
+2023-09-26 09:24:34; 102.8 us/s;  5.3;;;;kWork;psi_avgs_work; 21.2 mW  
+
+2023-09-26 09:24:34;  10.4 ms/s;;;;;Process;[PID 3659] powertop --csv=powertop_output.csv ; 16.1 mW  
+
+2023-09-26 09:24:34; 374.2 us/s;  2.5;;;;Process;[PID 1735] /usr/bin/containerd ; 10.5 mW  
+
+2023-09-26 09:24:34; 271.9 us/s;  2.3;;;;Process;[PID 1697] /usr/bin/containerd ; 9.60 mW  
+
+2023-09-26 09:24:34;  45.5 us/s;  1.5;;;;kWork;fb_flashcursor; 6.12 mW  
+
+2023-09-26 09:24:34;  95.4 us/s;  1.0;;;;kWork;i40e_service_task; 4.05 mW  
+
+2023-09-26 09:24:34;  36.6 us/s;  1.0;;;;Process;[PID 15] [rcu_sched]; 3.96 mW  
+
+2023-09-26 09:24:34;  13.8 us/s;  1.0;;;;Timer;sched_rt_period_timer; 3.92 mW  
+
+2023-09-26 09:24:34;  10.7 us/s;  0.9;;;;kWork;pci_pme_list_scan; 3.72 mW  
+
+2023-09-26 09:24:34;   6.1 us/s;  0.9;;;;kWork;lru_add_drain_per_cpu; 3.52 mW  
+
+2023-09-26 09:24:34;  24.2 us/s;  0.7;;;;Interrupt;[4] block(softirq); 2.77 mW  
+
+2023-09-26 09:24:34; 373.4 us/s;  0.4;;;;Process;[PID 1695] /usr/bin/containerd ; 2.34 mW  
+
+2023-09-26 09:24:34;   0.9 ms/s;;;;;Process;[PID 1506] /usr/sbin/irqbalance --foreground ; 1.34 mW  
+
+2023-09-26 09:24:34; 557.5 us/s; 0.10;;;;Process;[PID 1729] /usr/bin/containerd ; 1.26 mW  
+
+2023-09-26 09:24:34;  19.8 us/s; 0.30;;;;Process;[PID 361] [kcompactd0]; 1.20 mW  
+
+2023-09-26 09:24:34; 665.7 us/s;;;;;Interrupt;[7] sched(softirq); 1.04 mW  
+
+2023-09-26 09:24:34;   9.9 us/s; 0.20;;;;kWork;blk_mq_run_work_fn;  796 uW  
+
+2023-09-26 09:24:34; 218.2 us/s; 0.10;;;;Process;[PID 1722] /usr/bin/containerd ;  731 uW  
+
+2023-09-26 09:24:34; 293.0 us/s;;;;;Timer;hrtimer_wakeup;  457 uW  
+
+2023-09-26 09:24:34;  19.9 us/s; 0.10;;;;Process;[PID 362] [kcompactd1];  421 uW  
+
+2023-09-26 09:24:34;  18.8 us/s; 0.10;;;;kWork;flush_memcg_stats_dwork;  420 uW  
+
+2023-09-26 09:24:34;   1.1 us/s; 0.10;;;;kWork;blk_mq_requeue_work;  392 uW  
+
+2023-09-26 09:24:34;   0.5 us/s; 0.10;;;;kWork;neigh_periodic_work;  391 uW  
+
+2023-09-26 09:24:34;  34.7 us/s; 0.05;;;;Process;[PID 1411] /sbin/multipathd -d -s ;  249 uW  
+
+2023-09-26 09:24:34; 139.1 us/s;;;;;Interrupt;[87] i40e-eno0-TxRx-42;  217 uW  
+
+2023-09-26 09:24:34;  12.3 us/s; 0.05;;;;Process;[PID 319] [ksoftirqd/50];  214 uW  
+
+2023-09-26 09:24:34;   9.1 us/s; 0.05;;;;Process;[PID 1746] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ;  209 uW  
+
+2023-09-26 09:24:34;   8.6 us/s; 0.05;;;;Process;[PID 1749] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ;  209 uW  
+
+2023-09-26 09:24:34;   4.7 us/s; 0.05;;;;Process;[PID 1721] /usr/bin/containerd ;  203 uW  
+
+2023-09-26 09:24:34;   1.6 us/s; 0.05;;;;Process;[PID 14] [ksoftirqd/0];  198 uW  
+
+2023-09-26 09:24:34;   1.1 us/s; 0.05;;;;kWork;wb_workfn;  197 uW  
+
+2023-09-26 09:24:34; 126.1 us/s;;;;;Process;[PID 542] [kworker/41:2];  197 uW  
+
+2023-09-26 09:24:34;   0.4 us/s; 0.05;;;;kWork;addrconf_verify_work;  196 uW  
+
+2023-09-26 09:24:34;   0.1 us/s; 0.05;;;;kWork;wb_update_bandwidth_workfn;  195 uW  
+
+2023-09-26 09:24:34;   0.1 us/s; 0.05;;;;kWork;blk_mq_timeout_work;  195 uW  
+
+2023-09-26 09:24:34; 118.7 us/s;;;;;Process;[PID 457] [kworker/47:1];  185 uW  
+
+2023-09-26 09:24:34; 106.9 us/s;;;;;Process;[PID 357] [kworker/1:2];  167 uW  
+
+2023-09-26 09:24:34; 103.4 us/s;;;;;Timer;mce_timer_fn;  161 uW  
+
+2023-09-26 09:24:34; 102.5 us/s;;;;;Process;[PID 1728] /usr/bin/containerd ;  160 uW  
+
+2023-09-26 09:24:34;  97.7 us/s;;;;;Process;[PID 18] [kworker/0:1];  152 uW  
+
+2023-09-26 09:24:34;  91.8 us/s;;;;;Process;[PID 787] [kworker/u113:7];  143 uW  
+
+2023-09-26 09:24:34;  82.1 us/s;;;;;Interrupt;[9] RCU(softirq);  128 uW  
+
+2023-09-26 09:24:34;  81.1 us/s;;;;;Timer;process_timeout;  127 uW  
+
+2023-09-26 09:24:34;  81.1 us/s;;;;;Timer;delayed_work_timer_fn;  126 uW  
+
+2023-09-26 09:24:34;  75.6 us/s;;;;;Interrupt;[1] timer(softirq);  118 uW  
+
+2023-09-26 09:24:34;  74.8 us/s;;;;;Process;[PID 436] [kworker/19:1];  117 uW  
+
+2023-09-26 09:24:34;  65.5 us/s;;;;;Process;[PID 1719] /usr/bin/containerd ;  102 uW  
+
+2023-09-26 09:24:34;  63.3 us/s;;;;;Process;[PID 1737] /usr/bin/containerd ;    0 mW  
+
+2023-09-26 09:24:34;  61.0 us/s;;;;;Process;[PID 438] [kworker/21:1];    0 mW  
+
+2023-09-26 09:24:34;  59.6 us/s;;;;;Process;[PID 1956] [kworker/22:3];    0 mW  
+
+2023-09-26 09:24:34;  59.5 us/s;;;;;Process;[PID 1734] /usr/bin/containerd ;    0 mW  
+
+2023-09-26 09:24:34;  57.4 us/s;;;;;Process;[PID 506] [kworker/5:2];    0 mW  
+
+2023-09-26 09:24:34;  53.0 us/s;;;;;Process;[PID 1698] /usr/bin/containerd ;    0 mW  
+
+2023-09-26 09:24:34;  47.1 us/s;;;;;Process;[PID 1718] /usr/bin/containerd ;    0 mW  
+
+2023-09-26 09:24:34;  45.9 us/s;;;;;Process;[PID 432] [kworker/15:1];    0 mW  
+
+2023-09-26 09:24:34;  44.8 us/s;;;;;Process;[PID 532] [kworker/31:2];    0 mW  
+
+2023-09-26 09:24:34;  43.4 us/s;;;;;Process;[PID 529] [kworker/28:2];    0 mW  
+
+2023-09-26 09:24:34;  43.0 us/s;;;;;Process;[PID 536] [kworker/35:2];    0 mW  
+
+2023-09-26 09:24:34;  39.4 us/s;;;;;Process;[PID 1733] /usr/bin/containerd ;    0 mW  
+
+2023-09-26 09:24:34;  37.9 us/s;;;;;kWork;vmstat_shepherd;    0 mW  
+
+2023-09-26 09:24:34;  37.5 us/s;;;;;Process;[PID 537] [kworker/36:2];    0 mW  
+
+2023-09-26 09:24:34;  34.3 us/s;;;;;Process;[PID 1720] /usr/bin/containerd ;    0 mW  
+
+2023-09-26 09:24:34;  34.1 us/s;;;;;Timer;cursor_timer_handler;    0 mW  
+
+2023-09-26 09:24:34;  30.3 us/s;;;;;Process;[PID 1475] /lib/systemd/systemd-networkd ;    0 mW  
+
+2023-09-26 09:24:34;  25.3 us/s;;;;;Process;[PID 1726] /usr/bin/containerd ;    0 mW  
+
+2023-09-26 09:24:34;  25.2 us/s;;;;;Process;[PID 1407] /sbin/multipathd -d -s ;    0 mW  
+
+2023-09-26 09:24:34;  23.1 us/s;;;;;Process;[PID 541] [kworker/40:2];    0 mW  
+
+2023-09-26 09:24:34;  22.2 us/s;;;;;Process;[PID 453] [kworker/43:1];    0 mW  
+
+2023-09-26 09:24:34;  21.9 us/s;;;;;Process;[PID 1696] /usr/bin/containerd ;    0 mW  
+
+2023-09-26 09:24:34;  21.4 us/s;;;;;kWork;drm_fb_helper_damage_work;    0 mW  
+
+2023-09-26 09:24:34;  20.8 us/s;;;;;kWork;handle_update;    0 mW  
+
+2023-09-26 09:24:34;  20.8 us/s;;;;;Process;[PID 539] [kworker/38:2];    0 mW  
+
+2023-09-26 09:24:34;  19.5 us/s;;;;;Timer;i40e_service_timer;    0 mW  
+
+2023-09-26 09:24:34;  19.2 us/s;;;;;Timer;tcp_orphan_update;    0 mW  
+
+2023-09-26 09:24:34;  18.9 us/s;;;;;Process;[PID 2996] [kworker/29:0];    0 mW  
+
+2023-09-26 09:24:34;  18.5 us/s;;;;;kWork;vmstat_update;    0 mW  
+
+2023-09-26 09:24:34;  17.9 us/s;;;;;Process;[PID 511] [kworker/10:2];    0 mW  
+
+2023-09-26 09:24:34;  17.6 us/s;;;;;Process;[PID 505] [kworker/4:2];    0 mW  
+
+2023-09-26 09:24:34;  17.5 us/s;;;;;Process;[PID 437] [kworker/20:1];    0 mW  
+
+2023-09-26 09:24:34;  17.0 us/s;;;;;Process;[PID 538] [kworker/37:2];    0 mW  
+
+2023-09-26 09:24:34;  16.9 us/s;;;;;Process;[PID 512] [kworker/11:2];    0 mW  
+
+2023-09-26 09:24:34;  16.8 us/s;;;;;Process;[PID 2377] /usr/libexec/fwupd/fwupd ;    0 mW  
+
+2023-09-26 09:24:34;  16.8 us/s;;;;;Process;[PID 1736] /usr/bin/containerd ;    0 mW  
+
+2023-09-26 09:24:34;  16.8 us/s;;;;;Timer;mix_interrupt_randomness;    0 mW  
+
+2023-09-26 09:24:34;  16.7 us/s;;;;;Process;[PID 514] [kworker/13:2];    0 mW  
+
+2023-09-26 09:24:34;  16.5 us/s;;;;;Process;[PID 1493] /usr/lib/accountsservice/accounts-daemon ;    0 mW  
+
+2023-09-26 09:24:34;  16.5 us/s;;;;;Process;[PID 458] [kworker/48:1];    0 mW  
+
+2023-09-26 09:24:34;  16.4 us/s;;;;;Process;[PID 508] [kworker/7:2];    0 mW  
+
+2023-09-26 09:24:34;  15.9 us/s;;;;;Interrupt;[176] ahci[0000:00:17.0];    0 mW  
+
+2023-09-26 09:24:34;  15.3 us/s;;;;;Process;[PID 459] [kworker/49:1];    0 mW  
+
+2023-09-26 09:24:34;  14.9 us/s;;;;;Process;[PID 513] [kworker/12:2];    0 mW  
+
+2023-09-26 09:24:34;  14.5 us/s;;;;;Process;[PID 2379] /usr/libexec/fwupd/fwupd ;    0 mW  
+
+2023-09-26 09:24:34;  14.4 us/s;;;;;Process;[PID 510] [kworker/9:2];    0 mW  
+
+2023-09-26 09:24:34;  14.3 us/s;;;;;Process;[PID 433] [kworker/16:1];    0 mW  
+
+2023-09-26 09:24:34;  14.2 us/s;;;;;Process;[PID 434] [kworker/17:1];    0 mW  
+
+2023-09-26 09:24:34;  14.2 us/s;;;;;Process;[PID 1] /sbin/init maybe-ubiquity ;    0 mW  
+
+2023-09-26 09:24:34; 
+
+2023-09-26 09:24:34; 
+
+2023-09-26 09:24:34; The system baseline power is estimated at:  4.39  W;
