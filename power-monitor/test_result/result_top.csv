@@ -1,0 +1,311 @@
+,Date-Time,Usage,Events/s,Category,Description,PW Estimate
+0,2023-10-06 06:56:33,   342%,  0.3,Process,[PID 93567] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  5.34 W
+1,2023-10-06 06:56:33,   0.8%,703.6,kWork,dbs_work_handler,  2.79 W
+2,2023-10-06 06:56:33,   125%,  1.0,Process,[PID 93625] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cpu -t vgg_net ,  1.97 W
+3,2023-10-06 06:56:33,  85.6%, 0.05,Process,[PID 93741] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.34 W
+4,2023-10-06 06:56:33,  84.5%,  0.8,Process,[PID 93739] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.32 W
+5,2023-10-06 06:56:33,  84.4%,  1.0,Process,[PID 93740] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.32 W
+6,2023-10-06 06:56:33,  83.8%,  1.0,Process,[PID 93727] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.31 W
+7,2023-10-06 06:56:33,  83.5%,  1.6,Process,[PID 93747] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.31 W
+8,2023-10-06 06:56:33,  83.2%,  0.6,Process,[PID 93730] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.30 W
+9,2023-10-06 06:56:33,  83.1%,  0.5,Process,[PID 93733] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.30 W
+10,2023-10-06 06:56:59,   743%,  4.0,Process,[PID 93567] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  11.6 W
+11,2023-10-06 06:56:59,   0.8%,654.4,kWork,dbs_work_handler,  2.60 W
+12,2023-10-06 06:56:59,   121%, 0.10,Process,[PID 93625] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cpu -t vgg_net ,  1.89 W
+13,2023-10-06 06:56:59,  83.0%,  0.8,Process,[PID 93733] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.30 W
+14,2023-10-06 06:56:59,  82.5%,  0.8,Process,[PID 93738] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.29 W
+15,2023-10-06 06:56:59,  82.4%, 0.25,Process,[PID 93749] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.29 W
+16,2023-10-06 06:56:59,  80.6%,  2.0,Process,[PID 93752] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.27 W
+17,2023-10-06 06:56:59,  80.8%,  0.9,Process,[PID 93739] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+18,2023-10-06 06:56:59,  80.9%, 0.15,Process,[PID 93729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+19,2023-10-06 06:56:59,  80.7%, 0.30,Process,[PID 93742] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+20,2023-10-06 06:57:27,  1678%,  7.9,Process,[PID 93567] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  26.2 W
+21,2023-10-06 06:57:27,   0.8%,660.3,kWork,dbs_work_handler,  2.62 W
+22,2023-10-06 06:57:27,   145%,  1.3,Process,[PID 93625] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cpu -t vgg_net ,  2.27 W
+23,2023-10-06 06:57:27,  82.8%,  1.0,Process,[PID 93739] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.30 W
+24,2023-10-06 06:57:27,  80.5%,  1.0,Process,[PID 93738] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+25,2023-10-06 06:57:27,  78.7%,  0.5,Process,[PID 93742] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.23 W
+26,2023-10-06 06:57:27,  78.6%,  0.4,Process,[PID 93751] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.23 W
+27,2023-10-06 06:57:27,  78.6%, 0.25,Process,[PID 93753] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.23 W
+28,2023-10-06 06:57:27,  78.5%,  0.4,Process,[PID 93747] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.23 W
+29,2023-10-06 06:57:27,  76.3%,  1.2,Process,[PID 93727] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.19 W
+30,2023-10-06 06:57:54,   637%,  3.2,Process,[PID 93567] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  9.96 W
+31,2023-10-06 06:57:54,   0.8%,658.3,kWork,dbs_work_handler,  2.61 W
+32,2023-10-06 06:57:54,   129%,  0.8,Process,[PID 93625] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cpu -t vgg_net ,  2.03 W
+33,2023-10-06 06:57:54,  81.6%,  1.5,Process,[PID 93736] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.28 W
+34,2023-10-06 06:57:54,  79.7%,  1.5,Process,[PID 93738] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.25 W
+35,2023-10-06 06:57:54,  79.1%,  1.0,Process,[PID 93739] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.24 W
+36,2023-10-06 06:57:54,  78.9%,  1.0,Process,[PID 93740] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.24 W
+37,2023-10-06 06:57:54,  78.1%,  0.9,Process,[PID 93752] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.22 W
+38,2023-10-06 06:57:54,  78.1%, 0.20,Process,[PID 93732] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.22 W
+39,2023-10-06 06:57:54,  77.2%,  0.6,Process,[PID 93728] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.21 W
+40,2023-10-06 06:58:21,   864%,  1.4,Process,[PID 93567] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  13.5 W
+41,2023-10-06 06:58:21,   0.8%,679.2,kWork,dbs_work_handler,  2.70 W
+42,2023-10-06 06:58:21,   147%,  1.3,Process,[PID 93625] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cpu -t vgg_net ,  2.31 W
+43,2023-10-06 06:58:21,  82.0%,  0.5,Process,[PID 93733] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.28 W
+44,2023-10-06 06:58:21,  80.5%, 0.30,Process,[PID 93747] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+45,2023-10-06 06:58:21,  79.3%, 0.30,Process,[PID 93735] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.24 W
+46,2023-10-06 06:58:21,  76.2%, 0.05,Process,[PID 93749] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.19 W
+47,2023-10-06 06:58:21,  76.2%, 0.10,Process,[PID 93753] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.19 W
+48,2023-10-06 06:58:21,  76.1%, 0.20,Process,[PID 93730] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.19 W
+49,2023-10-06 06:58:21,  76.2%, 0.10,Process,[PID 93734] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.19 W
+50,2023-10-06 06:58:49,  2268%,  4.8,Process,[PID 93567] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  35.4 W
+51,2023-10-06 06:58:49,   0.8%,649.0,kWork,dbs_work_handler,  2.58 W
+52,2023-10-06 06:58:49,   121%,  0.9,Process,[PID 93625] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cpu -t vgg_net ,  1.89 W
+53,2023-10-06 06:58:49,   3.2%,251.2,Timer,tick_sched_timer,  1.04 W
+54,2023-10-06 06:58:49,   0.3%,112.6,Interrupt,[3] net_rx(softirq),  450 mW
+55,2023-10-06 06:58:49,  11.6%, 0.10,Process,[PID 94709] nvidia-smi,  181 mW
+56,2023-10-06 06:58:49,  11.2%, 0.10,Process,[PID 94721] nvidia-smi,  176 mW
+57,2023-10-06 06:58:49,  10.1%,  0.4,Process,[PID 94772] nvidia-smi,  159 mW
+58,2023-10-06 06:58:49,   9.6%, 0.15,Process,[PID 94747] nvidia-smi,  150 mW
+59,2023-10-06 06:58:49,   9.5%,  0.4,Process,[PID 94697] nvidia-smi,  150 mW
+60,2023-10-06 06:59:16,  2260%,  9.2,Process,[PID 93567] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  35.3 W
+61,2023-10-06 06:59:16,   0.8%,628.5,kWork,dbs_work_handler,  2.49 W
+62,2023-10-06 06:59:16,   116%,  0.7,Process,[PID 93625] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cpu -t vgg_net ,  1.83 W
+63,2023-10-06 06:59:16,   3.2%,240.1,Timer,tick_sched_timer,  999 mW
+64,2023-10-06 06:59:16,   0.2%, 87.4,Interrupt,[3] net_rx(softirq),  349 mW
+65,2023-10-06 06:59:16,  10.1%,  0.3,Process,[PID 94903] nvidia-smi,  159 mW
+66,2023-10-06 06:59:16,   9.9%, 0.30,Process,[PID 94951] nvidia-smi,  156 mW
+67,2023-10-06 06:59:16,   9.9%, 0.30,Process,[PID 94915] nvidia-smi,  156 mW
+68,2023-10-06 06:59:16,   9.9%, 0.30,Process,[PID 94927] nvidia-smi,  156 mW
+69,2023-10-06 06:59:16,   9.8%, 0.20,Process,[PID 94865] nvidia-smi,  154 mW
+70,2023-10-06 06:59:44,  1059%,  2.8,Process,[PID 93567] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  16.5 W
+71,2023-10-06 06:59:44,   0.8%,648.8,kWork,dbs_work_handler,  2.57 W
+72,2023-10-06 06:59:44,   158%,  0.9,Process,[PID 93625] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cpu -t vgg_net ,  2.47 W
+73,2023-10-06 06:59:44,  82.6%,  1.1,Process,[PID 93736] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.29 W
+74,2023-10-06 06:59:44,  81.3%,  1.5,Process,[PID 93738] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.27 W
+75,2023-10-06 06:59:44,  81.6%,  0.4,Process,[PID 93746] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.27 W
+76,2023-10-06 06:59:44,  81.0%,  0.5,Process,[PID 93752] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.27 W
+77,2023-10-06 06:59:44,  80.5%,  0.9,Process,[PID 93737] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+78,2023-10-06 06:59:44,  80.1%,  1.6,Process,[PID 93747] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+79,2023-10-06 06:59:44,  80.2%, 0.10,Process,[PID 93743] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.25 W
+80,2023-10-06 07:00:11,  1650%,  6.9,Process,[PID 93567] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  25.8 W
+81,2023-10-06 07:00:11,   0.8%,660.2,kWork,dbs_work_handler,  2.62 W
+82,2023-10-06 07:00:11,   124%,  1.2,Process,[PID 93625] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cpu -t vgg_net ,  1.94 W
+83,2023-10-06 07:00:11,  82.5%,  0.6,Process,[PID 93727] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.29 W
+84,2023-10-06 07:00:11,  82.1%,  1.7,Process,[PID 93735] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.29 W
+85,2023-10-06 07:00:11,  82.0%,  0.7,Process,[PID 93739] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.28 W
+86,2023-10-06 07:00:11,  81.2%,  1.3,Process,[PID 93733] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.27 W
+87,2023-10-06 07:00:11,  81.2%,  0.4,Process,[PID 93751] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.27 W
+88,2023-10-06 07:00:11,  81.2%, 0.15,Process,[PID 93743] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.27 W
+89,2023-10-06 07:00:11,  81.1%, 0.30,Process,[PID 93752] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.27 W
+90,2023-10-06 07:00:38,  2268%,  6.6,Process,[PID 93567] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  35.4 W
+91,2023-10-06 07:00:38,   0.8%,625.5,kWork,dbs_work_handler,  2.48 W
+92,2023-10-06 07:00:38,   104%,  2.0,Process,[PID 93625] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cpu -t vgg_net ,  1.63 W
+93,2023-10-06 07:00:38,   3.3%,241.9,Timer,tick_sched_timer,  1.01 W
+94,2023-10-06 07:00:38,   0.2%, 87.2,Interrupt,[3] net_rx(softirq),  348 mW
+95,2023-10-06 07:00:38,  11.2%,  0.3,Process,[PID 95401] nvidia-smi,  175 mW
+96,2023-10-06 07:00:38,  10.3%, 0.30,Process,[PID 95413] nvidia-smi,  162 mW
+97,2023-10-06 07:00:38,  10.1%,  0.3,Process,[PID 95437] nvidia-smi,  159 mW
+98,2023-10-06 07:00:38,   9.9%,  0.3,Process,[PID 95351] nvidia-smi,  155 mW
+99,2023-10-06 07:00:38,   9.7%, 0.25,Process,[PID 95389] nvidia-smi,  152 mW
+100,2023-10-06 07:01:05,  2318%,  7.8,Process,[PID 93567] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  36.2 W
+101,2023-10-06 07:01:05,   0.8%,638.9,kWork,dbs_work_handler,  2.54 W
+102,2023-10-06 07:01:05,   125%,  0.5,Process,[PID 93625] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cpu -t vgg_net ,  1.96 W
+103,2023-10-06 07:01:05,   3.3%,247.2,Timer,tick_sched_timer,  1.03 W
+104,2023-10-06 07:01:05,   0.2%, 77.3,Interrupt,[3] net_rx(softirq),  309 mW
+105,2023-10-06 07:01:05,  10.3%,  0.4,Process,[PID 95554] nvidia-smi,  161 mW
+106,2023-10-06 07:01:05,   9.8%,  0.3,Process,[PID 95518] nvidia-smi,  153 mW
+107,2023-10-06 07:01:05,   9.7%,  0.3,Process,[PID 95604] nvidia-smi,  152 mW
+108,2023-10-06 07:01:05,   9.6%, 0.20,Process,[PID 95530] nvidia-smi,  151 mW
+109,2023-10-06 07:01:05,   9.5%, 0.25,Process,[PID 95616] nvidia-smi,  149 mW
+110,2023-10-06 07:01:32,   0.4%,506.4,kWork,dbs_work_handler,  2.01 W
+111,2023-10-06 07:01:32,   1.3%,339.4,Timer,tick_sched_timer,  1.36 W
+112,2023-10-06 07:01:32,  29.9%,  2.4,Process,[PID 93567] python3,  475 mW
+113,2023-10-06 07:01:32,  26.5%, 0.00,Process,[PID 93732] python3,  413 mW
+114,2023-10-06 07:01:32,  25.6%, 0.00,Process,[PID 93740] python3,  399 mW
+115,2023-10-06 07:01:32,  25.5%, 0.10,Process,[PID 93751] python3,  399 mW
+116,2023-10-06 07:01:32,   0.2%, 99.5,Interrupt,[3] net_rx(softirq),  396 mW
+117,2023-10-06 07:01:32,  24.6%, 0.05,Process,[PID 93737] python3,  383 mW
+118,2023-10-06 07:01:32,  24.0%, 0.10,Process,[PID 93746] python3,  375 mW
+119,2023-10-06 07:01:32,  23.9%, 0.00,Process,[PID 93750] python3,  373 mW
+120,2023-10-06 07:01:58,   0.2%,427.6,kWork,dbs_work_handler,  1.69 W
+121,2023-10-06 07:01:58,   0.4%,314.1,Timer,tick_sched_timer,  1.25 W
+122,2023-10-06 07:01:58,   0.2%,101.9,Interrupt,[3] net_rx(softirq),  405 mW
+123,2023-10-06 07:01:58,  11.4%, 0.15,Process,[PID 95902] nvidia-smi,  179 mW
+124,2023-10-06 07:01:58,   9.8%, 0.20,Process,[PID 95878] nvidia-smi,  154 mW
+125,2023-10-06 07:01:58,   9.6%,  0.4,Process,[PID 95866] nvidia-smi,  151 mW
+126,2023-10-06 07:01:58,   9.6%, 0.15,Process,[PID 95914] nvidia-smi,  150 mW
+127,2023-10-06 07:01:58,   9.4%, 0.15,Process,[PID 95890] nvidia-smi,  147 mW
+128,2023-10-06 07:01:58,   9.1%, 0.25,Process,[PID 95854] nvidia-smi,  142 mW
+129,2023-10-06 07:01:58,   8.7%,  0.3,Process,[PID 95817] nvidia-smi,  137 mW
+130,2023-10-06 07:02:24,   0.2%,418.5,kWork,dbs_work_handler,  1.66 W
+131,2023-10-06 07:02:24,   0.4%,328.6,Timer,tick_sched_timer,  1.30 W
+132,2023-10-06 07:02:24,   0.2%,102.6,Interrupt,[3] net_rx(softirq),  408 mW
+133,2023-10-06 07:02:24,  12.7%, 0.20,Process,[PID 96021] nvidia-smi,  198 mW
+134,2023-10-06 07:02:24,  11.8%, 0.10,Process,[PID 95997] nvidia-smi,  185 mW
+135,2023-10-06 07:02:24,  11.5%, 0.15,Process,[PID 96059] nvidia-smi,  180 mW
+136,2023-10-06 07:02:24,  11.1%,  0.4,Process,[PID 95983] nvidia-smi,  175 mW
+137,2023-10-06 07:02:24,  10.8%,  0.3,Process,[PID 96047] nvidia-smi,  170 mW
+138,2023-10-06 07:02:24,   9.9%, 0.00,Process,"[PID 96073] nvidia-smi --query-gpu=index,name,memory.total,memory.used,memory.free,utilization.gpu,temperature.gpu,power.draw -",  155 mW
+139,2023-10-06 07:02:24,   9.8%, 0.25,Process,[PID 96009] nvidia-smi,  154 mW
+140,2023-10-06 07:02:50,   0.2%,397.6,kWork,dbs_work_handler,  1.57 W
+141,2023-10-06 07:02:50,   0.3%,306.7,Timer,tick_sched_timer,  1.22 W
+142,2023-10-06 07:02:50,   0.2%,101.3,Interrupt,[3] net_rx(softirq),  403 mW
+143,2023-10-06 07:02:50,  11.7%,  0.3,Process,[PID 96178] nvidia-smi,  184 mW
+144,2023-10-06 07:02:50,  10.8%,  0.5,Process,[PID 96204] nvidia-smi,  171 mW
+145,2023-10-06 07:02:50,  10.6%, 0.15,Process,[PID 96142] nvidia-smi,  166 mW
+146,2023-10-06 07:02:50,  10.2%, 0.20,Process,[PID 96192] nvidia-smi,  160 mW
+147,2023-10-06 07:02:50,   9.9%, 0.15,Process,[PID 96130] nvidia-smi,  155 mW
+148,2023-10-06 07:02:50,   9.7%,  0.5,Process,[PID 96216] nvidia-smi,  153 mW
+149,2023-10-06 07:02:50,   9.7%, 0.10,Process,[PID 96166] nvidia-smi,  152 mW
+150,2023-10-06 07:03:16,   0.2%,429.4,kWork,dbs_work_handler,  1.70 W
+151,2023-10-06 07:03:16,   0.4%,321.5,Timer,tick_sched_timer,  1.28 W
+152,2023-10-06 07:03:16,   0.2%,106.1,Interrupt,[3] net_rx(softirq),  422 mW
+153,2023-10-06 07:03:16,  11.1%, 0.25,Process,[PID 96297] nvidia-smi,  174 mW
+154,2023-10-06 07:03:16,   9.8%,  0.3,Process,[PID 96285] nvidia-smi,  154 mW
+155,2023-10-06 07:03:16,   9.4%, 0.25,Process,[PID 96358] nvidia-smi,  148 mW
+156,2023-10-06 07:03:16,   9.4%, 0.25,Process,[PID 96272] nvidia-smi,  148 mW
+157,2023-10-06 07:03:16,   9.2%, 0.20,Process,[PID 96311] nvidia-smi,  144 mW
+158,2023-10-06 07:03:16,   9.1%, 0.20,Process,[PID 96370] nvidia-smi,  143 mW
+159,2023-10-06 07:03:16,   8.7%, 0.10,Process,[PID 96346] nvidia-smi,  137 mW
+160,2023-10-06 07:03:42,   0.2%,425.3,kWork,dbs_work_handler,  1.68 W
+161,2023-10-06 07:03:42,   0.4%,319.5,Timer,tick_sched_timer,  1.27 W
+162,2023-10-06 07:03:42,   0.2%,104.0,Interrupt,[3] net_rx(softirq),  413 mW
+163,2023-10-06 07:03:42,  10.8%, 0.30,Process,[PID 96465] nvidia-smi,  169 mW
+164,2023-10-06 07:03:42,  10.1%,  0.3,Process,[PID 96453] nvidia-smi,  160 mW
+165,2023-10-06 07:03:42,   9.8%,  0.4,Process,[PID 96503] nvidia-smi,  155 mW
+166,2023-10-06 07:03:42,   9.7%, 0.10,Process,[PID 96441] nvidia-smi,  152 mW
+167,2023-10-06 07:03:42,   9.5%, 0.10,Process,[PID 96489] nvidia-smi,  148 mW
+168,2023-10-06 07:03:42,   9.4%, 0.15,Process,[PID 96428] nvidia-smi,  147 mW
+169,2023-10-06 07:03:42,   9.4%, 0.15,Process,[PID 96527] nvidia-smi,  147 mW
+170,2023-10-06 07:04:09,   0.2%,394.2,kWork,dbs_work_handler,  1.56 W
+171,2023-10-06 07:04:09,   0.3%,282.7,Timer,tick_sched_timer,  1.12 W
+172,2023-10-06 07:04:09,   0.2%,112.9,Interrupt,[3] net_rx(softirq),  449 mW
+173,2023-10-06 07:04:09,  10.2%,  0.3,Process,[PID 96596] nvidia-smi,  161 mW
+174,2023-10-06 07:04:09,  10.3%, 0.10,Process,[PID 96633] nvidia-smi,  161 mW
+175,2023-10-06 07:04:09,   9.6%, 0.29,Process,[PID 96581] nvidia-smi,  151 mW
+176,2023-10-06 07:04:09,   9.5%,  0.4,Process,[PID 96645] nvidia-smi,  150 mW
+177,2023-10-06 07:04:09,   9.5%, 0.29,Process,[PID 96609] nvidia-smi,  150 mW
+178,2023-10-06 07:04:09,   9.5%, 0.25,Process,[PID 96681] nvidia-smi,  149 mW
+179,2023-10-06 07:04:09,   9.0%, 0.10,Process,[PID 96669] nvidia-smi,  141 mW
+180,2023-10-06 07:04:34,   0.2%,412.6,kWork,dbs_work_handler,  1.63 W
+181,2023-10-06 07:04:34,   0.4%,327.8,Timer,tick_sched_timer,  1.30 W
+182,2023-10-06 07:04:34,   0.2%,111.6,Interrupt,[3] net_rx(softirq),  444 mW
+183,2023-10-06 07:04:34,  12.6%, 0.15,Process,[PID 96762] nvidia-smi,  197 mW
+184,2023-10-06 07:04:34,  12.5%,  0.4,Process,[PID 96749] nvidia-smi,  197 mW
+185,2023-10-06 07:04:34,  10.9%,  0.5,Process,[PID 96800] nvidia-smi,  172 mW
+186,2023-10-06 07:04:34,   9.8%, 0.15,Process,[PID 96788] nvidia-smi,  153 mW
+187,2023-10-06 07:04:34,   9.6%, 0.25,Process,[PID 96836] nvidia-smi,  151 mW
+188,2023-10-06 07:04:34,   0.2%, 36.9,Process,[PID 15] [rcu_sched],  149 mW
+189,2023-10-06 07:04:34,   9.3%,  0.3,Process,[PID 96812] nvidia-smi,  147 mW
+190,2023-10-06 07:05:00,   0.2%,391.5,kWork,dbs_work_handler,  1.55 W
+191,2023-10-06 07:05:00,   0.3%,265.5,Timer,tick_sched_timer,  1.05 W
+192,2023-10-06 07:05:00,   0.2%,123.4,Interrupt,[3] net_rx(softirq),  491 mW
+193,2023-10-06 07:05:00,  13.1%, 0.30,Process,[PID 96893] nvidia-smi,  205 mW
+194,2023-10-06 07:05:00,  10.2%, 0.30,Process,[PID 96953] nvidia-smi,  161 mW
+195,2023-10-06 07:05:00,   9.1%, 0.25,Process,[PID 96980] nvidia-smi,  143 mW
+196,2023-10-06 07:05:00,   9.1%, 0.20,Process,[PID 96990] nvidia-smi,  142 mW
+197,2023-10-06 07:05:00,   9.1%, 0.10,Process,[PID 96931] nvidia-smi,  142 mW
+198,2023-10-06 07:05:00,   9.0%, 0.20,Process,[PID 96907] nvidia-smi,  141 mW
+199,2023-10-06 07:05:00,   9.0%, 0.10,Process,[PID 96919] nvidia-smi,  140 mW
+200,2023-10-06 07:05:27,   0.2%,429.3,kWork,dbs_work_handler,  1.70 W
+201,2023-10-06 07:05:27,   0.4%,316.6,Timer,tick_sched_timer,  1.26 W
+202,2023-10-06 07:05:27,   0.3%,136.2,Interrupt,[3] net_rx(softirq),  542 mW
+203,2023-10-06 07:05:27,  12.2%, 0.15,Process,[PID 97121] nvidia-smi,  191 mW
+204,2023-10-06 07:05:27,  11.8%, 0.15,Process,[PID 97107] nvidia-smi,  184 mW
+205,2023-10-06 07:05:27,  10.6%, 0.25,Process,[PID 97146] nvidia-smi,  166 mW
+206,2023-10-06 07:05:27,  10.0%,  0.3,Process,[PID 97071] nvidia-smi,  158 mW
+207,2023-10-06 07:05:27,  10.0%,  0.3,Process,[PID 97059] nvidia-smi,  157 mW
+208,2023-10-06 07:05:27,   9.9%, 0.15,Process,[PID 97083] nvidia-smi,  155 mW
+209,2023-10-06 07:05:27,   9.9%, 0.20,Process,[PID 97095] nvidia-smi,  155 mW
+210,2023-10-06 07:05:53,   0.2%,407.4,kWork,dbs_work_handler,  1.61 W
+211,2023-10-06 07:05:53,   0.4%,297.4,Timer,tick_sched_timer,  1.18 W
+212,2023-10-06 07:05:53,   0.2%,115.1,Interrupt,[3] net_rx(softirq),  458 mW
+213,2023-10-06 07:05:53,  12.5%, 0.25,Process,[PID 97277] nvidia-smi,  196 mW
+214,2023-10-06 07:05:53,  11.4%,  0.3,Process,[PID 97289] nvidia-smi,  179 mW
+215,2023-10-06 07:05:53,  11.1%, 0.30,Process,[PID 97203] nvidia-smi,  174 mW
+216,2023-10-06 07:05:53,   9.8%, 0.25,Process,[PID 97217] nvidia-smi,  154 mW
+217,2023-10-06 07:05:53,   9.7%, 0.15,Process,[PID 97303] nvidia-smi,  152 mW
+218,2023-10-06 07:05:53,   9.3%, 0.20,Process,[PID 97241] nvidia-smi,  146 mW
+219,2023-10-06 07:05:53,   9.1%, 0.30,Process,[PID 97229] nvidia-smi,  144 mW
+220,2023-10-06 07:06:19,   0.2%,394.5,kWork,dbs_work_handler,  1.56 W
+221,2023-10-06 07:06:19,   0.4%,305.8,Timer,tick_sched_timer,  1.21 W
+222,2023-10-06 07:06:19,   0.2%,111.5,Interrupt,[3] net_rx(softirq),  444 mW
+223,2023-10-06 07:06:19,  12.7%, 0.10,Process,[PID 97397] nvidia-smi,  198 mW
+224,2023-10-06 07:06:19,  12.2%, 0.30,Process,[PID 97423] nvidia-smi,  192 mW
+225,2023-10-06 07:06:19,  11.8%, 0.15,Process,[PID 97411] nvidia-smi,  185 mW
+226,2023-10-06 07:06:19,  11.5%, 0.20,Process,[PID 97449] nvidia-smi,  181 mW
+227,2023-10-06 07:06:19,  11.4%, 0.30,Process,[PID 97360] nvidia-smi,  180 mW
+228,2023-10-06 07:06:19,   9.8%, 0.10,Process,[PID 97372] nvidia-smi,  154 mW
+229,2023-10-06 07:06:19,   8.9%, 0.25,Process,[PID 97384] nvidia-smi,  139 mW
+230,2023-10-06 07:06:46,   0.2%,396.3,kWork,dbs_work_handler,  1.57 W
+231,2023-10-06 07:06:46,   0.4%,311.3,Timer,tick_sched_timer,  1.23 W
+232,2023-10-06 07:06:46,   0.2%,108.8,Interrupt,[3] net_rx(softirq),  433 mW
+233,2023-10-06 07:06:46,  12.1%, 0.10,Process,[PID 97506] nvidia-smi,  189 mW
+234,2023-10-06 07:06:46,  11.7%, 0.20,Process,[PID 97544] nvidia-smi,  183 mW
+235,2023-10-06 07:06:46,  11.4%, 0.29,Process,[PID 97520] nvidia-smi,  179 mW
+236,2023-10-06 07:06:46,  10.7%, 0.10,Process,[PID 97532] nvidia-smi,  167 mW
+237,2023-10-06 07:06:46,  10.6%, 0.25,Process,[PID 97570] nvidia-smi,  166 mW
+238,2023-10-06 07:06:46,   9.9%, 0.15,Process,[PID 97558] nvidia-smi,  156 mW
+239,2023-10-06 07:06:46,   8.9%, 0.15,Process,[PID 97582] nvidia-smi,  140 mW
+240,2023-10-06 07:07:13,   0.2%,393.4,kWork,dbs_work_handler,  1.56 W
+241,2023-10-06 07:07:13,   0.3%,302.1,Timer,tick_sched_timer,  1.20 W
+242,2023-10-06 07:07:13,   0.2%,112.0,Interrupt,[3] net_rx(softirq),  445 mW
+243,2023-10-06 07:07:13,  11.6%, 0.25,Process,[PID 97713] nvidia-smi,  182 mW
+244,2023-10-06 07:07:13,  10.4%, 0.05,Process,[PID 97749] nvidia-smi,  162 mW
+245,2023-10-06 07:07:13,  10.2%, 0.05,Process,[PID 97761] nvidia-smi,  160 mW
+246,2023-10-06 07:07:13,  10.2%, 0.25,Process,[PID 97699] nvidia-smi,  159 mW
+247,2023-10-06 07:07:13,  10.0%, 0.20,Process,[PID 97737] nvidia-smi,  157 mW
+248,2023-10-06 07:07:13,   9.8%,  0.4,Process,[PID 97675] nvidia-smi,  155 mW
+249,2023-10-06 07:07:13,   8.7%, 0.10,Process,[PID 97687] nvidia-smi,  136 mW
+250,2023-10-06 07:07:39,   0.2%,416.3,kWork,dbs_work_handler,  1.65 W
+251,2023-10-06 07:07:39,   0.4%,301.1,Timer,tick_sched_timer,  1.20 W
+252,2023-10-06 07:07:39,   0.2%,113.5,Interrupt,[3] net_rx(softirq),  452 mW
+253,2023-10-06 07:07:39,  12.6%,  0.3,Process,[PID 97894] nvidia-smi,  199 mW
+254,2023-10-06 07:07:39,  12.1%,  0.4,Process,[PID 97832] nvidia-smi,  191 mW
+255,2023-10-06 07:07:39,  11.9%,  0.3,Process,[PID 97844] nvidia-smi,  187 mW
+256,2023-10-06 07:07:39,   9.7%,  0.5,Process,[PID 97882] nvidia-smi,  153 mW
+257,2023-10-06 07:07:39,   9.8%, 0.05,Process,[PID 97858] nvidia-smi,  153 mW
+258,2023-10-06 07:07:39,   9.5%, 0.30,Process,[PID 97908] nvidia-smi,  149 mW
+259,2023-10-06 07:07:39,   9.5%, 0.15,Process,[PID 97820] nvidia-smi,  149 mW
+260,2023-10-06 07:08:05,   0.2%,392.0,kWork,dbs_work_handler,  1.55 W
+261,2023-10-06 07:08:05,   0.3%,282.2,Timer,tick_sched_timer,  1.12 W
+262,2023-10-06 07:08:05,   0.2%,104.7,Interrupt,[3] net_rx(softirq),  416 mW
+263,2023-10-06 07:08:05,  12.5%,  0.5,Process,[PID 98003] nvidia-smi,  197 mW
+264,2023-10-06 07:08:05,  12.2%, 0.30,Process,[PID 97977] nvidia-smi,  191 mW
+265,2023-10-06 07:08:05,  10.9%,  0.4,Process,[PID 97962] nvidia-smi,  171 mW
+266,2023-10-06 07:08:05,  10.6%, 0.20,Process,[PID 97989] nvidia-smi,  166 mW
+267,2023-10-06 07:08:05,  10.5%,  0.4,Process,[PID 98015] nvidia-smi,  165 mW
+268,2023-10-06 07:08:05,  10.0%, 0.25,Process,[PID 98039] nvidia-smi,  156 mW
+269,2023-10-06 07:08:05,   9.5%, 0.10,Process,[PID 98053] nvidia-smi,  148 mW
+270,2023-10-06 07:08:32,   0.2%,440.7,kWork,dbs_work_handler,  1.74 W
+271,2023-10-06 07:08:32,   0.4%,326.6,Timer,tick_sched_timer,  1.30 W
+272,2023-10-06 07:08:32,   0.2%,112.1,Interrupt,[3] net_rx(softirq),  446 mW
+273,2023-10-06 07:08:32,   9.9%, 0.20,Process,[PID 98134] nvidia-smi,  155 mW
+274,2023-10-06 07:08:32,   9.7%,  0.3,Process,[PID 98146] nvidia-smi,  153 mW
+275,2023-10-06 07:08:32,   9.6%, 0.25,Process,[PID 98158] nvidia-smi,  151 mW
+276,2023-10-06 07:08:32,   9.5%, 0.25,Process,[PID 98122] nvidia-smi,  149 mW
+277,2023-10-06 07:08:32,   9.5%, 0.20,Process,[PID 98194] nvidia-smi,  148 mW
+278,2023-10-06 07:08:32,   9.4%, 0.15,Process,[PID 98206] nvidia-smi,  147 mW
+279,2023-10-06 07:08:32,   8.8%, 0.25,Process,[PID 98170] nvidia-smi,  139 mW
+280,2023-10-06 07:08:58,   0.2%,433.1,kWork,dbs_work_handler,  1.71 W
+281,2023-10-06 07:08:58,   0.4%,332.2,Timer,tick_sched_timer,  1.32 W
+282,2023-10-06 07:08:58,   0.2%,106.9,Interrupt,[3] net_rx(softirq),  425 mW
+283,2023-10-06 07:08:58,  12.2%,  0.3,Process,[PID 98323] nvidia-smi,  192 mW
+284,2023-10-06 07:08:58,  12.0%, 0.15,Process,[PID 98349] nvidia-smi,  188 mW
+285,2023-10-06 07:08:58,  11.9%, 0.20,Process,[PID 98363] nvidia-smi,  187 mW
+286,2023-10-06 07:08:58,  10.5%,  0.4,Process,[PID 98337] nvidia-smi,  166 mW
+287,2023-10-06 07:08:58,  10.3%,  0.3,Process,[PID 98311] nvidia-smi,  162 mW
+288,2023-10-06 07:08:58,  10.0%, 0.20,Process,[PID 98287] nvidia-smi,  157 mW
+289,2023-10-06 07:08:58,  10.0%, 0.20,Process,[PID 98299] nvidia-smi,  156 mW
+290,2023-10-06 07:09:25,   0.2%,431.7,kWork,dbs_work_handler,  1.71 W
+291,2023-10-06 07:09:25,   0.4%,316.4,Timer,tick_sched_timer,  1.26 W
+292,2023-10-06 07:09:25,   0.2%,126.7,Interrupt,[3] net_rx(softirq),  504 mW
+293,2023-10-06 07:09:25,  12.3%, 0.20,Process,[PID 98433] nvidia-smi,  193 mW
+294,2023-10-06 07:09:25,  10.0%, 0.05,Process,[PID 98459] nvidia-smi,  155 mW
+295,2023-10-06 07:09:25,   9.9%, 0.30,Process,[PID 98484] nvidia-smi,  155 mW
+296,2023-10-06 07:09:25,   9.6%,  0.3,Process,[PID 98419] nvidia-smi,  151 mW
+297,2023-10-06 07:09:25,   9.5%, 0.20,Process,[PID 98520] nvidia-smi,  149 mW
+298,2023-10-06 07:09:25,   9.4%, 0.20,Process,[PID 98472] nvidia-smi,  147 mW
+299,2023-10-06 07:09:25,   9.3%, 0.20,Process,[PID 98447] nvidia-smi,  146 mW
+300,2023-10-06 07:09:51,   0.2%,422.0,kWork,dbs_work_handler,  1.67 W
+301,2023-10-06 07:09:51,   0.4%,298.9,Timer,tick_sched_timer,  1.19 W
+302,2023-10-06 07:09:51,   0.2%,117.6,Interrupt,[3] net_rx(softirq),  468 mW
+303,2023-10-06 07:09:51,  12.7%, 0.20,Process,[PID 98589] nvidia-smi,  199 mW
+304,2023-10-06 07:09:51,  11.7%, 0.10,Process,[PID 98651] nvidia-smi,  183 mW
+305,2023-10-06 07:09:51,  10.5%,  0.4,Process,[PID 98675] nvidia-smi,  166 mW
+306,2023-10-06 07:09:51,  10.0%,  0.4,Process,[PID 98576] nvidia-smi,  157 mW
+307,2023-10-06 07:09:51,  10.0%, 0.15,Process,[PID 98663] nvidia-smi,  156 mW
+308,2023-10-06 07:09:51,  10.0%, 0.05,Process,[PID 98627] nvidia-smi,  156 mW
+309,2023-10-06 07:09:51,   9.5%, 0.20,Process,[PID 98615] nvidia-smi,  149 mW
