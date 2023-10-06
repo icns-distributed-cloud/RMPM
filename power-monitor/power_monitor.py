@@ -33,45 +33,47 @@ def run_powertop():
     flag = 0x000
     cnt = 0
 
-    # repeat max_cnt times
-    while cnt < max_cnt:
-        process = subprocess.Popen(["sudo", "powertop", "--csv=powertop_output.csv"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-        process.communicate()
 
-        with open("powertop_output.csv", "r") as powertop_file:
-            lines = powertop_file.readlines()
+    while (True):
+        try:
+            process = subprocess.Popen(["sudo", "powertop", "--csv=powertop_output.csv"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+            process.communicate()
 
-            # find start line
-            for line in lines:
-                if line.startswith(top_consumers_keyword):
-                    flag = 0x100
-                elif line.startswith(overview_keyword):
-                    flag = 0x010
-                elif line.startswith(device_report_keyword):
-                    flag = 0x001
-                elif line.startswith("_____"):
-                    flag = 0x000
+            with open("powertop_output.csv", "r") as powertop_file:
+                lines = powertop_file.readlines()
 
-                # add lines to list
-                if flag == 0x100:
-                    top_consumers_content.append(add_timestamp(line))
-                elif flag == 0x010:
-                    overview_content.append(add_timestamp(line))
-                elif flag == 0x001:
-                    device_report_content.append(add_timestamp(line))
+                # find start line
+                for line in lines:
+                    if line.startswith(top_consumers_keyword):
+                        flag = 0x100
+                    elif line.startswith(overview_keyword):
+                        flag = 0x010
+                    elif line.startswith(device_report_keyword):
+                        flag = 0x001
+                    elif line.startswith("_____"):
+                        flag = 0x000
 
-            # write list contents to txt file
-            with open(top_consumers_file, "w") as file:
-                file.write("\n".join(top_consumers_content))
-            with open(overview_file, "w") as file:
-                file.write("\n".join(overview_content))
-            with open(device_report_file, "w") as file:
-                file.write("\n".join(device_report_content))
+                    # add lines to list
+                    if flag == 0x100:
+                        top_consumers_content.append(add_timestamp(line))
+                    elif flag == 0x010:
+                        overview_content.append(add_timestamp(line))
+                    elif flag == 0x001:
+                        device_report_content.append(add_timestamp(line))
 
-        os.remove("powertop_output.csv")
+                # write list contents to txt file
+                with open(top_consumers_file, "w") as file:
+                    file.write("\n".join(top_consumers_content))
+                with open(overview_file, "w") as file:
+                    file.write("\n".join(overview_content))
+                with open(device_report_file, "w") as file:
+                    file.write("\n".join(device_report_content))
 
-        cnt += 1
-        time.sleep(5)
+            os.remove("powertop_output.csv")
+
+            cnt += 1
+        except KeyboardInterrupt:
+            print("Program terminated by user (Ctrl+C)")
 
 top_consumers_content = []
 overview_content = []

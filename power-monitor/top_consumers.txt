@@ -1,139 +1,111 @@
-2023-09-26 09:22:40;  *  *  *   Top 10 Power Consumers   *  *  *
+2023-10-06 06:08:30;  *  *  *   Top 10 Power Consumers   *  *  *
 
-2023-09-26 09:22:40; 
+2023-10-06 06:08:30; 
 
-2023-09-26 09:22:40; Usage;Events/s;Category;Description;PW Estimate
+2023-10-06 06:08:30; Usage;Events/s;Category;Description;PW Estimate
 
-2023-09-26 09:22:40;   0.2%;112.0;Interrupt;[3] net_rx(softirq);  445 mW  
+2023-10-06 06:08:30;   0.1%;151.7;kWork;dbs_work_handler;  600 mW  
 
-2023-09-26 09:22:40;   0.0%;101.3;kWork;dbs_work_handler;  401 mW  
+2023-10-06 06:08:30;   0.3%;129.0;Interrupt;[3] net_rx(softirq);  514 mW  
 
-2023-09-26 09:22:40;   0.0%; 43.9;Timer;tick_sched_timer;  174 mW  
+2023-10-06 06:08:30;   0.1%; 52.4;Timer;tick_sched_timer;  208 mW  
 
-2023-09-26 09:22:40;   0.0%; 13.7;Timer;watchdog_timer_fn; 54.2 mW  
+2023-10-06 06:08:30;   0.0%; 13.1;Timer;watchdog_timer_fn; 52.0 mW  
 
-2023-09-26 09:22:40;   1.7%; 0.00;Process;[PID 2439] python3; 25.9 mW  
+2023-10-06 06:08:30;   1.1%;  7.8;Process;[PID 84395] avahi-daemon: running [icns.local] ; 47.4 mW  
 
-2023-09-26 09:22:40;   1.6%; 0.05;Process;[PID 2598] cuda-EvtHandlr; 25.3 mW  
+2023-10-06 06:08:30;   0.0%;  6.7;Process;[PID 15] [rcu_sched]; 26.8 mW  
 
-2023-09-26 09:22:40;   0.0%;  6.3;kWork;psi_avgs_work; 25.0 mW  
+2023-10-06 06:08:30;   0.0%;  6.7;kWork;psi_avgs_work; 26.5 mW  
 
-2023-09-26 09:22:40;   1.1%; 0.05;Process;[PID 2879] powertop --csv=powertop_output.csv ; 16.7 mW  
+2023-10-06 06:08:30;   1.2%; 0.00;Process;[PID 91682] powertop --csv=powertop_output.csv ; 18.6 mW  
 
-2023-09-26 09:22:40;   0.0%;  3.9;kWork;flush_to_ldisc; 15.3 mW  
+2023-10-06 06:08:30;   0.0%;  2.0;kWork;fb_flashcursor; 8.06 mW  
 
-2023-09-26 09:22:40;   0.0%;  2.7;Interrupt;[303] nvidia; 10.7 mW  
+2023-10-06 06:08:30;   0.0%;  2.0;kWork;flush_to_ldisc; 7.84 mW  
 
-2023-09-26 09:22:40; 
+2023-10-06 06:08:30; 
 
-2023-09-26 09:23:08;  *  *  *   Top 10 Power Consumers   *  *  *
+2023-10-06 06:08:53;  *  *  *   Top 10 Power Consumers   *  *  *
 
-2023-09-26 09:23:08; 
+2023-10-06 06:08:53; 
 
-2023-09-26 09:23:08; Usage;Events/s;Category;Description;PW Estimate
+2023-10-06 06:08:53; Usage;Events/s;Category;Description;PW Estimate
 
-2023-09-26 09:23:08;   0.1%; 91.1;Interrupt;[3] net_rx(softirq);  362 mW  
+2023-10-06 06:08:53;   0.1%;153.1;kWork;dbs_work_handler;  606 mW  
 
-2023-09-26 09:23:08;   0.0%; 74.7;kWork;dbs_work_handler;  295 mW  
+2023-10-06 06:08:53;   0.2%;123.7;Interrupt;[3] net_rx(softirq);  492 mW  
 
-2023-09-26 09:23:08;   0.0%; 27.0;Timer;tick_sched_timer;  107 mW  
+2023-10-06 06:08:53;   0.1%; 55.2;Timer;tick_sched_timer;  219 mW  
 
-2023-09-26 09:23:08;   0.0%; 13.5;Timer;watchdog_timer_fn; 53.6 mW  
+2023-10-06 06:08:53;   0.0%; 13.0;Timer;watchdog_timer_fn; 51.5 mW  
 
-2023-09-26 09:23:08;   0.0%;  7.0;Interrupt;[4] block(softirq); 27.8 mW  
+2023-10-06 06:08:53;   0.0%;  7.3;kWork;flush_to_ldisc; 29.0 mW  
 
-2023-09-26 09:23:08;   0.0%;  6.2;kWork;psi_avgs_work; 24.8 mW  
+2023-10-06 06:08:53;   0.5%;  4.8;Process;[PID 84395] avahi-daemon: running [icns.local] ; 27.4 mW  
 
-2023-09-26 09:23:08;   1.1%; 0.00;Process;[PID 2896] powertop --csv=powertop_output.csv ; 16.4 mW  
+2023-10-06 06:08:53;   0.0%;  6.7;Process;[PID 15] [rcu_sched]; 27.1 mW  
 
-2023-09-26 09:23:08;   0.0%;  3.7;kWork;fb_flashcursor; 14.7 mW  
+2023-10-06 06:08:53;   0.0%;  6.6;kWork;psi_avgs_work; 26.3 mW  
 
-2023-09-26 09:23:08;   0.0%;  3.4;kWork;flush_to_ldisc; 13.3 mW  
+2023-10-06 06:08:53;   0.0%;  4.9;kWork;fb_flashcursor; 19.4 mW  
 
-2023-09-26 09:23:08;   0.8%; 0.00;Process;[PID 2894] python3; 13.3 mW  
+2023-10-06 06:08:53;   1.1%; 0.05;Process;[PID 91692] powertop --csv=powertop_output.csv ; 17.0 mW  
 
-2023-09-26 09:23:08; 
+2023-10-06 06:08:53; 
 
-2023-09-26 09:23:38;  *  *  *   Top 10 Power Consumers   *  *  *
+2023-10-06 06:09:17;  *  *  *   Top 10 Power Consumers   *  *  *
 
-2023-09-26 09:23:38; 
+2023-10-06 06:09:17; 
 
-2023-09-26 09:23:38; Usage;Events/s;Category;Description;PW Estimate
+2023-10-06 06:09:17; Usage;Events/s;Category;Description;PW Estimate
 
-2023-09-26 09:23:38;   0.2%;398.8;kWork;dbs_work_handler;  1.58 W  
+2023-10-06 06:09:17;   0.1%;251.0;kWork;dbs_work_handler;  993 mW  
 
-2023-09-26 09:23:38;   0.4%;363.6;Timer;tick_sched_timer;  1.44 W  
+2023-10-06 06:09:17;   0.4%;226.8;Interrupt;[3] net_rx(softirq);  902 mW  
 
-2023-09-26 09:23:38;  18.6%; 39.5;Process;[PID 2935] dpkg;  447 mW  
+2023-10-06 06:09:17;   0.1%; 60.1;Timer;tick_sched_timer;  239 mW  
 
-2023-09-26 09:23:38;   0.2%;103.1;Interrupt;[176] ahci[0000:00:17.0];  409 mW  
+2023-10-06 06:09:17;   0.1%; 47.5;kWork;flush_to_ldisc;  188 mW  
 
-2023-09-26 09:23:38;   0.1%; 91.0;Interrupt;[3] net_rx(softirq);  362 mW  
+2023-10-06 06:09:17;   0.0%; 12.7;Timer;watchdog_timer_fn; 50.2 mW  
 
-2023-09-26 09:23:38;   0.1%; 80.1;kWork;blk_mq_requeue_work;  317 mW  
+2023-10-06 06:09:17;   0.0%;  7.3;kWork;psi_avgs_work; 29.1 mW  
 
-2023-09-26 09:23:38;   0.2%; 59.6;Interrupt;[4] block(softirq);  239 mW  
+2023-10-06 06:09:17;   0.0%;  6.8;Process;[PID 15] [rcu_sched]; 27.5 mW  
 
-2023-09-26 09:23:38;   0.1%; 25.8;Process;[PID 15] [rcu_sched];  104 mW  
+2023-10-06 06:09:17;   0.5%;  4.7;Process;[PID 84395] avahi-daemon: running [icns.local] ; 25.5 mW  
 
-2023-09-26 09:23:38;   0.1%; 19.0;kWork;ext4_end_io_rsv_work; 76.4 mW  
+2023-10-06 06:09:17;   1.2%; 0.05;Process;[PID 91720] vi device_report.txt ; 19.4 mW  
 
-2023-09-26 09:23:38;   0.6%; 15.9;Process;[PID 2909] apt-get; 72.1 mW  
+2023-10-06 06:09:17;   1.2%; 0.05;Process;[PID 91709] powertop --csv=powertop_output.csv ; 18.5 mW  
 
-2023-09-26 09:23:38; 
+2023-10-06 06:09:17; 
 
-2023-09-26 09:24:06;  *  *  *   Top 10 Power Consumers   *  *  *
+2023-10-06 06:09:54;  *  *  *   Top 10 Power Consumers   *  *  *
 
-2023-09-26 09:24:06; 
+2023-10-06 06:09:54; 
 
-2023-09-26 09:24:06; Usage;Events/s;Category;Description;PW Estimate
+2023-10-06 06:09:54; Usage;Events/s;Category;Description;PW Estimate
 
-2023-09-26 09:24:06;   0.1%; 86.2;Interrupt;[3] net_rx(softirq);  342 mW  
+2023-10-06 06:09:54;   0.1%;144.9;kWork;dbs_work_handler;  573 mW  
 
-2023-09-26 09:24:06;   0.0%; 60.5;kWork;dbs_work_handler;  239 mW  
+2023-10-06 06:09:54;   0.2%;126.0;Interrupt;[3] net_rx(softirq);  501 mW  
 
-2023-09-26 09:24:06;   0.0%; 19.4;Timer;tick_sched_timer; 77.1 mW  
+2023-10-06 06:09:54;   0.1%; 47.6;Timer;tick_sched_timer;  189 mW  
 
-2023-09-26 09:24:06;   0.0%; 13.7;Timer;watchdog_timer_fn; 54.4 mW  
+2023-10-06 06:09:54;   0.0%; 12.7;Timer;watchdog_timer_fn; 50.2 mW  
 
-2023-09-26 09:24:06;   0.0%;  5.5;kWork;psi_avgs_work; 22.0 mW  
+2023-10-06 06:09:54;   0.4%;  5.9;Process;[PID 84395] avahi-daemon: running [icns.local] ; 30.2 mW  
 
-2023-09-26 09:24:06;   1.0%; 0.05;Process;[PID 3652] powertop --csv=powertop_output.csv ; 16.3 mW  
+2023-10-06 06:09:54;   0.0%;  6.6;kWork;psi_avgs_work; 26.3 mW  
 
-2023-09-26 09:24:06;   0.0%;  3.2;kWork;fb_flashcursor; 12.8 mW  
+2023-10-06 06:09:54;   0.0%;  6.3;Process;[PID 15] [rcu_sched]; 25.2 mW  
 
-2023-09-26 09:24:06;   0.0%;  2.5;Process;[PID 1735] /usr/bin/containerd ; 10.4 mW  
+2023-10-06 06:09:54;   1.2%; 0.05;Process;[PID 91738] powertop --csv=powertop_output.csv ; 19.7 mW  
 
-2023-09-26 09:24:06;   0.0%;  1.9;Process;[PID 1722] /usr/bin/containerd ; 8.05 mW  
+2023-10-06 06:09:54;   0.0%;  4.5;kWork;flush_to_ldisc; 17.8 mW  
 
-2023-09-26 09:24:06;   0.0%;  1.8;Interrupt;[4] block(softirq); 7.29 mW  
+2023-10-06 06:09:54;   0.0%;  2.7;kWork;fb_flashcursor; 10.8 mW  
 
-2023-09-26 09:24:06; 
-
-2023-09-26 09:24:34;  *  *  *   Top 10 Power Consumers   *  *  *
-
-2023-09-26 09:24:34; 
-
-2023-09-26 09:24:34; Usage;Events/s;Category;Description;PW Estimate
-
-2023-09-26 09:24:34;   0.1%; 87.8;Interrupt;[3] net_rx(softirq);  349 mW  
-
-2023-09-26 09:24:34;   0.0%; 66.2;kWork;dbs_work_handler;  262 mW  
-
-2023-09-26 09:24:34;   0.0%; 19.9;Timer;tick_sched_timer; 79.0 mW  
-
-2023-09-26 09:24:34;   0.0%; 13.8;Timer;watchdog_timer_fn; 54.8 mW  
-
-2023-09-26 09:24:34;   0.0%;  5.3;kWork;psi_avgs_work; 21.2 mW  
-
-2023-09-26 09:24:34;   1.0%; 0.00;Process;[PID 3659] powertop --csv=powertop_output.csv ; 16.1 mW  
-
-2023-09-26 09:24:34;   0.0%;  2.5;Process;[PID 1735] /usr/bin/containerd ; 10.5 mW  
-
-2023-09-26 09:24:34;   0.0%;  2.3;Process;[PID 1697] /usr/bin/containerd ; 9.60 mW  
-
-2023-09-26 09:24:34;   0.0%;  1.5;kWork;fb_flashcursor; 6.12 mW  
-
-2023-09-26 09:24:34;   0.0%;  1.0;kWork;i40e_service_task; 4.05 mW  
-
-2023-09-26 09:24:34; 
+2023-10-06 06:09:54; 
