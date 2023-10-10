@@ -1,0 +1,1483 @@
+2023-10-10 10:37:21;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:37:21; 
+
+2023-10-10 10:37:21; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:37:21;  92.9%;  0.6;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.45 W  
+
+2023-10-10 10:37:21;   0.1%;171.7;kWork;dbs_work_handler;  679 mW  
+
+2023-10-10 10:37:21;   0.2%;116.8;Interrupt;[3] net_rx(softirq);  465 mW  
+
+2023-10-10 10:37:21;  17.2%; 0.15;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ;  268 mW  
+
+2023-10-10 10:37:21;   0.1%; 36.6;Timer;tick_sched_timer;  147 mW  
+
+2023-10-10 10:37:21;   0.0%;  8.5;Timer;watchdog_timer_fn; 33.9 mW  
+
+2023-10-10 10:37:21;   0.0%;  5.8;kWork;psi_avgs_work; 23.3 mW  
+
+2023-10-10 10:37:21;   0.3%;  4.4;Process;[PID 84395] avahi-daemon: running [icns.local] ; 22.9 mW  
+
+2023-10-10 10:37:21;   0.0%;  5.2;Process;[PID 1700] /usr/bin/containerd ; 20.9 mW  
+
+2023-10-10 10:37:21;   0.0%;  4.3;kWork;flush_to_ldisc; 17.1 mW  
+
+2023-10-10 10:37:21; 
+
+2023-10-10 10:37:44;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:37:44; 
+
+2023-10-10 10:37:44; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:37:44;  93.3%; 0.05;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.45 W  
+
+2023-10-10 10:37:44;   0.1%;164.2;kWork;dbs_work_handler;  649 mW  
+
+2023-10-10 10:37:44;   0.2%;120.4;Interrupt;[3] net_rx(softirq);  479 mW  
+
+2023-10-10 10:37:44;   0.1%; 32.3;Timer;tick_sched_timer;  129 mW  
+
+2023-10-10 10:37:44;   6.5%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ;  102 mW  
+
+2023-10-10 10:37:44;   0.0%;  7.0;Timer;watchdog_timer_fn; 27.7 mW  
+
+2023-10-10 10:37:44;   0.5%;  4.6;Process;[PID 84395] avahi-daemon: running [icns.local] ; 26.3 mW  
+
+2023-10-10 10:37:44;   0.0%;  5.0;kWork;psi_avgs_work; 19.9 mW  
+
+2023-10-10 10:37:44;   1.0%; 0.00;Process;[PID 127763] powertop --csv=powertop_output.csv ; 15.8 mW  
+
+2023-10-10 10:37:44;   0.0%;  3.7;kWork;fb_flashcursor; 14.5 mW  
+
+2023-10-10 10:37:44; 
+
+2023-10-10 10:38:08;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:38:08; 
+
+2023-10-10 10:38:08; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:38:08;  93.4%; 0.30;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:38:08;   0.1%;169.4;kWork;dbs_work_handler;  670 mW  
+
+2023-10-10 10:38:08;   0.2%;116.0;Interrupt;[3] net_rx(softirq);  462 mW  
+
+2023-10-10 10:38:08;   0.1%; 32.9;Timer;tick_sched_timer;  132 mW  
+
+2023-10-10 10:38:08;   6.5%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ;  101 mW  
+
+2023-10-10 10:38:08;   0.0%;  8.2;Timer;watchdog_timer_fn; 32.4 mW  
+
+2023-10-10 10:38:08;   0.4%;  6.2;Process;[PID 84395] avahi-daemon: running [icns.local] ; 30.7 mW  
+
+2023-10-10 10:38:08;   0.0%;  6.3;kWork;psi_avgs_work; 25.1 mW  
+
+2023-10-10 10:38:08;   1.0%; 0.00;Process;[PID 127775] powertop --csv=powertop_output.csv ; 16.2 mW  
+
+2023-10-10 10:38:08;   0.0%;  2.2;Process;[PID 15] [rcu_sched]; 8.75 mW  
+
+2023-10-10 10:38:08; 
+
+2023-10-10 10:38:31;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:38:31; 
+
+2023-10-10 10:38:31; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:38:31;  92.6%; 0.15;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.45 W  
+
+2023-10-10 10:38:31;   0.1%;164.4;kWork;dbs_work_handler;  650 mW  
+
+2023-10-10 10:38:31;   0.2%;117.8;Interrupt;[3] net_rx(softirq);  469 mW  
+
+2023-10-10 10:38:31;   0.1%; 30.3;Timer;tick_sched_timer;  122 mW  
+
+2023-10-10 10:38:31;   7.2%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ;  112 mW  
+
+2023-10-10 10:38:31;   0.4%;  6.8;Process;[PID 84395] avahi-daemon: running [icns.local] ; 33.0 mW  
+
+2023-10-10 10:38:31;   0.0%;  7.4;Timer;watchdog_timer_fn; 29.4 mW  
+
+2023-10-10 10:38:31;   0.0%;  6.7;kWork;psi_avgs_work; 26.6 mW  
+
+2023-10-10 10:38:31;   1.1%; 0.05;Process;[PID 127786] powertop --csv=powertop_output.csv ; 17.3 mW  
+
+2023-10-10 10:38:31;   0.0%;  2.0;Process;[PID 15] [rcu_sched]; 8.16 mW  
+
+2023-10-10 10:38:31; 
+
+2023-10-10 10:38:54;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:38:54; 
+
+2023-10-10 10:38:54; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:38:54;  93.7%;  0.4;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:38:54;   0.1%;181.4;kWork;dbs_work_handler;  718 mW  
+
+2023-10-10 10:38:54;   0.4%;174.2;Interrupt;[3] net_rx(softirq);  694 mW  
+
+2023-10-10 10:38:54;   0.1%; 53.6;Timer;tick_sched_timer;  214 mW  
+
+2023-10-10 10:38:54;   1.4%; 21.0;Process;[PID 84395] avahi-daemon: running [icns.local] ;  104 mW  
+
+2023-10-10 10:38:54;   6.2%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 96.8 mW  
+
+2023-10-10 10:38:54;   0.0%;  7.7;Timer;watchdog_timer_fn; 30.6 mW  
+
+2023-10-10 10:38:54;   0.0%;  7.3;kWork;psi_avgs_work; 29.2 mW  
+
+2023-10-10 10:38:54;   1.0%; 0.00;Process;[PID 127797] powertop --csv=powertop_output.csv ; 15.6 mW  
+
+2023-10-10 10:38:54;   0.0%;  2.5;Process;[PID 15] [rcu_sched]; 10.2 mW  
+
+2023-10-10 10:38:54; 
+
+2023-10-10 10:39:18;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:39:18; 
+
+2023-10-10 10:39:18; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:39:18;  93.5%; 0.25;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:39:18;   0.1%;173.5;kWork;dbs_work_handler;  686 mW  
+
+2023-10-10 10:39:18;   0.2%;125.7;Interrupt;[3] net_rx(softirq);  500 mW  
+
+2023-10-10 10:39:18;   0.1%; 34.8;Timer;tick_sched_timer;  139 mW  
+
+2023-10-10 10:39:18;   6.3%; 0.05;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 99.2 mW  
+
+2023-10-10 10:39:18;   0.0%;  8.0;Timer;watchdog_timer_fn; 31.8 mW  
+
+2023-10-10 10:39:18;   0.7%;  4.2;Process;[PID 84395] avahi-daemon: running [icns.local] ; 27.3 mW  
+
+2023-10-10 10:39:18;   0.0%;  6.4;kWork;psi_avgs_work; 25.4 mW  
+
+2023-10-10 10:39:18;   1.0%; 0.00;Process;[PID 127808] powertop --csv=powertop_output.csv ; 16.1 mW  
+
+2023-10-10 10:39:18;   0.0%;  2.1;Process;[PID 15] [rcu_sched]; 8.62 mW  
+
+2023-10-10 10:39:18; 
+
+2023-10-10 10:39:41;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:39:41; 
+
+2023-10-10 10:39:41; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:39:41;  92.7%; 0.15;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.45 W  
+
+2023-10-10 10:39:41;   0.1%;169.8;kWork;dbs_work_handler;  672 mW  
+
+2023-10-10 10:39:41;   0.3%;130.7;Interrupt;[3] net_rx(softirq);  521 mW  
+
+2023-10-10 10:39:41;   0.1%; 33.5;Timer;tick_sched_timer;  135 mW  
+
+2023-10-10 10:39:41;   7.2%; 0.05;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ;  113 mW  
+
+2023-10-10 10:39:41;   0.6%;  9.1;Process;[PID 84395] avahi-daemon: running [icns.local] ; 45.5 mW  
+
+2023-10-10 10:39:41;   0.0%;  7.5;Timer;watchdog_timer_fn; 29.8 mW  
+
+2023-10-10 10:39:41;   0.0%;  5.6;kWork;psi_avgs_work; 22.5 mW  
+
+2023-10-10 10:39:41;   0.0%;  4.4;kWork;fb_flashcursor; 17.4 mW  
+
+2023-10-10 10:39:41;   1.0%; 0.05;Process;[PID 127821] powertop --csv=powertop_output.csv ; 16.4 mW  
+
+2023-10-10 10:39:41; 
+
+2023-10-10 10:40:05;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:40:05; 
+
+2023-10-10 10:40:05; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:40:05;  93.5%; 0.15;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:40:05;   0.1%;164.7;kWork;dbs_work_handler;  652 mW  
+
+2023-10-10 10:40:05;   0.2%;118.4;Interrupt;[3] net_rx(softirq);  471 mW  
+
+2023-10-10 10:40:05;   0.1%; 31.5;Timer;tick_sched_timer;  126 mW  
+
+2023-10-10 10:40:05;   6.4%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 99.6 mW  
+
+2023-10-10 10:40:05;   0.5%;  6.5;Process;[PID 84395] avahi-daemon: running [icns.local] ; 32.9 mW  
+
+2023-10-10 10:40:05;   0.0%;  7.9;Timer;watchdog_timer_fn; 31.2 mW  
+
+2023-10-10 10:40:05;   0.0%;  5.8;kWork;psi_avgs_work; 23.1 mW  
+
+2023-10-10 10:40:05;   0.0%;  4.6;kWork;fb_flashcursor; 18.2 mW  
+
+2023-10-10 10:40:05;   1.1%; 0.00;Process;[PID 127834] powertop --csv=powertop_output.csv ; 17.7 mW  
+
+2023-10-10 10:40:05; 
+
+2023-10-10 10:40:30;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:40:30; 
+
+2023-10-10 10:40:30; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:40:30;  92.7%; 0.25;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.45 W  
+
+2023-10-10 10:40:30;   0.1%;172.0;kWork;dbs_work_handler;  681 mW  
+
+2023-10-10 10:40:30;   0.3%;126.5;Interrupt;[3] net_rx(softirq);  504 mW  
+
+2023-10-10 10:40:30;   0.1%; 33.7;Timer;tick_sched_timer;  135 mW  
+
+2023-10-10 10:40:30;   7.2%; 0.10;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ;  112 mW  
+
+2023-10-10 10:40:30;   0.8%; 11.2;Process;[PID 84395] avahi-daemon: running [icns.local] ; 56.3 mW  
+
+2023-10-10 10:40:30;   0.0%;  8.5;Timer;watchdog_timer_fn; 33.6 mW  
+
+2023-10-10 10:40:30;   0.0%;  5.9;kWork;psi_avgs_work; 23.6 mW  
+
+2023-10-10 10:40:30;   1.5%; 0.00;Process;[PID 127846] powertop --csv=powertop_output.csv ; 23.0 mW  
+
+2023-10-10 10:40:30;   0.0%;  3.4;kWork;fb_flashcursor; 13.7 mW  
+
+2023-10-10 10:40:30; 
+
+2023-10-10 10:40:53;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:40:53; 
+
+2023-10-10 10:40:53; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:40:53;  93.6%; 0.30;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:40:53;   0.1%;184.2;kWork;dbs_work_handler;  729 mW  
+
+2023-10-10 10:40:53;   0.3%;139.7;Interrupt;[3] net_rx(softirq);  556 mW  
+
+2023-10-10 10:40:53;   0.1%; 40.5;Timer;tick_sched_timer;  162 mW  
+
+2023-10-10 10:40:53;   6.3%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 98.1 mW  
+
+2023-10-10 10:40:53;   0.6%;  9.5;Process;[PID 84395] avahi-daemon: running [icns.local] ; 46.8 mW  
+
+2023-10-10 10:40:53;   0.0%;  7.9;Timer;watchdog_timer_fn; 31.4 mW  
+
+2023-10-10 10:40:53;   0.0%;  6.0;kWork;psi_avgs_work; 24.1 mW  
+
+2023-10-10 10:40:53;   1.1%; 0.30;Process;[PID 123800] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node --dns-result-order=ipv4first /home/icn; 18.4 mW  
+
+2023-10-10 10:40:53;   1.0%; 0.00;Process;[PID 127858] powertop --csv=powertop_output.csv ; 15.3 mW  
+
+2023-10-10 10:40:53; 
+
+2023-10-10 10:41:17;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:41:17; 
+
+2023-10-10 10:41:17; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:41:17;  92.7%; 0.05;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.45 W  
+
+2023-10-10 10:41:17;   0.1%;164.2;kWork;dbs_work_handler;  650 mW  
+
+2023-10-10 10:41:17;   0.2%;115.4;Interrupt;[3] net_rx(softirq);  459 mW  
+
+2023-10-10 10:41:17;   0.1%; 32.0;Timer;tick_sched_timer;  128 mW  
+
+2023-10-10 10:41:17;   7.2%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ;  113 mW  
+
+2023-10-10 10:41:17;   0.0%;  8.3;Timer;watchdog_timer_fn; 33.1 mW  
+
+2023-10-10 10:41:17;   0.0%;  6.4;kWork;psi_avgs_work; 25.4 mW  
+
+2023-10-10 10:41:17;   0.5%;  3.9;Process;[PID 84395] avahi-daemon: running [icns.local] ; 23.3 mW  
+
+2023-10-10 10:41:17;   0.0%;  4.4;kWork;fb_flashcursor; 17.6 mW  
+
+2023-10-10 10:41:17;   1.1%; 0.05;Process;[PID 127870] powertop --csv=powertop_output.csv ; 16.7 mW  
+
+2023-10-10 10:41:17; 
+
+2023-10-10 10:41:41;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:41:41; 
+
+2023-10-10 10:41:41; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:41:41;  93.6%; 0.15;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:41:41;   0.1%;162.6;kWork;dbs_work_handler;  643 mW  
+
+2023-10-10 10:41:41;   0.2%;122.1;Interrupt;[3] net_rx(softirq);  486 mW  
+
+2023-10-10 10:41:41;   0.1%; 30.4;Timer;tick_sched_timer;  122 mW  
+
+2023-10-10 10:41:41;   6.3%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 98.0 mW  
+
+2023-10-10 10:41:41;   0.0%;  7.4;Timer;watchdog_timer_fn; 29.3 mW  
+
+2023-10-10 10:41:41;   0.0%;  5.5;kWork;psi_avgs_work; 22.1 mW  
+
+2023-10-10 10:41:41;   0.3%;  3.3;Process;[PID 84395] avahi-daemon: running [icns.local] ; 18.1 mW  
+
+2023-10-10 10:41:41;   1.0%; 0.00;Process;[PID 127881] powertop --csv=powertop_output.csv ; 16.2 mW  
+
+2023-10-10 10:41:41;   0.0%;  2.5;Process;[PID 1739] /usr/bin/containerd ; 10.3 mW  
+
+2023-10-10 10:41:41; 
+
+2023-10-10 10:42:04;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:42:04; 
+
+2023-10-10 10:42:04; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:42:04;  93.6%; 0.10;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:42:04;   0.1%;159.2;kWork;dbs_work_handler;  630 mW  
+
+2023-10-10 10:42:04;   0.2%;105.6;Interrupt;[3] net_rx(softirq);  420 mW  
+
+2023-10-10 10:42:04;   0.1%; 31.9;Timer;tick_sched_timer;  128 mW  
+
+2023-10-10 10:42:04;   6.3%; 0.05;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 98.4 mW  
+
+2023-10-10 10:42:04;   0.0%;  7.4;Timer;watchdog_timer_fn; 29.5 mW  
+
+2023-10-10 10:42:04;   0.0%;  6.3;kWork;psi_avgs_work; 25.3 mW  
+
+2023-10-10 10:42:04;   0.3%;  3.0;Process;[PID 84395] avahi-daemon: running [icns.local] ; 16.2 mW  
+
+2023-10-10 10:42:04;   0.0%;  4.0;kWork;fb_flashcursor; 15.9 mW  
+
+2023-10-10 10:42:04;   1.0%; 0.05;Process;[PID 127896] powertop --csv=powertop_output.csv ; 15.5 mW  
+
+2023-10-10 10:42:04; 
+
+2023-10-10 10:42:28;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:42:28; 
+
+2023-10-10 10:42:28; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:42:28;  93.2%; 0.30;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.45 W  
+
+2023-10-10 10:42:28;   0.1%;157.5;kWork;dbs_work_handler;  623 mW  
+
+2023-10-10 10:42:28;   0.2%;103.0;Interrupt;[3] net_rx(softirq);  410 mW  
+
+2023-10-10 10:42:28;   0.1%; 35.1;Timer;tick_sched_timer;  141 mW  
+
+2023-10-10 10:42:28;   6.7%; 0.05;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ;  105 mW  
+
+2023-10-10 10:42:28;   0.0%;  8.4;Timer;watchdog_timer_fn; 33.4 mW  
+
+2023-10-10 10:42:28;   0.0%;  6.1;kWork;psi_avgs_work; 24.4 mW  
+
+2023-10-10 10:42:28;   0.3%;  4.3;Process;[PID 84395] avahi-daemon: running [icns.local] ; 21.6 mW  
+
+2023-10-10 10:42:28;   0.0%;  4.9;kWork;fb_flashcursor; 19.4 mW  
+
+2023-10-10 10:42:28;   1.0%; 0.05;Process;[PID 127907] powertop --csv=powertop_output.csv ; 16.4 mW  
+
+2023-10-10 10:42:28; 
+
+2023-10-10 10:42:51;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:42:51; 
+
+2023-10-10 10:42:51; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:42:51;  93.6%; 0.20;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:42:51;   0.1%;157.3;kWork;dbs_work_handler;  622 mW  
+
+2023-10-10 10:42:51;   0.2%;104.7;Interrupt;[3] net_rx(softirq);  417 mW  
+
+2023-10-10 10:42:51;   0.1%; 31.5;Timer;tick_sched_timer;  126 mW  
+
+2023-10-10 10:42:51;   6.3%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 98.6 mW  
+
+2023-10-10 10:42:51;   0.0%;  8.0;Timer;watchdog_timer_fn; 31.8 mW  
+
+2023-10-10 10:42:51;   0.0%;  5.9;kWork;psi_avgs_work; 23.7 mW  
+
+2023-10-10 10:42:51;   0.3%;  4.1;Process;[PID 84395] avahi-daemon: running [icns.local] ; 21.1 mW  
+
+2023-10-10 10:42:51;   0.0%;  4.8;kWork;fb_flashcursor; 19.2 mW  
+
+2023-10-10 10:42:51;   1.0%; 0.00;Process;[PID 127919] powertop --csv=powertop_output.csv ; 15.9 mW  
+
+2023-10-10 10:42:51; 
+
+2023-10-10 10:43:15;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:43:15; 
+
+2023-10-10 10:43:15; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:43:15;  93.6%; 0.20;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:43:15;   0.1%;169.4;kWork;dbs_work_handler;  670 mW  
+
+2023-10-10 10:43:15;   0.2%;116.7;Interrupt;[3] net_rx(softirq);  465 mW  
+
+2023-10-10 10:43:15;   0.1%; 35.6;Timer;tick_sched_timer;  143 mW  
+
+2023-10-10 10:43:15;   6.3%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 97.8 mW  
+
+2023-10-10 10:43:15;   0.7%;  6.4;Process;[PID 84395] avahi-daemon: running [icns.local] ; 36.4 mW  
+
+2023-10-10 10:43:15;   0.0%;  7.7;Timer;watchdog_timer_fn; 30.6 mW  
+
+2023-10-10 10:43:15;   0.0%;  6.2;kWork;psi_avgs_work; 24.9 mW  
+
+2023-10-10 10:43:15;   0.0%;  4.4;kWork;fb_flashcursor; 17.6 mW  
+
+2023-10-10 10:43:15;   1.0%; 0.00;Process;[PID 127930] powertop --csv=powertop_output.csv ; 15.3 mW  
+
+2023-10-10 10:43:15; 
+
+2023-10-10 10:43:38;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:43:38; 
+
+2023-10-10 10:43:38; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:43:38;  93.7%;  0.4;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:43:38;   0.1%;159.2;kWork;dbs_work_handler;  630 mW  
+
+2023-10-10 10:43:38;   0.2%;118.2;Interrupt;[3] net_rx(softirq);  470 mW  
+
+2023-10-10 10:43:38;   0.1%; 30.6;Timer;tick_sched_timer;  123 mW  
+
+2023-10-10 10:43:38;   6.2%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 96.9 mW  
+
+2023-10-10 10:43:38;   0.0%;  7.9;Timer;watchdog_timer_fn; 31.2 mW  
+
+2023-10-10 10:43:38;   0.0%;  5.8;kWork;psi_avgs_work; 23.3 mW  
+
+2023-10-10 10:43:38;   0.4%;  4.0;Process;[PID 84395] avahi-daemon: running [icns.local] ; 21.5 mW  
+
+2023-10-10 10:43:38;   0.0%;  4.4;kWork;fb_flashcursor; 17.4 mW  
+
+2023-10-10 10:43:38;   1.0%; 0.00;Process;[PID 127941] powertop --csv=powertop_output.csv ; 15.2 mW  
+
+2023-10-10 10:43:38; 
+
+2023-10-10 10:44:02;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:44:02; 
+
+2023-10-10 10:44:02; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:44:02;  92.6%;  0.5;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.45 W  
+
+2023-10-10 10:44:02;   0.1%;173.4;kWork;dbs_work_handler;  686 mW  
+
+2023-10-10 10:44:02;   0.3%;137.6;Interrupt;[3] net_rx(softirq);  548 mW  
+
+2023-10-10 10:44:02;   0.1%; 36.3;Timer;tick_sched_timer;  145 mW  
+
+2023-10-10 10:44:02;   7.3%; 0.10;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ;  115 mW  
+
+2023-10-10 10:44:02;   0.5%;  6.2;Process;[PID 84395] avahi-daemon: running [icns.local] ; 32.8 mW  
+
+2023-10-10 10:44:02;   0.0%;  8.1;Timer;watchdog_timer_fn; 32.4 mW  
+
+2023-10-10 10:44:02;   0.0%;  5.8;kWork;psi_avgs_work; 23.3 mW  
+
+2023-10-10 10:44:02;   1.1%; 0.00;Process;[PID 127952] powertop --csv=powertop_output.csv ; 16.4 mW  
+
+2023-10-10 10:44:02;   0.0%;  2.2;Interrupt;[301] ahci[0000:00:17.0]; 8.62 mW  
+
+2023-10-10 10:44:02; 
+
+2023-10-10 10:44:25;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:44:25; 
+
+2023-10-10 10:44:25; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:44:25;  93.6%; 0.15;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:44:25;   0.1%;158.3;kWork;dbs_work_handler;  626 mW  
+
+2023-10-10 10:44:25;   0.2%;113.4;Interrupt;[3] net_rx(softirq);  451 mW  
+
+2023-10-10 10:44:25;   0.1%; 32.2;Timer;tick_sched_timer;  129 mW  
+
+2023-10-10 10:44:25;   6.3%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 97.7 mW  
+
+2023-10-10 10:44:25;   0.0%;  7.7;Timer;watchdog_timer_fn; 30.6 mW  
+
+2023-10-10 10:44:25;   0.0%;  5.9;kWork;psi_avgs_work; 23.7 mW  
+
+2023-10-10 10:44:25;   0.0%;  4.6;kWork;fb_flashcursor; 18.4 mW  
+
+2023-10-10 10:44:25;   1.1%; 0.00;Process;[PID 127968] powertop --csv=powertop_output.csv ; 16.5 mW  
+
+2023-10-10 10:44:25;   0.3%;  2.8;Process;[PID 84395] avahi-daemon: running [icns.local] ; 16.3 mW  
+
+2023-10-10 10:44:25; 
+
+2023-10-10 10:44:50;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:44:50; 
+
+2023-10-10 10:44:50; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:44:50;  92.7%;  9.4;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.48 W  
+
+2023-10-10 10:44:50;   0.1%;152.3;kWork;dbs_work_handler;  602 mW  
+
+2023-10-10 10:44:50;   0.2%;118.9;Interrupt;[3] net_rx(softirq);  473 mW  
+
+2023-10-10 10:44:50;   0.1%; 35.9;Timer;tick_sched_timer;  144 mW  
+
+2023-10-10 10:44:50;   7.2%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ;  113 mW  
+
+2023-10-10 10:44:50;   0.0%;  8.0;Timer;watchdog_timer_fn; 31.8 mW  
+
+2023-10-10 10:44:50;   1.5%; 0.00;Process;[PID 127979] powertop --csv=powertop_output.csv ; 23.9 mW  
+
+2023-10-10 10:44:50;   0.3%;  4.7;Process;[PID 84395] avahi-daemon: running [icns.local] ; 23.8 mW  
+
+2023-10-10 10:44:50;   0.0%;  5.6;kWork;psi_avgs_work; 22.4 mW  
+
+2023-10-10 10:44:50;   0.0%;  3.4;kWork;fb_flashcursor; 13.7 mW  
+
+2023-10-10 10:44:50; 
+
+2023-10-10 10:45:13;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:45:13; 
+
+2023-10-10 10:45:13; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:45:13;  93.8%; 0.15;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:45:13;   0.1%;155.9;kWork;dbs_work_handler;  617 mW  
+
+2023-10-10 10:45:13;   0.2%;115.8;Interrupt;[3] net_rx(softirq);  461 mW  
+
+2023-10-10 10:45:13;   0.1%; 31.6;Timer;tick_sched_timer;  127 mW  
+
+2023-10-10 10:45:13;   6.1%; 0.05;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 95.1 mW  
+
+2023-10-10 10:45:13;   0.0%;  8.0;Timer;watchdog_timer_fn; 31.8 mW  
+
+2023-10-10 10:45:13;   0.0%;  5.6;kWork;psi_avgs_work; 22.5 mW  
+
+2023-10-10 10:45:13;   0.0%;  4.9;kWork;fb_flashcursor; 19.4 mW  
+
+2023-10-10 10:45:13;   1.1%; 0.10;Process;[PID 127990] powertop --csv=powertop_output.csv ; 17.2 mW  
+
+2023-10-10 10:45:13;   0.3%;  2.8;Process;[PID 84395] avahi-daemon: running [icns.local] ; 16.3 mW  
+
+2023-10-10 10:45:13; 
+
+2023-10-10 10:45:36;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:45:36; 
+
+2023-10-10 10:45:36; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:45:36;  93.7%; 0.10;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:45:36;   0.1%;168.0;kWork;dbs_work_handler;  665 mW  
+
+2023-10-10 10:45:36;   0.3%;152.7;Interrupt;[3] net_rx(softirq);  608 mW  
+
+2023-10-10 10:45:36;   0.1%; 38.9;Timer;tick_sched_timer;  156 mW  
+
+2023-10-10 10:45:36;   6.2%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 97.1 mW  
+
+2023-10-10 10:45:36;   0.8%; 18.5;Process;[PID 84395] avahi-daemon: running [icns.local] ; 85.2 mW  
+
+2023-10-10 10:45:36;   0.0%;  8.2;Timer;watchdog_timer_fn; 32.4 mW  
+
+2023-10-10 10:45:36;   0.0%;  5.8;kWork;psi_avgs_work; 23.1 mW  
+
+2023-10-10 10:45:36;   1.0%; 0.05;Process;[PID 128001] powertop --csv=powertop_output.csv ; 15.7 mW  
+
+2023-10-10 10:45:36;   0.0%;  3.0;kWork;fb_flashcursor; 11.8 mW  
+
+2023-10-10 10:45:36; 
+
+2023-10-10 10:46:01;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:46:01; 
+
+2023-10-10 10:46:01; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:46:01;  93.7%;  0.5;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:46:01;   0.4%;182.5;Interrupt;[3] net_rx(softirq);  727 mW  
+
+2023-10-10 10:46:01;   0.1%;178.9;kWork;dbs_work_handler;  708 mW  
+
+2023-10-10 10:46:01;   0.1%; 52.6;Timer;tick_sched_timer;  210 mW  
+
+2023-10-10 10:46:01;   1.0%; 21.6;Process;[PID 84395] avahi-daemon: running [icns.local] ;  101 mW  
+
+2023-10-10 10:46:01;   6.2%;  0.3;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 97.9 mW  
+
+2023-10-10 10:46:01;   0.0%;  8.2;Timer;watchdog_timer_fn; 32.6 mW  
+
+2023-10-10 10:46:01;   0.0%;  5.9;kWork;psi_avgs_work; 23.6 mW  
+
+2023-10-10 10:46:01;   1.4%; 0.05;Process;[PID 128012] powertop --csv=powertop_output.csv ; 21.7 mW  
+
+2023-10-10 10:46:01;   0.0%;  4.3;kWork;fb_flashcursor; 17.2 mW  
+
+2023-10-10 10:46:01; 
+
+2023-10-10 10:46:24;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:46:24; 
+
+2023-10-10 10:46:24; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:46:24;  93.6%; 0.30;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:46:24;   0.1%;168.5;kWork;dbs_work_handler;  666 mW  
+
+2023-10-10 10:46:24;   0.2%;127.8;Interrupt;[3] net_rx(softirq);  509 mW  
+
+2023-10-10 10:46:24;   0.1%; 34.7;Timer;tick_sched_timer;  139 mW  
+
+2023-10-10 10:46:24;   6.3%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 97.7 mW  
+
+2023-10-10 10:46:24;   0.0%;  8.3;Timer;watchdog_timer_fn; 32.8 mW  
+
+2023-10-10 10:46:24;   0.0%;  6.3;kWork;psi_avgs_work; 25.2 mW  
+
+2023-10-10 10:46:24;   0.3%;  2.9;Process;[PID 84395] avahi-daemon: running [icns.local] ; 16.7 mW  
+
+2023-10-10 10:46:24;   1.0%; 0.00;Process;[PID 128027] powertop --csv=powertop_output.csv ; 15.6 mW  
+
+2023-10-10 10:46:24;   0.0%;  2.3;Interrupt;[301] ahci[0000:00:17.0]; 9.02 mW  
+
+2023-10-10 10:46:24; 
+
+2023-10-10 10:46:47;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:46:47; 
+
+2023-10-10 10:46:47; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:46:47;  92.8%;  1.3;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.45 W  
+
+2023-10-10 10:46:47;   0.1%;158.6;kWork;dbs_work_handler;  628 mW  
+
+2023-10-10 10:46:47;   0.2%;108.3;Interrupt;[3] net_rx(softirq);  431 mW  
+
+2023-10-10 10:46:47;   0.1%; 32.3;Timer;tick_sched_timer;  130 mW  
+
+2023-10-10 10:46:47;   7.1%; 0.05;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ;  111 mW  
+
+2023-10-10 10:46:47;   0.0%;  7.8;Timer;watchdog_timer_fn; 30.8 mW  
+
+2023-10-10 10:46:47;   0.0%;  6.6;kWork;psi_avgs_work; 26.2 mW  
+
+2023-10-10 10:46:47;   0.3%;  4.2;Process;[PID 84395] avahi-daemon: running [icns.local] ; 21.3 mW  
+
+2023-10-10 10:46:47;   1.0%; 0.00;Process;[PID 128039] powertop --csv=powertop_output.csv ; 15.6 mW  
+
+2023-10-10 10:46:47;   0.0%;  3.9;kWork;fb_flashcursor; 15.5 mW  
+
+2023-10-10 10:46:47; 
+
+2023-10-10 10:47:11;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:47:11; 
+
+2023-10-10 10:47:11; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:47:11;  93.7%; 0.15;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:47:11;   0.1%;160.4;kWork;dbs_work_handler;  635 mW  
+
+2023-10-10 10:47:11;   0.2%;109.4;Interrupt;[3] net_rx(softirq);  436 mW  
+
+2023-10-10 10:47:11;   0.1%; 31.6;Timer;tick_sched_timer;  127 mW  
+
+2023-10-10 10:47:11;   6.3%; 0.25;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 99.8 mW  
+
+2023-10-10 10:47:11;   0.5%;  6.3;Process;[PID 84395] avahi-daemon: running [icns.local] ; 33.1 mW  
+
+2023-10-10 10:47:11;   0.0%;  8.2;Timer;watchdog_timer_fn; 32.4 mW  
+
+2023-10-10 10:47:11;   0.0%;  5.4;kWork;psi_avgs_work; 21.5 mW  
+
+2023-10-10 10:47:11;   1.0%; 0.00;Process;[PID 128051] powertop --csv=powertop_output.csv ; 15.6 mW  
+
+2023-10-10 10:47:11;   0.0%;  3.5;kWork;fb_flashcursor; 13.9 mW  
+
+2023-10-10 10:47:11; 
+
+2023-10-10 10:47:34;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:47:34; 
+
+2023-10-10 10:47:34; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:47:34;  93.5%;  1.3;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:47:34;   0.1%;161.3;kWork;dbs_work_handler;  638 mW  
+
+2023-10-10 10:47:34;   0.3%;112.7;Interrupt;[3] net_rx(softirq);  449 mW  
+
+2023-10-10 10:47:34;   0.1%; 34.0;Timer;tick_sched_timer;  136 mW  
+
+2023-10-10 10:47:34;   6.4%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ;  100 mW  
+
+2023-10-10 10:47:34;   0.5%; 13.1;Process;[PID 84395] avahi-daemon: running [icns.local] ; 59.0 mW  
+
+2023-10-10 10:47:34;   0.0%;  8.4;Timer;watchdog_timer_fn; 33.4 mW  
+
+2023-10-10 10:47:34;   0.0%;  5.6;kWork;psi_avgs_work; 22.3 mW  
+
+2023-10-10 10:47:34;   1.0%; 0.05;Process;[PID 128062] powertop --csv=powertop_output.csv ; 16.1 mW  
+
+2023-10-10 10:47:34;   0.0%;  3.2;kWork;fb_flashcursor; 12.8 mW  
+
+2023-10-10 10:47:34; 
+
+2023-10-10 10:47:58;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:47:58; 
+
+2023-10-10 10:47:58; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:47:58;  90.8%; 0.10;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.42 W  
+
+2023-10-10 10:47:58;   0.1%;168.2;kWork;dbs_work_handler;  665 mW  
+
+2023-10-10 10:47:58;   0.2%;110.5;Interrupt;[3] net_rx(softirq);  440 mW  
+
+2023-10-10 10:47:58;   9.1%; 0.05;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ;  142 mW  
+
+2023-10-10 10:47:58;   0.1%; 33.6;Timer;tick_sched_timer;  135 mW  
+
+2023-10-10 10:47:58;   0.0%;  7.7;Timer;watchdog_timer_fn; 30.4 mW  
+
+2023-10-10 10:47:58;   0.4%;  5.5;Process;[PID 84395] avahi-daemon: running [icns.local] ; 27.4 mW  
+
+2023-10-10 10:47:58;   0.0%;  6.5;kWork;psi_avgs_work; 26.0 mW  
+
+2023-10-10 10:47:58;   1.0%; 0.00;Process;[PID 128074] powertop --csv=powertop_output.csv ; 16.2 mW  
+
+2023-10-10 10:47:58;   0.0%;  2.5;Process;[PID 15] [rcu_sched]; 10.0 mW  
+
+2023-10-10 10:47:58; 
+
+2023-10-10 10:48:22;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:48:22; 
+
+2023-10-10 10:48:22; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:48:22;  92.5%;  0.8;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.45 W  
+
+2023-10-10 10:48:22;   0.1%;169.1;kWork;dbs_work_handler;  669 mW  
+
+2023-10-10 10:48:22;   0.3%;126.0;Interrupt;[3] net_rx(softirq);  502 mW  
+
+2023-10-10 10:48:22;   0.1%; 34.5;Timer;tick_sched_timer;  138 mW  
+
+2023-10-10 10:48:22;   7.3%;  0.4;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ;  116 mW  
+
+2023-10-10 10:48:22;   0.0%;  7.2;Timer;watchdog_timer_fn; 28.6 mW  
+
+2023-10-10 10:48:22;   0.0%;  5.9;kWork;psi_avgs_work; 23.5 mW  
+
+2023-10-10 10:48:22;   0.4%;  4.1;Process;[PID 84395] avahi-daemon: running [icns.local] ; 22.5 mW  
+
+2023-10-10 10:48:22;   1.1%; 0.00;Process;[PID 128085] powertop --csv=powertop_output.csv ; 16.4 mW  
+
+2023-10-10 10:48:22;   0.0%;  2.5;Process;[PID 128096] sensors; 10.5 mW  
+
+2023-10-10 10:48:22; 
+
+2023-10-10 10:48:46;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:48:46; 
+
+2023-10-10 10:48:46; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:48:46;  93.6%; 0.20;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:48:46;   0.1%;155.1;kWork;dbs_work_handler;  614 mW  
+
+2023-10-10 10:48:46;   0.2%; 97.8;Interrupt;[3] net_rx(softirq);  390 mW  
+
+2023-10-10 10:48:46;   0.1%; 33.3;Timer;tick_sched_timer;  134 mW  
+
+2023-10-10 10:48:46;   6.4%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 99.4 mW  
+
+2023-10-10 10:48:46;   0.0%;  6.9;Timer;watchdog_timer_fn; 27.3 mW  
+
+2023-10-10 10:48:46;   0.3%;  4.7;Process;[PID 84395] avahi-daemon: running [icns.local] ; 22.6 mW  
+
+2023-10-10 10:48:46;   0.0%;  5.5;kWork;psi_avgs_work; 22.1 mW  
+
+2023-10-10 10:48:46;   0.0%;  4.4;Process;[PID 1700] /usr/bin/containerd ; 18.0 mW  
+
+2023-10-10 10:48:46;   1.1%; 0.00;Process;[PID 128100] powertop --csv=powertop_output.csv ; 17.1 mW  
+
+2023-10-10 10:48:46; 
+
+2023-10-10 10:49:09;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:49:09; 
+
+2023-10-10 10:49:09; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:49:09;  93.2%; 0.20;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.45 W  
+
+2023-10-10 10:49:09;   0.1%;159.9;kWork;dbs_work_handler;  633 mW  
+
+2023-10-10 10:49:09;   0.2%;111.8;Interrupt;[3] net_rx(softirq);  445 mW  
+
+2023-10-10 10:49:09;   0.1%; 35.7;Timer;tick_sched_timer;  143 mW  
+
+2023-10-10 10:49:09;   6.7%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ;  104 mW  
+
+2023-10-10 10:49:09;   0.0%;  7.1;kWork;psi_avgs_work; 28.2 mW  
+
+2023-10-10 10:49:09;   0.0%;  6.6;Timer;watchdog_timer_fn; 26.1 mW  
+
+2023-10-10 10:49:09;   1.0%; 0.00;Process;[PID 128111] powertop --csv=powertop_output.csv ; 16.1 mW  
+
+2023-10-10 10:49:09;   0.3%;  2.8;Process;[PID 84395] avahi-daemon: running [icns.local] ; 16.0 mW  
+
+2023-10-10 10:49:09;   0.0%;  3.8;Process;[PID 1700] /usr/bin/containerd ; 15.5 mW  
+
+2023-10-10 10:49:09; 
+
+2023-10-10 10:49:33;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:49:33; 
+
+2023-10-10 10:49:33; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:49:33;  90.6%; 0.15;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.41 W  
+
+2023-10-10 10:49:33;   0.1%;158.8;kWork;dbs_work_handler;  628 mW  
+
+2023-10-10 10:49:33;   0.2%;117.6;Interrupt;[3] net_rx(softirq);  468 mW  
+
+2023-10-10 10:49:33;   9.3%; 0.10;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ;  146 mW  
+
+2023-10-10 10:49:33;   0.1%; 32.3;Timer;tick_sched_timer;  130 mW  
+
+2023-10-10 10:49:33;   0.0%;  7.3;Timer;watchdog_timer_fn; 29.1 mW  
+
+2023-10-10 10:49:33;   1.5%; 0.00;Process;[PID 128122] powertop --csv=powertop_output.csv ; 23.3 mW  
+
+2023-10-10 10:49:33;   0.0%;  5.6;kWork;psi_avgs_work; 22.2 mW  
+
+2023-10-10 10:49:33;   0.0%;  4.7;kWork;fb_flashcursor; 18.5 mW  
+
+2023-10-10 10:49:33;   0.3%;  2.9;Process;[PID 84395] avahi-daemon: running [icns.local] ; 16.3 mW  
+
+2023-10-10 10:49:33; 
+
+2023-10-10 10:49:58;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:49:58; 
+
+2023-10-10 10:49:58; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:49:58;  93.6%; 0.15;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:49:58;   0.1%;156.6;kWork;dbs_work_handler;  620 mW  
+
+2023-10-10 10:49:58;   0.2%;109.3;Interrupt;[3] net_rx(softirq);  435 mW  
+
+2023-10-10 10:49:58;   0.1%; 32.3;Timer;tick_sched_timer;  129 mW  
+
+2023-10-10 10:49:58;   6.3%; 0.05;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 97.9 mW  
+
+2023-10-10 10:49:58;   0.0%;  7.3;Timer;watchdog_timer_fn; 28.8 mW  
+
+2023-10-10 10:49:58;   0.0%;  5.8;kWork;psi_avgs_work; 23.3 mW  
+
+2023-10-10 10:49:58;   1.1%; 0.10;Process;[PID 128133] powertop --csv=powertop_output.csv ; 18.2 mW  
+
+2023-10-10 10:49:58;   0.3%;  3.1;Process;[PID 84395] avahi-daemon: running [icns.local] ; 16.7 mW  
+
+2023-10-10 10:49:58;   0.0%;  3.1;Interrupt;[301] ahci[0000:00:17.0]; 12.3 mW  
+
+2023-10-10 10:49:58; 
+
+2023-10-10 10:50:21;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:50:21; 
+
+2023-10-10 10:50:21; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:50:21;  93.6%; 0.05;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:50:21;   0.1%;155.3;kWork;dbs_work_handler;  614 mW  
+
+2023-10-10 10:50:21;   0.2%;102.6;Interrupt;[3] net_rx(softirq);  408 mW  
+
+2023-10-10 10:50:21;   0.1%; 33.7;Timer;tick_sched_timer;  135 mW  
+
+2023-10-10 10:50:21;   6.2%; 0.10;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 97.4 mW  
+
+2023-10-10 10:50:21;   0.0%;  6.9;Timer;watchdog_timer_fn; 27.3 mW  
+
+2023-10-10 10:50:21;   0.0%;  6.1;kWork;psi_avgs_work; 24.2 mW  
+
+2023-10-10 10:50:21;   0.0%;  4.8;kWork;fb_flashcursor; 19.2 mW  
+
+2023-10-10 10:50:21;   1.1%; 0.05;Process;[PID 128145] powertop --csv=powertop_output.csv ; 17.9 mW  
+
+2023-10-10 10:50:21;   0.3%;  3.2;Process;[PID 84395] avahi-daemon: running [icns.local] ; 17.0 mW  
+
+2023-10-10 10:50:21; 
+
+2023-10-10 10:50:44;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:50:44; 
+
+2023-10-10 10:50:44; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:50:44;  91.5%; 0.05;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.43 W  
+
+2023-10-10 10:50:44;   0.1%;156.5;kWork;dbs_work_handler;  619 mW  
+
+2023-10-10 10:50:44;   0.2%;115.2;Interrupt;[3] net_rx(softirq);  459 mW  
+
+2023-10-10 10:50:44;   8.3%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ;  130 mW  
+
+2023-10-10 10:50:44;   0.1%; 31.5;Timer;tick_sched_timer;  127 mW  
+
+2023-10-10 10:50:44;   0.0%;  7.7;Timer;watchdog_timer_fn; 30.4 mW  
+
+2023-10-10 10:50:44;   0.0%;  5.9;kWork;psi_avgs_work; 23.5 mW  
+
+2023-10-10 10:50:44;   1.1%; 0.05;Process;[PID 128159] powertop --csv=powertop_output.csv ; 17.3 mW  
+
+2023-10-10 10:50:44;   0.0%;  4.1;kWork;fb_flashcursor; 16.5 mW  
+
+2023-10-10 10:50:44;   0.3%;  2.5;Process;[PID 84395] avahi-daemon: running [icns.local] ; 14.6 mW  
+
+2023-10-10 10:50:44; 
+
+2023-10-10 10:51:08;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:51:08; 
+
+2023-10-10 10:51:08; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:51:08;  92.6%; 0.10;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.44 W  
+
+2023-10-10 10:51:08;   0.1%;162.4;kWork;dbs_work_handler;  642 mW  
+
+2023-10-10 10:51:08;   0.2%;107.0;Interrupt;[3] net_rx(softirq);  426 mW  
+
+2023-10-10 10:51:08;   0.1%; 35.7;Timer;tick_sched_timer;  143 mW  
+
+2023-10-10 10:51:08;   7.3%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ;  113 mW  
+
+2023-10-10 10:51:08;   0.0%;  7.2;Timer;watchdog_timer_fn; 28.6 mW  
+
+2023-10-10 10:51:08;   0.0%;  6.5;kWork;psi_avgs_work; 26.0 mW  
+
+2023-10-10 10:51:08;   1.3%; 0.05;Process;[PID 128172] powertop --csv=powertop_output.csv ; 21.1 mW  
+
+2023-10-10 10:51:08;   0.3%;  2.9;Process;[PID 84395] avahi-daemon: running [icns.local] ; 15.7 mW  
+
+2023-10-10 10:51:08;   0.0%;  2.6;Process;[PID 15] [rcu_sched]; 10.4 mW  
+
+2023-10-10 10:51:08; 
+
+2023-10-10 10:51:32;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:51:32; 
+
+2023-10-10 10:51:32; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:51:32;  90.9%; 0.05;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.42 W  
+
+2023-10-10 10:51:32;   0.1%;165.3;kWork;dbs_work_handler;  654 mW  
+
+2023-10-10 10:51:32;   0.2%;121.0;Interrupt;[3] net_rx(softirq);  482 mW  
+
+2023-10-10 10:51:32;   0.1%; 35.5;Timer;tick_sched_timer;  142 mW  
+
+2023-10-10 10:51:32;   9.1%; 0.25;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ;  142 mW  
+
+2023-10-10 10:51:32;   0.0%;  7.4;Timer;watchdog_timer_fn; 29.2 mW  
+
+2023-10-10 10:51:32;   0.4%;  5.8;Process;[PID 84395] avahi-daemon: running [icns.local] ; 28.7 mW  
+
+2023-10-10 10:51:32;   0.0%;  6.3;kWork;psi_avgs_work; 25.0 mW  
+
+2023-10-10 10:51:32;   0.0%;  4.3;kWork;fb_flashcursor; 17.2 mW  
+
+2023-10-10 10:51:32;   1.0%; 0.00;Process;[PID 128183] powertop --csv=powertop_output.csv ; 16.2 mW  
+
+2023-10-10 10:51:32; 
+
+2023-10-10 10:51:56;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:51:56; 
+
+2023-10-10 10:51:56; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:51:56;  93.7%; 0.10;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:51:56;   0.1%;165.1;kWork;dbs_work_handler;  653 mW  
+
+2023-10-10 10:51:56;   0.2%;110.9;Interrupt;[3] net_rx(softirq);  442 mW  
+
+2023-10-10 10:51:56;   0.1%; 32.5;Timer;tick_sched_timer;  130 mW  
+
+2023-10-10 10:51:56;   6.1%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 95.6 mW  
+
+2023-10-10 10:51:56;   0.0%;  7.4;Timer;watchdog_timer_fn; 29.3 mW  
+
+2023-10-10 10:51:56;   0.3%;  4.7;Process;[PID 84395] avahi-daemon: running [icns.local] ; 23.3 mW  
+
+2023-10-10 10:51:56;   0.0%;  5.6;kWork;psi_avgs_work; 22.3 mW  
+
+2023-10-10 10:51:56;   1.0%; 0.00;Process;[PID 128194] powertop --csv=powertop_output.csv ; 15.9 mW  
+
+2023-10-10 10:51:56;   0.0%;  2.9;Process;[PID 34659] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ; 11.6 mW  
+
+2023-10-10 10:51:56; 
+
+2023-10-10 10:52:19;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:52:19; 
+
+2023-10-10 10:52:19; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:52:19;  94.5%; 0.15;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.47 W  
+
+2023-10-10 10:52:19;   0.1%;164.4;kWork;dbs_work_handler;  650 mW  
+
+2023-10-10 10:52:19;   0.2%;110.7;Interrupt;[3] net_rx(softirq);  441 mW  
+
+2023-10-10 10:52:19;   0.1%; 29.1;Timer;tick_sched_timer;  117 mW  
+
+2023-10-10 10:52:19;   5.4%; 0.05;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 84.3 mW  
+
+2023-10-10 10:52:19;   0.0%;  7.2;Timer;watchdog_timer_fn; 28.7 mW  
+
+2023-10-10 10:52:19;   0.0%;  5.5;kWork;psi_avgs_work; 21.9 mW  
+
+2023-10-10 10:52:19;   0.3%;  2.9;Process;[PID 84395] avahi-daemon: running [icns.local] ; 16.1 mW  
+
+2023-10-10 10:52:19;   1.0%; 0.10;Process;[PID 128205] powertop --csv=powertop_output.csv ; 15.7 mW  
+
+2023-10-10 10:52:19;   0.0%;  2.9;Interrupt;[301] ahci[0000:00:17.0]; 11.4 mW  
+
+2023-10-10 10:52:19; 
+
+2023-10-10 10:52:42;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:52:42; 
+
+2023-10-10 10:52:42; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:52:42;  96.9%;  0.5;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.51 W  
+
+2023-10-10 10:52:42;   0.1%;162.5;kWork;dbs_work_handler;  643 mW  
+
+2023-10-10 10:52:42;   0.2%;113.5;Interrupt;[3] net_rx(softirq);  452 mW  
+
+2023-10-10 10:52:42;   0.2%; 32.4;Timer;tick_sched_timer;  131 mW  
+
+2023-10-10 10:52:42;   2.7%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 42.5 mW  
+
+2023-10-10 10:52:42;   0.0%;  7.2;Timer;watchdog_timer_fn; 28.7 mW  
+
+2023-10-10 10:52:42;   0.0%;  5.3;kWork;psi_avgs_work; 21.2 mW  
+
+2023-10-10 10:52:42;   0.3%;  3.4;Process;[PID 84395] avahi-daemon: running [icns.local] ; 18.8 mW  
+
+2023-10-10 10:52:42;   1.0%; 0.05;Process;[PID 128216] powertop --csv=powertop_output.csv ; 16.4 mW  
+
+2023-10-10 10:52:42;   0.0%;  2.2;Process;[PID 15] [rcu_sched]; 9.00 mW  
+
+2023-10-10 10:52:42; 
+
+2023-10-10 10:53:06;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:53:06; 
+
+2023-10-10 10:53:06; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:53:06;  93.6%;  0.6;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:53:06;   0.1%;160.0;kWork;dbs_work_handler;  633 mW  
+
+2023-10-10 10:53:06;   0.2%;101.3;Interrupt;[3] net_rx(softirq);  403 mW  
+
+2023-10-10 10:53:06;   0.1%; 33.7;Timer;tick_sched_timer;  135 mW  
+
+2023-10-10 10:53:06;   6.3%; 0.05;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 97.8 mW  
+
+2023-10-10 10:53:06;   0.0%;  7.8;Timer;watchdog_timer_fn; 31.0 mW  
+
+2023-10-10 10:53:06;   0.0%;  6.8;kWork;psi_avgs_work; 27.0 mW  
+
+2023-10-10 10:53:06;   0.3%;  5.1;Process;[PID 84395] avahi-daemon: running [icns.local] ; 24.5 mW  
+
+2023-10-10 10:53:06;   1.0%; 0.00;Process;[PID 128234] powertop --csv=powertop_output.csv ; 15.5 mW  
+
+2023-10-10 10:53:06;   0.0%;  2.5;Process;[PID 15] [rcu_sched]; 9.94 mW  
+
+2023-10-10 10:53:06; 
+
+2023-10-10 10:53:30;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:53:30; 
+
+2023-10-10 10:53:30; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:53:30;  92.6%;  0.7;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.45 W  
+
+2023-10-10 10:53:30;   0.1%;162.4;kWork;dbs_work_handler;  642 mW  
+
+2023-10-10 10:53:30;   0.2%;107.0;Interrupt;[3] net_rx(softirq);  426 mW  
+
+2023-10-10 10:53:30;   0.1%; 35.1;Timer;tick_sched_timer;  141 mW  
+
+2023-10-10 10:53:30;   7.3%; 0.10;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ;  114 mW  
+
+2023-10-10 10:53:30;   0.4%;  8.1;Process;[PID 84395] avahi-daemon: running [icns.local] ; 37.5 mW  
+
+2023-10-10 10:53:30;   0.0%;  7.4;Timer;watchdog_timer_fn; 29.5 mW  
+
+2023-10-10 10:53:30;   1.5%; 0.00;Process;[PID 128245] powertop --csv=powertop_output.csv ; 23.0 mW  
+
+2023-10-10 10:53:30;   0.0%;  5.1;kWork;psi_avgs_work; 20.2 mW  
+
+2023-10-10 10:53:30;   0.0%;  2.4;kWork;fb_flashcursor; 9.39 mW  
+
+2023-10-10 10:53:30; 
+
+2023-10-10 10:53:53;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:53:53; 
+
+2023-10-10 10:53:53; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:53:53;  93.9%;  0.9;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.47 W  
+
+2023-10-10 10:53:53;   0.1%;164.7;kWork;dbs_work_handler;  652 mW  
+
+2023-10-10 10:53:53;   0.3%;125.5;Interrupt;[3] net_rx(softirq);  500 mW  
+
+2023-10-10 10:53:53;   0.1%; 34.8;Timer;tick_sched_timer;  140 mW  
+
+2023-10-10 10:53:53;   6.1%; 0.25;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 96.9 mW  
+
+2023-10-10 10:53:53;   0.7%;  8.4;Process;[PID 84395] avahi-daemon: running [icns.local] ; 44.4 mW  
+
+2023-10-10 10:53:53;   0.0%;  7.7;Timer;watchdog_timer_fn; 30.4 mW  
+
+2023-10-10 10:53:53;   0.0%;  5.2;kWork;psi_avgs_work; 20.9 mW  
+
+2023-10-10 10:53:53;   0.0%;  4.9;kWork;fb_flashcursor; 19.4 mW  
+
+2023-10-10 10:53:53;   1.1%; 0.05;Process;[PID 128257] powertop --csv=powertop_output.csv ; 16.6 mW  
+
+2023-10-10 10:53:53; 
+
+2023-10-10 10:54:18;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:54:18; 
+
+2023-10-10 10:54:18; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:54:18;  93.7%; 0.25;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:54:18;   0.1%;160.9;kWork;dbs_work_handler;  637 mW  
+
+2023-10-10 10:54:18;   0.2%;108.3;Interrupt;[3] net_rx(softirq);  431 mW  
+
+2023-10-10 10:54:18;   0.1%; 32.0;Timer;tick_sched_timer;  128 mW  
+
+2023-10-10 10:54:18;   6.2%; 0.05;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 96.5 mW  
+
+2023-10-10 10:54:18;   0.0%;  7.7;Timer;watchdog_timer_fn; 30.6 mW  
+
+2023-10-10 10:54:18;   0.0%;  5.6;kWork;psi_avgs_work; 22.5 mW  
+
+2023-10-10 10:54:18;   1.1%; 0.05;Process;[PID 128268] powertop --csv=powertop_output.csv ; 16.9 mW  
+
+2023-10-10 10:54:18;   0.3%;  2.9;Process;[PID 84395] avahi-daemon: running [icns.local] ; 16.2 mW  
+
+2023-10-10 10:54:18;   0.0%;  3.6;kWork;fb_flashcursor; 14.3 mW  
+
+2023-10-10 10:54:18; 
+
+2023-10-10 10:54:41;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:54:41; 
+
+2023-10-10 10:54:41; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:54:41;  92.8%; 0.25;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.45 W  
+
+2023-10-10 10:54:41;   0.1%;157.5;kWork;dbs_work_handler;  623 mW  
+
+2023-10-10 10:54:41;   0.2%;106.8;Interrupt;[3] net_rx(softirq);  425 mW  
+
+2023-10-10 10:54:41;   0.1%; 31.0;Timer;tick_sched_timer;  124 mW  
+
+2023-10-10 10:54:41;   7.1%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ;  111 mW  
+
+2023-10-10 10:54:41;   0.0%;  7.6;Timer;watchdog_timer_fn; 30.3 mW  
+
+2023-10-10 10:54:41;   0.0%;  6.3;kWork;psi_avgs_work; 25.1 mW  
+
+2023-10-10 10:54:41;   1.5%; 0.00;Process;[PID 128279] powertop --csv=powertop_output.csv ; 23.1 mW  
+
+2023-10-10 10:54:41;   0.0%;  3.5;kWork;fb_flashcursor; 13.9 mW  
+
+2023-10-10 10:54:41;   0.2%;  2.0;Process;[PID 84395] avahi-daemon: running [icns.local] ; 11.8 mW  
+
+2023-10-10 10:54:41; 
+
+2023-10-10 10:55:06;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:55:06; 
+
+2023-10-10 10:55:06; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:55:06;  93.5%; 0.20;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:55:06;   0.1%;167.9;kWork;dbs_work_handler;  664 mW  
+
+2023-10-10 10:55:06;   0.2%;113.1;Interrupt;[3] net_rx(softirq);  451 mW  
+
+2023-10-10 10:55:06;   0.1%; 33.7;Timer;tick_sched_timer;  135 mW  
+
+2023-10-10 10:55:06;   6.3%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 98.2 mW  
+
+2023-10-10 10:55:06;   0.4%;  7.0;Process;[PID 84395] avahi-daemon: running [icns.local] ; 33.8 mW  
+
+2023-10-10 10:55:06;   0.0%;  7.4;Timer;watchdog_timer_fn; 29.4 mW  
+
+2023-10-10 10:55:06;   0.0%;  6.2;kWork;psi_avgs_work; 24.7 mW  
+
+2023-10-10 10:55:06;   1.1%; 0.10;Process;[PID 128292] powertop --csv=powertop_output.csv ; 17.8 mW  
+
+2023-10-10 10:55:06;   0.1%;  2.3;Process;[PID 1765] /usr/bin/containerd ; 9.80 mW  
+
+2023-10-10 10:55:06; 
+
+2023-10-10 10:55:29;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:55:29; 
+
+2023-10-10 10:55:29; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:55:29;  92.6%;  0.9;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.45 W  
+
+2023-10-10 10:55:29;   0.1%;159.5;kWork;dbs_work_handler;  631 mW  
+
+2023-10-10 10:55:29;   0.2%;112.8;Interrupt;[3] net_rx(softirq);  449 mW  
+
+2023-10-10 10:55:29;   0.1%; 32.1;Timer;tick_sched_timer;  129 mW  
+
+2023-10-10 10:55:29;   7.3%; 0.05;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ;  114 mW  
+
+2023-10-10 10:55:29;   0.0%;  8.0;Timer;watchdog_timer_fn; 31.6 mW  
+
+2023-10-10 10:55:29;   0.3%;  5.9;Process;[PID 84395] avahi-daemon: running [icns.local] ; 28.5 mW  
+
+2023-10-10 10:55:29;   0.0%;  6.6;kWork;psi_avgs_work; 26.2 mW  
+
+2023-10-10 10:55:29;   0.0%;  4.8;kWork;fb_flashcursor; 19.2 mW  
+
+2023-10-10 10:55:29;   1.0%; 0.05;Process;[PID 128305] powertop --csv=powertop_output.csv ; 16.0 mW  
+
+2023-10-10 10:55:29; 
+
+2023-10-10 10:55:53;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:55:53; 
+
+2023-10-10 10:55:53; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:55:53;  93.5%; 0.30;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:55:53;   0.1%;173.0;kWork;dbs_work_handler;  684 mW  
+
+2023-10-10 10:55:53;   0.3%;129.8;Interrupt;[3] net_rx(softirq);  517 mW  
+
+2023-10-10 10:55:53;   0.1%; 36.3;Timer;tick_sched_timer;  146 mW  
+
+2023-10-10 10:55:53;   6.3%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 98.3 mW  
+
+2023-10-10 10:55:53;   0.0%;  7.8;Timer;watchdog_timer_fn; 31.2 mW  
+
+2023-10-10 10:55:53;   0.4%;  5.6;Process;[PID 84395] avahi-daemon: running [icns.local] ; 29.2 mW  
+
+2023-10-10 10:55:53;   0.0%;  5.9;kWork;psi_avgs_work; 23.5 mW  
+
+2023-10-10 10:55:53;   1.1%; 0.05;Process;[PID 128316] powertop --csv=powertop_output.csv ; 16.6 mW  
+
+2023-10-10 10:55:53;   0.0%;  4.0;kWork;fb_flashcursor; 15.9 mW  
+
+2023-10-10 10:55:53; 
+
+2023-10-10 10:56:16;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:56:16; 
+
+2023-10-10 10:56:16; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:56:16;  96.8%; 0.15;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.51 W  
+
+2023-10-10 10:56:16;   0.1%;154.4;kWork;dbs_work_handler;  611 mW  
+
+2023-10-10 10:56:16;   0.2%;123.9;Interrupt;[3] net_rx(softirq);  493 mW  
+
+2023-10-10 10:56:16;   0.2%; 33.4;Timer;tick_sched_timer;  135 mW  
+
+2023-10-10 10:56:16;   2.8%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 43.2 mW  
+
+2023-10-10 10:56:16;   0.0%;  7.7;Timer;watchdog_timer_fn; 30.8 mW  
+
+2023-10-10 10:56:16;   0.0%;  4.8;kWork;psi_avgs_work; 19.4 mW  
+
+2023-10-10 10:56:16;   0.4%;  3.1;Process;[PID 84395] avahi-daemon: running [icns.local] ; 18.7 mW  
+
+2023-10-10 10:56:16;   1.0%; 0.05;Process;[PID 128328] powertop --csv=powertop_output.csv ; 16.5 mW  
+
+2023-10-10 10:56:16;   0.0%;  3.8;kWork;fb_flashcursor; 14.9 mW  
+
+2023-10-10 10:56:16; 
+
+2023-10-10 10:56:40;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:56:40; 
+
+2023-10-10 10:56:40; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:56:40;  93.6%;  0.4;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:56:40;   0.1%;159.6;kWork;dbs_work_handler;  631 mW  
+
+2023-10-10 10:56:40;   0.2%;127.0;Interrupt;[3] net_rx(softirq);  506 mW  
+
+2023-10-10 10:56:40;   0.1%; 36.7;Timer;tick_sched_timer;  147 mW  
+
+2023-10-10 10:56:40;   6.3%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 97.6 mW  
+
+2023-10-10 10:56:40;   0.0%;  7.8;Timer;watchdog_timer_fn; 31.1 mW  
+
+2023-10-10 10:56:40;   0.0%;  6.0;kWork;psi_avgs_work; 23.8 mW  
+
+2023-10-10 10:56:40;   1.5%; 0.00;Process;[PID 128339] powertop --csv=powertop_output.csv ; 23.4 mW  
+
+2023-10-10 10:56:40;   0.4%;  3.6;Process;[PID 84395] avahi-daemon: running [icns.local] ; 20.1 mW  
+
+2023-10-10 10:56:40;   0.0%;  4.3;kWork;fb_flashcursor; 17.2 mW  
+
+2023-10-10 10:56:40; 
+
+2023-10-10 10:57:04;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:57:04; 
+
+2023-10-10 10:57:04; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:57:04;  93.2%; 0.05;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.45 W  
+
+2023-10-10 10:57:04;   0.1%;165.0;kWork;dbs_work_handler;  653 mW  
+
+2023-10-10 10:57:04;   0.2%;108.1;Interrupt;[3] net_rx(softirq);  430 mW  
+
+2023-10-10 10:57:04;   0.1%; 36.1;Timer;tick_sched_timer;  145 mW  
+
+2023-10-10 10:57:04;   6.5%; 0.10;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ;  103 mW  
+
+2023-10-10 10:57:04;   0.0%;  7.1;Timer;watchdog_timer_fn; 28.1 mW  
+
+2023-10-10 10:57:04;   0.0%;  5.6;kWork;psi_avgs_work; 22.3 mW  
+
+2023-10-10 10:57:04;   0.3%;  2.9;Process;[PID 84395] avahi-daemon: running [icns.local] ; 16.5 mW  
+
+2023-10-10 10:57:04;   0.0%;  4.0;kWork;fb_flashcursor; 15.7 mW  
+
+2023-10-10 10:57:04;   1.0%; 0.05;Process;[PID 128352] powertop --csv=powertop_output.csv ; 15.1 mW  
+
+2023-10-10 10:57:04; 
+
+2023-10-10 10:57:27;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:57:27; 
+
+2023-10-10 10:57:27; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:57:27;  93.7%; 0.20;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:57:27;   0.1%;164.7;kWork;dbs_work_handler;  652 mW  
+
+2023-10-10 10:57:27;   0.2%;125.7;Interrupt;[3] net_rx(softirq);  500 mW  
+
+2023-10-10 10:57:27;   0.1%; 34.2;Timer;tick_sched_timer;  137 mW  
+
+2023-10-10 10:57:27;   6.1%; 0.10;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 95.9 mW  
+
+2023-10-10 10:57:27;   0.0%;  8.2;Timer;watchdog_timer_fn; 32.4 mW  
+
+2023-10-10 10:57:27;   0.7%;  5.0;Process;[PID 84395] avahi-daemon: running [icns.local] ; 30.9 mW  
+
+2023-10-10 10:57:27;   1.5%; 0.00;Process;[PID 128365] powertop --csv=powertop_output.csv ; 23.9 mW  
+
+2023-10-10 10:57:27;   0.0%;  5.6;kWork;psi_avgs_work; 22.2 mW  
+
+2023-10-10 10:57:27;   0.0%;  3.7;kWork;fb_flashcursor; 14.8 mW  
+
+2023-10-10 10:57:27; 
+
+2023-10-10 10:57:50;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 10:57:50; 
+
+2023-10-10 10:57:50; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 10:57:50;  93.6%; 0.10;Process;[PID 127607] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cuda ;  1.46 W  
+
+2023-10-10 10:57:50;   0.1%;163.1;kWork;dbs_work_handler;  645 mW  
+
+2023-10-10 10:57:50;   0.2%;107.9;Interrupt;[3] net_rx(softirq);  430 mW  
+
+2023-10-10 10:57:50;   0.1%; 33.7;Timer;tick_sched_timer;  135 mW  
+
+2023-10-10 10:57:50;   6.3%; 0.00;Process;[PID 127667] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ; 98.2 mW  
+
+2023-10-10 10:57:50;   0.0%;  7.7;Timer;watchdog_timer_fn; 30.4 mW  
+
+2023-10-10 10:57:50;   0.0%;  6.5;kWork;psi_avgs_work; 26.0 mW  
+
+2023-10-10 10:57:50;   0.3%;  5.2;Process;[PID 84395] avahi-daemon: running [icns.local] ; 25.6 mW  
+
+2023-10-10 10:57:50;   0.0%;  4.3;Process;[PID 1700] /usr/bin/containerd ; 17.4 mW  
+
+2023-10-10 10:57:50;   1.0%; 0.05;Process;[PID 128376] powertop --csv=powertop_output.csv ; 15.7 mW  
+
+2023-10-10 10:57:50; 
