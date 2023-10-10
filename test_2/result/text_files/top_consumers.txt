@@ -1,0 +1,1959 @@
+2023-10-10 09:12:25;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:12:25; 
+
+2023-10-10 09:12:25; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:12:25;   0.1%;196.7;kWork;dbs_work_handler;  778 mW  
+
+2023-10-10 09:12:25;   0.3%;146.0;Interrupt;[3] net_rx(softirq);  582 mW  
+
+2023-10-10 09:12:25;  18.9%;  2.1;Process;[PID 123914] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/extensions/m;  302 mW  
+
+2023-10-10 09:12:25;   0.1%; 53.9;Timer;tick_sched_timer;  215 mW  
+
+2023-10-10 09:12:25;   2.4%;  8.8;Process;[PID 123800] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node --dns-result-order=ipv4first /home/icn; 72.5 mW  
+
+2023-10-10 09:12:25;   0.9%; 11.6;Process;[PID 84395] avahi-daemon: running [icns.local] ; 59.7 mW  
+
+2023-10-10 09:12:25;   0.0%; 12.6;Timer;watchdog_timer_fn; 49.9 mW  
+
+2023-10-10 09:12:25;   2.1%; 0.00;Process;[PID 123984] nvidia-smi --query-gpu=index,name,memory.total,memory.used,memory.free,utilization.gpu,temperature.gpu,power.draw ; 33.5 mW  
+
+2023-10-10 09:12:25;   0.0%;  7.1;kWork;psi_avgs_work; 28.4 mW  
+
+2023-10-10 09:12:25;   0.0%;  4.3;kWork;fb_flashcursor; 17.0 mW  
+
+2023-10-10 09:12:25; 
+
+2023-10-10 09:12:50;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:12:50; 
+
+2023-10-10 09:12:50; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:12:50;   0.1%;250.7;kWork;dbs_work_handler;  992 mW  
+
+2023-10-10 09:12:50;   0.5%;189.7;Interrupt;[3] net_rx(softirq);  756 mW  
+
+2023-10-10 09:12:50;  24.2%;  2.4;Process;[PID 123914] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/extensions/m;  386 mW  
+
+2023-10-10 09:12:50;   0.1%; 82.7;Timer;tick_sched_timer;  329 mW  
+
+2023-10-10 09:12:50;   8.8%; 0.10;Process;[PID 124014] nvidia-smi;  137 mW  
+
+2023-10-10 09:12:50;   3.4%; 15.2;Process;[PID 123800] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node --dns-result-order=ipv4first /home/icn;  113 mW  
+
+2023-10-10 09:12:50;   1.0%; 16.8;Process;[PID 84395] avahi-daemon: running [icns.local] ; 81.3 mW  
+
+2023-10-10 09:12:50;   0.0%; 12.6;Timer;watchdog_timer_fn; 50.1 mW  
+
+2023-10-10 09:12:50;   0.0%;  8.1;Process;[PID 15] [rcu_sched]; 32.5 mW  
+
+2023-10-10 09:12:50;   0.0%;  7.2;kWork;psi_avgs_work; 28.8 mW  
+
+2023-10-10 09:12:50; 
+
+2023-10-10 09:13:13;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:13:13; 
+
+2023-10-10 09:13:13; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:13:13;   0.1%;153.0;kWork;dbs_work_handler;  605 mW  
+
+2023-10-10 09:13:13;   0.3%;136.6;Interrupt;[3] net_rx(softirq);  544 mW  
+
+2023-10-10 09:13:13;  12.6%; 0.10;Process;[PID 124031] nvidia-smi;  197 mW  
+
+2023-10-10 09:13:13;   0.1%; 47.6;Timer;tick_sched_timer;  189 mW  
+
+2023-10-10 09:13:13;   0.6%;  9.6;Process;[PID 84395] avahi-daemon: running [icns.local] ; 48.0 mW  
+
+2023-10-10 09:13:13;   0.0%; 11.3;Timer;watchdog_timer_fn; 45.0 mW  
+
+2023-10-10 09:13:13;   0.0%;  7.1;kWork;psi_avgs_work; 28.1 mW  
+
+2023-10-10 09:13:13;   0.0%;  4.8;kWork;fb_flashcursor; 19.2 mW  
+
+2023-10-10 09:13:13;   0.5%;  2.8;Process;[PID 123800] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node --dns-result-order=ipv4first /home/icn; 19.0 mW  
+
+2023-10-10 09:13:13;   1.1%; 0.10;Process;[PID 124022] powertop --csv=powertop_output.csv ; 18.1 mW  
+
+2023-10-10 09:13:13; 
+
+2023-10-10 09:13:37;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:13:37; 
+
+2023-10-10 09:13:37; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:13:37;   0.1%;139.0;kWork;dbs_work_handler;  550 mW  
+
+2023-10-10 09:13:37;   0.2%;125.4;Interrupt;[3] net_rx(softirq);  499 mW  
+
+2023-10-10 09:13:37;   0.1%; 44.2;Timer;tick_sched_timer;  175 mW  
+
+2023-10-10 09:13:37;   8.3%; 0.10;Process;[PID 124048] nvidia-smi;  130 mW  
+
+2023-10-10 09:13:37;   0.8%; 10.1;Process;[PID 84395] avahi-daemon: running [icns.local] ; 53.0 mW  
+
+2023-10-10 09:13:37;   0.0%; 12.8;Timer;watchdog_timer_fn; 50.7 mW  
+
+2023-10-10 09:13:37;   0.0%;  6.3;kWork;psi_avgs_work; 25.0 mW  
+
+2023-10-10 09:13:37;   0.0%;  4.4;kWork;fb_flashcursor; 17.6 mW  
+
+2023-10-10 09:13:37;   1.1%; 0.00;Process;[PID 124039] powertop --csv=powertop_output.csv ; 17.4 mW  
+
+2023-10-10 09:13:37;   0.0%;  2.6;Process;[PID 15] [rcu_sched]; 10.5 mW  
+
+2023-10-10 09:13:37; 
+
+2023-10-10 09:14:00;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:14:00; 
+
+2023-10-10 09:14:00; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:14:00;   0.1%;136.3;kWork;dbs_work_handler;  539 mW  
+
+2023-10-10 09:14:00;   0.2%;119.5;Interrupt;[3] net_rx(softirq);  476 mW  
+
+2023-10-10 09:14:00;  12.4%; 0.30;Process;[PID 124066] nvidia-smi;  194 mW  
+
+2023-10-10 09:14:00;   0.1%; 47.0;Timer;tick_sched_timer;  187 mW  
+
+2023-10-10 09:14:00;   8.5%;  1.8;Process;[PID 123914] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/extensions/m;  140 mW  
+
+2023-10-10 09:14:00;   0.0%; 13.2;Timer;watchdog_timer_fn; 52.5 mW  
+
+2023-10-10 09:14:00;   0.7%; 10.2;Process;[PID 84395] avahi-daemon: running [icns.local] ; 52.0 mW  
+
+2023-10-10 09:14:00;   0.0%;  6.8;kWork;psi_avgs_work; 27.2 mW  
+
+2023-10-10 09:14:00;   1.1%; 0.00;Process;[PID 124056] powertop --csv=powertop_output.csv ; 16.5 mW  
+
+2023-10-10 09:14:00;   0.0%;  3.9;kWork;fb_flashcursor; 15.5 mW  
+
+2023-10-10 09:14:00; 
+
+2023-10-10 09:14:24;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:14:24; 
+
+2023-10-10 09:14:24; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:14:24;   0.1%;127.9;kWork;dbs_work_handler;  506 mW  
+
+2023-10-10 09:14:24;   0.2%;100.4;Interrupt;[3] net_rx(softirq);  400 mW  
+
+2023-10-10 09:14:24;   0.1%; 43.4;Timer;tick_sched_timer;  172 mW  
+
+2023-10-10 09:14:24;   9.8%; 0.30;Process;[PID 124083] nvidia-smi;  154 mW  
+
+2023-10-10 09:14:24;   0.0%; 13.4;Timer;watchdog_timer_fn; 53.2 mW  
+
+2023-10-10 09:14:24;   0.4%; 10.7;Process;[PID 84395] avahi-daemon: running [icns.local] ; 48.9 mW  
+
+2023-10-10 09:14:24;   0.0%;  6.9;kWork;psi_avgs_work; 27.3 mW  
+
+2023-10-10 09:14:24;   0.0%;  4.8;kWork;fb_flashcursor; 19.2 mW  
+
+2023-10-10 09:14:24;   1.1%; 0.00;Process;[PID 124076] powertop --csv=powertop_output.csv ; 17.6 mW  
+
+2023-10-10 09:14:24;   0.0%;  2.8;Process;[PID 15] [rcu_sched]; 11.3 mW  
+
+2023-10-10 09:14:24; 
+
+2023-10-10 09:14:47;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:14:47; 
+
+2023-10-10 09:14:47; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:14:47;   0.1%;124.8;kWork;dbs_work_handler;  494 mW  
+
+2023-10-10 09:14:47;   0.2%;113.4;Interrupt;[3] net_rx(softirq);  451 mW  
+
+2023-10-10 09:14:47;   0.1%; 43.6;Timer;tick_sched_timer;  173 mW  
+
+2023-10-10 09:14:47;   8.7%; 0.10;Process;[PID 124100] nvidia-smi;  136 mW  
+
+2023-10-10 09:14:47;   0.0%; 12.9;Timer;watchdog_timer_fn; 51.3 mW  
+
+2023-10-10 09:14:47;   0.5%;  7.8;Process;[PID 84395] avahi-daemon: running [icns.local] ; 38.3 mW  
+
+2023-10-10 09:14:47;   0.0%;  6.8;kWork;psi_avgs_work; 27.2 mW  
+
+2023-10-10 09:14:47;   1.0%; 0.00;Process;[PID 124093] powertop --csv=powertop_output.csv ; 15.8 mW  
+
+2023-10-10 09:14:47;   0.0%;  3.3;Process;[PID 15] [rcu_sched]; 13.4 mW  
+
+2023-10-10 09:14:47;   0.0%;  2.9;kWork;fb_flashcursor; 11.4 mW  
+
+2023-10-10 09:14:47; 
+
+2023-10-10 09:15:11;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:15:11; 
+
+2023-10-10 09:15:11; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:15:11;   0.3%;147.3;Interrupt;[3] net_rx(softirq);  587 mW  
+
+2023-10-10 09:15:11;   0.1%;139.6;kWork;dbs_work_handler;  552 mW  
+
+2023-10-10 09:15:11;   0.1%; 48.9;Timer;tick_sched_timer;  194 mW  
+
+2023-10-10 09:15:11;   9.2%; 0.10;Process;[PID 124117] nvidia-smi;  144 mW  
+
+2023-10-10 09:15:11;   1.3%; 11.8;Process;[PID 84395] avahi-daemon: running [icns.local] ; 66.9 mW  
+
+2023-10-10 09:15:11;   0.0%; 13.1;Timer;watchdog_timer_fn; 51.9 mW  
+
+2023-10-10 09:15:11;   0.0%;  6.8;kWork;psi_avgs_work; 27.0 mW  
+
+2023-10-10 09:15:11;   0.0%;  4.7;kWork;fb_flashcursor; 18.6 mW  
+
+2023-10-10 09:15:11;   1.0%; 0.10;Process;[PID 124110] powertop --csv=powertop_output.csv ; 16.5 mW  
+
+2023-10-10 09:15:11;   0.0%;  2.9;Process;[PID 15] [rcu_sched]; 11.8 mW  
+
+2023-10-10 09:15:11; 
+
+2023-10-10 09:15:35;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:15:35; 
+
+2023-10-10 09:15:35; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:15:35;   0.1%;157.7;kWork;dbs_work_handler;  624 mW  
+
+2023-10-10 09:15:35;   0.3%;128.6;Interrupt;[3] net_rx(softirq);  512 mW  
+
+2023-10-10 09:15:35;   0.1%; 50.7;Timer;tick_sched_timer;  201 mW  
+
+2023-10-10 09:15:35;   9.2%; 0.10;Process;[PID 124135] nvidia-smi;  144 mW  
+
+2023-10-10 09:15:35;   1.2%; 10.3;Process;[PID 84395] avahi-daemon: running [icns.local] ; 59.7 mW  
+
+2023-10-10 09:15:35;   0.0%; 13.2;Timer;watchdog_timer_fn; 52.1 mW  
+
+2023-10-10 09:15:35;   0.0%;  6.6;kWork;psi_avgs_work; 26.4 mW  
+
+2023-10-10 09:15:35;   1.6%; 0.05;Process;[PID 124128] powertop --csv=powertop_output.csv ; 25.1 mW  
+
+2023-10-10 09:15:35;   0.5%;  2.7;Process;[PID 123800] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node --dns-result-order=ipv4first /home/icn; 18.9 mW  
+
+2023-10-10 09:15:35;   0.0%;  3.5;kWork;fb_flashcursor; 13.8 mW  
+
+2023-10-10 09:15:35; 
+
+2023-10-10 09:15:59;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:15:59; 
+
+2023-10-10 09:15:59; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:15:59;   0.1%;125.9;kWork;dbs_work_handler;  498 mW  
+
+2023-10-10 09:15:59;   0.2%;118.9;Interrupt;[3] net_rx(softirq);  473 mW  
+
+2023-10-10 09:15:59;   0.1%; 42.2;Timer;tick_sched_timer;  167 mW  
+
+2023-10-10 09:15:59;   9.6%; 0.30;Process;[PID 124154] nvidia-smi;  151 mW  
+
+2023-10-10 09:15:59;   0.0%; 12.9;Timer;watchdog_timer_fn; 51.1 mW  
+
+2023-10-10 09:15:59;   0.0%;  7.2;kWork;psi_avgs_work; 28.5 mW  
+
+2023-10-10 09:15:59;   0.4%;  5.1;Process;[PID 84395] avahi-daemon: running [icns.local] ; 26.1 mW  
+
+2023-10-10 09:15:59;   1.1%; 0.05;Process;[PID 124145] powertop --csv=powertop_output.csv ; 17.0 mW  
+
+2023-10-10 09:15:59;   0.0%;  3.8;kWork;fb_flashcursor; 14.9 mW  
+
+2023-10-10 09:15:59;   0.7%;  0.3;Process;[PID 93276] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083; 12.2 mW  
+
+2023-10-10 09:15:59; 
+
+2023-10-10 09:16:22;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:16:22; 
+
+2023-10-10 09:16:22; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:16:22;   0.4%;176.6;Interrupt;[3] net_rx(softirq);  704 mW  
+
+2023-10-10 09:16:22;   0.1%;132.2;kWork;dbs_work_handler;  523 mW  
+
+2023-10-10 09:16:22;   0.1%; 52.5;Timer;tick_sched_timer;  208 mW  
+
+2023-10-10 09:16:22;   1.3%; 37.7;Process;[PID 84395] avahi-daemon: running [icns.local] ;  169 mW  
+
+2023-10-10 09:16:22;   8.1%; 0.10;Process;[PID 124171] nvidia-smi;  127 mW  
+
+2023-10-10 09:16:22;   0.0%; 13.1;Timer;watchdog_timer_fn; 52.1 mW  
+
+2023-10-10 09:16:22;   0.0%;  6.8;kWork;psi_avgs_work; 27.1 mW  
+
+2023-10-10 09:16:22;   1.0%; 0.10;Process;[PID 124162] powertop --csv=powertop_output.csv ; 16.5 mW  
+
+2023-10-10 09:16:22;   0.0%;  3.2;kWork;fb_flashcursor; 12.6 mW  
+
+2023-10-10 09:16:22;   0.0%;  2.4;Process;[PID 15] [rcu_sched]; 9.81 mW  
+
+2023-10-10 09:16:22; 
+
+2023-10-10 09:16:46;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:16:46; 
+
+2023-10-10 09:16:46; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:16:46;   0.0%;116.9;kWork;dbs_work_handler;  463 mW  
+
+2023-10-10 09:16:46;   0.2%;113.3;Interrupt;[3] net_rx(softirq);  451 mW  
+
+2023-10-10 09:16:46;   0.0%; 40.5;Timer;tick_sched_timer;  161 mW  
+
+2023-10-10 09:16:46;   8.3%; 0.05;Process;[PID 124188] nvidia-smi;  130 mW  
+
+2023-10-10 09:16:46;   0.0%; 13.0;Timer;watchdog_timer_fn; 51.6 mW  
+
+2023-10-10 09:16:46;   0.0%;  6.8;kWork;psi_avgs_work; 27.1 mW  
+
+2023-10-10 09:16:46;   0.4%;  3.8;Process;[PID 84395] avahi-daemon: running [icns.local] ; 21.2 mW  
+
+2023-10-10 09:16:46;   1.1%; 0.10;Process;[PID 124181] powertop --csv=powertop_output.csv ; 16.8 mW  
+
+2023-10-10 09:16:46;   0.0%;  4.1;kWork;fb_flashcursor; 16.4 mW  
+
+2023-10-10 09:16:46;   0.0%;  2.9;Process;[PID 15] [rcu_sched]; 11.5 mW  
+
+2023-10-10 09:16:46; 
+
+2023-10-10 09:17:09;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:17:09; 
+
+2023-10-10 09:17:09; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:17:09;   0.3%;166.6;Interrupt;[3] net_rx(softirq);  663 mW  
+
+2023-10-10 09:17:09;   0.1%;135.8;kWork;dbs_work_handler;  537 mW  
+
+2023-10-10 09:17:09;   0.1%; 57.3;Timer;tick_sched_timer;  227 mW  
+
+2023-10-10 09:17:09;   9.9%; 0.20;Process;[PID 124206] nvidia-smi;  155 mW  
+
+2023-10-10 09:17:09;   1.0%; 12.9;Process;[PID 84395] avahi-daemon: running [icns.local] ; 66.7 mW  
+
+2023-10-10 09:17:09;   0.0%; 13.3;Timer;watchdog_timer_fn; 52.6 mW  
+
+2023-10-10 09:17:09;   0.0%;  7.3;kWork;psi_avgs_work; 28.9 mW  
+
+2023-10-10 09:17:09;   0.0%;  5.4;Process;[PID 15] [rcu_sched]; 21.5 mW  
+
+2023-10-10 09:17:09;   1.1%; 0.00;Process;[PID 124199] powertop --csv=powertop_output.csv ; 17.7 mW  
+
+2023-10-10 09:17:09;   0.0%;  2.1;kWork;fb_flashcursor; 8.45 mW  
+
+2023-10-10 09:17:09; 
+
+2023-10-10 09:17:35;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:17:35; 
+
+2023-10-10 09:17:35; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:17:35;   0.2%;120.8;Interrupt;[3] net_rx(softirq);  481 mW  
+
+2023-10-10 09:17:35;   0.0%;120.8;kWork;dbs_work_handler;  478 mW  
+
+2023-10-10 09:17:35;   0.0%; 33.4;Timer;tick_sched_timer;  132 mW  
+
+2023-10-10 09:17:35;   0.0%; 13.3;Timer;watchdog_timer_fn; 52.6 mW  
+
+2023-10-10 09:17:35;   0.6%;  6.9;Process;[PID 84395] avahi-daemon: running [icns.local] ; 36.3 mW  
+
+2023-10-10 09:17:35;   0.0%;  6.5;kWork;psi_avgs_work; 25.7 mW  
+
+2023-10-10 09:17:35;   1.3%; 0.00;Process;[PID 124236] nvidia-smi --query-gpu=index,name,memory.total,memory.used,memory.free,utilization.gpu,temperature.gpu,power.draw ; 20.6 mW  
+
+2023-10-10 09:17:35;   0.0%;  4.3;kWork;fb_flashcursor; 17.2 mW  
+
+2023-10-10 09:17:35;   1.1%; 0.00;Process;[PID 124219] powertop --csv=powertop_output.csv ; 16.8 mW  
+
+2023-10-10 09:17:35;   0.0%;  2.0;Process;[PID 15] [rcu_sched]; 8.18 mW  
+
+2023-10-10 09:17:35; 
+
+2023-10-10 09:17:58;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:17:58; 
+
+2023-10-10 09:17:58; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:17:58;   0.4%;192.7;Interrupt;[3] net_rx(softirq);  767 mW  
+
+2023-10-10 09:17:58;   0.1%;151.0;kWork;dbs_work_handler;  597 mW  
+
+2023-10-10 09:17:58;   0.1%; 56.2;Timer;tick_sched_timer;  223 mW  
+
+2023-10-10 09:17:58;  10.0%; 0.15;Process;[PID 124253] nvidia-smi;  156 mW  
+
+2023-10-10 09:17:58;   1.5%; 19.7;Process;[PID 84395] avahi-daemon: running [icns.local] ;  101 mW  
+
+2023-10-10 09:17:58;   0.0%; 12.4;Timer;watchdog_timer_fn; 49.2 mW  
+
+2023-10-10 09:17:58;   0.0%;  7.2;kWork;psi_avgs_work; 28.6 mW  
+
+2023-10-10 09:17:58;   1.3%; 0.00;Process;[PID 124244] powertop --csv=powertop_output.csv ; 19.5 mW  
+
+2023-10-10 09:17:58;   0.0%;  3.2;kWork;fb_flashcursor; 12.5 mW  
+
+2023-10-10 09:17:58;   0.0%;  2.7;Process;[PID 15] [rcu_sched]; 10.9 mW  
+
+2023-10-10 09:17:58; 
+
+2023-10-10 09:18:22;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:18:22; 
+
+2023-10-10 09:18:22; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:18:22;   0.3%;160.8;Interrupt;[3] net_rx(softirq);  640 mW  
+
+2023-10-10 09:18:22;   0.1%;137.2;kWork;dbs_work_handler;  543 mW  
+
+2023-10-10 09:18:22;   0.1%; 48.8;Timer;tick_sched_timer;  193 mW  
+
+2023-10-10 09:18:22;   8.9%; 0.10;Process;[PID 124270] nvidia-smi;  139 mW  
+
+2023-10-10 09:18:22;   0.9%;  9.7;Process;[PID 84395] avahi-daemon: running [icns.local] ; 51.9 mW  
+
+2023-10-10 09:18:22;   0.0%; 12.8;Timer;watchdog_timer_fn; 50.7 mW  
+
+2023-10-10 09:18:22;   1.7%; 0.05;Process;[PID 124261] powertop --csv=powertop_output.csv ; 26.8 mW  
+
+2023-10-10 09:18:22;   0.0%;  6.7;kWork;psi_avgs_work; 26.6 mW  
+
+2023-10-10 09:18:22;   0.0%;  4.5;kWork;fb_flashcursor; 17.7 mW  
+
+2023-10-10 09:18:22;   0.0%;  3.3;Process;[PID 15] [rcu_sched]; 13.4 mW  
+
+2023-10-10 09:18:22; 
+
+2023-10-10 09:18:46;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:18:46; 
+
+2023-10-10 09:18:46; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:18:46;   0.4%;148.8;Interrupt;[3] net_rx(softirq);  593 mW  
+
+2023-10-10 09:18:46;   0.1%;138.5;kWork;dbs_work_handler;  548 mW  
+
+2023-10-10 09:18:46;   0.1%; 52.4;Timer;tick_sched_timer;  208 mW  
+
+2023-10-10 09:18:46;   8.3%; 0.10;Process;[PID 124287] nvidia-smi;  129 mW  
+
+2023-10-10 09:18:46;   1.0%; 23.9;Process;[PID 84395] avahi-daemon: running [icns.local] ;  111 mW  
+
+2023-10-10 09:18:46;   0.0%; 12.2;Timer;watchdog_timer_fn; 48.5 mW  
+
+2023-10-10 09:18:46;   0.0%;  7.0;kWork;psi_avgs_work; 27.7 mW  
+
+2023-10-10 09:18:46;   1.3%; 0.10;Process;[PID 124280] powertop --csv=powertop_output.csv ; 19.9 mW  
+
+2023-10-10 09:18:46;   0.0%;  3.9;kWork;fb_flashcursor; 15.6 mW  
+
+2023-10-10 09:18:46;   0.0%;  2.8;Process;[PID 15] [rcu_sched]; 11.1 mW  
+
+2023-10-10 09:18:46; 
+
+2023-10-10 09:19:09;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:19:09; 
+
+2023-10-10 09:19:09; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:19:09;   0.0%;123.9;kWork;dbs_work_handler;  490 mW  
+
+2023-10-10 09:19:09;   0.2%;111.1;Interrupt;[3] net_rx(softirq);  442 mW  
+
+2023-10-10 09:19:09;   0.1%; 42.2;Timer;tick_sched_timer;  167 mW  
+
+2023-10-10 09:19:09;   8.3%; 0.10;Process;[PID 124304] nvidia-smi;  130 mW  
+
+2023-10-10 09:19:09;   0.0%; 13.0;Timer;watchdog_timer_fn; 51.4 mW  
+
+2023-10-10 09:19:09;   0.4%;  6.4;Process;[PID 84395] avahi-daemon: running [icns.local] ; 31.8 mW  
+
+2023-10-10 09:19:09;   0.0%;  7.2;kWork;psi_avgs_work; 28.7 mW  
+
+2023-10-10 09:19:09;   1.3%; 0.05;Process;[PID 124297] powertop --csv=powertop_output.csv ; 20.0 mW  
+
+2023-10-10 09:19:09;   0.0%;  3.1;kWork;fb_flashcursor; 12.1 mW  
+
+2023-10-10 09:19:09;   0.0%;  2.4;Process;[PID 15] [rcu_sched]; 9.54 mW  
+
+2023-10-10 09:19:09; 
+
+2023-10-10 09:19:32;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:19:32; 
+
+2023-10-10 09:19:32; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:19:32;   0.0%;112.9;kWork;dbs_work_handler;  447 mW  
+
+2023-10-10 09:19:32;   0.2%; 96.6;Interrupt;[3] net_rx(softirq);  385 mW  
+
+2023-10-10 09:19:32;   0.0%; 39.6;Timer;tick_sched_timer;  157 mW  
+
+2023-10-10 09:19:32;   8.4%; 0.10;Process;[PID 124323] nvidia-smi;  132 mW  
+
+2023-10-10 09:19:32;   0.0%; 13.0;Timer;watchdog_timer_fn; 51.7 mW  
+
+2023-10-10 09:19:32;   0.0%;  6.8;kWork;psi_avgs_work; 26.9 mW  
+
+2023-10-10 09:19:32;   0.3%;  4.6;Process;[PID 84395] avahi-daemon: running [icns.local] ; 23.0 mW  
+
+2023-10-10 09:19:32;   0.0%;  4.8;kWork;fb_flashcursor; 19.2 mW  
+
+2023-10-10 09:19:32;   1.1%; 0.05;Process;[PID 124314] powertop --csv=powertop_output.csv ; 16.7 mW  
+
+2023-10-10 09:19:32;   0.0%;  2.4;Process;[PID 15] [rcu_sched]; 9.72 mW  
+
+2023-10-10 09:19:32; 
+
+2023-10-10 09:19:56;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:19:56; 
+
+2023-10-10 09:19:56; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:19:56;   0.4%;185.0;Interrupt;[3] net_rx(softirq);  737 mW  
+
+2023-10-10 09:19:56;   0.1%;161.7;kWork;dbs_work_handler;  640 mW  
+
+2023-10-10 09:19:56;   0.1%; 55.1;Timer;tick_sched_timer;  219 mW  
+
+2023-10-10 09:19:56;   8.7%; 0.20;Process;[PID 124341] nvidia-smi;  137 mW  
+
+2023-10-10 09:19:56;   1.0%; 10.5;Process;[PID 84395] avahi-daemon: running [icns.local] ; 57.7 mW  
+
+2023-10-10 09:19:56;   0.0%; 13.2;Timer;watchdog_timer_fn; 52.3 mW  
+
+2023-10-10 09:19:56;   0.0%;  7.0;kWork;psi_avgs_work; 27.7 mW  
+
+2023-10-10 09:19:56;   0.4%;  3.6;Process;[PID 123800] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node --dns-result-order=ipv4first /home/icn; 21.1 mW  
+
+2023-10-10 09:19:56;   1.1%; 0.00;Process;[PID 124331] powertop --csv=powertop_output.csv ; 16.8 mW  
+
+2023-10-10 09:19:56;   0.0%;  2.9;Process;[PID 15] [rcu_sched]; 11.8 mW  
+
+2023-10-10 09:19:56; 
+
+2023-10-10 09:20:19;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:20:19; 
+
+2023-10-10 09:20:19; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:20:19;   0.1%;168.4;kWork;dbs_work_handler;  666 mW  
+
+2023-10-10 09:20:19;   0.3%;152.1;Interrupt;[3] net_rx(softirq);  606 mW  
+
+2023-10-10 09:20:19;   0.1%; 55.2;Timer;tick_sched_timer;  219 mW  
+
+2023-10-10 09:20:19;   8.5%; 0.10;Process;[PID 124358] nvidia-smi;  133 mW  
+
+2023-10-10 09:20:19;   1.0%; 14.3;Process;[PID 84395] avahi-daemon: running [icns.local] ; 72.2 mW  
+
+2023-10-10 09:20:19;   0.0%; 12.9;Timer;watchdog_timer_fn; 51.1 mW  
+
+2023-10-10 09:20:19;   1.3%;  4.3;Process;[PID 123800] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node --dns-result-order=ipv4first /home/icn; 37.4 mW  
+
+2023-10-10 09:20:19;   0.0%;  7.2;kWork;psi_avgs_work; 28.7 mW  
+
+2023-10-10 09:20:19;   1.0%; 0.10;Process;[PID 124349] powertop --csv=powertop_output.csv ; 16.5 mW  
+
+2023-10-10 09:20:19;   0.0%;  4.0;Process;[PID 15] [rcu_sched]; 15.9 mW  
+
+2023-10-10 09:20:19; 
+
+2023-10-10 09:20:43;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:20:43; 
+
+2023-10-10 09:20:43; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:20:43;   0.1%;165.1;kWork;dbs_work_handler;  653 mW  
+
+2023-10-10 09:20:43;   0.3%;134.1;Interrupt;[3] net_rx(softirq);  534 mW  
+
+2023-10-10 09:20:43;   0.1%; 53.4;Timer;tick_sched_timer;  212 mW  
+
+2023-10-10 09:20:43;   9.1%; 0.20;Process;[PID 124377] nvidia-smi;  142 mW  
+
+2023-10-10 09:20:43;   0.9%; 11.1;Process;[PID 84395] avahi-daemon: running [icns.local] ; 58.2 mW  
+
+2023-10-10 09:20:43;   0.0%; 13.3;Timer;watchdog_timer_fn; 52.6 mW  
+
+2023-10-10 09:20:43;   2.5%; 0.05;Process;[PID 123914] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/extensions/m; 39.4 mW  
+
+2023-10-10 09:20:43;   0.9%;  3.6;Process;[PID 123800] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node --dns-result-order=ipv4first /home/icn; 28.1 mW  
+
+2023-10-10 09:20:43;   0.0%;  7.0;kWork;psi_avgs_work; 27.9 mW  
+
+2023-10-10 09:20:43;   1.1%; 0.05;Process;[PID 124368] powertop --csv=powertop_output.csv ; 16.7 mW  
+
+2023-10-10 09:20:43; 
+
+2023-10-10 09:21:06;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:21:06; 
+
+2023-10-10 09:21:06; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:21:06;   0.1%;143.5;kWork;dbs_work_handler;  568 mW  
+
+2023-10-10 09:21:06;   0.3%;138.7;Interrupt;[3] net_rx(softirq);  553 mW  
+
+2023-10-10 09:21:06;   0.1%; 44.3;Timer;tick_sched_timer;  176 mW  
+
+2023-10-10 09:21:06;   8.3%; 0.10;Process;[PID 124394] nvidia-smi;  129 mW  
+
+2023-10-10 09:21:06;   0.7%; 13.6;Process;[PID 84395] avahi-daemon: running [icns.local] ; 64.8 mW  
+
+2023-10-10 09:21:06;   0.0%; 13.0;Timer;watchdog_timer_fn; 51.4 mW  
+
+2023-10-10 09:21:06;   0.0%;  7.0;kWork;psi_avgs_work; 27.9 mW  
+
+2023-10-10 09:21:06;   1.2%; 0.00;Process;[PID 124387] powertop --csv=powertop_output.csv ; 19.0 mW  
+
+2023-10-10 09:21:06;   0.3%;  1.5;Process;[PID 123800] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node --dns-result-order=ipv4first /home/icn; 10.5 mW  
+
+2023-10-10 09:21:06;   0.0%;  2.3;Process;[PID 15] [rcu_sched]; 9.39 mW  
+
+2023-10-10 09:21:06; 
+
+2023-10-10 09:21:30;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:21:30; 
+
+2023-10-10 09:21:30; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:21:30;   0.1%;130.2;kWork;dbs_work_handler;  515 mW  
+
+2023-10-10 09:21:30;   0.2%;121.2;Interrupt;[3] net_rx(softirq);  482 mW  
+
+2023-10-10 09:21:30;   0.1%; 45.3;Timer;tick_sched_timer;  180 mW  
+
+2023-10-10 09:21:30;  10.1%; 0.15;Process;[PID 124412] nvidia-smi;  159 mW  
+
+2023-10-10 09:21:30;   0.0%; 12.7;Timer;watchdog_timer_fn; 50.5 mW  
+
+2023-10-10 09:21:30;   1.8%; 0.00;Process;[PID 124405] powertop --csv=powertop_output.csv ; 28.4 mW  
+
+2023-10-10 09:21:30;   0.0%;  6.9;kWork;psi_avgs_work; 27.5 mW  
+
+2023-10-10 09:21:30;   0.4%;  3.4;Process;[PID 84395] avahi-daemon: running [icns.local] ; 20.0 mW  
+
+2023-10-10 09:21:30;   0.0%;  3.2;Process;[PID 15] [rcu_sched]; 13.0 mW  
+
+2023-10-10 09:21:30;   0.0%;  2.8;kWork;fb_flashcursor; 11.1 mW  
+
+2023-10-10 09:21:30; 
+
+2023-10-10 09:21:54;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:21:54; 
+
+2023-10-10 09:21:54; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:21:54;   0.1%;133.0;kWork;dbs_work_handler;  526 mW  
+
+2023-10-10 09:21:54;   0.2%;118.9;Interrupt;[3] net_rx(softirq);  473 mW  
+
+2023-10-10 09:21:54;   0.1%; 46.2;Timer;tick_sched_timer;  183 mW  
+
+2023-10-10 09:21:54;   9.6%; 0.15;Process;[PID 124429] nvidia-smi;  150 mW  
+
+2023-10-10 09:21:54;   0.0%; 12.9;Timer;watchdog_timer_fn; 51.3 mW  
+
+2023-10-10 09:21:54;   0.6%;  8.1;Process;[PID 84395] avahi-daemon: running [icns.local] ; 41.7 mW  
+
+2023-10-10 09:21:54;   0.0%;  6.5;kWork;psi_avgs_work; 25.8 mW  
+
+2023-10-10 09:21:54;   1.0%; 0.00;Process;[PID 124422] powertop --csv=powertop_output.csv ; 16.1 mW  
+
+2023-10-10 09:21:54;   0.0%;  2.9;kWork;fb_flashcursor; 11.6 mW  
+
+2023-10-10 09:21:54;   0.0%;  2.4;Process;[PID 15] [rcu_sched]; 9.89 mW  
+
+2023-10-10 09:21:54; 
+
+2023-10-10 09:22:17;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:22:17; 
+
+2023-10-10 09:22:17; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:22:17;   0.1%;125.8;kWork;dbs_work_handler;  498 mW  
+
+2023-10-10 09:22:17;   0.2%;117.6;Interrupt;[3] net_rx(softirq);  468 mW  
+
+2023-10-10 09:22:17;   0.1%; 40.1;Timer;tick_sched_timer;  159 mW  
+
+2023-10-10 09:22:17;   8.4%; 0.10;Process;[PID 124446] nvidia-smi;  132 mW  
+
+2023-10-10 09:22:17;   0.0%; 13.1;Timer;watchdog_timer_fn; 51.8 mW  
+
+2023-10-10 09:22:17;   0.0%;  7.2;kWork;psi_avgs_work; 28.5 mW  
+
+2023-10-10 09:22:17;   0.5%;  4.2;Process;[PID 84395] avahi-daemon: running [icns.local] ; 24.9 mW  
+
+2023-10-10 09:22:17;   1.2%; 0.00;Process;[PID 124439] powertop --csv=powertop_output.csv ; 18.4 mW  
+
+2023-10-10 09:22:17;   0.0%;  3.7;kWork;fb_flashcursor; 14.5 mW  
+
+2023-10-10 09:22:17;   0.0%;  2.8;Process;[PID 15] [rcu_sched]; 11.2 mW  
+
+2023-10-10 09:22:17; 
+
+2023-10-10 09:22:43;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:22:43; 
+
+2023-10-10 09:22:43; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:22:43;   0.1%;112.9;kWork;dbs_work_handler;  447 mW  
+
+2023-10-10 09:22:43;   0.2%;107.3;Interrupt;[3] net_rx(softirq);  427 mW  
+
+2023-10-10 09:22:43;   0.0%; 32.6;Timer;tick_sched_timer;  129 mW  
+
+2023-10-10 09:22:43;   0.0%; 13.0;Timer;watchdog_timer_fn; 51.4 mW  
+
+2023-10-10 09:22:43;   0.6%;  6.4;Process;[PID 84395] avahi-daemon: running [icns.local] ; 34.5 mW  
+
+2023-10-10 09:22:43;   2.0%; 0.05;Process;[PID 124474] nvidia-smi --query-gpu=index,name,memory.total,memory.used,memory.free,utilization.gpu,temperature.gpu,power.draw ; 31.5 mW  
+
+2023-10-10 09:22:43;   0.0%;  6.9;kWork;psi_avgs_work; 27.5 mW  
+
+2023-10-10 09:22:43;   1.2%; 0.10;Process;[PID 124456] powertop --csv=powertop_output.csv ; 18.4 mW  
+
+2023-10-10 09:22:43;   0.0%;  3.8;kWork;fb_flashcursor; 15.3 mW  
+
+2023-10-10 09:22:43;   0.0%;  1.4;Process;[PID 15] [rcu_sched]; 5.80 mW  
+
+2023-10-10 09:22:43; 
+
+2023-10-10 09:23:06;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:23:06; 
+
+2023-10-10 09:23:06; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:23:06;   0.1%;119.8;kWork;dbs_work_handler;  474 mW  
+
+2023-10-10 09:23:06;   0.2%;111.8;Interrupt;[3] net_rx(softirq);  445 mW  
+
+2023-10-10 09:23:06;   0.0%; 38.3;Timer;tick_sched_timer;  152 mW  
+
+2023-10-10 09:23:06;   8.3%; 0.10;Process;[PID 124493] nvidia-smi;  130 mW  
+
+2023-10-10 09:23:06;   0.0%; 13.3;Timer;watchdog_timer_fn; 52.5 mW  
+
+2023-10-10 09:23:06;   0.0%;  7.2;kWork;psi_avgs_work; 28.7 mW  
+
+2023-10-10 09:23:06;   0.5%;  4.3;Process;[PID 84395] avahi-daemon: running [icns.local] ; 24.2 mW  
+
+2023-10-10 09:23:06;   1.2%; 0.05;Process;[PID 124484] powertop --csv=powertop_output.csv ; 18.5 mW  
+
+2023-10-10 09:23:06;   0.0%;  4.4;kWork;fb_flashcursor; 17.6 mW  
+
+2023-10-10 09:23:06;   0.0%;  2.7;Process;[PID 15] [rcu_sched]; 10.9 mW  
+
+2023-10-10 09:23:06; 
+
+2023-10-10 09:23:30;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:23:30; 
+
+2023-10-10 09:23:30; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:23:30;   0.3%;132.6;Interrupt;[3] net_rx(softirq);  528 mW  
+
+2023-10-10 09:23:30;   0.1%;130.5;kWork;dbs_work_handler;  516 mW  
+
+2023-10-10 09:23:30;   0.1%; 40.4;Timer;tick_sched_timer;  160 mW  
+
+2023-10-10 09:23:30;   8.3%; 0.10;Process;[PID 124510] nvidia-smi;  130 mW  
+
+2023-10-10 09:23:30;   1.3%;  9.7;Process;[PID 84395] avahi-daemon: running [icns.local] ; 58.1 mW  
+
+2023-10-10 09:23:30;   0.0%; 12.6;Timer;watchdog_timer_fn; 49.8 mW  
+
+2023-10-10 09:23:30;   0.0%;  7.2;kWork;psi_avgs_work; 28.9 mW  
+
+2023-10-10 09:23:30;   1.2%; 0.00;Process;[PID 124501] powertop --csv=powertop_output.csv ; 18.3 mW  
+
+2023-10-10 09:23:30;   0.0%;  4.6;kWork;fb_flashcursor; 18.2 mW  
+
+2023-10-10 09:23:30;   0.0%;  2.0;Process;[PID 15] [rcu_sched]; 7.95 mW  
+
+2023-10-10 09:23:30; 
+
+2023-10-10 09:23:53;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:23:53; 
+
+2023-10-10 09:23:53; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:23:53;   0.1%;126.1;kWork;dbs_work_handler;  499 mW  
+
+2023-10-10 09:23:53;   0.2%;112.0;Interrupt;[3] net_rx(softirq);  446 mW  
+
+2023-10-10 09:23:53;   0.0%; 39.2;Timer;tick_sched_timer;  155 mW  
+
+2023-10-10 09:23:53;   8.4%; 0.10;Process;[PID 124527] nvidia-smi;  131 mW  
+
+2023-10-10 09:23:53;   0.0%; 13.1;Timer;watchdog_timer_fn; 52.0 mW  
+
+2023-10-10 09:23:53;   0.8%;  8.1;Process;[PID 84395] avahi-daemon: running [icns.local] ; 43.8 mW  
+
+2023-10-10 09:23:53;   0.0%;  6.9;kWork;psi_avgs_work; 27.3 mW  
+
+2023-10-10 09:23:53;   1.2%; 0.00;Process;[PID 124518] powertop --csv=powertop_output.csv ; 18.0 mW  
+
+2023-10-10 09:23:53;   0.0%;  3.4;kWork;fb_flashcursor; 13.5 mW  
+
+2023-10-10 09:23:53;   0.0%;  2.7;Process;[PID 15] [rcu_sched]; 10.9 mW  
+
+2023-10-10 09:23:53; 
+
+2023-10-10 09:24:17;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:24:17; 
+
+2023-10-10 09:24:17; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:24:17;   0.1%;126.9;kWork;dbs_work_handler;  502 mW  
+
+2023-10-10 09:24:17;   0.2%;113.0;Interrupt;[3] net_rx(softirq);  450 mW  
+
+2023-10-10 09:24:17;   0.1%; 42.8;Timer;tick_sched_timer;  170 mW  
+
+2023-10-10 09:24:17;   9.0%; 0.15;Process;[PID 124544] nvidia-smi;  141 mW  
+
+2023-10-10 09:24:17;   0.5%; 11.9;Process;[PID 84395] avahi-daemon: running [icns.local] ; 54.6 mW  
+
+2023-10-10 09:24:17;   0.0%; 13.1;Timer;watchdog_timer_fn; 51.9 mW  
+
+2023-10-10 09:24:17;   1.8%; 0.00;Process;[PID 124535] powertop --csv=powertop_output.csv ; 28.4 mW  
+
+2023-10-10 09:24:17;   0.0%;  6.7;kWork;psi_avgs_work; 26.6 mW  
+
+2023-10-10 09:24:17;   0.0%;  2.4;Process;[PID 15] [rcu_sched]; 9.46 mW  
+
+2023-10-10 09:24:17;   0.0%;  2.1;kWork;fb_flashcursor; 8.20 mW  
+
+2023-10-10 09:24:17; 
+
+2023-10-10 09:24:41;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:24:41; 
+
+2023-10-10 09:24:41; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:24:41;   0.0%;125.6;kWork;dbs_work_handler;  497 mW  
+
+2023-10-10 09:24:41;   0.2%;100.5;Interrupt;[3] net_rx(softirq);  400 mW  
+
+2023-10-10 09:24:41;   0.0%; 37.3;Timer;tick_sched_timer;  148 mW  
+
+2023-10-10 09:24:41;   8.7%; 0.10;Process;[PID 124561] nvidia-smi;  136 mW  
+
+2023-10-10 09:24:41;   0.0%; 13.0;Timer;watchdog_timer_fn; 51.6 mW  
+
+2023-10-10 09:24:41;   0.0%;  7.1;kWork;psi_avgs_work; 28.1 mW  
+
+2023-10-10 09:24:41;   0.4%;  3.0;Process;[PID 84395] avahi-daemon: running [icns.local] ; 17.5 mW  
+
+2023-10-10 09:24:41;   1.1%; 0.05;Process;[PID 124552] powertop --csv=powertop_output.csv ; 17.0 mW  
+
+2023-10-10 09:24:41;   0.0%;  3.0;Process;[PID 15] [rcu_sched]; 11.9 mW  
+
+2023-10-10 09:24:41;   0.0%;  2.8;kWork;fb_flashcursor; 11.0 mW  
+
+2023-10-10 09:24:41; 
+
+2023-10-10 09:25:04;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:25:04; 
+
+2023-10-10 09:25:04; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:25:04;   0.1%;122.0;kWork;dbs_work_handler;  483 mW  
+
+2023-10-10 09:25:04;   0.2%;121.0;Interrupt;[3] net_rx(softirq);  481 mW  
+
+2023-10-10 09:25:04;   0.0%; 39.6;Timer;tick_sched_timer;  157 mW  
+
+2023-10-10 09:25:04;   8.4%; 0.10;Process;[PID 124578] nvidia-smi;  131 mW  
+
+2023-10-10 09:25:04;   0.0%; 13.3;Timer;watchdog_timer_fn; 52.7 mW  
+
+2023-10-10 09:25:04;   0.6%;  5.1;Process;[PID 84395] avahi-daemon: running [icns.local] ; 29.6 mW  
+
+2023-10-10 09:25:04;   0.0%;  7.1;kWork;psi_avgs_work; 28.1 mW  
+
+2023-10-10 09:25:04;   1.0%; 0.00;Process;[PID 124569] powertop --csv=powertop_output.csv ; 15.8 mW  
+
+2023-10-10 09:25:04;   0.0%;  3.2;kWork;fb_flashcursor; 12.6 mW  
+
+2023-10-10 09:25:04;   0.0%;  2.4;Process;[PID 15] [rcu_sched]; 9.54 mW  
+
+2023-10-10 09:25:04; 
+
+2023-10-10 09:25:28;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:25:28; 
+
+2023-10-10 09:25:28; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:25:28;   0.1%;129.0;kWork;dbs_work_handler;  510 mW  
+
+2023-10-10 09:25:28;   0.2%;117.4;Interrupt;[3] net_rx(softirq);  467 mW  
+
+2023-10-10 09:25:28;   0.1%; 42.5;Timer;tick_sched_timer;  169 mW  
+
+2023-10-10 09:25:28;   8.6%; 0.15;Process;[PID 124595] nvidia-smi;  135 mW  
+
+2023-10-10 09:25:28;   0.0%; 13.1;Timer;watchdog_timer_fn; 52.0 mW  
+
+2023-10-10 09:25:28;   0.0%;  6.8;kWork;psi_avgs_work; 27.1 mW  
+
+2023-10-10 09:25:28;   0.6%;  4.5;Process;[PID 84395] avahi-daemon: running [icns.local] ; 26.8 mW  
+
+2023-10-10 09:25:28;   0.0%;  4.9;kWork;fb_flashcursor; 19.3 mW  
+
+2023-10-10 09:25:28;   1.1%; 0.00;Process;[PID 124588] powertop --csv=powertop_output.csv ; 17.6 mW  
+
+2023-10-10 09:25:28;   0.0%;  3.0;Process;[PID 15] [rcu_sched]; 12.1 mW  
+
+2023-10-10 09:25:28; 
+
+2023-10-10 09:25:51;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:25:51; 
+
+2023-10-10 09:25:51; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:25:51;   0.3%;151.7;Interrupt;[3] net_rx(softirq);  604 mW  
+
+2023-10-10 09:25:51;   0.1%;138.1;kWork;dbs_work_handler;  546 mW  
+
+2023-10-10 09:25:51;   0.1%; 46.7;Timer;tick_sched_timer;  185 mW  
+
+2023-10-10 09:25:51;   9.3%; 0.10;Process;[PID 124613] nvidia-smi;  145 mW  
+
+2023-10-10 09:25:51;   0.0%; 13.1;Timer;watchdog_timer_fn; 51.8 mW  
+
+2023-10-10 09:25:51;   0.8%;  7.7;Process;[PID 84395] avahi-daemon: running [icns.local] ; 42.6 mW  
+
+2023-10-10 09:25:51;   0.0%;  6.8;kWork;psi_avgs_work; 27.1 mW  
+
+2023-10-10 09:25:51;   1.1%; 0.00;Process;[PID 124606] powertop --csv=powertop_output.csv ; 17.8 mW  
+
+2023-10-10 09:25:51;   0.0%;  3.3;Process;[PID 15] [rcu_sched]; 13.3 mW  
+
+2023-10-10 09:25:51;   0.4%;  0.5;Process;[PID 93276] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083; 8.09 mW  
+
+2023-10-10 09:25:51; 
+
+2023-10-10 09:26:15;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:26:15; 
+
+2023-10-10 09:26:15; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:26:15;   0.2%;125.3;Interrupt;[3] net_rx(softirq);  498 mW  
+
+2023-10-10 09:26:15;   0.1%;122.8;kWork;dbs_work_handler;  486 mW  
+
+2023-10-10 09:26:15;   0.0%; 38.2;Timer;tick_sched_timer;  152 mW  
+
+2023-10-10 09:26:15;   8.3%; 0.10;Process;[PID 124631] nvidia-smi;  129 mW  
+
+2023-10-10 09:26:15;   0.0%; 12.8;Timer;watchdog_timer_fn; 50.6 mW  
+
+2023-10-10 09:26:15;   0.0%;  6.9;kWork;psi_avgs_work; 27.3 mW  
+
+2023-10-10 09:26:15;   0.6%;  4.2;Process;[PID 84395] avahi-daemon: running [icns.local] ; 26.3 mW  
+
+2023-10-10 09:26:15;   1.1%; 0.05;Process;[PID 124624] powertop --csv=powertop_output.csv ; 17.9 mW  
+
+2023-10-10 09:26:15;   0.0%;  3.4;kWork;fb_flashcursor; 13.5 mW  
+
+2023-10-10 09:26:15;   0.0%;  2.5;Process;[PID 15] [rcu_sched]; 10.1 mW  
+
+2023-10-10 09:26:15; 
+
+2023-10-10 09:26:38;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:26:38; 
+
+2023-10-10 09:26:38; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:26:38;   0.0%;116.0;kWork;dbs_work_handler;  459 mW  
+
+2023-10-10 09:26:38;   0.2%;106.3;Interrupt;[3] net_rx(softirq);  423 mW  
+
+2023-10-10 09:26:38;   0.0%; 37.4;Timer;tick_sched_timer;  149 mW  
+
+2023-10-10 09:26:38;   8.5%; 0.15;Process;[PID 124648] nvidia-smi;  133 mW  
+
+2023-10-10 09:26:38;   0.0%; 13.1;Timer;watchdog_timer_fn; 52.0 mW  
+
+2023-10-10 09:26:38;   0.0%;  6.9;kWork;psi_avgs_work; 27.5 mW  
+
+2023-10-10 09:26:38;   0.3%;  3.6;Process;[PID 84395] avahi-daemon: running [icns.local] ; 18.4 mW  
+
+2023-10-10 09:26:38;   1.1%; 0.00;Process;[PID 124641] powertop --csv=powertop_output.csv ; 17.7 mW  
+
+2023-10-10 09:26:38;   0.0%;  2.5;Process;[PID 15] [rcu_sched]; 9.92 mW  
+
+2023-10-10 09:26:38;   0.0%;  1.3;Process;[PID 1743] /usr/bin/containerd ; 5.62 mW  
+
+2023-10-10 09:26:38; 
+
+2023-10-10 09:27:01;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:27:01; 
+
+2023-10-10 09:27:01; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:27:01;   0.0%;118.7;kWork;dbs_work_handler;  469 mW  
+
+2023-10-10 09:27:01;   0.2%;103.9;Interrupt;[3] net_rx(softirq);  414 mW  
+
+2023-10-10 09:27:01;   0.1%; 40.3;Timer;tick_sched_timer;  160 mW  
+
+2023-10-10 09:27:01;   8.4%; 0.05;Process;[PID 124668] nvidia-smi;  131 mW  
+
+2023-10-10 09:27:01;   0.0%; 13.4;Timer;watchdog_timer_fn; 53.1 mW  
+
+2023-10-10 09:27:01;   0.0%;  6.8;kWork;psi_avgs_work; 27.0 mW  
+
+2023-10-10 09:27:01;   0.3%;  4.0;Process;[PID 84395] avahi-daemon: running [icns.local] ; 20.3 mW  
+
+2023-10-10 09:27:01;   1.1%; 0.00;Process;[PID 124659] powertop --csv=powertop_output.csv ; 16.5 mW  
+
+2023-10-10 09:27:01;   0.0%;  3.9;Process;[PID 15] [rcu_sched]; 15.7 mW  
+
+2023-10-10 09:27:01;   0.0%;  2.6;kWork;fb_flashcursor; 10.2 mW  
+
+2023-10-10 09:27:01; 
+
+2023-10-10 09:27:25;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:27:25; 
+
+2023-10-10 09:27:25; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:27:25;   0.1%;122.6;kWork;dbs_work_handler;  485 mW  
+
+2023-10-10 09:27:25;   0.2%;116.0;Interrupt;[3] net_rx(softirq);  462 mW  
+
+2023-10-10 09:27:25;   0.1%; 49.3;Timer;tick_sched_timer;  195 mW  
+
+2023-10-10 09:27:25;   6.3%; 0.10;Process;[PID 124684] nvidia-smi; 98.9 mW  
+
+2023-10-10 09:27:25;   0.0%; 13.3;Timer;watchdog_timer_fn; 52.7 mW  
+
+2023-10-10 09:27:25;   0.6%;  7.2;Process;[PID 84395] avahi-daemon: running [icns.local] ; 37.2 mW  
+
+2023-10-10 09:27:25;   0.0%;  6.7;kWork;psi_avgs_work; 26.6 mW  
+
+2023-10-10 09:27:25;   1.6%; 0.05;Process;[PID 124676] powertop --csv=powertop_output.csv ; 25.4 mW  
+
+2023-10-10 09:27:25;   0.0%;  3.9;kWork;fb_flashcursor; 15.6 mW  
+
+2023-10-10 09:27:25;   0.0%;  3.2;Process;[PID 15] [rcu_sched]; 13.0 mW  
+
+2023-10-10 09:27:25; 
+
+2023-10-10 09:27:50;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:27:50; 
+
+2023-10-10 09:27:50; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:27:50;   0.1%;124.6;kWork;dbs_work_handler;  493 mW  
+
+2023-10-10 09:27:50;   0.2%;116.5;Interrupt;[3] net_rx(softirq);  464 mW  
+
+2023-10-10 09:27:50;   0.0%; 32.4;Timer;tick_sched_timer;  129 mW  
+
+2023-10-10 09:27:50;   0.0%; 13.1;Timer;watchdog_timer_fn; 52.0 mW  
+
+2023-10-10 09:27:50;   3.2%; 0.05;Process;[PID 124712] nvidia-smi --query-gpu=index,name,memory.total,memory.used,memory.free,utilization.gpu,temperature.gpu,power.draw ; 50.3 mW  
+
+2023-10-10 09:27:50;   0.6%;  5.4;Process;[PID 84395] avahi-daemon: running [icns.local] ; 31.4 mW  
+
+2023-10-10 09:27:50;   0.0%;  6.8;kWork;psi_avgs_work; 27.1 mW  
+
+2023-10-10 09:27:50;   1.2%; 0.10;Process;[PID 124695] powertop --csv=powertop_output.csv ; 18.8 mW  
+
+2023-10-10 09:27:50;   0.0%;  2.7;kWork;fb_flashcursor; 10.8 mW  
+
+2023-10-10 09:27:50;   0.0%;  2.4;Process;[PID 15] [rcu_sched]; 9.69 mW  
+
+2023-10-10 09:27:50; 
+
+2023-10-10 09:28:14;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:28:14; 
+
+2023-10-10 09:28:14; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:28:14;   0.1%;126.5;kWork;dbs_work_handler;  500 mW  
+
+2023-10-10 09:28:14;   0.2%;113.1;Interrupt;[3] net_rx(softirq);  450 mW  
+
+2023-10-10 09:28:14;   0.1%; 38.6;Timer;tick_sched_timer;  153 mW  
+
+2023-10-10 09:28:14;   8.4%; 0.10;Process;[PID 124729] nvidia-smi;  131 mW  
+
+2023-10-10 09:28:14;   0.0%; 13.2;Timer;watchdog_timer_fn; 52.1 mW  
+
+2023-10-10 09:28:14;   0.5%;  6.1;Process;[PID 84395] avahi-daemon: running [icns.local] ; 31.3 mW  
+
+2023-10-10 09:28:14;   0.0%;  7.4;kWork;psi_avgs_work; 29.6 mW  
+
+2023-10-10 09:28:14;   1.2%; 0.00;Process;[PID 124720] powertop --csv=powertop_output.csv ; 18.8 mW  
+
+2023-10-10 09:28:14;   0.0%;  2.2;Process;[PID 15] [rcu_sched]; 8.75 mW  
+
+2023-10-10 09:28:14;   0.0%;  1.9;kWork;fb_flashcursor; 7.46 mW  
+
+2023-10-10 09:28:14; 
+
+2023-10-10 09:28:38;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:28:38; 
+
+2023-10-10 09:28:38; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:28:38;   0.2%;121.5;Interrupt;[3] net_rx(softirq);  483 mW  
+
+2023-10-10 09:28:38;   0.0%;119.6;kWork;dbs_work_handler;  473 mW  
+
+2023-10-10 09:28:38;   0.0%; 38.7;Timer;tick_sched_timer;  154 mW  
+
+2023-10-10 09:28:38;   8.3%; 0.10;Process;[PID 124746] nvidia-smi;  130 mW  
+
+2023-10-10 09:28:38;   0.0%; 13.3;Timer;watchdog_timer_fn; 52.6 mW  
+
+2023-10-10 09:28:38;   1.8%; 0.00;Process;[PID 124737] powertop --csv=powertop_output.csv ; 28.1 mW  
+
+2023-10-10 09:28:38;   0.5%;  5.1;Process;[PID 84395] avahi-daemon: running [icns.local] ; 28.1 mW  
+
+2023-10-10 09:28:38;   0.0%;  6.3;kWork;psi_avgs_work; 25.2 mW  
+
+2023-10-10 09:28:38;   0.0%;  3.6;kWork;fb_flashcursor; 14.4 mW  
+
+2023-10-10 09:28:38;   0.0%;  1.9;Process;[PID 15] [rcu_sched]; 7.51 mW  
+
+2023-10-10 09:28:38; 
+
+2023-10-10 09:29:02;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:29:02; 
+
+2023-10-10 09:29:02; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:29:02;   0.0%;117.3;kWork;dbs_work_handler;  464 mW  
+
+2023-10-10 09:29:02;   0.2%;105.4;Interrupt;[3] net_rx(softirq);  420 mW  
+
+2023-10-10 09:29:02;   0.0%; 37.8;Timer;tick_sched_timer;  150 mW  
+
+2023-10-10 09:29:02;   8.3%; 0.05;Process;[PID 124764] nvidia-smi;  129 mW  
+
+2023-10-10 09:29:02;   0.0%; 13.1;Timer;watchdog_timer_fn; 52.0 mW  
+
+2023-10-10 09:29:02;   0.0%;  6.8;kWork;psi_avgs_work; 27.1 mW  
+
+2023-10-10 09:29:02;   0.3%;  4.1;Process;[PID 84395] avahi-daemon: running [icns.local] ; 21.4 mW  
+
+2023-10-10 09:29:02;   1.2%; 0.00;Process;[PID 124754] powertop --csv=powertop_output.csv ; 19.5 mW  
+
+2023-10-10 09:29:02;   0.0%;  3.0;Process;[PID 15] [rcu_sched]; 12.0 mW  
+
+2023-10-10 09:29:02;   0.0%;  2.2;kWork;fb_flashcursor; 8.83 mW  
+
+2023-10-10 09:29:02; 
+
+2023-10-10 09:29:25;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:29:25; 
+
+2023-10-10 09:29:25; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:29:25;   0.0%;117.2;kWork;dbs_work_handler;  464 mW  
+
+2023-10-10 09:29:25;   0.2%;104.9;Interrupt;[3] net_rx(softirq);  417 mW  
+
+2023-10-10 09:29:25;   0.0%; 36.0;Timer;tick_sched_timer;  143 mW  
+
+2023-10-10 09:29:25;   8.5%; 0.10;Process;[PID 124781] nvidia-smi;  133 mW  
+
+2023-10-10 09:29:25;   0.0%; 13.3;Timer;watchdog_timer_fn; 52.9 mW  
+
+2023-10-10 09:29:25;   0.0%;  6.8;kWork;psi_avgs_work; 27.1 mW  
+
+2023-10-10 09:29:25;   0.3%;  3.3;Process;[PID 84395] avahi-daemon: running [icns.local] ; 18.1 mW  
+
+2023-10-10 09:29:25;   1.1%; 0.05;Process;[PID 124772] powertop --csv=powertop_output.csv ; 17.0 mW  
+
+2023-10-10 09:29:25;   0.0%;  2.3;Process;[PID 15] [rcu_sched]; 9.47 mW  
+
+2023-10-10 09:29:25;   0.1%;  2.1;Process;[PID 1766] /usr/bin/containerd ; 9.31 mW  
+
+2023-10-10 09:29:25; 
+
+2023-10-10 09:29:48;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:29:48; 
+
+2023-10-10 09:29:48; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:29:48;   0.1%;118.9;kWork;dbs_work_handler;  470 mW  
+
+2023-10-10 09:29:48;   0.2%;108.6;Interrupt;[3] net_rx(softirq);  432 mW  
+
+2023-10-10 09:29:48;   0.1%; 40.1;Timer;tick_sched_timer;  159 mW  
+
+2023-10-10 09:29:48;   8.3%; 0.10;Process;[PID 124798] nvidia-smi;  130 mW  
+
+2023-10-10 09:29:48;   0.0%; 12.7;Timer;watchdog_timer_fn; 50.5 mW  
+
+2023-10-10 09:29:48;   0.3%;  7.1;Process;[PID 84395] avahi-daemon: running [icns.local] ; 33.3 mW  
+
+2023-10-10 09:29:48;   0.0%;  6.9;kWork;psi_avgs_work; 27.3 mW  
+
+2023-10-10 09:29:48;   1.0%; 0.00;Process;[PID 124791] powertop --csv=powertop_output.csv ; 16.2 mW  
+
+2023-10-10 09:29:48;   0.0%;  3.3;kWork;fb_flashcursor; 12.9 mW  
+
+2023-10-10 09:29:48;   0.0%;  3.1;Process;[PID 15] [rcu_sched]; 12.6 mW  
+
+2023-10-10 09:29:48; 
+
+2023-10-10 09:30:12;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:30:12; 
+
+2023-10-10 09:30:12; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:30:12;   0.1%;125.2;kWork;dbs_work_handler;  495 mW  
+
+2023-10-10 09:30:12;   0.2%;116.9;Interrupt;[3] net_rx(softirq);  465 mW  
+
+2023-10-10 09:30:12;   0.1%; 42.7;Timer;tick_sched_timer;  169 mW  
+
+2023-10-10 09:30:12;   8.4%; 0.15;Process;[PID 124815] nvidia-smi;  132 mW  
+
+2023-10-10 09:30:12;   0.0%; 12.4;Timer;watchdog_timer_fn; 49.3 mW  
+
+2023-10-10 09:30:12;   0.0%;  6.9;kWork;psi_avgs_work; 27.6 mW  
+
+2023-10-10 09:30:12;   1.6%; 0.05;Process;[PID 124808] powertop --csv=powertop_output.csv ; 24.4 mW  
+
+2023-10-10 09:30:12;   0.6%;  3.7;Process;[PID 84395] avahi-daemon: running [icns.local] ; 23.4 mW  
+
+2023-10-10 09:30:12;   0.0%;  4.6;kWork;fb_flashcursor; 18.1 mW  
+
+2023-10-10 09:30:12;   0.0%;  2.3;Process;[PID 15] [rcu_sched]; 9.24 mW  
+
+2023-10-10 09:30:12; 
+
+2023-10-10 09:30:36;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:30:36; 
+
+2023-10-10 09:30:36; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:30:36;   0.1%;124.0;kWork;dbs_work_handler;  491 mW  
+
+2023-10-10 09:30:36;   0.2%;104.6;Interrupt;[3] net_rx(softirq);  416 mW  
+
+2023-10-10 09:30:36;   0.1%; 45.4;Timer;tick_sched_timer;  180 mW  
+
+2023-10-10 09:30:36;   9.4%;  0.5;Process;[PID 124833] nvidia-smi;  150 mW  
+
+2023-10-10 09:30:36;   0.0%; 12.8;Timer;watchdog_timer_fn; 50.9 mW  
+
+2023-10-10 09:30:36;   0.0%;  7.1;kWork;psi_avgs_work; 28.1 mW  
+
+2023-10-10 09:30:36;   0.0%;  4.6;kWork;fb_flashcursor; 18.2 mW  
+
+2023-10-10 09:30:36;   1.0%; 0.05;Process;[PID 124826] powertop --csv=powertop_output.csv ; 16.3 mW  
+
+2023-10-10 09:30:36;   0.3%;  2.7;Process;[PID 84395] avahi-daemon: running [icns.local] ; 15.8 mW  
+
+2023-10-10 09:30:36;   0.0%;  2.9;Process;[PID 15] [rcu_sched]; 11.6 mW  
+
+2023-10-10 09:30:36; 
+
+2023-10-10 09:30:59;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:30:59; 
+
+2023-10-10 09:30:59; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:30:59;   0.1%;127.9;kWork;dbs_work_handler;  506 mW  
+
+2023-10-10 09:30:59;   0.2%;119.1;Interrupt;[3] net_rx(softirq);  474 mW  
+
+2023-10-10 09:30:59;   0.1%; 40.8;Timer;tick_sched_timer;  162 mW  
+
+2023-10-10 09:30:59;   8.3%; 0.15;Process;[PID 124853] nvidia-smi;  130 mW  
+
+2023-10-10 09:30:59;   0.0%; 13.1;Timer;watchdog_timer_fn; 52.0 mW  
+
+2023-10-10 09:30:59;   0.0%;  6.9;kWork;psi_avgs_work; 27.5 mW  
+
+2023-10-10 09:30:59;   0.5%;  5.1;Process;[PID 84395] avahi-daemon: running [icns.local] ; 27.5 mW  
+
+2023-10-10 09:30:59;   1.1%; 0.05;Process;[PID 124844] powertop --csv=powertop_output.csv ; 17.0 mW  
+
+2023-10-10 09:30:59;   0.0%;  3.6;Process;[PID 15] [rcu_sched]; 14.4 mW  
+
+2023-10-10 09:30:59;   0.5%;  0.9;Process;[PID 93276] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083; 11.6 mW  
+
+2023-10-10 09:30:59; 
+
+2023-10-10 09:31:23;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:31:23; 
+
+2023-10-10 09:31:23; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:31:23;   0.0%;114.7;kWork;dbs_work_handler;  454 mW  
+
+2023-10-10 09:31:23;   0.2%;100.9;Interrupt;[3] net_rx(softirq);  402 mW  
+
+2023-10-10 09:31:23;   0.0%; 36.5;Timer;tick_sched_timer;  145 mW  
+
+2023-10-10 09:31:23;   8.3%; 0.10;Process;[PID 124870] nvidia-smi;  130 mW  
+
+2023-10-10 09:31:23;   0.0%; 13.4;Timer;watchdog_timer_fn; 53.2 mW  
+
+2023-10-10 09:31:23;   0.0%;  7.4;kWork;psi_avgs_work; 29.3 mW  
+
+2023-10-10 09:31:23;   0.3%;  4.8;Process;[PID 84395] avahi-daemon: running [icns.local] ; 23.4 mW  
+
+2023-10-10 09:31:23;   1.1%; 0.00;Process;[PID 124861] powertop --csv=powertop_output.csv ; 16.5 mW  
+
+2023-10-10 09:31:23;   0.0%;  3.8;kWork;fb_flashcursor; 14.9 mW  
+
+2023-10-10 09:31:23;   0.0%;  2.8;Process;[PID 15] [rcu_sched]; 11.1 mW  
+
+2023-10-10 09:31:23; 
+
+2023-10-10 09:31:46;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:31:46; 
+
+2023-10-10 09:31:46; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:31:46;   0.2%;120.4;Interrupt;[3] net_rx(softirq);  479 mW  
+
+2023-10-10 09:31:46;   0.0%;116.6;kWork;dbs_work_handler;  461 mW  
+
+2023-10-10 09:31:46;   0.1%; 40.1;Timer;tick_sched_timer;  159 mW  
+
+2023-10-10 09:31:46;   8.4%; 0.10;Process;[PID 124887] nvidia-smi;  131 mW  
+
+2023-10-10 09:31:46;   0.0%; 12.9;Timer;watchdog_timer_fn; 51.2 mW  
+
+2023-10-10 09:31:46;   0.0%;  6.9;kWork;psi_avgs_work; 27.5 mW  
+
+2023-10-10 09:31:46;   1.3%; 0.05;Process;[PID 124880] powertop --csv=powertop_output.csv ; 20.6 mW  
+
+2023-10-10 09:31:46;   0.4%;  3.3;Process;[PID 84395] avahi-daemon: running [icns.local] ; 19.1 mW  
+
+2023-10-10 09:31:46;   0.0%;  3.2;kWork;fb_flashcursor; 12.7 mW  
+
+2023-10-10 09:31:46;   0.0%;  2.7;Process;[PID 15] [rcu_sched]; 10.9 mW  
+
+2023-10-10 09:31:46; 
+
+2023-10-10 09:32:10;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:32:10; 
+
+2023-10-10 09:32:10; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:32:10;   0.0%;112.6;kWork;dbs_work_handler;  445 mW  
+
+2023-10-10 09:32:10;   0.2%;104.5;Interrupt;[3] net_rx(softirq);  416 mW  
+
+2023-10-10 09:32:10;   0.0%; 37.9;Timer;tick_sched_timer;  150 mW  
+
+2023-10-10 09:32:10;   8.3%; 0.10;Process;[PID 124905] nvidia-smi;  130 mW  
+
+2023-10-10 09:32:10;   0.0%; 13.2;Timer;watchdog_timer_fn; 52.2 mW  
+
+2023-10-10 09:32:10;   0.0%;  7.0;kWork;psi_avgs_work; 27.7 mW  
+
+2023-10-10 09:32:10;   1.2%; 0.10;Process;[PID 124898] powertop --csv=powertop_output.csv ; 18.7 mW  
+
+2023-10-10 09:32:10;   0.0%;  4.3;kWork;fb_flashcursor; 17.2 mW  
+
+2023-10-10 09:32:10;   0.3%;  2.1;Process;[PID 84395] avahi-daemon: running [icns.local] ; 12.3 mW  
+
+2023-10-10 09:32:10;   0.0%;  2.3;Process;[PID 15] [rcu_sched]; 9.35 mW  
+
+2023-10-10 09:32:10; 
+
+2023-10-10 09:32:35;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:32:35; 
+
+2023-10-10 09:32:35; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:32:35;   0.0%;120.5;kWork;dbs_work_handler;  477 mW  
+
+2023-10-10 09:32:35;   0.2%;115.2;Interrupt;[3] net_rx(softirq);  459 mW  
+
+2023-10-10 09:32:35;   0.0%; 33.0;Timer;tick_sched_timer;  131 mW  
+
+2023-10-10 09:32:35;   0.0%; 13.0;Timer;watchdog_timer_fn; 51.6 mW  
+
+2023-10-10 09:32:35;   0.6%;  5.6;Process;[PID 84395] avahi-daemon: running [icns.local] ; 30.9 mW  
+
+2023-10-10 09:32:35;   0.0%;  6.8;kWork;psi_avgs_work; 27.1 mW  
+
+2023-10-10 09:32:35;   1.2%; 0.05;Process;[PID 124916] powertop --csv=powertop_output.csv ; 18.5 mW  
+
+2023-10-10 09:32:35;   0.7%; 0.00;Process;[PID 124933] nvidia-smi --query-gpu=index,name,memory.total,memory.used,memory.free,utilization.gpu,temperature.gpu,power.draw ; 10.6 mW  
+
+2023-10-10 09:32:35;   0.0%;  1.7;Process;[PID 15] [rcu_sched]; 6.96 mW  
+
+2023-10-10 09:32:35;   0.0%;  1.4;kWork;lru_add_drain_per_cpu; 5.47 mW  
+
+2023-10-10 09:32:35; 
+
+2023-10-10 09:32:59;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:32:59; 
+
+2023-10-10 09:32:59; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:32:59;   0.0%;119.2;kWork;dbs_work_handler;  472 mW  
+
+2023-10-10 09:32:59;   0.2%;102.0;Interrupt;[3] net_rx(softirq);  406 mW  
+
+2023-10-10 09:32:59;   0.0%; 38.5;Timer;tick_sched_timer;  153 mW  
+
+2023-10-10 09:32:59;   8.3%; 0.25;Process;[PID 124950] nvidia-smi;  130 mW  
+
+2023-10-10 09:32:59;   0.0%; 13.1;Timer;watchdog_timer_fn; 51.8 mW  
+
+2023-10-10 09:32:59;   0.0%;  6.5;kWork;psi_avgs_work; 25.9 mW  
+
+2023-10-10 09:32:59;   0.4%;  3.6;Process;[PID 84395] avahi-daemon: running [icns.local] ; 20.3 mW  
+
+2023-10-10 09:32:59;   1.2%; 0.00;Process;[PID 124941] powertop --csv=powertop_output.csv ; 18.3 mW  
+
+2023-10-10 09:32:59;   0.0%;  3.3;kWork;fb_flashcursor; 13.1 mW  
+
+2023-10-10 09:32:59;   0.0%;  3.0;Process;[PID 15] [rcu_sched]; 11.9 mW  
+
+2023-10-10 09:32:59; 
+
+2023-10-10 09:33:22;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:33:22; 
+
+2023-10-10 09:33:22; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:33:22;   0.3%;152.6;Interrupt;[3] net_rx(softirq);  607 mW  
+
+2023-10-10 09:33:22;   0.1%;131.5;kWork;dbs_work_handler;  520 mW  
+
+2023-10-10 09:33:22;   0.1%; 41.9;Timer;tick_sched_timer;  166 mW  
+
+2023-10-10 09:33:22;   8.3%; 0.10;Process;[PID 124967] nvidia-smi;  130 mW  
+
+2023-10-10 09:33:22;   0.0%; 13.1;Timer;watchdog_timer_fn; 51.8 mW  
+
+2023-10-10 09:33:22;   0.7%;  8.0;Process;[PID 84395] avahi-daemon: running [icns.local] ; 43.1 mW  
+
+2023-10-10 09:33:22;   0.0%;  6.7;kWork;psi_avgs_work; 26.5 mW  
+
+2023-10-10 09:33:22;   1.2%; 0.05;Process;[PID 124958] powertop --csv=powertop_output.csv ; 19.1 mW  
+
+2023-10-10 09:33:22;   0.0%;  2.9;kWork;fb_flashcursor; 11.6 mW  
+
+2023-10-10 09:33:22;   0.0%;  2.6;Process;[PID 15] [rcu_sched]; 10.3 mW  
+
+2023-10-10 09:33:22; 
+
+2023-10-10 09:33:46;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:33:46; 
+
+2023-10-10 09:33:46; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:33:46;   0.0%;117.6;kWork;dbs_work_handler;  465 mW  
+
+2023-10-10 09:33:46;   0.2%;107.7;Interrupt;[3] net_rx(softirq);  428 mW  
+
+2023-10-10 09:33:46;   0.0%; 38.7;Timer;tick_sched_timer;  154 mW  
+
+2023-10-10 09:33:46;   8.3%; 0.05;Process;[PID 124984] nvidia-smi;  129 mW  
+
+2023-10-10 09:33:46;   0.0%; 13.1;Timer;watchdog_timer_fn; 52.0 mW  
+
+2023-10-10 09:33:46;   0.0%;  6.5;kWork;psi_avgs_work; 25.7 mW  
+
+2023-10-10 09:33:46;   0.4%;  3.4;Process;[PID 84395] avahi-daemon: running [icns.local] ; 18.9 mW  
+
+2023-10-10 09:33:46;   1.1%; 0.00;Process;[PID 124977] powertop --csv=powertop_output.csv ; 17.7 mW  
+
+2023-10-10 09:33:46;   0.0%;  3.7;kWork;fb_flashcursor; 14.9 mW  
+
+2023-10-10 09:33:46;   0.0%;  3.1;Process;[PID 15] [rcu_sched]; 12.5 mW  
+
+2023-10-10 09:33:46; 
+
+2023-10-10 09:34:10;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:34:10; 
+
+2023-10-10 09:34:10; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:34:10;   0.1%;129.6;kWork;dbs_work_handler;  513 mW  
+
+2023-10-10 09:34:10;   0.2%;106.2;Interrupt;[3] net_rx(softirq);  422 mW  
+
+2023-10-10 09:34:10;   0.1%; 49.0;Timer;tick_sched_timer;  195 mW  
+
+2023-10-10 09:34:10;   9.9%;  0.3;Process;[PID 125001] nvidia-smi;  156 mW  
+
+2023-10-10 09:34:10;   0.0%; 12.4;Timer;watchdog_timer_fn; 49.2 mW  
+
+2023-10-10 09:34:10;   0.0%;  6.9;kWork;psi_avgs_work; 27.5 mW  
+
+2023-10-10 09:34:10;   1.3%; 0.00;Process;[PID 124994] powertop --csv=powertop_output.csv ; 20.3 mW  
+
+2023-10-10 09:34:10;   0.0%;  4.4;Process;[PID 15] [rcu_sched]; 17.8 mW  
+
+2023-10-10 09:34:10;   0.3%;  1.6;Process;[PID 84395] avahi-daemon: running [icns.local] ; 10.8 mW  
+
+2023-10-10 09:34:10;   0.0%;  1.5;Process;[PID 1737] /usr/bin/containerd ; 6.55 mW  
+
+2023-10-10 09:34:10; 
+
+2023-10-10 09:34:33;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:34:33; 
+
+2023-10-10 09:34:33; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:34:33;   0.2%;122.9;Interrupt;[3] net_rx(softirq);  489 mW  
+
+2023-10-10 09:34:33;   0.0%;119.2;kWork;dbs_work_handler;  472 mW  
+
+2023-10-10 09:34:33;   0.0%; 38.3;Timer;tick_sched_timer;  152 mW  
+
+2023-10-10 09:34:33;   8.3%; 0.10;Process;[PID 125020] nvidia-smi;  130 mW  
+
+2023-10-10 09:34:33;   0.0%; 13.5;Timer;watchdog_timer_fn; 53.4 mW  
+
+2023-10-10 09:34:33;   0.6%;  5.0;Process;[PID 84395] avahi-daemon: running [icns.local] ; 29.9 mW  
+
+2023-10-10 09:34:33;   0.0%;  5.9;kWork;psi_avgs_work; 23.6 mW  
+
+2023-10-10 09:34:33;   1.2%; 0.00;Process;[PID 125011] powertop --csv=powertop_output.csv ; 18.0 mW  
+
+2023-10-10 09:34:33;   0.0%;  2.7;kWork;fb_flashcursor; 10.8 mW  
+
+2023-10-10 09:34:33;   0.0%;  2.1;Process;[PID 15] [rcu_sched]; 8.55 mW  
+
+2023-10-10 09:34:33; 
+
+2023-10-10 09:34:58;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:34:58; 
+
+2023-10-10 09:34:58; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:34:58;   0.0%;125.7;kWork;dbs_work_handler;  497 mW  
+
+2023-10-10 09:34:58;   0.2%;114.4;Interrupt;[3] net_rx(softirq);  455 mW  
+
+2023-10-10 09:34:58;   0.1%; 48.7;Timer;tick_sched_timer;  193 mW  
+
+2023-10-10 09:34:58;   8.8%; 0.10;Process;[PID 125038] nvidia-smi;  137 mW  
+
+2023-10-10 09:34:58;   0.0%; 12.8;Timer;watchdog_timer_fn; 50.9 mW  
+
+2023-10-10 09:34:58;   0.6%;  5.5;Process;[PID 84395] avahi-daemon: running [icns.local] ; 31.8 mW  
+
+2023-10-10 09:34:58;   1.8%; 0.00;Process;[PID 125028] powertop --csv=powertop_output.csv ; 27.8 mW  
+
+2023-10-10 09:34:58;   0.0%;  6.3;kWork;psi_avgs_work; 25.0 mW  
+
+2023-10-10 09:34:58;   0.0%;  3.5;Process;[PID 15] [rcu_sched]; 14.0 mW  
+
+2023-10-10 09:34:58;   0.0%;  3.0;kWork;fb_flashcursor; 12.1 mW  
+
+2023-10-10 09:34:58; 
+
+2023-10-10 09:35:21;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:35:21; 
+
+2023-10-10 09:35:21; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:35:21;   0.1%;121.7;kWork;dbs_work_handler;  482 mW  
+
+2023-10-10 09:35:21;   0.2%;110.7;Interrupt;[3] net_rx(softirq);  440 mW  
+
+2023-10-10 09:35:21;   0.1%; 39.5;Timer;tick_sched_timer;  157 mW  
+
+2023-10-10 09:35:21;   8.6%; 0.20;Process;[PID 125055] nvidia-smi;  135 mW  
+
+2023-10-10 09:35:21;   0.0%; 12.8;Timer;watchdog_timer_fn; 50.9 mW  
+
+2023-10-10 09:35:21;   0.5%;  4.9;Process;[PID 84395] avahi-daemon: running [icns.local] ; 26.8 mW  
+
+2023-10-10 09:35:21;   0.0%;  6.6;kWork;psi_avgs_work; 26.2 mW  
+
+2023-10-10 09:35:21;   1.2%; 0.00;Process;[PID 125046] powertop --csv=powertop_output.csv ; 18.0 mW  
+
+2023-10-10 09:35:21;   0.0%;  3.9;kWork;fb_flashcursor; 15.3 mW  
+
+2023-10-10 09:35:21;   0.0%;  2.7;Process;[PID 15] [rcu_sched]; 10.8 mW  
+
+2023-10-10 09:35:21; 
+
+2023-10-10 09:35:45;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:35:45; 
+
+2023-10-10 09:35:45; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:35:45;   0.1%;123.8;kWork;dbs_work_handler;  490 mW  
+
+2023-10-10 09:35:45;   0.2%;106.0;Interrupt;[3] net_rx(softirq);  422 mW  
+
+2023-10-10 09:35:45;   0.1%; 45.0;Timer;tick_sched_timer;  178 mW  
+
+2023-10-10 09:35:45;   8.4%; 0.15;Process;[PID 125072] nvidia-smi;  132 mW  
+
+2023-10-10 09:35:45;   0.0%; 13.2;Timer;watchdog_timer_fn; 52.3 mW  
+
+2023-10-10 09:35:45;   0.0%;  6.7;kWork;psi_avgs_work; 26.8 mW  
+
+2023-10-10 09:35:45;   0.3%;  3.6;Process;[PID 84395] avahi-daemon: running [icns.local] ; 19.3 mW  
+
+2023-10-10 09:35:45;   1.1%; 0.00;Process;[PID 125063] powertop --csv=powertop_output.csv ; 16.8 mW  
+
+2023-10-10 09:35:45;   0.0%;  3.4;Process;[PID 15] [rcu_sched]; 13.5 mW  
+
+2023-10-10 09:35:45;   0.0%;  2.4;kWork;fb_flashcursor; 9.44 mW  
+
+2023-10-10 09:35:45; 
+
+2023-10-10 09:36:09;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:36:09; 
+
+2023-10-10 09:36:09; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:36:09;   0.0%;116.5;kWork;dbs_work_handler;  461 mW  
+
+2023-10-10 09:36:09;   0.2%;113.8;Interrupt;[3] net_rx(softirq);  453 mW  
+
+2023-10-10 09:36:09;   0.0%; 39.5;Timer;tick_sched_timer;  157 mW  
+
+2023-10-10 09:36:09;   8.2%; 0.10;Process;[PID 125090] nvidia-smi;  128 mW  
+
+2023-10-10 09:36:09;   0.0%; 11.6;Timer;watchdog_timer_fn; 45.9 mW  
+
+2023-10-10 09:36:09;   1.8%; 0.00;Process;[PID 125083] powertop --csv=powertop_output.csv ; 28.4 mW  
+
+2023-10-10 09:36:09;   0.0%;  6.8;kWork;psi_avgs_work; 27.1 mW  
+
+2023-10-10 09:36:09;   0.3%;  5.0;Process;[PID 84395] avahi-daemon: running [icns.local] ; 24.1 mW  
+
+2023-10-10 09:36:09;   0.0%;  3.5;kWork;fb_flashcursor; 13.8 mW  
+
+2023-10-10 09:36:09;   0.0%;  3.1;Process;[PID 15] [rcu_sched]; 12.6 mW  
+
+2023-10-10 09:36:09; 
+
+2023-10-10 09:36:32;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:36:32; 
+
+2023-10-10 09:36:32; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:36:32;   0.0%;111.3;kWork;dbs_work_handler;  440 mW  
+
+2023-10-10 09:36:32;   0.2%;107.1;Interrupt;[3] net_rx(softirq);  426 mW  
+
+2023-10-10 09:36:32;   0.0%; 36.4;Timer;tick_sched_timer;  145 mW  
+
+2023-10-10 09:36:32;   8.3%; 0.15;Process;[PID 125107] nvidia-smi;  130 mW  
+
+2023-10-10 09:36:32;   0.0%; 13.2;Timer;watchdog_timer_fn; 52.2 mW  
+
+2023-10-10 09:36:32;   0.0%;  6.1;kWork;psi_avgs_work; 24.2 mW  
+
+2023-10-10 09:36:32;   0.3%;  4.7;Process;[PID 84395] avahi-daemon: running [icns.local] ; 23.3 mW  
+
+2023-10-10 09:36:32;   1.2%; 0.00;Process;[PID 125100] powertop --csv=powertop_output.csv ; 18.3 mW  
+
+2023-10-10 09:36:32;   0.0%;  3.1;kWork;fb_flashcursor; 12.1 mW  
+
+2023-10-10 09:36:32;   0.0%;  3.0;Process;[PID 15] [rcu_sched]; 11.9 mW  
+
+2023-10-10 09:36:32; 
+
+2023-10-10 09:36:56;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:36:56; 
+
+2023-10-10 09:36:56; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:36:56;   0.1%;126.2;kWork;dbs_work_handler;  499 mW  
+
+2023-10-10 09:36:56;   0.2%; 93.5;Interrupt;[3] net_rx(softirq);  372 mW  
+
+2023-10-10 09:36:56;  12.7%; 0.15;Process;[PID 125124] nvidia-smi;  199 mW  
+
+2023-10-10 09:36:56;   0.1%; 49.6;Timer;tick_sched_timer;  197 mW  
+
+2023-10-10 09:36:56;   0.0%; 11.1;Timer;watchdog_timer_fn; 44.1 mW  
+
+2023-10-10 09:36:56;   0.0%;  7.1;kWork;psi_avgs_work; 28.1 mW  
+
+2023-10-10 09:36:56;   1.0%; 0.00;Process;[PID 125117] powertop --csv=powertop_output.csv ; 16.2 mW  
+
+2023-10-10 09:36:56;   0.0%;  3.9;Process;[PID 15] [rcu_sched]; 15.5 mW  
+
+2023-10-10 09:36:56;   0.0%;  3.9;kWork;fb_flashcursor; 15.5 mW  
+
+2023-10-10 09:36:56;   0.3%;  1.9;Process;[PID 84395] avahi-daemon: running [icns.local] ; 12.0 mW  
+
+2023-10-10 09:36:56; 
+
+2023-10-10 09:37:20;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:37:20; 
+
+2023-10-10 09:37:20; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:37:20;   0.0%;121.8;kWork;dbs_work_handler;  482 mW  
+
+2023-10-10 09:37:20;   0.2%;101.4;Interrupt;[3] net_rx(softirq);  404 mW  
+
+2023-10-10 09:37:20;   0.0%; 39.7;Timer;tick_sched_timer;  157 mW  
+
+2023-10-10 09:37:20;   0.0%; 12.3;Timer;watchdog_timer_fn; 48.9 mW  
+
+2023-10-10 09:37:20;   2.4%; 0.10;Process;[PID 125140] nvidia-smi; 38.1 mW  
+
+2023-10-10 09:37:20;   0.0%;  6.4;kWork;psi_avgs_work; 25.5 mW  
+
+2023-10-10 09:37:20;   0.4%;  3.6;Process;[PID 84395] avahi-daemon: running [icns.local] ; 21.2 mW  
+
+2023-10-10 09:37:20;   1.1%; 0.00;Process;[PID 125134] powertop --csv=powertop_output.csv ; 16.7 mW  
+
+2023-10-10 09:37:20;   0.0%;  2.7;Process;[PID 15] [rcu_sched]; 10.9 mW  
+
+2023-10-10 09:37:20;   0.0%;  1.6;Process;[PID 125149] sensors; 7.06 mW  
+
+2023-10-10 09:37:20; 
+
+2023-10-10 09:37:44;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:37:44; 
+
+2023-10-10 09:37:44; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:37:44;   0.2%;127.2;Interrupt;[3] net_rx(softirq);  506 mW  
+
+2023-10-10 09:37:44;   0.0%;117.0;kWork;dbs_work_handler;  463 mW  
+
+2023-10-10 09:37:44;   0.0%; 33.3;Timer;tick_sched_timer;  132 mW  
+
+2023-10-10 09:37:44;   4.5%; 0.05;Process;[PID 125169] nvidia-smi --query-gpu=index,name,memory.total,memory.used,memory.free,utilization.gpu,temperature.gpu,power.draw ; 69.7 mW  
+
+2023-10-10 09:37:44;   0.0%; 13.4;Timer;watchdog_timer_fn; 53.0 mW  
+
+2023-10-10 09:37:44;   0.0%;  6.9;kWork;psi_avgs_work; 27.5 mW  
+
+2023-10-10 09:37:44;   0.0%;  4.8;kWork;fb_flashcursor; 19.0 mW  
+
+2023-10-10 09:37:44;   1.2%; 0.00;Process;[PID 125156] powertop --csv=powertop_output.csv ; 18.3 mW  
+
+2023-10-10 09:37:44;   0.4%;  3.0;Process;[PID 84395] avahi-daemon: running [icns.local] ; 18.0 mW  
+
+2023-10-10 09:37:44;   0.0%;  2.0;Process;[PID 15] [rcu_sched]; 8.11 mW  
+
+2023-10-10 09:37:44; 
+
+2023-10-10 09:38:09;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:38:09; 
+
+2023-10-10 09:38:09; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:38:09;   0.1%;126.5;kWork;dbs_work_handler;  501 mW  
+
+2023-10-10 09:38:09;   0.2%;104.4;Interrupt;[3] net_rx(softirq);  416 mW  
+
+2023-10-10 09:38:09;   0.1%; 43.1;Timer;tick_sched_timer;  171 mW  
+
+2023-10-10 09:38:09;   9.8%; 0.15;Process;[PID 125188] nvidia-smi;  154 mW  
+
+2023-10-10 09:38:09;   0.0%; 12.9;Timer;watchdog_timer_fn; 51.1 mW  
+
+2023-10-10 09:38:09;   0.5%;  8.6;Process;[PID 84395] avahi-daemon: running [icns.local] ; 40.9 mW  
+
+2023-10-10 09:38:09;   1.8%; 0.05;Process;[PID 125179] powertop --csv=powertop_output.csv ; 28.0 mW  
+
+2023-10-10 09:38:09;   0.0%;  7.0;kWork;psi_avgs_work; 27.9 mW  
+
+2023-10-10 09:38:09;   0.0%;  2.3;kWork;fb_flashcursor; 8.98 mW  
+
+2023-10-10 09:38:09;   0.0%;  2.2;Process;[PID 15] [rcu_sched]; 8.81 mW  
+
+2023-10-10 09:38:09; 
+
+2023-10-10 09:38:33;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:38:33; 
+
+2023-10-10 09:38:33; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:38:33;   0.3%;170.1;Interrupt;[3] net_rx(softirq);  677 mW  
+
+2023-10-10 09:38:33;   0.1%;133.5;kWork;dbs_work_handler;  528 mW  
+
+2023-10-10 09:38:33;   0.1%; 50.5;Timer;tick_sched_timer;  200 mW  
+
+2023-10-10 09:38:33;   8.3%; 0.10;Process;[PID 125206] nvidia-smi;  129 mW  
+
+2023-10-10 09:38:33;   1.1%; 15.8;Process;[PID 84395] avahi-daemon: running [icns.local] ; 79.0 mW  
+
+2023-10-10 09:38:33;   0.0%; 12.9;Timer;watchdog_timer_fn; 51.2 mW  
+
+2023-10-10 09:38:33;   0.0%;  6.1;kWork;psi_avgs_work; 24.4 mW  
+
+2023-10-10 09:38:33;   1.2%; 0.00;Process;[PID 125196] powertop --csv=powertop_output.csv ; 18.3 mW  
+
+2023-10-10 09:38:33;   0.0%;  4.4;kWork;fb_flashcursor; 17.4 mW  
+
+2023-10-10 09:38:33;   0.0%;  2.8;Process;[PID 15] [rcu_sched]; 11.5 mW  
+
+2023-10-10 09:38:33; 
+
+2023-10-10 09:38:56;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:38:56; 
+
+2023-10-10 09:38:56; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:38:56;   0.1%;121.2;kWork;dbs_work_handler;  480 mW  
+
+2023-10-10 09:38:56;   0.2%;100.6;Interrupt;[3] net_rx(softirq);  400 mW  
+
+2023-10-10 09:38:56;   0.1%; 40.7;Timer;tick_sched_timer;  162 mW  
+
+2023-10-10 09:38:56;   9.8%; 0.10;Process;[PID 125223] nvidia-smi;  153 mW  
+
+2023-10-10 09:38:56;   0.0%; 12.9;Timer;watchdog_timer_fn; 51.2 mW  
+
+2023-10-10 09:38:56;   0.0%;  6.2;kWork;psi_avgs_work; 24.6 mW  
+
+2023-10-10 09:38:56;   0.3%;  3.5;Process;[PID 84395] avahi-daemon: running [icns.local] ; 18.1 mW  
+
+2023-10-10 09:38:56;   1.1%; 0.00;Process;[PID 125214] powertop --csv=powertop_output.csv ; 16.8 mW  
+
+2023-10-10 09:38:56;   0.0%;  3.4;kWork;fb_flashcursor; 13.5 mW  
+
+2023-10-10 09:38:56;   0.0%;  3.0;Process;[PID 15] [rcu_sched]; 12.1 mW  
+
+2023-10-10 09:38:56; 
+
+2023-10-10 09:39:20;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:39:20; 
+
+2023-10-10 09:39:20; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:39:20;   0.3%;132.6;Interrupt;[3] net_rx(softirq);  528 mW  
+
+2023-10-10 09:39:20;   0.1%;131.4;kWork;dbs_work_handler;  520 mW  
+
+2023-10-10 09:39:20;   0.1%; 43.6;Timer;tick_sched_timer;  173 mW  
+
+2023-10-10 09:39:20;   8.4%; 0.10;Process;[PID 125240] nvidia-smi;  131 mW  
+
+2023-10-10 09:39:20;   0.0%; 12.3;Timer;watchdog_timer_fn; 49.0 mW  
+
+2023-10-10 09:39:20;   0.7%;  6.9;Process;[PID 84395] avahi-daemon: running [icns.local] ; 37.8 mW  
+
+2023-10-10 09:39:20;   0.0%;  6.2;kWork;psi_avgs_work; 24.8 mW  
+
+2023-10-10 09:39:20;   0.0%;  4.5;kWork;fb_flashcursor; 18.0 mW  
+
+2023-10-10 09:39:20;   1.1%; 0.05;Process;[PID 125231] powertop --csv=powertop_output.csv ; 17.3 mW  
+
+2023-10-10 09:39:20;   0.0%;  3.7;Process;[PID 15] [rcu_sched]; 14.7 mW  
+
+2023-10-10 09:39:20; 
+
+2023-10-10 09:39:43;  *  *  *   Top 10 Power Consumers   *  *  *
+
+2023-10-10 09:39:43; 
+
+2023-10-10 09:39:43; Usage;Events/s;Category;Description;PW Estimate
+
+2023-10-10 09:39:43;   0.1%;121.9;kWork;dbs_work_handler;  482 mW  
+
+2023-10-10 09:39:43;   0.2%;109.1;Interrupt;[3] net_rx(softirq);  434 mW  
+
+2023-10-10 09:39:43;   0.0%; 36.0;Timer;tick_sched_timer;  143 mW  
+
+2023-10-10 09:39:43;   8.3%; 0.10;Process;[PID 125257] nvidia-smi;  131 mW  
+
+2023-10-10 09:39:43;   0.0%; 13.0;Timer;watchdog_timer_fn; 51.5 mW  
+
+2023-10-10 09:39:43;   0.0%;  6.3;kWork;psi_avgs_work; 25.2 mW  
+
+2023-10-10 09:39:43;   0.0%;  4.4;kWork;fb_flashcursor; 17.4 mW  
+
+2023-10-10 09:39:43;   1.0%; 0.00;Process;[PID 125248] powertop --csv=powertop_output.csv ; 16.1 mW  
+
+2023-10-10 09:39:43;   0.4%;  2.4;Process;[PID 84395] avahi-daemon: running [icns.local] ; 15.7 mW  
+
+2023-10-10 09:39:43;   0.0%;  2.9;Process;[PID 15] [rcu_sched]; 11.5 mW  
+
+2023-10-10 09:39:43; 
