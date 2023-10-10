@@ -1,0 +1,501 @@
+Date-Time,Usage,Events/s,Category,Description,PW Estimate
+2023-10-10 10:13:02,   874%,  0.8,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  13.7 W
+2023-10-10 10:13:02,   0.5%,400.4,kWork,dbs_work_handler,  1.59 W
+2023-10-10 10:13:02,  78.8%, 0.00,Process,[PID 126721] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.23 W
+2023-10-10 10:13:02,  78.0%, 0.10,Process,[PID 126715] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.22 W
+2023-10-10 10:13:02,  77.9%, 0.05,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.22 W
+2023-10-10 10:13:02,  77.3%, 0.20,Process,[PID 126733] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.21 W
+2023-10-10 10:13:02,  77.2%, 0.15,Process,[PID 126727] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.20 W
+2023-10-10 10:13:02,  77.1%, 0.15,Process,[PID 126725] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.20 W
+2023-10-10 10:13:02,  71.7%, 0.25,Process,[PID 126723] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.12 W
+2023-10-10 10:13:02,  71.4%, 0.00,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.11 W
+2023-10-10 10:13:26,  1798%,  0.8,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  28.1 W
+2023-10-10 10:13:26,   0.4%,377.6,kWork,dbs_work_handler,  1.50 W
+2023-10-10 10:13:26,   2.3%, 61.8,Timer,tick_sched_timer,  280 mW
+2023-10-10 10:13:26,   0.2%, 54.8,Interrupt,[3] net_rx(softirq),  220 mW
+2023-10-10 10:13:26,   3.5%, 0.00,Process,[PID 126621] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net , 55.2 mW
+2023-10-10 10:13:26,   0.5%,  7.6,Process,[PID 84395] avahi-daemon: running [icns.local] , 38.6 mW
+2023-10-10 10:13:26,   0.0%,  6.2,Process,[PID 1700] /usr/bin/containerd , 25.2 mW
+2023-10-10 10:13:26,   0.0%,  4.2,kWork,psi_avgs_work, 17.0 mW
+2023-10-10 10:13:26,   1.0%, 0.15,Process,[PID 126746] powertop --csv=powertop_output.csv , 16.8 mW
+2023-10-10 10:13:26,   0.1%,  3.9,Process,[PID 126693] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net , 16.8 mW
+2023-10-10 10:13:51,  1252%,  1.4,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  19.5 W
+2023-10-10 10:13:51,   0.4%,389.2,kWork,dbs_work_handler,  1.54 W
+2023-10-10 10:13:51,  76.2%, 0.05,Process,[PID 126721] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.19 W
+2023-10-10 10:13:51,  75.5%, 0.00,Process,[PID 126715] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.18 W
+2023-10-10 10:13:51,  74.6%, 0.15,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.16 W
+2023-10-10 10:13:51,  73.8%, 0.05,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.15 W
+2023-10-10 10:13:51,  72.1%, 0.15,Process,[PID 126733] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.13 W
+2023-10-10 10:13:51,  57.6%, 0.05,Process,[PID 126713] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  899 mW
+2023-10-10 10:13:51,  57.5%, 0.05,Process,[PID 126723] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  897 mW
+2023-10-10 10:13:51,   0.3%, 85.0,Interrupt,[3] net_rx(softirq),  340 mW
+2023-10-10 10:14:15,   651%,  1.2,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  10.2 W
+2023-10-10 10:14:15,   0.6%,425.2,kWork,dbs_work_handler,  1.69 W
+2023-10-10 10:14:15,  84.6%, 0.05,Process,[PID 126733] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.32 W
+2023-10-10 10:14:15,  84.2%, 0.05,Process,[PID 126715] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.31 W
+2023-10-10 10:14:15,  84.1%, 0.00,Process,[PID 126721] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.31 W
+2023-10-10 10:14:15,  83.9%, 0.15,Process,[PID 126727] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.31 W
+2023-10-10 10:14:15,  82.3%, 0.15,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.28 W
+2023-10-10 10:14:15,  78.9%, 0.00,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.23 W
+2023-10-10 10:14:15,  78.8%, 0.00,Process,[PID 126713] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.23 W
+2023-10-10 10:14:15,  78.6%, 0.15,Process,[PID 126717] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.23 W
+2023-10-10 10:14:40,  2255%,  5.5,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  35.2 W
+2023-10-10 10:14:40,   0.7%,485.2,kWork,dbs_work_handler,  1.93 W
+2023-10-10 10:14:40,   2.8%, 98.1,Timer,tick_sched_timer,  432 mW
+2023-10-10 10:14:40,   0.3%, 48.0,Interrupt,[3] net_rx(softirq),  194 mW
+2023-10-10 10:14:40,   6.0%, 0.05,Process,[PID 126621] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net , 94.3 mW
+2023-10-10 10:14:40,   0.5%,  5.8,Process,[PID 84395] avahi-daemon: running [icns.local] , 31.0 mW
+2023-10-10 10:14:40,   1.4%, 0.00,Process,[PID 126780] powertop --csv=powertop_output.csv , 21.7 mW
+2023-10-10 10:14:40,   0.0%,  4.5,kWork,fb_flashcursor, 18.0 mW
+2023-10-10 10:14:40,   0.0%,  4.3,Timer,watchdog_timer_fn, 17.1 mW
+2023-10-10 10:14:40,   0.0%,  3.7,kWork,psi_avgs_work, 15.0 mW
+2023-10-10 10:15:06,   735%,  1.2,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  11.5 W
+2023-10-10 10:15:06,   0.6%,430.1,kWork,dbs_work_handler,  1.71 W
+2023-10-10 10:15:06,  84.6%, 0.10,Process,[PID 126721] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.32 W
+2023-10-10 10:15:06,  84.2%, 0.00,Process,[PID 126723] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.31 W
+2023-10-10 10:15:06,  83.8%, 0.10,Process,[PID 126733] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.31 W
+2023-10-10 10:15:06,  82.9%, 0.05,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.29 W
+2023-10-10 10:15:06,  81.8%, 0.20,Process,[PID 126711] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.28 W
+2023-10-10 10:15:06,  80.5%, 0.15,Process,[PID 126732] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+2023-10-10 10:15:06,  79.5%, 0.05,Process,[PID 126724] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.24 W
+2023-10-10 10:15:06,  79.4%, 0.10,Process,[PID 126712] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.24 W
+2023-10-10 10:15:30,  1231%,  1.7,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  19.2 W
+2023-10-10 10:15:30,   0.6%,429.5,kWork,dbs_work_handler,  1.71 W
+2023-10-10 10:15:30,  84.6%, 0.20,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.32 W
+2023-10-10 10:15:30,  82.2%, 0.05,Process,[PID 126722] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.28 W
+2023-10-10 10:15:30,  79.4%,  0.5,Process,[PID 126715] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.24 W
+2023-10-10 10:15:30,  79.4%, 0.10,Process,[PID 126719] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.24 W
+2023-10-10 10:15:30,  79.3%, 0.30,Process,[PID 126731] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.24 W
+2023-10-10 10:15:30,  79.4%, 0.10,Process,[PID 126730] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.24 W
+2023-10-10 10:15:30,  79.4%, 0.05,Process,[PID 126728] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.24 W
+2023-10-10 10:15:30,  79.4%, 0.05,Process,[PID 126716] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.24 W
+2023-10-10 10:15:55,   0.6%,438.9,kWork,dbs_work_handler,  1.74 W
+2023-10-10 10:15:55,  93.4%, 0.10,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.46 W
+2023-10-10 10:15:55,  84.5%, 0.10,Process,[PID 126725] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.32 W
+2023-10-10 10:15:55,  84.3%, 0.10,Process,[PID 126727] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.32 W
+2023-10-10 10:15:55,  84.2%, 0.25,Process,[PID 126721] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.31 W
+2023-10-10 10:15:55,  84.1%,  0.3,Process,[PID 126733] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.31 W
+2023-10-10 10:15:55,  83.9%, 0.25,Process,[PID 126723] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.31 W
+2023-10-10 10:15:55,  81.2%, 0.10,Process,[PID 126726] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.27 W
+2023-10-10 10:15:55,  81.1%, 0.10,Process,[PID 126722] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.27 W
+2023-10-10 10:15:55,  79.8%, 0.10,Process,[PID 126734] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.25 W
+2023-10-10 10:16:20,   591%,  1.1,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  9.23 W
+2023-10-10 10:16:20,   0.7%,441.7,kWork,dbs_work_handler,  1.75 W
+2023-10-10 10:16:20,  86.4%, 0.10,Process,[PID 126727] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.35 W
+2023-10-10 10:16:20,  86.2%, 0.00,Process,[PID 126725] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.35 W
+2023-10-10 10:16:20,  86.0%,  0.5,Process,[PID 126721] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.34 W
+2023-10-10 10:16:20,  84.7%, 0.00,Process,[PID 126711] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.32 W
+2023-10-10 10:16:20,  83.6%, 0.15,Process,[PID 126723] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.30 W
+2023-10-10 10:16:20,  82.5%, 0.00,Process,[PID 126732] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.29 W
+2023-10-10 10:16:20,  82.4%, 0.20,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.29 W
+2023-10-10 10:16:20,  81.1%,  0.4,Process,[PID 126735] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.27 W
+2023-10-10 10:16:44,   751%,  0.8,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  11.7 W
+2023-10-10 10:16:44,   0.6%,444.5,kWork,dbs_work_handler,  1.77 W
+2023-10-10 10:16:44,  85.9%, 0.00,Process,[PID 126726] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.34 W
+2023-10-10 10:16:44,  85.5%, 0.15,Process,[PID 126733] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.33 W
+2023-10-10 10:16:44,  85.2%, 0.05,Process,[PID 126711] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.33 W
+2023-10-10 10:16:44,  80.5%,  0.4,Process,[PID 126735] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+2023-10-10 10:16:44,  80.6%, 0.05,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+2023-10-10 10:16:44,  80.5%, 0.05,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+2023-10-10 10:16:44,  80.5%, 0.00,Process,[PID 126710] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+2023-10-10 10:16:44,  80.5%, 0.15,Process,[PID 126715] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+2023-10-10 10:17:08,   990%,  1.2,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  15.5 W
+2023-10-10 10:17:08,   0.6%,479.1,kWork,dbs_work_handler,  1.90 W
+2023-10-10 10:17:08,  82.5%, 0.30,Process,[PID 126723] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.29 W
+2023-10-10 10:17:08,  81.7%, 0.05,Process,[PID 126725] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.27 W
+2023-10-10 10:17:08,  80.9%, 0.30,Process,[PID 126735] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+2023-10-10 10:17:08,  79.3%, 0.05,Process,[PID 126710] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.24 W
+2023-10-10 10:17:08,  79.3%, 0.15,Process,[PID 126716] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.24 W
+2023-10-10 10:17:08,  79.3%, 0.10,Process,[PID 126715] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.24 W
+2023-10-10 10:17:08,  79.3%, 0.00,Process,[PID 126724] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.24 W
+2023-10-10 10:17:08,  79.3%, 0.05,Process,[PID 126717] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.24 W
+2023-10-10 10:17:33,  1282%,  1.4,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  20.0 W
+2023-10-10 10:17:33,   0.6%,433.9,kWork,dbs_work_handler,  1.72 W
+2023-10-10 10:17:33,  81.8%, 0.00,Process,[PID 126731] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.28 W
+2023-10-10 10:17:33,  81.3%, 0.10,Process,[PID 126733] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.27 W
+2023-10-10 10:17:33,  81.2%, 0.00,Process,[PID 126723] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.27 W
+2023-10-10 10:17:33,  73.4%, 0.10,Process,[PID 126734] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.14 W
+2023-10-10 10:17:33,  73.2%, 0.05,Process,[PID 126717] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.14 W
+2023-10-10 10:17:33,  73.2%, 0.05,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.14 W
+2023-10-10 10:17:33,  73.2%, 0.05,Process,[PID 126713] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.14 W
+2023-10-10 10:17:33,  73.2%, 0.05,Process,[PID 126711] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.14 W
+2023-10-10 10:17:57,  1193%,  0.9,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  18.6 W
+2023-10-10 10:17:57,   0.5%,451.0,kWork,dbs_work_handler,  1.79 W
+2023-10-10 10:17:57,  82.4%, 0.10,Process,[PID 126727] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.29 W
+2023-10-10 10:17:57,  81.6%, 0.15,Process,[PID 126733] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.27 W
+2023-10-10 10:17:57,  81.6%, 0.00,Process,[PID 126721] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.27 W
+2023-10-10 10:17:57,  71.1%, 0.20,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.11 W
+2023-10-10 10:17:57,  70.8%, 0.10,Process,[PID 126715] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.11 W
+2023-10-10 10:17:57,  70.8%, 0.05,Process,[PID 126718] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.11 W
+2023-10-10 10:17:57,  70.8%, 0.10,Process,[PID 126734] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.10 W
+2023-10-10 10:17:57,  70.8%, 0.00,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.10 W
+2023-10-10 10:18:21,  2292%,  3.8,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  35.8 W
+2023-10-10 10:18:21,   0.7%,488.7,kWork,dbs_work_handler,  1.94 W
+2023-10-10 10:18:21,   2.9%, 88.2,Timer,tick_sched_timer,  393 mW
+2023-10-10 10:18:21,   0.3%, 58.1,Interrupt,[3] net_rx(softirq),  234 mW
+2023-10-10 10:18:21,   5.7%,  0.4,Process,[PID 126621] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net , 89.8 mW
+2023-10-10 10:18:21,   0.7%, 10.5,Process,[PID 84395] avahi-daemon: running [icns.local] , 52.0 mW
+2023-10-10 10:18:21,   0.0%,  8.3,Process,[PID 14] [ksoftirqd/0], 33.2 mW
+2023-10-10 10:18:21,   1.1%, 0.05,Process,[PID 126892] powertop --csv=powertop_output.csv , 17.1 mW
+2023-10-10 10:18:21,   0.0%,  4.0,kWork,fb_flashcursor, 15.7 mW
+2023-10-10 10:18:21,   0.9%,  0.5,Interrupt,[7] sched(softirq), 15.4 mW
+2023-10-10 10:18:46,  2239%,  5.5,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  35.0 W
+2023-10-10 10:18:46,   0.7%,494.9,kWork,dbs_work_handler,  1.97 W
+2023-10-10 10:18:46,   2.8%, 80.3,Timer,tick_sched_timer,  361 mW
+2023-10-10 10:18:46,   0.3%, 56.2,Interrupt,[3] net_rx(softirq),  226 mW
+2023-10-10 10:18:46,   6.4%, 0.10,Process,[PID 126621] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ,  100 mW
+2023-10-10 10:18:46,   0.0%,  9.1,Process,[PID 14] [ksoftirqd/0], 36.3 mW
+2023-10-10 10:18:46,   0.5%,  5.6,Process,[PID 84395] avahi-daemon: running [icns.local] , 30.2 mW
+2023-10-10 10:18:46,   1.2%, 0.00,Process,[PID 126907] powertop --csv=powertop_output.csv , 19.4 mW
+2023-10-10 10:18:46,   0.9%,  0.7,Interrupt,[7] sched(softirq), 17.4 mW
+2023-10-10 10:18:46,   0.0%,  4.0,kWork,fb_flashcursor, 15.9 mW
+2023-10-10 10:19:11,  1995%,  9.5,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  31.2 W
+2023-10-10 10:19:11,   0.7%,499.0,kWork,dbs_work_handler,  1.98 W
+2023-10-10 10:19:11,  78.0%,  0.4,Process,[PID 126725] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.22 W
+2023-10-10 10:19:11,  78.0%, 0.05,Process,[PID 126711] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.22 W
+2023-10-10 10:19:11,  78.0%, 0.00,Process,[PID 126721] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.22 W
+2023-10-10 10:19:11,   2.8%, 82.1,Timer,tick_sched_timer,  368 mW
+2023-10-10 10:19:11,   0.3%, 52.0,Interrupt,[3] net_rx(softirq),  210 mW
+2023-10-10 10:19:11,   7.1%, 0.00,Process,[PID 126621] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ,  110 mW
+2023-10-10 10:19:11,   0.4%,  3.5,Process,[PID 84395] avahi-daemon: running [icns.local] , 19.8 mW
+2023-10-10 10:19:11,   0.9%,  1.0,Interrupt,[7] sched(softirq), 17.4 mW
+2023-10-10 10:19:36,  1996%,  4.4,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  31.2 W
+2023-10-10 10:19:36,   0.6%,467.2,kWork,dbs_work_handler,  1.86 W
+2023-10-10 10:19:36,  78.0%,  0.3,Process,[PID 126713] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.22 W
+2023-10-10 10:19:36,  75.7%, 0.20,Process,[PID 126725] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.18 W
+2023-10-10 10:19:36,   2.7%, 76.9,Timer,tick_sched_timer,  346 mW
+2023-10-10 10:19:36,   0.3%, 53.1,Interrupt,[3] net_rx(softirq),  214 mW
+2023-10-10 10:19:36,   6.3%, 0.15,Process,[PID 126621] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net , 99.0 mW
+2023-10-10 10:19:36,   0.0%,  9.6,Process,[PID 14] [ksoftirqd/0], 38.3 mW
+2023-10-10 10:19:36,   0.3%,  5.2,Process,[PID 84395] avahi-daemon: running [icns.local] , 25.4 mW
+2023-10-10 10:19:36,   1.1%, 0.05,Process,[PID 126929] powertop --csv=powertop_output.csv , 17.7 mW
+2023-10-10 10:20:01,  1833%,  3.3,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  28.6 W
+2023-10-10 10:20:01,   0.7%,454.3,kWork,dbs_work_handler,  1.80 W
+2023-10-10 10:20:01,  80.8%, 0.30,Process,[PID 126716] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+2023-10-10 10:20:01,  78.2%,  1.2,Process,[PID 126731] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.22 W
+2023-10-10 10:20:01,  77.9%, 0.10,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.22 W
+2023-10-10 10:20:01,  77.9%, 0.05,Process,[PID 126735] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.22 W
+2023-10-10 10:20:01,  77.9%, 0.05,Process,[PID 126733] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.21 W
+2023-10-10 10:20:01,   2.8%, 87.1,Timer,tick_sched_timer,  388 mW
+2023-10-10 10:20:01,   0.3%, 48.1,Interrupt,[3] net_rx(softirq),  194 mW
+2023-10-10 10:20:01,   6.8%, 0.05,Process,[PID 126621] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ,  106 mW
+2023-10-10 10:20:26,  1249%,  3.5,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  19.5 W
+2023-10-10 10:20:26,   0.7%,494.4,kWork,dbs_work_handler,  1.96 W
+2023-10-10 10:20:26,  82.1%, 0.05,Process,[PID 126720] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.28 W
+2023-10-10 10:20:26,  81.2%, 0.30,Process,[PID 126715] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.27 W
+2023-10-10 10:20:26,  81.2%, 0.10,Process,[PID 126711] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.27 W
+2023-10-10 10:20:26,  81.0%, 0.20,Process,[PID 126725] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+2023-10-10 10:20:26,  80.7%,  0.9,Process,[PID 126731] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+2023-10-10 10:20:26,  80.4%,  0.3,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+2023-10-10 10:20:26,  78.5%,  0.4,Process,[PID 126735] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.23 W
+2023-10-10 10:20:26,  76.9%, 0.10,Process,[PID 126718] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.20 W
+2023-10-10 10:20:51,  1371%,  1.6,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  21.4 W
+2023-10-10 10:20:51,   0.7%,468.3,kWork,dbs_work_handler,  1.86 W
+2023-10-10 10:20:51,  84.2%, 0.25,Process,[PID 126715] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.31 W
+2023-10-10 10:20:51,  83.8%,  0.4,Process,[PID 126723] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.31 W
+2023-10-10 10:20:51,  82.2%,  0.4,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.28 W
+2023-10-10 10:20:51,  81.9%, 0.15,Process,[PID 126734] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.28 W
+2023-10-10 10:20:51,  80.6%, 0.15,Process,[PID 126711] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+2023-10-10 10:20:51,  80.5%, 0.20,Process,[PID 126725] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+2023-10-10 10:20:51,  80.0%,  0.4,Process,[PID 126718] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.25 W
+2023-10-10 10:20:51,  79.3%, 0.05,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.24 W
+2023-10-10 10:21:15,   173%, 0.15,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  2.70 W
+2023-10-10 10:21:15,   0.7%,493.9,kWork,dbs_work_handler,  1.96 W
+2023-10-10 10:21:15,  84.7%, 0.00,Process,[PID 126720] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.32 W
+2023-10-10 10:21:15,  83.6%,  0.4,Process,[PID 126723] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.31 W
+2023-10-10 10:21:15,  83.4%, 0.15,Process,[PID 126711] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.30 W
+2023-10-10 10:21:15,  83.1%,  0.4,Process,[PID 126735] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.30 W
+2023-10-10 10:21:15,  82.8%,  0.6,Process,[PID 126713] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.29 W
+2023-10-10 10:21:15,  82.6%, 0.30,Process,[PID 126727] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.29 W
+2023-10-10 10:21:15,  81.8%,  0.6,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.28 W
+2023-10-10 10:21:15,  80.0%,  2.1,Process,[PID 126718] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+2023-10-10 10:21:41,  1871%,  5.6,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  29.2 W
+2023-10-10 10:21:41,   0.7%,505.1,kWork,dbs_work_handler,  2.01 W
+2023-10-10 10:21:41,  81.8%, 0.15,Process,[PID 126735] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.28 W
+2023-10-10 10:21:41,  80.6%, 0.25,Process,[PID 126723] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+2023-10-10 10:21:41,  80.5%,  0.8,Process,[PID 126713] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+2023-10-10 10:21:41,  80.3%, 0.15,Process,[PID 126711] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.25 W
+2023-10-10 10:21:41,   2.8%, 92.5,Timer,tick_sched_timer,  409 mW
+2023-10-10 10:21:41,   0.3%, 67.5,Interrupt,[3] net_rx(softirq),  272 mW
+2023-10-10 10:21:41,   7.2%,  1.1,Process,[PID 126621] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ,  116 mW
+2023-10-10 10:21:41,   0.8%, 11.2,Process,[PID 84395] avahi-daemon: running [icns.local] , 56.3 mW
+2023-10-10 10:22:06,  1501%,  4.9,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  23.4 W
+2023-10-10 10:22:06,   0.7%,517.1,kWork,dbs_work_handler,  2.05 W
+2023-10-10 10:22:06,  81.9%, 0.10,Process,[PID 126735] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.28 W
+2023-10-10 10:22:06,  77.3%,  3.6,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.22 W
+2023-10-10 10:22:06,  77.0%, 0.05,Process,[PID 126724] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.20 W
+2023-10-10 10:22:06,  77.0%, 0.10,Process,[PID 126731] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.20 W
+2023-10-10 10:22:06,  77.0%, 0.05,Process,[PID 126716] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.20 W
+2023-10-10 10:22:06,  77.0%, 0.05,Process,[PID 126721] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.20 W
+2023-10-10 10:22:06,  77.0%, 0.05,Process,[PID 126734] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.20 W
+2023-10-10 10:22:06,  77.0%, 0.00,Process,[PID 126726] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.20 W
+2023-10-10 10:22:31,   169%, 0.25,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  2.64 W
+2023-10-10 10:22:31,   0.7%,504.9,kWork,dbs_work_handler,  2.01 W
+2023-10-10 10:22:31,  81.8%, 0.05,Process,[PID 126719] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.28 W
+2023-10-10 10:22:31,  81.7%, 0.15,Process,[PID 126735] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.28 W
+2023-10-10 10:22:31,  81.1%,  0.4,Process,[PID 126711] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.27 W
+2023-10-10 10:22:31,  80.5%,  0.4,Process,[PID 126723] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+2023-10-10 10:22:31,  80.1%, 0.15,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.25 W
+2023-10-10 10:22:31,  79.6%,  2.0,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.25 W
+2023-10-10 10:22:31,  79.5%,  1.1,Process,[PID 126713] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.24 W
+2023-10-10 10:22:31,  76.9%,  3.5,Process,[PID 126727] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.21 W
+2023-10-10 10:22:56,   0.7%,500.3,kWork,dbs_work_handler,  1.99 W
+2023-10-10 10:22:56,  92.9%, 0.25,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.45 W
+2023-10-10 10:22:56,  82.6%, 0.00,Process,[PID 126719] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.29 W
+2023-10-10 10:22:56,  82.1%, 0.05,Process,[PID 126735] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.28 W
+2023-10-10 10:22:56,  81.3%, 0.15,Process,[PID 126711] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.27 W
+2023-10-10 10:22:56,  80.5%,  2.1,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+2023-10-10 10:22:56,  80.7%, 0.15,Process,[PID 126718] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+2023-10-10 10:22:56,  80.6%,  0.4,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+2023-10-10 10:22:56,  80.1%,  1.0,Process,[PID 126713] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.25 W
+2023-10-10 10:22:56,  77.3%,  3.0,Process,[PID 126716] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.22 W
+2023-10-10 10:23:21,  1756%,  7.8,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  27.4 W
+2023-10-10 10:23:21,   0.5%,442.0,kWork,dbs_work_handler,  1.75 W
+2023-10-10 10:23:21,   2.3%, 79.9,Timer,tick_sched_timer,  352 mW
+2023-10-10 10:23:21,   0.3%, 51.1,Interrupt,[3] net_rx(softirq),  206 mW
+2023-10-10 10:23:21,   5.1%, 0.30,Process,[PID 126621] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net , 81.3 mW
+2023-10-10 10:23:21,   0.4%,  6.5,Process,[PID 84395] avahi-daemon: running [icns.local] , 31.9 mW
+2023-10-10 10:23:21,   1.4%, 0.00,Process,[PID 127040] powertop --csv=powertop_output.csv , 22.0 mW
+2023-10-10 10:23:21,   0.0%,  4.8,Timer,watchdog_timer_fn, 19.3 mW
+2023-10-10 10:23:21,   0.0%,  4.1,kWork,psi_avgs_work, 16.7 mW
+2023-10-10 10:23:21,   0.0%,  3.6,kWork,fb_flashcursor, 14.5 mW
+2023-10-10 10:23:45,   587%,  6.7,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  9.20 W
+2023-10-10 10:23:45,   0.5%,448.1,kWork,dbs_work_handler,  1.78 W
+2023-10-10 10:23:45,  73.8%,  0.4,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.15 W
+2023-10-10 10:23:45,  72.5%,  0.6,Process,[PID 126725] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.13 W
+2023-10-10 10:23:45,  67.4%,  1.1,Process,[PID 126723] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.06 W
+2023-10-10 10:23:45,  66.8%,  2.5,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.05 W
+2023-10-10 10:23:45,  57.0%,  0.3,Process,[PID 126713] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  890 mW
+2023-10-10 10:23:45,  56.9%, 0.20,Process,[PID 126726] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  889 mW
+2023-10-10 10:23:45,  56.9%, 0.10,Process,[PID 126718] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  889 mW
+2023-10-10 10:23:45,  56.9%, 0.10,Process,[PID 126710] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  889 mW
+2023-10-10 10:24:09,   153%, 0.25,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  2.39 W
+2023-10-10 10:24:09,   0.5%,450.3,kWork,dbs_work_handler,  1.79 W
+2023-10-10 10:24:09,  75.6%, 0.10,Process,[PID 126735] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.18 W
+2023-10-10 10:24:09,  74.0%,  0.4,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.16 W
+2023-10-10 10:24:09,  74.0%, 0.15,Process,[PID 126711] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.15 W
+2023-10-10 10:24:09,  72.5%,  0.4,Process,[PID 126725] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.13 W
+2023-10-10 10:24:09,  70.0%,  1.0,Process,[PID 126723] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.10 W
+2023-10-10 10:24:09,  65.9%,  1.5,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.03 W
+2023-10-10 10:24:09,  61.4%,  0.9,Process,[PID 126713] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  962 mW
+2023-10-10 10:24:09,  60.0%,  5.5,Process,[PID 126716] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  958 mW
+2023-10-10 10:24:34,   786%,  2.9,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  12.3 W
+2023-10-10 10:24:34,   0.5%,468.9,kWork,dbs_work_handler,  1.86 W
+2023-10-10 10:24:34,  75.0%, 0.15,Process,[PID 126726] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.17 W
+2023-10-10 10:24:34,  74.4%, 0.20,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.16 W
+2023-10-10 10:24:34,  72.0%, 0.20,Process,[PID 126725] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.12 W
+2023-10-10 10:24:34,  70.8%,  1.3,Process,[PID 126723] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.11 W
+2023-10-10 10:24:34,  61.5%,  4.3,Process,[PID 126716] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  976 mW
+2023-10-10 10:24:34,  60.9%, 0.30,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  951 mW
+2023-10-10 10:24:34,  60.9%, 0.05,Process,[PID 126735] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  950 mW
+2023-10-10 10:24:34,  60.9%, 0.05,Process,[PID 126733] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  950 mW
+2023-10-10 10:24:58,  1846%, 10.8,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  28.8 W
+2023-10-10 10:24:58,   0.5%,463.3,kWork,dbs_work_handler,  1.84 W
+2023-10-10 10:24:58,   2.4%, 76.1,Timer,tick_sched_timer,  338 mW
+2023-10-10 10:24:58,   0.3%, 51.4,Interrupt,[3] net_rx(softirq),  207 mW
+2023-10-10 10:24:58,   4.3%, 0.00,Process,[PID 126621] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net , 67.6 mW
+2023-10-10 10:24:58,   0.0%,  6.4,Timer,watchdog_timer_fn, 25.6 mW
+2023-10-10 10:24:58,   0.3%,  4.8,Process,[PID 84395] avahi-daemon: running [icns.local] , 24.0 mW
+2023-10-10 10:24:58,   0.0%,  4.3,kWork,fb_flashcursor, 16.9 mW
+2023-10-10 10:24:58,   0.0%,  4.2,Process,[PID 14] [ksoftirqd/0], 16.7 mW
+2023-10-10 10:24:58,   0.8%,  1.0,Interrupt,[7] sched(softirq), 16.3 mW
+2023-10-10 10:25:23,  1042%,  0.9,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  16.3 W
+2023-10-10 10:25:23,   0.7%,506.7,kWork,dbs_work_handler,  2.01 W
+2023-10-10 10:25:23,  83.3%, 0.05,Process,[PID 126725] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.30 W
+2023-10-10 10:25:23,  82.6%,  0.3,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.29 W
+2023-10-10 10:25:23,  81.8%,  1.1,Process,[PID 126723] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.28 W
+2023-10-10 10:25:23,  79.8%,  2.4,Process,[PID 126713] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.25 W
+2023-10-10 10:25:23,  79.2%,  2.1,Process,[PID 126716] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.24 W
+2023-10-10 10:25:23,  78.8%, 0.15,Process,[PID 126732] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.23 W
+2023-10-10 10:25:23,  78.2%,  0.4,Process,[PID 126726] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.22 W
+2023-10-10 10:25:23,  78.2%, 0.15,Process,[PID 126727] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.22 W
+2023-10-10 10:25:48,   904%,  1.6,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  14.1 W
+2023-10-10 10:25:48,   0.6%,485.3,kWork,dbs_work_handler,  1.93 W
+2023-10-10 10:25:48,  80.0%, 0.20,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.25 W
+2023-10-10 10:25:48,  79.5%,  0.5,Process,[PID 126718] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.24 W
+2023-10-10 10:25:48,  79.5%, 0.05,Process,[PID 126725] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.24 W
+2023-10-10 10:25:48,  77.3%,  0.5,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.21 W
+2023-10-10 10:25:48,  77.1%, 0.00,Process,[PID 126728] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.20 W
+2023-10-10 10:25:48,  75.8%,  0.9,Process,[PID 126723] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.19 W
+2023-10-10 10:25:48,  73.3%,  3.3,Process,[PID 126713] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.16 W
+2023-10-10 10:25:48,  73.1%,  0.3,Process,[PID 126726] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.14 W
+2023-10-10 10:26:12,   643%,  6.2,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  10.1 W
+2023-10-10 10:26:12,   0.5%,453.3,kWork,dbs_work_handler,  1.80 W
+2023-10-10 10:26:12,  75.2%, 0.05,Process,[PID 126725] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.17 W
+2023-10-10 10:26:12,  74.2%, 0.20,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.16 W
+2023-10-10 10:26:12,  73.6%, 0.20,Process,[PID 126716] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.15 W
+2023-10-10 10:26:12,  70.0%,  1.0,Process,[PID 126713] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.10 W
+2023-10-10 10:26:12,  68.5%,  1.6,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.08 W
+2023-10-10 10:26:12,  60.3%, 0.30,Process,[PID 126723] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  942 mW
+2023-10-10 10:26:12,  59.6%, 0.20,Process,[PID 126726] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  931 mW
+2023-10-10 10:26:12,  59.6%, 0.05,Process,[PID 126727] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  930 mW
+2023-10-10 10:26:37,   934%,  6.0,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  14.6 W
+2023-10-10 10:26:37,   0.5%,434.8,kWork,dbs_work_handler,  1.72 W
+2023-10-10 10:26:37,  71.7%,  1.2,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.12 W
+2023-10-10 10:26:37,  59.1%, 0.30,Process,[PID 126726] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  923 mW
+2023-10-10 10:26:37,  59.1%, 0.20,Process,[PID 126735] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  922 mW
+2023-10-10 10:26:37,  59.1%, 0.10,Process,[PID 126723] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  922 mW
+2023-10-10 10:26:37,  59.1%, 0.00,Process,[PID 126720] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  921 mW
+2023-10-10 10:26:37,  59.0%, 0.05,Process,[PID 126717] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  921 mW
+2023-10-10 10:26:37,  59.0%, 0.10,Process,[PID 126727] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  921 mW
+2023-10-10 10:26:37,  59.0%, 0.05,Process,[PID 126715] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  921 mW
+2023-10-10 10:27:02,   0.5%,459.5,kWork,dbs_work_handler,  1.82 W
+2023-10-10 10:27:02,  94.5%,  0.7,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.48 W
+2023-10-10 10:27:02,  76.0%, 0.05,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.19 W
+2023-10-10 10:27:02,  75.9%, 0.10,Process,[PID 126716] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.19 W
+2023-10-10 10:27:02,  75.2%, 0.20,Process,[PID 126721] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.17 W
+2023-10-10 10:27:02,  73.5%,  1.0,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.15 W
+2023-10-10 10:27:02,  72.1%,  0.7,Process,[PID 126713] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.13 W
+2023-10-10 10:27:02,  68.2%,  2.8,Process,[PID 126711] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.08 W
+2023-10-10 10:27:02,  65.8%,  2.5,Process,[PID 126725] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.04 W
+2023-10-10 10:27:02,  62.3%,  0.4,Process,[PID 126726] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  973 mW
+2023-10-10 10:27:26,   0.4%,432.6,kWork,dbs_work_handler,  1.72 W
+2023-10-10 10:27:26,  95.4%, 0.10,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.49 W
+2023-10-10 10:27:26,  73.6%,  0.8,Process,[PID 126713] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.15 W
+2023-10-10 10:27:26,  72.5%, 0.10,Process,[PID 126725] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.13 W
+2023-10-10 10:27:26,  71.8%,  1.2,Process,[PID 126721] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.13 W
+2023-10-10 10:27:26,  71.3%, 0.30,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.11 W
+2023-10-10 10:27:26,  71.1%,  0.6,Process,[PID 126711] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.11 W
+2023-10-10 10:27:26,  70.9%,  0.4,Process,[PID 126716] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.11 W
+2023-10-10 10:27:26,  60.2%,  3.5,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  953 mW
+2023-10-10 10:27:26,  58.9%, 0.20,Process,[PID 126726] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  919 mW
+2023-10-10 10:27:51,   0.4%,427.5,kWork,dbs_work_handler,  1.70 W
+2023-10-10 10:27:51,  95.4%,  0.4,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.49 W
+2023-10-10 10:27:51,  76.1%, 0.15,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.19 W
+2023-10-10 10:27:51,  76.0%, 0.00,Process,[PID 126725] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.19 W
+2023-10-10 10:27:51,  73.3%, 0.25,Process,[PID 126721] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.14 W
+2023-10-10 10:27:51,  72.0%,  1.2,Process,[PID 126711] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.13 W
+2023-10-10 10:27:51,  69.2%,  0.4,Process,[PID 126713] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.08 W
+2023-10-10 10:27:51,  63.1%, 0.20,Process,[PID 126727] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  985 mW
+2023-10-10 10:27:51,  58.4%,  2.1,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  920 mW
+2023-10-10 10:27:51,  57.9%, 0.05,Process,[PID 126726] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  904 mW
+2023-10-10 10:28:15,  1462%,  1.7,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  22.8 W
+2023-10-10 10:28:15,   0.6%,427.2,kWork,dbs_work_handler,  1.70 W
+2023-10-10 10:28:15,  81.7%, 0.15,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.27 W
+2023-10-10 10:28:15,  78.7%, 0.15,Process,[PID 126735] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.23 W
+2023-10-10 10:28:15,  74.0%, 0.05,Process,[PID 126719] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.15 W
+2023-10-10 10:28:15,  74.0%, 0.10,Process,[PID 126736] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.15 W
+2023-10-10 10:28:15,  73.9%, 0.05,Process,[PID 126710] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.15 W
+2023-10-10 10:28:15,  73.9%, 0.05,Process,[PID 126722] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.15 W
+2023-10-10 10:28:15,  73.7%, 0.10,Process,[PID 126731] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.15 W
+2023-10-10 10:28:15,  73.7%, 0.05,Process,[PID 126718] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.15 W
+2023-10-10 10:28:40,   0.6%,439.4,kWork,dbs_work_handler,  1.75 W
+2023-10-10 10:28:40,  94.4%,  0.5,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.47 W
+2023-10-10 10:28:40,  84.6%, 0.20,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.32 W
+2023-10-10 10:28:40,  84.4%, 0.10,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.32 W
+2023-10-10 10:28:40,  84.3%, 0.10,Process,[PID 126725] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.32 W
+2023-10-10 10:28:40,  83.9%, 0.30,Process,[PID 126735] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.31 W
+2023-10-10 10:28:40,  83.4%, 0.15,Process,[PID 126713] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.30 W
+2023-10-10 10:28:40,  82.7%,  0.5,Process,[PID 126721] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.29 W
+2023-10-10 10:28:40,  81.6%, 0.10,Process,[PID 126728] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.27 W
+2023-10-10 10:28:40,  77.4%, 0.05,Process,[PID 126730] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.21 W
+2023-10-10 10:29:04,   940%,  1.3,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  14.7 W
+2023-10-10 10:29:04,   0.5%,461.1,kWork,dbs_work_handler,  1.83 W
+2023-10-10 10:29:04,  76.8%, 0.05,Process,[PID 126725] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.20 W
+2023-10-10 10:29:04,  75.9%, 0.30,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.18 W
+2023-10-10 10:29:04,  75.6%, 0.20,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.18 W
+2023-10-10 10:29:04,  75.4%,  0.4,Process,[PID 126735] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.18 W
+2023-10-10 10:29:04,  73.9%,  0.5,Process,[PID 126713] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.15 W
+2023-10-10 10:29:04,  64.8%,  2.2,Process,[PID 126733] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.02 W
+2023-10-10 10:29:04,  64.5%, 0.15,Process,[PID 126730] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.01 W
+2023-10-10 10:29:04,  64.4%, 0.25,Process,[PID 126715] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.01 W
+2023-10-10 10:29:29,  1220%,  3.7,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  19.1 W
+2023-10-10 10:29:29,   0.6%,485.8,kWork,dbs_work_handler,  1.93 W
+2023-10-10 10:29:29,  79.4%, 0.25,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.24 W
+2023-10-10 10:29:29,  78.6%, 0.30,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.23 W
+2023-10-10 10:29:29,  78.0%,  0.3,Process,[PID 126735] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.22 W
+2023-10-10 10:29:29,  77.9%,  0.6,Process,[PID 126713] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.22 W
+2023-10-10 10:29:29,  77.3%,  1.4,Process,[PID 126727] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.21 W
+2023-10-10 10:29:29,  69.7%, 0.05,Process,[PID 126715] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.09 W
+2023-10-10 10:29:29,  69.7%, 0.05,Process,[PID 126716] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.09 W
+2023-10-10 10:29:29,  69.6%, 0.10,Process,[PID 126731] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.09 W
+2023-10-10 10:29:53,   418%,  1.5,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  6.53 W
+2023-10-10 10:29:53,   0.7%,518.7,kWork,dbs_work_handler,  2.06 W
+2023-10-10 10:29:53,  84.4%, 0.25,Process,[PID 126725] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.32 W
+2023-10-10 10:29:53,  83.3%, 0.30,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.30 W
+2023-10-10 10:29:53,  82.9%,  1.7,Process,[PID 126727] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.30 W
+2023-10-10 10:29:53,  83.3%, 0.00,Process,[PID 126728] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.30 W
+2023-10-10 10:29:53,  82.8%, 0.20,Process,[PID 126735] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.29 W
+2023-10-10 10:29:53,  80.9%, 0.00,Process,[PID 126736] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+2023-10-10 10:29:53,  79.3%,  3.3,Process,[PID 126733] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.25 W
+2023-10-10 10:29:53,  79.3%,  0.6,Process,[PID 126723] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.24 W
+2023-10-10 10:30:17,  2326%,  2.2,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  36.3 W
+2023-10-10 10:30:17,   0.7%,454.3,kWork,dbs_work_handler,  1.81 W
+2023-10-10 10:30:17,   2.9%, 84.8,Timer,tick_sched_timer,  380 mW
+2023-10-10 10:30:17,   0.2%, 61.5,Interrupt,[3] net_rx(softirq),  247 mW
+2023-10-10 10:30:17,   5.2%,  0.4,Process,[PID 126621] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net , 83.0 mW
+2023-10-10 10:30:17,   0.4%,  6.0,Process,[PID 84395] avahi-daemon: running [icns.local] , 29.7 mW
+2023-10-10 10:30:17,   1.0%, 0.05,Process,[PID 127356] powertop --csv=powertop_output.csv , 16.3 mW
+2023-10-10 10:30:17,   0.0%,  4.1,kWork,fb_flashcursor, 16.3 mW
+2023-10-10 10:30:17,   0.0%,  3.0,kWork,psi_avgs_work, 12.2 mW
+2023-10-10 10:30:17,   0.0%,  2.8,Process,[PID 15] [rcu_sched], 11.3 mW
+2023-10-10 10:30:42,   0.6%,473.0,kWork,dbs_work_handler,  1.88 W
+2023-10-10 10:30:42,  94.5%,  0.6,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.48 W
+2023-10-10 10:30:42,  84.7%, 0.20,Process,[PID 126718] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.32 W
+2023-10-10 10:30:42,  84.6%, 0.15,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.32 W
+2023-10-10 10:30:42,  83.8%, 0.00,Process,[PID 126728] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.31 W
+2023-10-10 10:30:42,  81.6%,  0.6,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.27 W
+2023-10-10 10:30:42,  81.0%,  0.4,Process,[PID 126713] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.27 W
+2023-10-10 10:30:42,  80.2%, 0.10,Process,[PID 126727] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.25 W
+2023-10-10 10:30:42,  80.2%, 0.05,Process,[PID 126735] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.25 W
+2023-10-10 10:30:42,  80.0%, 0.05,Process,[PID 126731] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.25 W
+2023-10-10 10:31:06,  2159%,  5.5,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  33.7 W
+2023-10-10 10:31:06,   0.7%,490.6,kWork,dbs_work_handler,  1.95 W
+2023-10-10 10:31:06,   2.8%, 79.5,Timer,tick_sched_timer,  357 mW
+2023-10-10 10:31:06,   0.3%, 78.5,Interrupt,[3] net_rx(softirq),  315 mW
+2023-10-10 10:31:06,   5.6%, 0.00,Process,[PID 126621] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net , 88.0 mW
+2023-10-10 10:31:06,   0.5%,  3.5,Process,[PID 84395] avahi-daemon: running [icns.local] , 21.2 mW
+2023-10-10 10:31:06,   0.0%,  5.0,Process,[PID 14] [ksoftirqd/0], 20.1 mW
+2023-10-10 10:31:06,   0.0%,  4.9,Timer,watchdog_timer_fn, 19.7 mW
+2023-10-10 10:31:06,   1.2%, 0.05,Process,[PID 127381] powertop --csv=powertop_output.csv , 18.9 mW
+2023-10-10 10:31:06,   0.0%,  4.3,kWork,fb_flashcursor, 17.3 mW
+2023-10-10 10:31:31,   722%,  1.4,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  11.3 W
+2023-10-10 10:31:31,   0.7%,521.4,kWork,dbs_work_handler,  2.07 W
+2023-10-10 10:31:31,  80.9%,  0.3,Process,[PID 126735] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+2023-10-10 10:31:31,  80.5%,  0.9,Process,[PID 126726] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.26 W
+2023-10-10 10:31:31,  77.0%,  0.3,Process,[PID 126727] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.20 W
+2023-10-10 10:31:31,  76.1%,  3.3,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.20 W
+2023-10-10 10:31:31,  76.0%,  0.6,Process,[PID 126723] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.19 W
+2023-10-10 10:31:31,  76.0%, 0.10,Process,[PID 126725] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.19 W
+2023-10-10 10:31:31,  76.0%, 0.05,Process,[PID 126718] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.19 W
+2023-10-10 10:31:31,  76.0%, 0.00,Process,[PID 126720] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.18 W
+2023-10-10 10:31:56,  1695%,  6.2,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  26.5 W
+2023-10-10 10:31:56,   0.6%,488.1,kWork,dbs_work_handler,  1.94 W
+2023-10-10 10:31:56,  75.2%, 0.20,Process,[PID 126733] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.17 W
+2023-10-10 10:31:56,  71.4%, 0.00,Process,[PID 126722] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.11 W
+2023-10-10 10:31:56,  71.4%, 0.05,Process,[PID 126730] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.11 W
+2023-10-10 10:31:56,  71.4%, 0.05,Process,[PID 126721] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.11 W
+2023-10-10 10:31:56,  71.4%, 0.05,Process,[PID 126716] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.11 W
+2023-10-10 10:31:56,   2.6%, 79.2,Timer,tick_sched_timer,  354 mW
+2023-10-10 10:31:56,   0.3%, 50.3,Interrupt,[3] net_rx(softirq),  204 mW
+2023-10-10 10:31:56,   7.5%, 0.05,Process,[PID 126621] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net ,  116 mW
+2023-10-10 10:32:21,  1849%,  4.3,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  28.9 W
+2023-10-10 10:32:21,   0.6%,472.2,kWork,dbs_work_handler,  1.87 W
+2023-10-10 10:32:21,  65.6%,  3.1,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.04 W
+2023-10-10 10:32:21,   0.3%, 95.3,Interrupt,[3] net_rx(softirq),  382 mW
+2023-10-10 10:32:21,   2.5%, 77.2,Timer,tick_sched_timer,  344 mW
+2023-10-10 10:32:21,   5.2%, 0.00,Process,[PID 126621] python3 edge_api.py -i 127.0.0.1 -p 9999 -d cuda -t vgg_net , 81.1 mW
+2023-10-10 10:32:21,   0.0%,  5.2,Timer,watchdog_timer_fn, 20.9 mW
+2023-10-10 10:32:21,   0.3%,  4.2,Process,[PID 84395] avahi-daemon: running [icns.local] , 20.5 mW
+2023-10-10 10:32:21,   0.0%,  5.0,Process,[PID 14] [ksoftirqd/0], 20.0 mW
+2023-10-10 10:32:21,   0.0%,  4.8,kWork,psi_avgs_work, 19.6 mW
+2023-10-10 10:32:45,   561%,  0.5,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  8.76 W
+2023-10-10 10:32:45,   0.6%,476.0,kWork,dbs_work_handler,  1.89 W
+2023-10-10 10:32:45,  78.3%, 0.00,Process,[PID 126717] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.22 W
+2023-10-10 10:32:45,  75.6%, 0.20,Process,[PID 126723] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.18 W
+2023-10-10 10:32:45,  74.7%,  0.5,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.17 W
+2023-10-10 10:32:45,  74.4%,  0.4,Process,[PID 126733] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.16 W
+2023-10-10 10:32:45,  73.7%,  0.8,Process,[PID 126735] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.15 W
+2023-10-10 10:32:45,  72.8%,  1.8,Process,[PID 126726] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.14 W
+2023-10-10 10:32:45,  67.0%,  3.8,Process,[PID 126729] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.06 W
+2023-10-10 10:32:45,  66.8%,  0.4,Process,[PID 126725] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.04 W
+2023-10-10 10:33:10,   892%,  4.8,Process,[PID 126564] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  13.9 W
+2023-10-10 10:33:10,   0.6%,468.9,kWork,dbs_work_handler,  1.86 W
+2023-10-10 10:33:10,  79.2%, 0.00,Process,[PID 126711] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.24 W
+2023-10-10 10:33:10,  75.9%, 0.25,Process,[PID 126723] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.19 W
+2023-10-10 10:33:10,  75.6%, 0.20,Process,[PID 126714] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.18 W
+2023-10-10 10:33:10,  72.9%,  1.2,Process,[PID 126726] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.14 W
+2023-10-10 10:33:10,  65.3%,  0.3,Process,[PID 126725] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.02 W
+2023-10-10 10:33:10,  65.3%, 0.25,Process,[PID 126713] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.02 W
+2023-10-10 10:33:10,  65.3%, 0.00,Process,[PID 126731] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.02 W
+2023-10-10 10:33:10,  65.3%, 0.10,Process,[PID 126730] python3 cloud_api.py -i 127.0.0.1 -p 9999 -d cpu ,  1.02 W
