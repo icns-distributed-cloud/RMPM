@@ -1,0 +1,701 @@
+Date-Time,Usage,Wakeups/s,GPU ops/s,Disk IO/s,GFX Wakeups/s,Category,Description,PW Estimate
+2023-10-10 07:41:37, 571.6 us/s,139.7,,,,kWork,dbs_work_handler,  553 mW
+2023-10-10 07:41:37,   2.1 ms/s,115.0,,,,Interrupt,[3] net_rx(softirq),  458 mW
+2023-10-10 07:41:37, 589.6 us/s, 52.4,,,,Timer,tick_sched_timer,  208 mW
+2023-10-10 07:41:37,  35.2 ms/s, 0.05,,,,Process,"[PID 120915] nvidia-smi --query-gpu=index,name,memory.total,memory.used,memory.free,utilization.gpu,temperature.gpu,power.draw ", 55.1 mW
+2023-10-10 07:41:37, 109.4 us/s, 11.1,,,,Timer,watchdog_timer_fn, 44.0 mW
+2023-10-10 07:41:37, 138.1 us/s,  7.5,,,,kWork,psi_avgs_work, 29.8 mW
+2023-10-10 07:41:37,   5.8 ms/s,  4.5,,,,Process,[PID 84395] avahi-daemon: running [icns.local] , 26.8 mW
+2023-10-10 07:41:37, 311.2 us/s,  6.7,,,,Process,[PID 15] [rcu_sched], 26.8 mW
+2023-10-10 07:41:37,  11.0 ms/s,,,,,Process,[PID 120898] powertop --csv=powertop_output.csv , 17.1 mW
+2023-10-10 07:41:37, 588.8 us/s,  2.3,,,,Process,[PID 1701] /usr/bin/containerd , 10.1 mW
+2023-10-10 07:41:37,  18.5 us/s,  1.7,,,,Interrupt,[301] ahci[0000:00:17.0], 6.85 mW
+2023-10-10 07:41:37,  15.7 us/s,  1.5,,,,kWork,lru_add_drain_per_cpu, 6.07 mW
+2023-10-10 07:41:37, 439.4 us/s,  0.9,,,,Process,[PID 120913] sensors, 4.39 mW
+2023-10-10 07:41:37,  28.0 us/s,  1.1,,,,Interrupt,[4] block(softirq), 4.33 mW
+2023-10-10 07:41:37,  15.0 us/s,  1.0,,,,Timer,sched_rt_period_timer, 4.12 mW
+2023-10-10 07:41:37, 103.2 us/s,  1.0,,,,kWork,i40e_service_task, 4.06 mW
+2023-10-10 07:41:37,  11.8 us/s,  1.0,,,,kWork,pci_pme_list_scan, 3.92 mW
+2023-10-10 07:41:37, 446.3 us/s,  0.7,,,,Process,[PID 1700] /usr/bin/containerd , 3.62 mW
+2023-10-10 07:41:37,   0.9 ms/s,  0.4,,,,Process,[PID 93340] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node --dns-result-order=ipv4first /home/icns, 3.21 mW
+2023-10-10 07:41:37,   4.0 us/s,  0.5,,,,kWork,blk_mq_requeue_work, 2.15 mW
+2023-10-10 07:41:37,   0.7 ms/s, 0.25,,,,Process,[PID 93364] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083, 2.13 mW
+2023-10-10 07:41:37, 197.6 us/s,  0.4,,,,Process,[PID 93276] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083, 2.06 mW
+2023-10-10 07:41:37,   1.2 ms/s,,,,,Interrupt,[7] sched(softirq), 1.86 mW
+2023-10-10 07:41:37,   0.9 ms/s,,,,,Process,[PID 1504] /usr/sbin/irqbalance --foreground , 1.41 mW
+2023-10-10 07:41:37,  18.1 us/s, 0.30,,,,Process,[PID 360] [kcompactd0], 1.20 mW
+2023-10-10 07:41:37,  10.3 us/s, 0.30,,,,kWork,blk_mq_run_work_fn, 1.19 mW
+2023-10-10 07:41:37,  84.3 us/s, 0.25,,,,Process,[PID 93456] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/extensions/th, 1.11 mW
+2023-10-10 07:41:37, 636.0 us/s,,,,,Timer,hrtimer_wakeup,  992 uW
+2023-10-10 07:41:37, 579.6 us/s,,,,,kWork,gc_worker,  904 uW
+2023-10-10 07:41:37, 270.9 us/s, 0.10,,,,Process,[PID 1767] /usr/bin/containerd ,  812 uW
+2023-10-10 07:41:37,  40.1 us/s, 0.15,,,,Process,[PID 93363] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083,  647 uW
+2023-10-10 07:41:37,   1.7 us/s, 0.15,,,,kWork,wb_workfn,  587 uW
+2023-10-10 07:41:37,  50.3 us/s, 0.10,,,,kWork,fb_flashcursor,  468 uW
+2023-10-10 07:41:37,  34.8 us/s, 0.10,,,,kWork,flush_memcg_stats_dwork,  444 uW
+2023-10-10 07:41:37,  30.2 us/s, 0.10,,,,Process,[PID 880] [jbd2/sda2-8],  437 uW
+2023-10-10 07:41:37,  18.0 us/s, 0.10,,,,Process,[PID 118719] /usr/libexec/fwupd/fwupd ,  418 uW
+2023-10-10 07:41:37, 259.8 us/s,,,,,Process,[PID 88278] [kworker/0:0],  405 uW
+2023-10-10 07:41:37,   4.4 us/s, 0.10,,,,Process,[PID 34659] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  397 uW
+2023-10-10 07:41:37, 254.1 us/s,,,,,Interrupt,[9] RCU(softirq),  396 uW
+2023-10-10 07:41:37,   3.2 us/s, 0.10,,,,kWork,ext4_end_io_rsv_work,  395 uW
+2023-10-10 07:41:37,   0.8 us/s, 0.10,,,,kWork,flush_to_ldisc,  391 uW
+2023-10-10 07:41:37,   0.3 us/s, 0.10,,,,kWork,blk_mq_timeout_work,  390 uW
+2023-10-10 07:41:37, 117.4 us/s, 0.05,,,,Process,"[PID 120914] /bin/sh -c nvidia-smi --query-gpu=index,name,memory.total,memory.used,memory.free,utilization.gpu,temperature.gpu,",  378 uW
+2023-10-10 07:41:37,  83.7 us/s, 0.05,,,,Process,[PID 120913] sh,  326 uW
+2023-10-10 07:41:37, 192.8 us/s,,,,,Interrupt,[1] timer(softirq),  301 uW
+2023-10-10 07:41:37, 192.4 us/s,,,,,Process,[PID 483] [kworker/31:1],  300 uW
+2023-10-10 07:41:37, 178.2 us/s,,,,,Process,[PID 118036] [kworker/5:1],  278 uW
+2023-10-10 07:41:37, 165.4 us/s,,,,,Timer,process_timeout,  258 uW
+2023-10-10 07:41:37,  27.4 us/s, 0.05,,,,Process,[PID 1400] /sbin/multipathd -d -s ,  238 uW
+2023-10-10 07:41:37,  23.8 us/s, 0.05,,,,Process,[PID 361] [kcompactd1],  232 uW
+2023-10-10 07:41:37, 133.2 us/s,,,,,Process,[PID 88537] [kworker/6:1],  208 uW
+2023-10-10 07:41:37, 132.2 us/s,,,,,Interrupt,[63] i40e-eno0-TxRx-18,  206 uW
+2023-10-10 07:41:37, 132.0 us/s,,,,,Process,[PID 35326] [kworker/38:0],  206 uW
+2023-10-10 07:41:37,   4.9 us/s, 0.05,,,,Timer,tcp_orphan_update,  203 uW
+2023-10-10 07:41:37, 129.0 us/s,,,,,Process,[PID 120890] python3 monitor.py ,  201 uW
+2023-10-10 07:41:37,   3.2 us/s, 0.05,,,,Process,[PID 84006] /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant ,  200 uW
+2023-10-10 07:41:37,   2.2 us/s, 0.05,,,,Process,[PID 120910] [kthreadd],  198 uW
+2023-10-10 07:41:37,   2.0 us/s, 0.05,,,,Process,[PID 120916] [kthreadd],  198 uW
+2023-10-10 07:41:37,   0.8 us/s, 0.05,,,,Process,[PID 120918] [kthreadd],  196 uW
+2023-10-10 07:41:37,   0.8 us/s, 0.05,,,,Process,[PID 14] [ksoftirqd/0],  196 uW
+2023-10-10 07:41:37,   0.7 us/s, 0.05,,,,Process,[PID 120911] [kthreadd],  196 uW
+2023-10-10 07:41:37,   0.6 us/s, 0.05,,,,Process,[PID 330] [ksoftirqd/52],  196 uW
+2023-10-10 07:41:37,   0.5 us/s, 0.05,,,,Process,[PID 120917] [kthreadd],  196 uW
+2023-10-10 07:41:37,   0.3 us/s, 0.05,,,,Process,[PID 126] [ksoftirqd/18],  195 uW
+2023-10-10 07:41:37, 123.2 us/s,,,,,Process,[PID 120912] python3,  192 uW
+2023-10-10 07:41:37, 118.5 us/s,,,,,Process,[PID 120892] python3 monitor.py ,  185 uW
+2023-10-10 07:41:37, 113.4 us/s,,,,,Timer,delayed_work_timer_fn,  177 uW
+2023-10-10 07:41:37, 111.2 us/s,,,,,Process,[PID 105924] [kworker/3:1],  173 uW
+2023-10-10 07:41:37, 102.2 us/s,,,,,Process,[PID 109796] [kworker/7:1],  159 uW
+2023-10-10 07:41:37,  97.8 us/s,,,,,Process,[PID 104758] [kworker/32:2],  153 uW
+2023-10-10 07:41:37,  97.1 us/s,,,,,Process,[PID 102017] [kworker/14:0],  152 uW
+2023-10-10 07:41:37,  86.9 us/s,,,,,Process,[PID 540] [kworker/37:2],  136 uW
+2023-10-10 07:41:37,  72.7 us/s,,,,,Process,[PID 119518] [kworker/16:2],  113 uW
+2023-10-10 07:41:37,  67.8 us/s,,,,,Process,[PID 105923] [kworker/20:2],  106 uW
+2023-10-10 07:41:37,  66.8 us/s,,,,,Process,[PID 120566] [kworker/u113:0],  104 uW
+2023-10-10 07:41:37,  64.2 us/s,,,,,Process,[PID 539] [kworker/36:2],  100 uW
+2023-10-10 07:41:37,  54.3 us/s,,,,,Process,[PID 19950] [kworker/8:0],    0 mW
+2023-10-10 07:41:37,  50.4 us/s,,,,,Process,[PID 103343] [kworker/21:2],    0 mW
+2023-10-10 07:41:37,  49.5 us/s,,,,,Process,[PID 103955] [kworker/48:1],    0 mW
+2023-10-10 07:41:37,  47.4 us/s,,,,,Process,[PID 506] [kworker/2:2],    0 mW
+2023-10-10 07:41:37,  43.1 us/s,,,,,Process,[PID 1761] /usr/bin/containerd ,    0 mW
+2023-10-10 07:41:37,  42.8 us/s,,,,,Process,[PID 93201] sshd: icns@notty ,    0 mW
+2023-10-10 07:41:37,  41.1 us/s,,,,,kWork,vmstat_shepherd,    0 mW
+2023-10-10 07:41:37,  40.5 us/s,,,,,Process,[PID 88550] [kworker/35:0],    0 mW
+2023-10-10 07:41:37,  40.3 us/s,,,,,Timer,cursor_timer_handler,    0 mW
+2023-10-10 07:41:37,  39.0 us/s,,,,,Process,[PID 537] [kworker/34:2],    0 mW
+2023-10-10 07:41:37,  37.2 us/s,,,,,Process,[PID 88553] [kworker/1:0],    0 mW
+2023-10-10 07:41:37,  37.2 us/s,,,,,Process,[PID 70800] [kworker/28:0],    0 mW
+2023-10-10 07:41:37,  35.4 us/s,,,,,Process,[PID 1404] /sbin/multipathd -d -s ,    0 mW
+2023-10-10 07:41:37,  35.3 us/s,,,,,Process,[PID 106971] [kworker/u114:1],    0 mW
+2023-10-10 07:41:37,  34.3 us/s,,,,,Process,[PID 424] [kworker/29:1],    0 mW
+2023-10-10 07:41:37,  32.9 us/s,,,,,Process,[PID 35340] /lib/systemd/systemd-journald ,    0 mW
+2023-10-10 07:41:37,  30.7 us/s,,,,,Process,[PID 118716] [kworker/52:0],    0 mW
+2023-10-10 07:41:37,  30.5 us/s,,,,,Process,[PID 1484] /usr/lib/accountsservice/accounts-daemon ,    0 mW
+2023-10-10 07:41:37,  30.5 us/s,,,,,kWork,vmstat_update,    0 mW
+2023-10-10 07:41:37,  29.7 us/s,,,,,Process,[PID 35327] /lib/systemd/systemd-networkd ,    0 mW
+2023-10-10 07:41:37,  28.7 us/s,,,,,Process,[PID 478] [kworker/10:1],    0 mW
+2023-10-10 07:41:37,  28.3 us/s,,,,,Process,[PID 93468] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/extensions/ms,    0 mW
+2023-10-10 07:41:37,  28.0 us/s,,,,,Timer,mix_interrupt_randomness,    0 mW
+2023-10-10 07:41:37,  27.0 us/s,,,,,Process,[PID 78567] [kworker/11:1],    0 mW
+2023-10-10 07:42:01, 652.4 us/s,150.8,,,,kWork,dbs_work_handler,  597 mW
+2023-10-10 07:42:01,   2.7 ms/s,137.6,,,,Interrupt,[3] net_rx(softirq),  548 mW
+2023-10-10 07:42:01,   0.8 ms/s, 58.3,,,,Timer,tick_sched_timer,  232 mW
+2023-10-10 07:42:01,  83.6 ms/s, 0.10,,,,Process,[PID 120932] nvidia-smi,  131 mW
+2023-10-10 07:42:01, 113.2 us/s, 12.3,,,,Timer,watchdog_timer_fn, 48.9 mW
+2023-10-10 07:42:01,   7.3 ms/s,  6.8,,,,Process,[PID 84395] avahi-daemon: running [icns.local] , 38.1 mW
+2023-10-10 07:42:01, 443.1 us/s,  8.8,,,,Process,[PID 15] [rcu_sched], 35.4 mW
+2023-10-10 07:42:01, 137.6 us/s,  7.1,,,,kWork,psi_avgs_work, 28.3 mW
+2023-10-10 07:42:01,  12.3 ms/s, 0.05,,,,Process,[PID 120923] powertop --csv=powertop_output.csv , 19.4 mW
+2023-10-10 07:42:01,  41.2 us/s,  2.5,,,,kWork,fb_flashcursor, 9.80 mW
+2023-10-10 07:42:01,   7.8 us/s,  1.2,,,,kWork,lru_add_drain_per_cpu, 4.88 mW
+2023-10-10 07:42:01, 422.6 us/s,  0.9,,,,Process,[PID 1767] /usr/bin/containerd , 4.17 mW
+2023-10-10 07:42:01,  14.4 us/s,  1.0,,,,Timer,sched_rt_period_timer, 3.92 mW
+2023-10-10 07:42:01,   0.7 ms/s,  0.7,,,,Process,[PID 93364] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083, 3.87 mW
+2023-10-10 07:42:01, 465.5 us/s,  0.8,,,,Process,[PID 1700] /usr/bin/containerd , 3.84 mW
+2023-10-10 07:42:01,  95.0 us/s,  0.9,,,,kWork,i40e_service_task, 3.65 mW
+2023-10-10 07:42:01,  11.1 us/s,  0.9,,,,kWork,pci_pme_list_scan, 3.52 mW
+2023-10-10 07:42:01, 367.4 us/s,  0.7,,,,Process,[PID 1701] /usr/bin/containerd , 3.49 mW
+2023-10-10 07:42:01,  77.7 us/s,  0.8,,,,Process,[PID 1764] /usr/bin/containerd , 3.24 mW
+2023-10-10 07:42:01, 205.5 us/s,  0.7,,,,Process,[PID 120930] sensors, 3.05 mW
+2023-10-10 07:42:01,   1.0 ms/s,  0.3,,,,Process,[PID 93340] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node --dns-result-order=ipv4first /home/icns, 2.85 mW
+2023-10-10 07:42:01,   1.4 ms/s, 0.05,,,,Interrupt,[7] sched(softirq), 2.37 mW
+2023-10-10 07:42:01,   1.0 ms/s, 0.10,,,,Process,[PID 120938] nv_queue, 2.00 mW
+2023-10-10 07:42:01, 217.7 us/s,  0.4,,,,Process,[PID 93276] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083, 1.90 mW
+2023-10-10 07:42:01, 277.0 us/s,  0.3,,,,Process,[PID 1761] /usr/bin/containerd , 1.80 mW
+2023-10-10 07:42:01,  19.2 us/s,  0.4,,,,Interrupt,[4] block(softirq), 1.78 mW
+2023-10-10 07:42:01,  10.0 us/s,  0.4,,,,Interrupt,[301] ahci[0000:00:17.0], 1.77 mW
+2023-10-10 07:42:01,   0.9 ms/s, 0.05,,,,Process,[PID 120935] nv_queue, 1.59 mW
+2023-10-10 07:42:01,   4.5 us/s,  0.4,,,,kWork,blk_mq_requeue_work, 1.57 mW
+2023-10-10 07:42:01,   0.7 ms/s, 0.10,,,,Timer,hrtimer_wakeup, 1.53 mW
+2023-10-10 07:42:01,  85.0 us/s,  0.3,,,,Process,[PID 93456] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/extensions/th, 1.50 mW
+2023-10-10 07:42:01,   0.9 ms/s,,,,,Process,[PID 1504] /usr/sbin/irqbalance --foreground , 1.43 mW
+2023-10-10 07:42:01,  38.8 us/s,  0.3,,,,Process,[PID 93363] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083, 1.42 mW
+2023-10-10 07:42:01,  20.8 us/s,  0.3,,,,Interrupt,[303] nvidia, 1.40 mW
+2023-10-10 07:42:01,  13.1 us/s, 0.30,,,,Interrupt,[304] nvidia, 1.19 mW
+2023-10-10 07:42:01,  40.4 us/s, 0.25,,,,kWork,flush_memcg_stats_dwork, 1.04 mW
+2023-10-10 07:42:01,  26.4 us/s, 0.25,,,,Timer,mix_interrupt_randomness, 1.02 mW
+2023-10-10 07:42:01,  68.2 us/s, 0.20,,,,Process,[PID 120933] irq/303-nvidia,  886 uW
+2023-10-10 07:42:01,  19.5 us/s, 0.20,,,,Process,[PID 360] [kcompactd0],  809 uW
+2023-10-10 07:42:01,  19.1 us/s, 0.20,,,,Process,[PID 361] [kcompactd1],  809 uW
+2023-10-10 07:42:01,   7.8 us/s, 0.20,,,,kWork,wb_workfn,  791 uW
+2023-10-10 07:42:01,  38.9 us/s, 0.15,,,,Process,[PID 1404] /sbin/multipathd -d -s ,  645 uW
+2023-10-10 07:42:01,  29.4 us/s, 0.15,,,,Process,[PID 34674] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  630 uW
+2023-10-10 07:42:01,   2.1 us/s, 0.15,,,,kWork,free_work,  588 uW
+2023-10-10 07:42:01, 372.3 us/s,,,,,Process,[PID 88278] [kworker/0:0],  581 uW
+2023-10-10 07:42:01,  69.2 us/s, 0.10,,,,Process,[PID 120936] irq/304-nvidia,  498 uW
+2023-10-10 07:42:01, 295.6 us/s,,,,,Process,[PID 120930] sh,  461 uW
+2023-10-10 07:42:01, 285.8 us/s,,,,,Interrupt,[9] RCU(softirq),  446 uW
+2023-10-10 07:42:01,  29.5 us/s, 0.10,,,,Process,[PID 1400] /sbin/multipathd -d -s ,  436 uW
+2023-10-10 07:42:01, 137.5 us/s, 0.05,,,,Process,[PID 1737] /usr/bin/containerd ,  409 uW
+2023-10-10 07:42:01, 128.0 us/s, 0.05,,,,Process,[PID 120929] python3,  395 uW
+2023-10-10 07:42:01,   0.8 us/s, 0.10,,,,kWork,flush_to_ldisc,  391 uW
+2023-10-10 07:42:01,   0.3 us/s, 0.10,,,,kWork,blk_mq_timeout_work,  390 uW
+2023-10-10 07:42:01, 243.9 us/s,,,,,Process,[PID 483] [kworker/31:1],  380 uW
+2023-10-10 07:42:01, 228.6 us/s,,,,,Timer,process_timeout,  357 uW
+2023-10-10 07:42:01,  90.6 us/s, 0.05,,,,Process,[PID 1741] /usr/bin/containerd ,  336 uW
+2023-10-10 07:42:01, 202.3 us/s,,,,,Interrupt,[1] timer(softirq),  316 uW
+2023-10-10 07:42:01, 190.9 us/s,,,,,Process,[PID 88537] [kworker/6:1],  298 uW
+2023-10-10 07:42:01, 166.5 us/s,,,,,Process,[PID 19950] [kworker/8:0],  260 uW
+2023-10-10 07:42:01, 160.2 us/s,,,,,Process,[PID 120892] python3 monitor.py ,  250 uW
+2023-10-10 07:42:01,  30.2 us/s, 0.05,,,,Process,[PID 93468] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/extensions/ms,  242 uW
+2023-10-10 07:42:01, 150.6 us/s,,,,,Interrupt,[63] i40e-eno0-TxRx-18,  235 uW
+2023-10-10 07:42:01, 143.2 us/s,,,,,Process,[PID 118036] [kworker/5:1],  223 uW
+2023-10-10 07:42:01, 141.5 us/s,,,,,Process,[PID 120890] python3 monitor.py ,  221 uW
+2023-10-10 07:42:01,  16.4 us/s, 0.05,,,,Process,[PID 118719] /usr/libexec/fwupd/fwupd ,  220 uW
+2023-10-10 07:42:01,  15.8 us/s, 0.05,,,,Process,[PID 118717] /usr/libexec/fwupd/fwupd ,  220 uW
+2023-10-10 07:42:01,  13.7 us/s, 0.05,,,,Process,[PID 84740] /usr/sbin/NetworkManager --no-daemon ,  216 uW
+2023-10-10 07:42:01,  13.4 us/s, 0.05,,,,Process,[PID 35327] /lib/systemd/systemd-networkd ,  216 uW
+2023-10-10 07:42:01,  10.6 us/s, 0.05,,,,Process,[PID 34659] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  211 uW
+2023-10-10 07:42:01,  10.1 us/s, 0.05,,,,Process,[PID 35334] /lib/systemd/systemd-resolved ,  211 uW
+2023-10-10 07:42:01,   4.0 us/s, 0.05,,,,Timer,tcp_orphan_update,  201 uW
+2023-10-10 07:42:01,   2.1 us/s, 0.05,,,,Process,[PID 120938] kthreadd,  198 uW
+2023-10-10 07:42:01,   1.6 us/s, 0.05,,,,kWork,ext4_end_io_rsv_work,  197 uW
+2023-10-10 07:42:01,   0.6 us/s, 0.05,,,,Process,[PID 120937] kthreadd,  196 uW
+2023-10-10 07:42:01,   0.6 us/s, 0.05,,,,Process,[PID 120935] kthreadd,  196 uW
+2023-10-10 07:42:01,   0.6 us/s, 0.05,,,,Process,[PID 120933] kthreadd,  196 uW
+2023-10-10 07:42:01,   0.5 us/s, 0.05,,,,Process,[PID 120936] kthreadd,  196 uW
+2023-10-10 07:42:01,   0.5 us/s, 0.05,,,,Process,[PID 330] [ksoftirqd/52],  195 uW
+2023-10-10 07:42:01,   0.4 us/s, 0.05,,,,kWork,check_lifetime,  195 uW
+2023-10-10 07:42:01,   0.3 us/s, 0.05,,,,Process,[PID 120934] kthreadd,  195 uW
+2023-10-10 07:42:01,   0.2 us/s, 0.05,,,,kWork,wb_update_bandwidth_workfn,  195 uW
+2023-10-10 07:42:01, 122.9 us/s,,,,,Process,[PID 102017] [kworker/14:0],  192 uW
+2023-10-10 07:42:01, 118.2 us/s,,,,,Process,[PID 120931] python3,  184 uW
+2023-10-10 07:42:01, 111.8 us/s,,,,,Process,[PID 109796] [kworker/7:1],  174 uW
+2023-10-10 07:42:01, 110.7 us/s,,,,,Process,[PID 1738] /usr/bin/containerd ,  173 uW
+2023-10-10 07:42:01, 110.1 us/s,,,,,Timer,delayed_work_timer_fn,  172 uW
+2023-10-10 07:42:01,  91.8 us/s,,,,,Process,[PID 18502] /usr/bin/containerd ,  143 uW
+2023-10-10 07:42:01,  79.6 us/s,,,,,Process,[PID 88536] [kworker/4:0],  124 uW
+2023-10-10 07:42:01,  79.4 us/s,,,,,Process,[PID 1762] /usr/bin/containerd ,  124 uW
+2023-10-10 07:42:01,  72.0 us/s,,,,,Process,[PID 120932] sh,  112 uW
+2023-10-10 07:42:01,  68.6 us/s,,,,,Process,[PID 1739] /usr/bin/containerd ,  107 uW
+2023-10-10 07:42:01,  66.5 us/s,,,,,Process,[PID 424] [kworker/29:1],  104 uW
+2023-10-10 07:42:01,  64.0 us/s,,,,,Process,[PID 107067] [kworker/50:1],    0 mW
+2023-10-10 07:42:01,  63.8 us/s,,,,,Process,[PID 506] [kworker/2:2],    0 mW
+2023-10-10 07:42:01,  62.5 us/s,,,,,Process,[PID 1766] /usr/bin/containerd ,    0 mW
+2023-10-10 07:42:01,  61.4 us/s,,,,,Process,[PID 539] [kworker/36:2],    0 mW
+2023-10-10 07:42:01,  60.8 us/s,,,,,Process,[PID 540] [kworker/37:2],    0 mW
+2023-10-10 07:42:01,  60.7 us/s,,,,,Process,[PID 88550] [kworker/35:0],    0 mW
+2023-10-10 07:42:01,  60.3 us/s,,,,,Process,[PID 105923] [kworker/20:2],    0 mW
+2023-10-10 07:42:01,  59.5 us/s,,,,,Process,[PID 104758] [kworker/32:2],    0 mW
+2023-10-10 07:42:24, 612.4 us/s,142.7,,,,kWork,dbs_work_handler,  564 mW
+2023-10-10 07:42:24,   2.2 ms/s,123.3,,,,Interrupt,[3] net_rx(softirq),  491 mW
+2023-10-10 07:42:24,   0.7 ms/s, 57.5,,,,Timer,tick_sched_timer,  228 mW
+2023-10-10 07:42:24,  85.1 ms/s, 0.10,,,,Process,[PID 120951] nvidia-smi,  133 mW
+2023-10-10 07:42:24, 122.7 us/s, 12.8,,,,Timer,watchdog_timer_fn, 50.9 mW
+2023-10-10 07:42:24, 441.7 us/s,  8.8,,,,Process,[PID 15] [rcu_sched], 35.4 mW
+2023-10-10 07:42:24, 141.0 us/s,  7.1,,,,kWork,psi_avgs_work, 28.3 mW
+2023-10-10 07:42:24,   4.2 ms/s,  3.4,,,,Process,[PID 84395] avahi-daemon: running [icns.local] , 20.0 mW
+2023-10-10 07:42:24,  41.1 us/s,  4.4,,,,kWork,fb_flashcursor, 17.4 mW
+2023-10-10 07:42:24,  10.6 ms/s,,,,,Process,[PID 120940] powertop --csv=powertop_output.csv , 16.5 mW
+2023-10-10 07:42:24, 404.4 us/s,  1.3,,,,Process,[PID 120948] sensors, 5.90 mW
+2023-10-10 07:42:24,  18.0 us/s,  1.4,,,,Interrupt,[301] ahci[0000:00:17.0], 5.49 mW
+2023-10-10 07:42:24,   6.8 us/s,  1.2,,,,kWork,lru_add_drain_per_cpu, 4.69 mW
+2023-10-10 07:42:24,   3.0 ms/s,,,,,Process,[PID 1504] /usr/sbin/irqbalance --foreground , 4.66 mW
+2023-10-10 07:42:24, 322.6 us/s,  1.0,,,,Process,[PID 1738] /usr/bin/containerd , 4.60 mW
+2023-10-10 07:42:24, 283.1 us/s,  1.0,,,,Process,[PID 1737] /usr/bin/containerd , 4.54 mW
+2023-10-10 07:42:24,  29.2 us/s,  1.1,,,,Interrupt,[4] block(softirq), 4.34 mW
+2023-10-10 07:42:24,  14.3 us/s,  1.0,,,,Timer,sched_rt_period_timer, 3.92 mW
+2023-10-10 07:42:24,  11.2 us/s,  0.9,,,,kWork,pci_pme_list_scan, 3.72 mW
+2023-10-10 07:42:24,  95.2 us/s,  0.9,,,,kWork,i40e_service_task, 3.66 mW
+2023-10-10 07:42:24,   1.0 ms/s,  0.4,,,,Process,[PID 93340] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node --dns-result-order=ipv4first /home/icns, 3.09 mW
+2023-10-10 07:42:24,   0.7 ms/s,  0.4,,,,Process,[PID 93364] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083, 2.72 mW
+2023-10-10 07:42:24,   5.2 us/s,  0.5,,,,kWork,blk_mq_requeue_work, 2.15 mW
+2023-10-10 07:42:24, 203.8 us/s,  0.4,,,,Process,[PID 93276] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083, 2.07 mW
+2023-10-10 07:42:24,   1.3 ms/s,,,,,Interrupt,[7] sched(softirq), 2.07 mW
+2023-10-10 07:42:24,   1.0 ms/s, 0.10,,,,Process,[PID 120954] nv_queue, 1.97 mW
+2023-10-10 07:42:24, 481.5 us/s, 0.30,,,,Process,[PID 1700] /usr/bin/containerd , 1.92 mW
+2023-10-10 07:42:24,  19.7 us/s,  0.4,,,,Interrupt,[303] nvidia, 1.59 mW
+2023-10-10 07:42:24,   0.8 ms/s, 0.10,,,,Process,[PID 120957] nv_queue, 1.56 mW
+2023-10-10 07:42:24,  18.1 us/s,  0.3,,,,Process,[PID 360] [kcompactd0], 1.39 mW
+2023-10-10 07:42:24,  38.6 us/s, 0.30,,,,kWork,flush_memcg_stats_dwork, 1.23 mW
+2023-10-10 07:42:24, 158.0 us/s, 0.25,,,,Process,[PID 1764] /usr/bin/containerd , 1.22 mW
+2023-10-10 07:42:24,  40.0 us/s, 0.25,,,,Process,[PID 93363] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083, 1.04 mW
+2023-10-10 07:42:24,   9.1 us/s, 0.25,,,,kWork,blk_mq_run_work_fn,  990 uW
+2023-10-10 07:42:24, 611.4 us/s,,,,,Timer,hrtimer_wakeup,  954 uW
+2023-10-10 07:42:24, 582.5 us/s,,,,,kWork,gc_worker,  909 uW
+2023-10-10 07:42:24,   2.7 us/s, 0.20,,,,kWork,free_work,  785 uW
+2023-10-10 07:42:24,  82.0 us/s, 0.15,,,,Process,[PID 120955] irq/304-nvidia,  713 uW
+2023-10-10 07:42:24,  65.7 us/s, 0.15,,,,Process,[PID 120952] irq/303-nvidia,  688 uW
+2023-10-10 07:42:24,  18.7 us/s, 0.15,,,,Process,[PID 361] [kcompactd1],  614 uW
+2023-10-10 07:42:24,  16.7 us/s, 0.15,,,,Interrupt,[304] nvidia,  611 uW
+2023-10-10 07:42:24,   0.5 us/s, 0.15,,,,kWork,neigh_periodic_work,  586 uW
+2023-10-10 07:42:24,   0.4 us/s, 0.15,,,,kWork,blk_mq_timeout_work,  586 uW
+2023-10-10 07:42:24, 361.3 us/s,,,,,Process,[PID 88278] [kworker/0:0],  564 uW
+2023-10-10 07:42:24,  88.0 us/s, 0.10,,,,Process,[PID 93456] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/extensions/th,  528 uW
+2023-10-10 07:42:24, 312.9 us/s,,,,,Process,[PID 483] [kworker/31:1],  488 uW
+2023-10-10 07:42:24, 308.1 us/s,,,,,Interrupt,[9] RCU(softirq),  481 uW
+2023-10-10 07:42:24,  36.6 us/s, 0.10,,,,Process,[PID 1404] /sbin/multipathd -d -s ,  447 uW
+2023-10-10 07:42:24,  21.2 us/s, 0.10,,,,Process,[PID 93375] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node --dns-result-order=ipv4first /home/icns,  423 uW
+2023-10-10 07:42:24,  16.5 us/s, 0.10,,,,Process,[PID 118717] /usr/libexec/fwupd/fwupd ,  416 uW
+2023-10-10 07:42:24,   2.6 us/s, 0.10,,,,kWork,wb_workfn,  394 uW
+2023-10-10 07:42:24, 225.1 us/s,,,,,Timer,process_timeout,  351 uW
+2023-10-10 07:42:24,  89.2 us/s, 0.05,,,,Process,[PID 109761] /usr/lib/snapd/snapd ,  334 uW
+2023-10-10 07:42:24,  84.9 us/s, 0.05,,,,Process,[PID 120946] sleep 180 ,  328 uW
+2023-10-10 07:42:24, 203.6 us/s,,,,,Interrupt,[1] timer(softirq),  318 uW
+2023-10-10 07:42:24, 166.7 us/s,,,,,Process,[PID 424] [kworker/29:1],  260 uW
+2023-10-10 07:42:24, 166.0 us/s,,,,,Interrupt,[63] i40e-eno0-TxRx-18,  259 uW
+2023-10-10 07:42:24, 161.2 us/s,,,,,Process,[PID 120892] python3 monitor.py ,  251 uW
+2023-10-10 07:42:24,  28.5 us/s, 0.05,,,,Process,[PID 93468] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/extensions/ms,  240 uW
+2023-10-10 07:42:24, 153.5 us/s,,,,,Process,[PID 120948] sh,  239 uW
+2023-10-10 07:42:24,  27.8 us/s, 0.05,,,,Process,[PID 1400] /sbin/multipathd -d -s ,  238 uW
+2023-10-10 07:42:24, 144.7 us/s,,,,,Process,[PID 19950] [kworker/8:0],  226 uW
+2023-10-10 07:42:24, 144.2 us/s,,,,,Process,[PID 88553] [kworker/1:0],  225 uW
+2023-10-10 07:42:24,  16.8 us/s, 0.05,,,,Process,[PID 118719] /usr/libexec/fwupd/fwupd ,  221 uW
+2023-10-10 07:42:24,  14.1 us/s, 0.05,,,,Process,[PID 93351] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083,  217 uW
+2023-10-10 07:42:24, 137.4 us/s,,,,,Process,[PID 120890] python3 monitor.py ,  214 uW
+2023-10-10 07:42:24, 133.6 us/s,,,,,Process,[PID 88537] [kworker/6:1],  208 uW
+2023-10-10 07:42:24,   4.4 us/s, 0.05,,,,Process,[PID 34659] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  202 uW
+2023-10-10 07:42:24,   2.9 us/s, 0.05,,,,Process,[PID 120949] systemd-journal,  200 uW
+2023-10-10 07:42:24,   2.1 us/s, 0.05,,,,kWork,ext4_end_io_rsv_work,  198 uW
+2023-10-10 07:42:24,   1.7 us/s, 0.05,,,,Process,[PID 288] [ksoftirqd/45],  198 uW
+2023-10-10 07:42:24,   0.6 us/s, 0.05,,,,Process,[PID 330] [ksoftirqd/52],  196 uW
+2023-10-10 07:42:24,   0.6 us/s, 0.05,,,,kWork,flush_to_ldisc,  196 uW
+2023-10-10 07:42:24,   0.6 us/s, 0.05,,,,Process,[PID 120952] kthreadd,  196 uW
+2023-10-10 07:42:24,   0.5 us/s, 0.05,,,,Process,[PID 120957] kthreadd,  196 uW
+2023-10-10 07:42:24,   0.5 us/s, 0.05,,,,Process,[PID 120955] kthreadd,  196 uW
+2023-10-10 07:42:24,   0.4 us/s, 0.05,,,,Process,[PID 14] [ksoftirqd/0],  196 uW
+2023-10-10 07:42:24,   0.4 us/s, 0.05,,,,kWork,addrconf_verify_work,  196 uW
+2023-10-10 07:42:24,   0.3 us/s, 0.05,,,,Process,[PID 126] [ksoftirqd/18],  196 uW
+2023-10-10 07:42:24,   0.3 us/s, 0.05,,,,Process,[PID 120953] kthreadd,  196 uW
+2023-10-10 07:42:24,   0.2 us/s, 0.05,,,,Process,[PID 120956] kthreadd,  195 uW
+2023-10-10 07:42:24, 118.2 us/s,,,,,Process,[PID 120950] python3,  184 uW
+2023-10-10 07:42:24, 113.5 us/s,,,,,Timer,delayed_work_timer_fn,  177 uW
+2023-10-10 07:42:24, 111.4 us/s,,,,,Process,[PID 99788] [kworker/30:1],  174 uW
+2023-10-10 07:42:24, 111.1 us/s,,,,,Process,[PID 120951] sh,  173 uW
+2023-10-10 07:42:24,  98.3 us/s,,,,,Process,[PID 88550] [kworker/35:0],  153 uW
+2023-10-10 07:42:24,  90.9 us/s,,,,,Process,[PID 70800] [kworker/28:0],  142 uW
+2023-10-10 07:42:24,  88.8 us/s,,,,,Process,[PID 120947] python3,  138 uW
+2023-10-10 07:42:24,  88.1 us/s,,,,,Process,[PID 109932] /usr/lib/snapd/snapd ,  137 uW
+2023-10-10 07:42:24,  86.1 us/s,,,,,Process,[PID 109916] /usr/lib/snapd/snapd ,  134 uW
+2023-10-10 07:42:24,  85.2 us/s,,,,,Process,[PID 109892] /usr/lib/snapd/snapd ,  133 uW
+2023-10-10 07:42:24,  80.9 us/s,,,,,Process,[PID 109796] [kworker/7:1],  126 uW
+2023-10-10 07:42:24,  76.3 us/s,,,,,Process,[PID 88536] [kworker/4:0],  119 uW
+2023-10-10 07:42:24,  75.3 us/s,,,,,Process,[PID 539] [kworker/36:2],  118 uW
+2023-10-10 07:42:24,  73.6 us/s,,,,,Process,[PID 105923] [kworker/20:2],  115 uW
+2023-10-10 07:42:24,  71.4 us/s,,,,,Process,[PID 506] [kworker/2:2],  111 uW
+2023-10-10 07:42:24,  70.9 us/s,,,,,Process,[PID 109770] /usr/lib/snapd/snapd ,  111 uW
+2023-10-10 07:42:24,  68.4 us/s,,,,,Process,[PID 103343] [kworker/21:2],  107 uW
+2023-10-10 07:42:24,  68.0 us/s,,,,,Process,[PID 109767] /usr/lib/snapd/snapd ,  106 uW
+2023-10-10 07:42:24,  61.9 us/s,,,,,Process,[PID 109915] /usr/lib/snapd/snapd ,    0 mW
+2023-10-10 07:42:47, 691.0 us/s,152.4,,,,kWork,dbs_work_handler,  603 mW
+2023-10-10 07:42:47,   2.6 ms/s,137.5,,,,Interrupt,[3] net_rx(softirq),  547 mW
+2023-10-10 07:42:47,   0.8 ms/s, 64.0,,,,Timer,tick_sched_timer,  254 mW
+2023-10-10 07:42:47,  83.9 ms/s, 0.10,,,,Process,[PID 120968] nvidia-smi,  131 mW
+2023-10-10 07:42:47, 113.3 us/s, 12.9,,,,Timer,watchdog_timer_fn, 51.3 mW
+2023-10-10 07:42:47,   6.4 ms/s,  5.1,,,,Process,[PID 84395] avahi-daemon: running [icns.local] , 30.3 mW
+2023-10-10 07:42:47, 506.3 us/s,  7.1,,,,Process,[PID 15] [rcu_sched], 28.9 mW
+2023-10-10 07:42:47, 136.5 us/s,  7.1,,,,kWork,psi_avgs_work, 28.3 mW
+2023-10-10 07:42:47,  10.3 ms/s,,,,,Process,[PID 120959] powertop --csv=powertop_output.csv , 16.1 mW
+2023-10-10 07:42:47,  38.9 us/s,  3.4,,,,kWork,fb_flashcursor, 13.5 mW
+2023-10-10 07:42:47, 358.2 us/s,  1.8,,,,Process,[PID 1737] /usr/bin/containerd , 7.58 mW
+2023-10-10 07:42:47,   7.8 us/s,  1.6,,,,kWork,lru_add_drain_per_cpu, 6.26 mW
+2023-10-10 07:42:47, 270.5 us/s,  1.3,,,,Process,[PID 1764] /usr/bin/containerd , 5.69 mW
+2023-10-10 07:42:47,   1.0 ms/s,  0.7,,,,Process,[PID 93340] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node --dns-result-order=ipv4first /home/icns, 4.41 mW
+2023-10-10 07:42:47,  15.1 us/s,  1.0,,,,Timer,sched_rt_period_timer, 4.12 mW
+2023-10-10 07:42:47, 483.2 us/s,  0.8,,,,Process,[PID 120966] sensors, 4.07 mW
+2023-10-10 07:42:47,  95.7 us/s,  0.9,,,,kWork,i40e_service_task, 3.86 mW
+2023-10-10 07:42:47,  11.8 us/s,  0.9,,,,kWork,pci_pme_list_scan, 3.73 mW
+2023-10-10 07:42:47,   0.7 ms/s,  0.6,,,,Process,[PID 93364] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083, 3.49 mW
+2023-10-10 07:42:47, 442.0 us/s,  0.7,,,,Process,[PID 1700] /usr/bin/containerd , 3.42 mW
+2023-10-10 07:42:47,   1.7 ms/s,,,,,Process,[PID 1504] /usr/sbin/irqbalance --foreground , 2.69 mW
+2023-10-10 07:42:47, 186.2 us/s,  0.6,,,,Process,[PID 93276] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083, 2.63 mW
+2023-10-10 07:42:47,   1.5 ms/s,,,,,Interrupt,[7] sched(softirq), 2.27 mW
+2023-10-10 07:42:47,  10.7 us/s,  0.5,,,,Interrupt,[301] ahci[0000:00:17.0], 2.16 mW
+2023-10-10 07:42:47,   1.0 ms/s, 0.10,,,,Process,[PID 120971] nv_queue, 1.90 mW
+2023-10-10 07:42:47,  21.6 us/s,  0.4,,,,Interrupt,[4] block(softirq), 1.79 mW
+2023-10-10 07:42:47,  20.1 us/s,  0.4,,,,Interrupt,[303] nvidia, 1.79 mW
+2023-10-10 07:42:47,  19.9 us/s,  0.4,,,,Process,[PID 360] [kcompactd0], 1.79 mW
+2023-10-10 07:42:47,   4.7 us/s,  0.4,,,,kWork,blk_mq_requeue_work, 1.57 mW
+2023-10-10 07:42:47, 643.5 us/s, 0.10,,,,Process,[PID 120974] nv_queue, 1.39 mW
+2023-10-10 07:42:47,  35.4 us/s, 0.30,,,,kWork,flush_memcg_stats_dwork, 1.23 mW
+2023-10-10 07:42:47,  54.0 us/s, 0.25,,,,Process,[PID 93351] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083, 1.06 mW
+2023-10-10 07:42:47, 651.8 us/s,,,,,Timer,hrtimer_wakeup, 1.02 mW
+2023-10-10 07:42:47, 144.7 us/s, 0.20,,,,Process,[PID 1738] /usr/bin/containerd , 1.01 mW
+2023-10-10 07:42:47,  19.3 us/s, 0.25,,,,Process,[PID 361] [kcompactd1], 1.01 mW
+2023-10-10 07:42:47,  86.4 us/s, 0.20,,,,Process,[PID 93456] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/extensions/th,  915 uW
+2023-10-10 07:42:47,   5.5 us/s, 0.20,,,,kWork,wb_workfn,  789 uW
+2023-10-10 07:42:47,  81.1 us/s, 0.15,,,,Process,[PID 120972] irq/304-nvidia,  712 uW
+2023-10-10 07:42:47,  65.2 us/s, 0.15,,,,Process,[PID 120969] irq/303-nvidia,  687 uW
+2023-10-10 07:42:47,  16.4 us/s, 0.15,,,,Process,[PID 118717] /usr/libexec/fwupd/fwupd ,  611 uW
+2023-10-10 07:42:47,  15.7 us/s, 0.15,,,,Interrupt,[304] nvidia,  610 uW
+2023-10-10 07:42:47,  15.0 us/s, 0.15,,,,Process,[PID 363] [khugepaged],  609 uW
+2023-10-10 07:42:47, 386.9 us/s,,,,,Process,[PID 88278] [kworker/0:0],  604 uW
+2023-10-10 07:42:47,   0.4 us/s, 0.15,,,,kWork,blk_mq_timeout_work,  586 uW
+2023-10-10 07:42:47, 320.4 us/s,,,,,Process,[PID 483] [kworker/31:1],  500 uW
+2023-10-10 07:42:47, 288.5 us/s,,,,,Interrupt,[9] RCU(softirq),  450 uW
+2023-10-10 07:42:47,  36.9 us/s, 0.10,,,,Process,[PID 1404] /sbin/multipathd -d -s ,  448 uW
+2023-10-10 07:42:47,  28.8 us/s, 0.10,,,,Process,[PID 93468] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/extensions/ms,  435 uW
+2023-10-10 07:42:47,  23.9 us/s, 0.10,,,,Process,[PID 1484] /usr/lib/accountsservice/accounts-daemon ,  428 uW
+2023-10-10 07:42:47,   4.8 us/s, 0.10,,,,Process,[PID 34659] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  398 uW
+2023-10-10 07:42:47,   2.1 us/s, 0.10,,,,kWork,free_work,  394 uW
+2023-10-10 07:42:47, 126.5 us/s, 0.05,,,,Process,[PID 120965] python3,  393 uW
+2023-10-10 07:42:47,   0.8 us/s, 0.10,,,,kWork,flush_to_ldisc,  392 uW
+2023-10-10 07:42:47,   0.2 us/s, 0.10,,,,kWork,wb_update_bandwidth_workfn,  391 uW
+2023-10-10 07:42:47, 225.6 us/s,,,,,Process,[PID 99788] [kworker/30:1],  352 uW
+2023-10-10 07:42:47, 224.7 us/s,,,,,Timer,process_timeout,  351 uW
+2023-10-10 07:42:47, 199.8 us/s,,,,,Interrupt,[1] timer(softirq),  312 uW
+2023-10-10 07:42:47, 182.3 us/s,,,,,Process,[PID 88550] [kworker/35:0],  284 uW
+2023-10-10 07:42:47, 162.4 us/s,,,,,Process,[PID 120892] python3 monitor.py ,  253 uW
+2023-10-10 07:42:47,  29.1 us/s, 0.05,,,,Process,[PID 1400] /sbin/multipathd -d -s ,  241 uW
+2023-10-10 07:42:47, 146.6 us/s,,,,,Interrupt,[63] i40e-eno0-TxRx-18,  229 uW
+2023-10-10 07:42:47,  16.6 us/s, 0.05,,,,Process,[PID 118719] /usr/libexec/fwupd/fwupd ,  221 uW
+2023-10-10 07:42:47, 139.0 us/s,,,,,Process,[PID 120890] python3 monitor.py ,  217 uW
+2023-10-10 07:42:47,   9.4 us/s, 0.05,,,,Process,[PID 34674] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  210 uW
+2023-10-10 07:42:47,   1.2 us/s, 0.05,,,,Process,[PID 288] [ksoftirqd/45],  197 uW
+2023-10-10 07:42:47,   1.0 us/s, 0.05,,,,Process,[PID 138] [ksoftirqd/20],  197 uW
+2023-10-10 07:42:47,   0.6 us/s, 0.05,,,,Process,[PID 120969] kthreadd,  196 uW
+2023-10-10 07:42:47,   0.6 us/s, 0.05,,,,Process,[PID 120971] kthreadd,  196 uW
+2023-10-10 07:42:47,   0.5 us/s, 0.05,,,,Process,[PID 120972] kthreadd,  196 uW
+2023-10-10 07:42:47,   0.5 us/s, 0.05,,,,Process,[PID 14] [ksoftirqd/0],  196 uW
+2023-10-10 07:42:47,   0.4 us/s, 0.05,,,,Process,[PID 120974] kthreadd,  196 uW
+2023-10-10 07:42:47,   0.3 us/s, 0.05,,,,Process,[PID 120970] kthreadd,  196 uW
+2023-10-10 07:42:47,   0.2 us/s, 0.05,,,,Process,[PID 120973] kthreadd,  196 uW
+2023-10-10 07:42:47, 119.0 us/s,,,,,Process,[PID 424] [kworker/29:1],  186 uW
+2023-10-10 07:42:47, 116.5 us/s,,,,,Process,[PID 88537] [kworker/6:1],  182 uW
+2023-10-10 07:42:47, 109.7 us/s,,,,,Timer,delayed_work_timer_fn,  171 uW
+2023-10-10 07:42:47, 107.9 us/s,,,,,Process,[PID 120968] sh,  168 uW
+2023-10-10 07:42:47, 106.1 us/s,,,,,Process,[PID 88553] [kworker/1:0],  166 uW
+2023-10-10 07:42:47, 106.1 us/s,,,,,Process,[PID 543] [kworker/40:2],  165 uW
+2023-10-10 07:42:47,  79.1 us/s,,,,,Process,[PID 104758] [kworker/32:2],  123 uW
+2023-10-10 07:42:47,  78.9 us/s,,,,,Process,[PID 105924] [kworker/3:1],  123 uW
+2023-10-10 07:42:47,  77.9 us/s,,,,,Process,[PID 108210] [kworker/51:0],  121 uW
+2023-10-10 07:42:47,  73.5 us/s,,,,,Process,[PID 539] [kworker/36:2],  115 uW
+2023-10-10 07:42:47,  72.9 us/s,,,,,Process,[PID 120967] sh,  114 uW
+2023-10-10 07:42:47,  70.4 us/s,,,,,Process,[PID 88536] [kworker/4:0],  110 uW
+2023-10-10 07:42:47,  70.2 us/s,,,,,Process,[PID 105923] [kworker/20:2],  110 uW
+2023-10-10 07:42:47,  62.7 us/s,,,,,Process,[PID 108144] [kworker/53:1],    0 mW
+2023-10-10 07:42:47,  62.4 us/s,,,,,Process,[PID 120967] python3,    0 mW
+2023-10-10 07:42:47,  50.6 us/s,,,,,Process,[PID 103955] [kworker/48:1],    0 mW
+2023-10-10 07:42:47,  46.8 us/s,,,,,Process,[PID 120966] sh,    0 mW
+2023-10-10 07:42:47,  44.4 us/s,,,,,Process,[PID 109796] [kworker/7:1],    0 mW
+2023-10-10 07:42:47,  43.0 us/s,,,,,Process,[PID 537] [kworker/34:2],    0 mW
+2023-10-10 07:42:47,  42.0 us/s,,,,,Process,[PID 93201] sshd: icns@notty ,    0 mW
+2023-10-10 07:42:47,  41.2 us/s,,,,,Process,[PID 119518] [kworker/16:2],    0 mW
+2023-10-10 07:42:47,  39.5 us/s,,,,,Process,[PID 506] [kworker/2:2],    0 mW
+2023-10-10 07:42:47,  39.4 us/s,,,,,Timer,cursor_timer_handler,    0 mW
+2023-10-10 07:42:47,  39.3 us/s,,,,,Process,[PID 120566] [kworker/u113:0],    0 mW
+2023-10-10 07:42:47,  38.7 us/s,,,,,Process,[PID 103343] [kworker/21:2],    0 mW
+2023-10-10 07:42:47,  38.6 us/s,,,,,kWork,vmstat_shepherd,    0 mW
+2023-10-10 07:42:47,  37.4 us/s,,,,,Process,[PID 120911] [kworker/u113:3],    0 mW
+2023-10-10 07:43:11, 682.9 us/s,152.0,,,,kWork,dbs_work_handler,  602 mW
+2023-10-10 07:43:11,   2.3 ms/s,124.9,,,,Interrupt,[3] net_rx(softirq),  497 mW
+2023-10-10 07:43:11,   0.8 ms/s, 64.0,,,,Timer,tick_sched_timer,  254 mW
+2023-10-10 07:43:11,  83.9 ms/s, 0.05,,,,Process,[PID 120985] nvidia-smi,  131 mW
+2023-10-10 07:43:11, 112.4 us/s, 12.4,,,,Timer,watchdog_timer_fn, 49.1 mW
+2023-10-10 07:43:11, 450.8 us/s,  7.7,,,,Process,[PID 15] [rcu_sched], 31.3 mW
+2023-10-10 07:43:11,   5.0 ms/s,  5.6,,,,Process,[PID 84395] avahi-daemon: running [icns.local] , 29.8 mW
+2023-10-10 07:43:11, 141.7 us/s,  7.2,,,,kWork,psi_avgs_work, 28.7 mW
+2023-10-10 07:43:11,  11.1 ms/s,,,,,Process,[PID 120976] powertop --csv=powertop_output.csv , 17.3 mW
+2023-10-10 07:43:11, 401.6 us/s,  1.5,,,,Process,[PID 120983] sensors, 6.47 mW
+2023-10-10 07:43:11,   8.5 us/s,  1.6,,,,kWork,lru_add_drain_per_cpu, 6.44 mW
+2023-10-10 07:43:11,  42.1 us/s,  1.6,,,,kWork,fb_flashcursor, 6.30 mW
+2023-10-10 07:43:11, 344.6 us/s,  1.4,,,,Process,[PID 1764] /usr/bin/containerd , 6.18 mW
+2023-10-10 07:43:11, 326.7 us/s,  1.4,,,,Process,[PID 1738] /usr/bin/containerd , 6.16 mW
+2023-10-10 07:43:11,   0.7 ms/s,  0.8,,,,Process,[PID 93364] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083, 4.46 mW
+2023-10-10 07:43:11, 308.5 us/s,  0.9,,,,Process,[PID 1700] /usr/bin/containerd , 3.99 mW
+2023-10-10 07:43:11,  14.8 us/s,  1.0,,,,Timer,sched_rt_period_timer, 3.92 mW
+2023-10-10 07:43:11,  11.6 us/s,  1.0,,,,kWork,pci_pme_list_scan, 3.91 mW
+2023-10-10 07:43:11,  95.1 us/s,  0.9,,,,kWork,i40e_service_task, 3.85 mW
+2023-10-10 07:43:11,   1.0 ms/s,  0.4,,,,Process,[PID 93340] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node --dns-result-order=ipv4first /home/icns, 3.27 mW
+2023-10-10 07:43:11,   1.5 ms/s, 0.05,,,,Interrupt,[7] sched(softirq), 2.48 mW
+2023-10-10 07:43:11,  19.2 us/s,  0.5,,,,Process,[PID 360] [kcompactd0], 2.17 mW
+2023-10-10 07:43:11,   4.2 us/s,  0.5,,,,kWork,blk_mq_requeue_work, 2.15 mW
+2023-10-10 07:43:11,   1.0 ms/s, 0.10,,,,Process,[PID 120991] nv_queue, 2.00 mW
+2023-10-10 07:43:11,  23.4 us/s,  0.5,,,,Interrupt,[303] nvidia, 1.98 mW
+2023-10-10 07:43:11,   1.1 ms/s, 0.05,,,,Process,[PID 120988] nv_queue, 1.97 mW
+2023-10-10 07:43:11, 185.1 us/s,  0.4,,,,Process,[PID 93276] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083, 1.85 mW
+2023-10-10 07:43:11,   1.0 ms/s,,,,,Process,[PID 1504] /usr/sbin/irqbalance --foreground , 1.55 mW
+2023-10-10 07:43:11, 623.4 us/s, 0.10,,,,Timer,hrtimer_wakeup, 1.36 mW
+2023-10-10 07:43:11,  90.7 us/s, 0.30,,,,Process,[PID 120986] irq/303-nvidia, 1.31 mW
+2023-10-10 07:43:11,  83.7 us/s, 0.30,,,,Process,[PID 93456] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/extensions/th, 1.30 mW
+2023-10-10 07:43:11,   8.5 us/s, 0.30,,,,Interrupt,[301] ahci[0000:00:17.0], 1.18 mW
+2023-10-10 07:43:11,  28.3 us/s, 0.25,,,,Process,[PID 93468] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/extensions/ms, 1.02 mW
+2023-10-10 07:43:11, 580.2 us/s,,,,,kWork,gc_worker,  905 uW
+2023-10-10 07:43:11,  38.3 us/s, 0.20,,,,kWork,flush_memcg_stats_dwork,  839 uW
+2023-10-10 07:43:11,  35.3 us/s, 0.20,,,,Process,[PID 880] [jbd2/sda2-8],  834 uW
+2023-10-10 07:43:11,  21.5 us/s, 0.20,,,,kWork,wb_workfn,  813 uW
+2023-10-10 07:43:11,  19.1 us/s, 0.20,,,,Process,[PID 361] [kcompactd1],  809 uW
+2023-10-10 07:43:11, 460.3 us/s,,,,,Process,[PID 88278] [kworker/0:0],  718 uW
+2023-10-10 07:43:11,  83.4 us/s, 0.15,,,,Process,[PID 120989] irq/304-nvidia,  714 uW
+2023-10-10 07:43:11,  16.4 us/s, 0.15,,,,Process,[PID 118717] /usr/libexec/fwupd/fwupd ,  610 uW
+2023-10-10 07:43:11,  15.8 us/s, 0.15,,,,Interrupt,[304] nvidia,  609 uW
+2023-10-10 07:43:11,   1.7 us/s, 0.15,,,,kWork,free_work,  587 uW
+2023-10-10 07:43:11,   1.0 us/s, 0.15,,,,Process,[PID 14] [ksoftirqd/0],  586 uW
+2023-10-10 07:43:11, 328.3 us/s,,,,,Process,[PID 483] [kworker/31:1],  512 uW
+2023-10-10 07:43:11,  19.6 us/s, 0.10,,,,Interrupt,[4] block(softirq),  420 uW
+2023-10-10 07:43:11, 266.6 us/s,,,,,Interrupt,[9] RCU(softirq),  416 uW
+2023-10-10 07:43:11,   0.8 us/s, 0.10,,,,kWork,flush_to_ldisc,  391 uW
+2023-10-10 07:43:11,   0.3 us/s, 0.10,,,,kWork,blk_mq_timeout_work,  390 uW
+2023-10-10 07:43:11,   0.3 us/s, 0.10,,,,kWork,wb_update_bandwidth_workfn,  390 uW
+2023-10-10 07:43:11, 107.0 us/s, 0.05,,,,Process,[PID 120985] sh,  362 uW
+2023-10-10 07:43:11, 227.5 us/s,,,,,Process,[PID 88537] [kworker/6:1],  355 uW
+2023-10-10 07:43:11, 223.1 us/s,,,,,Timer,process_timeout,  348 uW
+2023-10-10 07:43:11, 211.9 us/s,,,,,Interrupt,[1] timer(softirq),  331 uW
+2023-10-10 07:43:11, 172.0 us/s,,,,,Process,[PID 109796] [kworker/7:1],  268 uW
+2023-10-10 07:43:11,  40.9 us/s, 0.05,,,,Process,[PID 93363] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083,  258 uW
+2023-10-10 07:43:11,  36.6 us/s, 0.05,,,,Process,[PID 1404] /sbin/multipathd -d -s ,  252 uW
+2023-10-10 07:43:11, 161.3 us/s,,,,,Process,[PID 120892] python3 monitor.py ,  252 uW
+2023-10-10 07:43:11, 161.2 us/s,,,,,Process,[PID 120983] sh,  252 uW
+2023-10-10 07:43:11,  28.3 us/s, 0.05,,,,Process,[PID 1400] /sbin/multipathd -d -s ,  239 uW
+2023-10-10 07:43:11, 148.5 us/s,,,,,Process,[PID 99788] [kworker/30:1],  232 uW
+2023-10-10 07:43:11, 144.7 us/s,,,,,Process,[PID 120890] python3 monitor.py ,  226 uW
+2023-10-10 07:43:11,  18.3 us/s, 0.05,,,,Process,[PID 363] [khugepaged],  223 uW
+2023-10-10 07:43:11,  16.9 us/s, 0.05,,,,Process,[PID 118719] /usr/libexec/fwupd/fwupd ,  221 uW
+2023-10-10 07:43:11, 141.1 us/s,,,,,Interrupt,[63] i40e-eno0-TxRx-18,  220 uW
+2023-10-10 07:43:11, 139.9 us/s,,,,,Process,[PID 104758] [kworker/32:2],  218 uW
+2023-10-10 07:43:11,  14.7 us/s, 0.05,,,,Process,[PID 93351] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083,  218 uW
+2023-10-10 07:43:11,   6.7 us/s, 0.05,,,,Process,[PID 34659] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  205 uW
+2023-10-10 07:43:11, 127.8 us/s,,,,,Process,[PID 120982] python3,  199 uW
+2023-10-10 07:43:11,   1.6 us/s, 0.05,,,,kWork,ext4_end_io_rsv_work,  197 uW
+2023-10-10 07:43:11,   0.6 us/s, 0.05,,,,Process,[PID 120986] kthreadd,  196 uW
+2023-10-10 07:43:11,   0.6 us/s, 0.05,,,,Process,[PID 120988] kthreadd,  196 uW
+2023-10-10 07:43:11,   0.5 us/s, 0.05,,,,Process,[PID 120989] kthreadd,  196 uW
+2023-10-10 07:43:11,   0.4 us/s, 0.05,,,,Process,[PID 126] [ksoftirqd/18],  195 uW
+2023-10-10 07:43:11,   0.4 us/s, 0.05,,,,kWork,neigh_periodic_work,  195 uW
+2023-10-10 07:43:11,   0.4 us/s, 0.05,,,,Process,[PID 120991] kthreadd,  195 uW
+2023-10-10 07:43:11,   0.3 us/s, 0.05,,,,Process,[PID 120987] kthreadd,  195 uW
+2023-10-10 07:43:11,   0.2 us/s, 0.05,,,,Process,[PID 120990] kthreadd,  195 uW
+2023-10-10 07:43:11, 120.3 us/s,,,,,Process,[PID 120984] python3,  188 uW
+2023-10-10 07:43:11, 114.7 us/s,,,,,Process,[PID 1737] /usr/bin/containerd ,  179 uW
+2023-10-10 07:43:11, 114.4 us/s,,,,,Timer,delayed_work_timer_fn,  179 uW
+2023-10-10 07:43:11, 103.5 us/s,,,,,Process,[PID 120566] [kworker/u113:0],  161 uW
+2023-10-10 07:43:11,  97.4 us/s,,,,,Process,[PID 103955] [kworker/48:1],  152 uW
+2023-10-10 07:43:11,  96.6 us/s,,,,,Process,[PID 88553] [kworker/1:0],  151 uW
+2023-10-10 07:43:11,  79.4 us/s,,,,,Process,[PID 119518] [kworker/16:2],  124 uW
+2023-10-10 07:43:11,  69.9 us/s,,,,,Process,[PID 105923] [kworker/20:2],  109 uW
+2023-10-10 07:43:11,  64.4 us/s,,,,,Process,[PID 539] [kworker/36:2],  100 uW
+2023-10-10 07:43:11,  63.5 us/s,,,,,Process,[PID 506] [kworker/2:2],    0 mW
+2023-10-10 07:43:11,  60.3 us/s,,,,,Process,[PID 117375] [kworker/45:0],    0 mW
+2023-10-10 07:43:11,  60.1 us/s,,,,,Process,[PID 78567] [kworker/11:1],    0 mW
+2023-10-10 07:43:11,  54.1 us/s,,,,,Process,[PID 109925] [kworker/24:0],    0 mW
+2023-10-10 07:43:11,  52.9 us/s,,,,,Process,[PID 105924] [kworker/3:1],    0 mW
+2023-10-10 07:43:11,  52.0 us/s,,,,,Process,[PID 107067] [kworker/50:1],    0 mW
+2023-10-10 07:43:11,  49.8 us/s,,,,,Process,[PID 537] [kworker/34:2],    0 mW
+2023-10-10 07:43:11,  47.2 us/s,,,,,Process,[PID 109944] [kworker/18:2],    0 mW
+2023-10-10 07:43:11,  43.3 us/s,,,,,Process,[PID 93201] sshd: icns@notty ,    0 mW
+2023-10-10 07:43:11,  43.3 us/s,,,,,Process,[PID 424] [kworker/29:1],    0 mW
+2023-10-10 07:43:11,  43.0 us/s,,,,,Process,[PID 106083] [kworker/22:1],    0 mW
+2023-10-10 07:43:11,  38.9 us/s,,,,,kWork,vmstat_shepherd,    0 mW
+2023-10-10 07:43:11,  35.9 us/s,,,,,Timer,cursor_timer_handler,    0 mW
+2023-10-10 07:43:34, 564.7 us/s,131.3,,,,kWork,dbs_work_handler,  520 mW
+2023-10-10 07:43:34,   1.9 ms/s,114.3,,,,Interrupt,[3] net_rx(softirq),  454 mW
+2023-10-10 07:43:34,   0.7 ms/s, 58.1,,,,Timer,tick_sched_timer,  231 mW
+2023-10-10 07:43:34,  84.7 ms/s, 0.10,,,,Process,[PID 121002] nvidia-smi,  132 mW
+2023-10-10 07:43:34, 113.9 us/s, 13.1,,,,Timer,watchdog_timer_fn, 52.0 mW
+2023-10-10 07:43:34, 483.9 us/s,  8.4,,,,Process,[PID 15] [rcu_sched], 34.1 mW
+2023-10-10 07:43:34, 141.6 us/s,  7.3,,,,kWork,psi_avgs_work, 29.1 mW
+2023-10-10 07:43:34,  12.1 ms/s,,,,,Process,[PID 120993] powertop --csv=powertop_output.csv , 18.9 mW
+2023-10-10 07:43:34,  35.5 us/s,  4.7,,,,kWork,fb_flashcursor, 18.6 mW
+2023-10-10 07:43:34,   3.7 ms/s,  3.0,,,,Process,[PID 84395] avahi-daemon: running [icns.local] , 17.4 mW
+2023-10-10 07:43:34,   7.5 us/s,  1.5,,,,kWork,lru_add_drain_per_cpu, 6.05 mW
+2023-10-10 07:43:34, 272.0 us/s,  1.3,,,,Process,[PID 1737] /usr/bin/containerd , 5.68 mW
+2023-10-10 07:43:34, 312.1 us/s,  1.1,,,,Process,[PID 1764] /usr/bin/containerd , 4.97 mW
+2023-10-10 07:43:34, 379.1 us/s,  1.0,,,,Process,[PID 1700] /usr/bin/containerd , 4.68 mW
+2023-10-10 07:43:34, 471.5 us/s,  1.0,,,,Process,[PID 121010] sensors, 4.63 mW
+2023-10-10 07:43:34,  16.1 us/s,  1.1,,,,Interrupt,[301] ahci[0000:00:17.0], 4.51 mW
+2023-10-10 07:43:34,  15.4 us/s,  1.0,,,,Timer,sched_rt_period_timer, 4.12 mW
+2023-10-10 07:43:34, 103.7 us/s,  1.0,,,,kWork,i40e_service_task, 4.06 mW
+2023-10-10 07:43:34,  11.6 us/s,  0.9,,,,kWork,pci_pme_list_scan, 3.72 mW
+2023-10-10 07:43:34,   0.9 ms/s,  0.4,,,,Process,[PID 93340] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node --dns-result-order=ipv4first /home/icns, 3.19 mW
+2023-10-10 07:43:34,   0.7 ms/s,  0.5,,,,Process,[PID 93364] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083, 3.09 mW
+2023-10-10 07:43:34,   1.4 ms/s, 0.05,,,,Interrupt,[7] sched(softirq), 2.36 mW
+2023-10-10 07:43:34,   1.1 ms/s, 0.15,,,,Process,[PID 121008] nv_queue, 2.25 mW
+2023-10-10 07:43:34,   1.1 ms/s, 0.15,,,,Process,[PID 121005] nv_queue, 2.25 mW
+2023-10-10 07:43:34, 189.3 us/s,  0.5,,,,Process,[PID 93276] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083, 2.24 mW
+2023-10-10 07:43:34,   4.4 us/s,  0.5,,,,kWork,blk_mq_requeue_work, 2.15 mW
+2023-10-10 07:43:34,  27.5 us/s,  0.5,,,,Interrupt,[4] block(softirq), 1.99 mW
+2023-10-10 07:43:34,  20.2 us/s,  0.4,,,,Process,[PID 360] [kcompactd0], 1.78 mW
+2023-10-10 07:43:34,  19.2 us/s,  0.4,,,,Interrupt,[303] nvidia, 1.59 mW
+2023-10-10 07:43:34,   1.0 ms/s,,,,,Process,[PID 1504] /usr/sbin/irqbalance --foreground , 1.52 mW
+2023-10-10 07:43:34, 177.4 us/s, 0.25,,,,Process,[PID 1738] /usr/bin/containerd , 1.25 mW
+2023-10-10 07:43:34,  83.4 us/s, 0.25,,,,Process,[PID 121006] irq/304-nvidia, 1.10 mW
+2023-10-10 07:43:34,  39.0 us/s, 0.25,,,,kWork,flush_memcg_stats_dwork, 1.04 mW
+2023-10-10 07:43:34,  19.3 us/s, 0.25,,,,Process,[PID 361] [kcompactd1], 1.00 mW
+2023-10-10 07:43:34,  16.4 us/s, 0.25,,,,Process,[PID 118719] /usr/libexec/fwupd/fwupd , 1.00 mW
+2023-10-10 07:43:34,   9.1 us/s, 0.25,,,,kWork,blk_mq_run_work_fn,  988 uW
+2023-10-10 07:43:34,   1.1 us/s, 0.25,,,,Process,[PID 126] [ksoftirqd/18],  976 uW
+2023-10-10 07:43:34,  82.8 us/s, 0.20,,,,Process,[PID 93456] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/extensions/th,  908 uW
+2023-10-10 07:43:34, 571.9 us/s,,,,,Timer,hrtimer_wakeup,  892 uW
+2023-10-10 07:43:34,  34.6 us/s, 0.20,,,,Process,[PID 880] [jbd2/sda2-8],  833 uW
+2023-10-10 07:43:34,   2.2 us/s, 0.20,,,,kWork,wb_workfn,  783 uW
+2023-10-10 07:43:34,  64.9 us/s, 0.15,,,,Process,[PID 121003] irq/303-nvidia,  686 uW
+2023-10-10 07:43:34,  40.5 us/s, 0.15,,,,Process,[PID 93363] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083,  648 uW
+2023-10-10 07:43:34, 407.2 us/s,,,,,Process,[PID 88278] [kworker/0:0],  635 uW
+2023-10-10 07:43:34,   4.0 us/s, 0.15,,,,Process,[PID 14] [ksoftirqd/0],  591 uW
+2023-10-10 07:43:34,   2.0 us/s, 0.15,,,,kWork,free_work,  588 uW
+2023-10-10 07:43:34,   0.4 us/s, 0.15,,,,kWork,blk_mq_timeout_work,  585 uW
+2023-10-10 07:43:34, 301.9 us/s,,,,,Process,[PID 105924] [kworker/3:1],  471 uW
+2023-10-10 07:43:34,  36.0 us/s, 0.10,,,,Process,[PID 1404] /sbin/multipathd -d -s ,  446 uW
+2023-10-10 07:43:34, 282.2 us/s,,,,,Process,[PID 88537] [kworker/6:1],  440 uW
+2023-10-10 07:43:34, 274.1 us/s,,,,,Interrupt,[9] RCU(softirq),  428 uW
+2023-10-10 07:43:34,  24.2 us/s, 0.10,,,,Process,[PID 93468] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/extensions/ms,  427 uW
+2023-10-10 07:43:34,  16.5 us/s, 0.10,,,,Process,[PID 118717] /usr/libexec/fwupd/fwupd ,  415 uW
+2023-10-10 07:43:34,  14.9 us/s, 0.10,,,,Interrupt,[304] nvidia,  413 uW
+2023-10-10 07:43:34, 128.6 us/s, 0.05,,,,Process,[PID 121001] python3,  395 uW
+2023-10-10 07:43:34,   0.9 us/s, 0.10,,,,kWork,flush_to_ldisc,  391 uW
+2023-10-10 07:43:34,   0.3 us/s, 0.10,,,,kWork,neigh_periodic_work,  390 uW
+2023-10-10 07:43:34, 231.9 us/s,,,,,Timer,process_timeout,  362 uW
+2023-10-10 07:43:34, 206.7 us/s,,,,,Interrupt,[1] timer(softirq),  322 uW
+2023-10-10 07:43:34, 174.2 us/s,,,,,Process,[PID 120892] python3 monitor.py ,  272 uW
+2023-10-10 07:43:34, 166.5 us/s,,,,,Process,[PID 104758] [kworker/32:2],  260 uW
+2023-10-10 07:43:34,  33.2 us/s, 0.05,,,,Process,[PID 1400] /sbin/multipathd -d -s ,  247 uW
+2023-10-10 07:43:34,  25.7 us/s, 0.05,,,,Timer,mix_interrupt_randomness,  235 uW
+2023-10-10 07:43:34,  24.1 us/s, 0.05,,,,Process,[PID 1484] /usr/lib/accountsservice/accounts-daemon ,  232 uW
+2023-10-10 07:43:34, 141.2 us/s,,,,,Interrupt,[63] i40e-eno0-TxRx-18,  220 uW
+2023-10-10 07:43:34,  15.5 us/s, 0.05,,,,Process,[PID 363] [khugepaged],  219 uW
+2023-10-10 07:43:34,  14.2 us/s, 0.05,,,,Process,[PID 93351] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083,  217 uW
+2023-10-10 07:43:34,  12.8 us/s, 0.05,,,,Process,[PID 121009] sh,  215 uW
+2023-10-10 07:43:34, 132.2 us/s,,,,,Process,[PID 88553] [kworker/1:0],  206 uW
+2023-10-10 07:43:34, 129.1 us/s,,,,,Process,[PID 120890] python3 monitor.py ,  201 uW
+2023-10-10 07:43:34,   3.5 us/s, 0.05,,,,Process,[PID 84006] /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant ,  200 uW
+2023-10-10 07:43:34,   2.2 us/s, 0.05,,,,kWork,ext4_end_io_rsv_work,  198 uW
+2023-10-10 07:43:34,   0.9 us/s, 0.05,,,,Process,[PID 138] [ksoftirqd/20],  196 uW
+2023-10-10 07:43:34,   0.8 us/s, 0.05,,,,Timer,tcp_orphan_update,  196 uW
+2023-10-10 07:43:34,   0.6 us/s, 0.05,,,,Process,[PID 121003] kthreadd,  196 uW
+2023-10-10 07:43:34,   0.6 us/s, 0.05,,,,Process,[PID 121005] kthreadd,  196 uW
+2023-10-10 07:43:34,   0.5 us/s, 0.05,,,,Process,[PID 121006] kthreadd,  196 uW
+2023-10-10 07:43:34,   0.5 us/s, 0.05,,,,Process,[PID 35] [ksoftirqd/3],  196 uW
+2023-10-10 07:43:34,   0.4 us/s, 0.05,,,,Process,[PID 121008] kthreadd,  195 uW
+2023-10-10 07:43:34,   0.3 us/s, 0.05,,,,Process,[PID 121007] kthreadd,  195 uW
+2023-10-10 07:43:34,   0.3 us/s, 0.05,,,,Process,[PID 121004] kthreadd,  195 uW
+2023-10-10 07:43:34,   0.1 us/s, 0.05,,,,kWork,irq_affinity_notify,  195 uW
+2023-10-10 07:43:34,   0.1 us/s, 0.05,,,,kWork,wb_update_bandwidth_workfn,  195 uW
+2023-10-10 07:43:34, 124.0 us/s,,,,,Process,[PID 121009] python3,  194 uW
+2023-10-10 07:43:34, 114.1 us/s,,,,,Timer,delayed_work_timer_fn,  178 uW
+2023-10-10 07:43:34,  97.9 us/s,,,,,Process,[PID 483] [kworker/31:1],  153 uW
+2023-10-10 07:43:34,  80.5 us/s,,,,,Process,[PID 109796] [kworker/7:1],  126 uW
+2023-10-10 07:43:34,  75.5 us/s,,,,,Process,[PID 539] [kworker/36:2],  118 uW
+2023-10-10 07:43:34,  72.0 us/s,,,,,Process,[PID 121010] sh,  112 uW
+2023-10-10 07:43:34,  68.8 us/s,,,,,Process,[PID 105251] [kworker/39:2],  107 uW
+2023-10-10 07:43:34,  66.8 us/s,,,,,Process,[PID 543] [kworker/40:2],  104 uW
+2023-10-10 07:43:34,  62.2 us/s,,,,,Process,[PID 105923] [kworker/20:2],    0 mW
+2023-10-10 07:43:34,  59.8 us/s,,,,,Process,[PID 117375] [kworker/45:0],    0 mW
+2023-10-10 07:43:34,  59.1 us/s,,,,,Process,[PID 506] [kworker/2:2],    0 mW
+2023-10-10 07:43:34,  57.3 us/s,,,,,Process,[PID 88536] [kworker/4:0],    0 mW
+2023-10-10 07:43:34,  52.2 us/s,,,,,Process,[PID 120566] [kworker/u113:0],    0 mW
+2023-10-10 07:43:34,  49.0 us/s,,,,,Process,[PID 109925] [kworker/24:0],    0 mW
+2023-10-10 07:43:34,  48.4 us/s,,,,,Process,[PID 103955] [kworker/48:1],    0 mW
+2023-10-10 07:43:34,  48.1 us/s,,,,,Process,[PID 537] [kworker/34:2],    0 mW
+2023-10-10 07:43:34,  44.8 us/s,,,,,Process,[PID 121002] sh,    0 mW
+2023-10-10 07:43:58, 630.7 us/s,153.3,,,,kWork,dbs_work_handler,  607 mW
+2023-10-10 07:43:58,   2.7 ms/s,145.3,,,,Interrupt,[3] net_rx(softirq),  578 mW
+2023-10-10 07:43:58,   0.8 ms/s, 65.0,,,,Timer,tick_sched_timer,  258 mW
+2023-10-10 07:43:58,  83.8 ms/s, 0.15,,,,Process,[PID 121019] nvidia-smi,  131 mW
+2023-10-10 07:43:58, 114.4 us/s, 12.6,,,,Timer,watchdog_timer_fn, 49.9 mW
+2023-10-10 07:43:58,   7.8 ms/s,  7.1,,,,Process,[PID 84395] avahi-daemon: running [icns.local] , 40.2 mW
+2023-10-10 07:43:58, 467.9 us/s,  9.0,,,,Process,[PID 15] [rcu_sched], 36.4 mW
+2023-10-10 07:43:58, 141.0 us/s,  7.1,,,,kWork,psi_avgs_work, 28.4 mW
+2023-10-10 07:43:58,  14.0 ms/s, 0.05,,,,Process,[PID 121012] powertop --csv=powertop_output.csv , 22.0 mW
+2023-10-10 07:43:58,  39.6 us/s,  2.9,,,,kWork,fb_flashcursor, 11.7 mW
+2023-10-10 07:43:58, 457.2 us/s,  1.7,,,,Process,[PID 1737] /usr/bin/containerd , 7.51 mW
+2023-10-10 07:43:58, 384.7 us/s,  1.5,,,,Process,[PID 121027] sensors, 6.62 mW
+2023-10-10 07:43:58, 685.5 us/s,  1.2,,,,Process,[PID 93364] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083, 5.73 mW
+2023-10-10 07:43:58,   6.6 us/s,  1.3,,,,kWork,lru_add_drain_per_cpu, 5.25 mW
+2023-10-10 07:43:58, 379.0 us/s,  1.1,,,,Process,[PID 1738] /usr/bin/containerd , 4.86 mW
+2023-10-10 07:43:58,   2.8 ms/s,,,,,Process,[PID 52] [migration/6], 4.39 mW
+2023-10-10 07:43:58,  14.4 us/s,  1.0,,,,Timer,sched_rt_period_timer, 3.90 mW
+2023-10-10 07:43:58,  95.2 us/s,  0.9,,,,kWork,i40e_service_task, 3.84 mW
+2023-10-10 07:43:58,  11.6 us/s,  0.9,,,,kWork,pci_pme_list_scan, 3.71 mW
+2023-10-10 07:43:58,   1.1 ms/s,  0.5,,,,Process,[PID 93340] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node --dns-result-order=ipv4first /home/icns, 3.64 mW
+2023-10-10 07:43:58, 393.0 us/s,  0.6,,,,Process,[PID 1700] /usr/bin/containerd , 2.94 mW
+2023-10-10 07:43:58, 208.8 us/s,  0.6,,,,Process,[PID 93276] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083, 2.85 mW
+2023-10-10 07:43:58,   1.6 ms/s,,,,,Interrupt,[7] sched(softirq), 2.43 mW
+2023-10-10 07:43:58,  18.8 us/s,  0.5,,,,Process,[PID 360] [kcompactd0], 2.16 mW
+2023-10-10 07:43:58,   1.1 ms/s, 0.10,,,,Process,[PID 121025] nv_queue, 2.13 mW
+2023-10-10 07:43:58,   0.9 ms/s, 0.15,,,,Process,[PID 121022] nv_queue, 2.02 mW
+2023-10-10 07:43:58,  17.0 us/s,  0.5,,,,Interrupt,[4] block(softirq), 1.97 mW
+2023-10-10 07:43:58, 681.3 us/s, 0.15,,,,Timer,hrtimer_wakeup, 1.65 mW
+2023-10-10 07:43:58, 293.6 us/s, 0.29,,,,Process,[PID 1764] /usr/bin/containerd , 1.62 mW
+2023-10-10 07:43:58,   4.7 us/s,  0.4,,,,kWork,blk_mq_requeue_work, 1.56 mW
+2023-10-10 07:43:58,   1.0 ms/s,,,,,Process,[PID 1504] /usr/sbin/irqbalance --foreground , 1.51 mW
+2023-10-10 07:43:58,  18.8 us/s,  0.3,,,,Interrupt,[303] nvidia, 1.39 mW
+2023-10-10 07:43:58, 579.4 us/s, 0.05,,,,kWork,gc_worker, 1.10 mW
+2023-10-10 07:43:58,   2.6 us/s, 0.25,,,,kWork,free_work,  975 uW
+2023-10-10 07:43:58,  86.5 us/s, 0.20,,,,Process,[PID 121023] irq/304-nvidia,  911 uW
+2023-10-10 07:43:58,  64.2 us/s, 0.20,,,,Process,[PID 121020] irq/303-nvidia,  877 uW
+2023-10-10 07:43:58,  22.0 us/s, 0.20,,,,kWork,wb_workfn,  811 uW
+2023-10-10 07:43:58,  19.3 us/s, 0.20,,,,Process,[PID 361] [kcompactd1],  806 uW
+2023-10-10 07:43:58,  17.1 us/s, 0.20,,,,Interrupt,[304] nvidia,  803 uW
+2023-10-10 07:43:58, 495.1 us/s,,,,,Process,[PID 88278] [kworker/0:0],  772 uW
+2023-10-10 07:43:58,  91.1 us/s, 0.15,,,,Process,[PID 93456] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/extensions/th,  724 uW
+2023-10-10 07:43:58,  38.0 us/s, 0.15,,,,kWork,flush_memcg_stats_dwork,  641 uW
+2023-10-10 07:43:58,  36.5 us/s, 0.15,,,,Process,[PID 1404] /sbin/multipathd -d -s ,  639 uW
+2023-10-10 07:43:58,  20.2 us/s, 0.15,,,,Process,[PID 118717] /usr/libexec/fwupd/fwupd ,  614 uW
+2023-10-10 07:43:58,   0.4 us/s, 0.15,,,,kWork,blk_mq_timeout_work,  583 uW
+2023-10-10 07:43:58, 317.3 us/s,,,,,Interrupt,[9] RCU(softirq),  495 uW
+2023-10-10 07:43:58, 181.3 us/s, 0.05,,,,Process,[PID 121027] sh,  477 uW
+2023-10-10 07:43:58,  40.3 us/s, 0.10,,,,Process,[PID 93363] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083,  451 uW
+2023-10-10 07:43:58,  29.3 us/s, 0.10,,,,Process,[PID 93468] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/extensions/ms,  434 uW
+2023-10-10 07:43:58,  13.1 us/s, 0.10,,,,Process,[PID 363] [khugepaged],  409 uW
+2023-10-10 07:43:58,   6.9 us/s, 0.10,,,,Interrupt,[301] ahci[0000:00:17.0],  399 uW
+2023-10-10 07:43:58,   3.5 us/s, 0.10,,,,kWork,ext4_end_io_rsv_work,  394 uW
+2023-10-10 07:43:58,   1.0 us/s, 0.10,,,,Process,[PID 14] [ksoftirqd/0],  390 uW
+2023-10-10 07:43:58,   0.9 us/s, 0.10,,,,kWork,flush_to_ldisc,  390 uW
+2023-10-10 07:43:58,   0.2 us/s, 0.10,,,,kWork,wb_update_bandwidth_workfn,  388 uW
+2023-10-10 07:43:58, 227.8 us/s,,,,,Timer,process_timeout,  355 uW
+2023-10-10 07:43:58, 226.5 us/s,,,,,Process,[PID 104758] [kworker/32:2],  353 uW
+2023-10-10 07:43:58, 214.8 us/s,,,,,Interrupt,[1] timer(softirq),  335 uW
+2023-10-10 07:43:58, 208.8 us/s,,,,,Process,[PID 99788] [kworker/30:1],  326 uW
+2023-10-10 07:43:58, 177.3 us/s,,,,,Process,[PID 120892] python3 monitor.py ,  277 uW
+2023-10-10 07:43:58, 170.5 us/s,,,,,Process,[PID 88537] [kworker/6:1],  266 uW
+2023-10-10 07:43:58, 153.6 us/s,,,,,Interrupt,[63] i40e-eno0-TxRx-18,  240 uW
+2023-10-10 07:43:58, 151.7 us/s,,,,,Process,[PID 88536] [kworker/4:0],  237 uW
+2023-10-10 07:43:58,  17.6 us/s, 0.05,,,,Process,[PID 34674] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  221 uW
+2023-10-10 07:43:58, 140.9 us/s,,,,,Process,[PID 35326] [kworker/38:0],  220 uW
+2023-10-10 07:43:58,  14.5 us/s, 0.05,,,,Process,[PID 1484] /usr/lib/accountsservice/accounts-daemon ,  217 uW
+2023-10-10 07:43:58,  13.8 us/s, 0.05,,,,Process,[PID 93351] /home/icns/.vscode-server/bin/e7e037083ff4455cf320e344325dacb480062c3c/node /home/icns/.vscode-server/bin/e7e037083,  216 uW
+2023-10-10 07:43:58, 137.2 us/s,,,,,Process,[PID 88553] [kworker/1:0],  214 uW
+2023-10-10 07:43:58,   9.0 us/s, 0.05,,,,Process,[PID 1527] /lib/systemd/systemd-logind ,  208 uW
+2023-10-10 07:43:58, 131.1 us/s,,,,,Process,[PID 120890] python3 monitor.py ,  205 uW
+2023-10-10 07:43:58, 130.2 us/s,,,,,Process,[PID 121018] python3,  203 uW
+2023-10-10 07:43:58,   5.1 us/s, 0.05,,,,Process,[PID 1401] /sbin/multipathd -d -s ,  202 uW
+2023-10-10 07:43:58,   4.6 us/s, 0.05,,,,Timer,tcp_orphan_update,  201 uW
+2023-10-10 07:43:58,   3.5 us/s, 0.05,,,,Process,[PID 84006] /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant ,  199 uW
+2023-10-10 07:43:58,   2.1 us/s, 0.05,,,,Process,[PID 288] [ksoftirqd/45],  197 uW
+2023-10-10 07:43:58,   0.6 us/s, 0.05,,,,Process,[PID 121020] kthreadd,  195 uW
+2023-10-10 07:43:58,   0.6 us/s, 0.05,,,,Process,[PID 121022] kthreadd,  195 uW
+2023-10-10 07:43:58,   0.5 us/s, 0.05,,,,Process,[PID 121023] kthreadd,  195 uW
+2023-10-10 07:43:58,   0.5 us/s, 0.05,,,,Process,[PID 65] [ksoftirqd/8],  195 uW
+2023-10-10 07:43:58,   0.4 us/s, 0.05,,,,kWork,check_lifetime,  195 uW
+2023-10-10 07:43:58,   0.4 us/s, 0.05,,,,kWork,neigh_periodic_work,  195 uW
+2023-10-10 07:43:58, 124.7 us/s,,,,,Process,[PID 109993] [kworker/15:0],  195 uW
+2023-10-10 07:43:58,   0.3 us/s, 0.05,,,,Process,[PID 121021] kthreadd,  194 uW
+2023-10-10 07:43:58,   0.2 us/s, 0.05,,,,Process,[PID 121024] kthreadd,  194 uW
+2023-10-10 07:43:58, 114.6 us/s,,,,,Timer,delayed_work_timer_fn,  179 uW
+2023-10-10 07:43:58, 113.5 us/s,,,,,Process,[PID 121026] python3,  177 uW
+2023-10-10 07:43:58, 100.7 us/s,,,,,Process,[PID 1741] /usr/bin/containerd ,  157 uW
+2023-10-10 07:43:58,  95.0 us/s,,,,,Process,[PID 1762] /usr/bin/containerd ,  148 uW
+2023-10-10 07:43:58,  93.9 us/s,,,,,Process,[PID 1761] /usr/bin/containerd ,  147 uW
+2023-10-10 07:43:58,  91.1 us/s,,,,,Process,[PID 106876] [kworker/26:1],  142 uW
+2023-10-10 07:43:58,  88.7 us/s,,,,,Process,[PID 18502] /usr/bin/containerd ,  138 uW
+2023-10-10 07:43:58,  85.7 us/s,,,,,Process,[PID 1740] /usr/bin/containerd ,  134 uW
+2023-10-10 07:43:58,  81.0 us/s,,,,,Process,[PID 118036] [kworker/5:1],  126 uW
+2023-10-10 07:43:58,  79.2 us/s,,,,,Process,[PID 1701] /usr/bin/containerd ,  124 uW
+2023-10-10 07:43:58,  77.5 us/s,,,,,Process,[PID 121019] sh,  121 uW
+2023-10-10 07:43:58,  74.5 us/s,,,,,Process,[PID 1767] /usr/bin/containerd ,  116 uW
+2023-10-10 07:43:58,  74.3 us/s,,,,,Process,[PID 1744] /usr/bin/containerd ,  116 uW
+2023-10-10 07:43:58,  70.7 us/s,,,,,Process,[PID 105923] [kworker/20:2],  110 uW
+2023-10-10 07:43:58,  70.0 us/s,,,,,Process,[PID 1763] /usr/bin/containerd ,  109 uW
+2023-10-10 07:43:58,  66.6 us/s,,,,,Process,[PID 1739] /usr/bin/containerd ,  104 uW
