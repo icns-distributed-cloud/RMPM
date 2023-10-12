@@ -2,7 +2,7 @@ import subprocess
 import csv
 import os
 import time
-import threading
+import multiprocessing
 from datetime import datetime
 import sys
 
@@ -30,7 +30,7 @@ def collect_cpu_temperature():
             time.sleep(20)
         except KeyboardInterrupt:
             temperature_file.close()
-            
+            return
 # 두 번째 프로그램: Powertop 실행 및 결과 저장
 def run_powertop():
     flag = 0x000
@@ -135,17 +135,16 @@ def add_timestamp(line):
 # 프로그램 실행
 if __name__ == "__main__":
     # 스레드 생성
-    thread1 = threading.Thread(target=collect_cpu_temperature)
-    thread2 = threading.Thread(target=run_powertop)
-    thread3 = threading.Thread(target=collect_gpu_power)
+    process1 = multiprocessing.Process(target=collect_cpu_temperature)
+    process2 = multiprocessing.Process(target=run_powertop)
+    process3 = multiprocessing.Process(target=collect_gpu_power)
 
-    # 스레드 시작
-    thread1.start()
-    thread2.start()
-    thread3.start()
+    # 프로세스 시작
+    process1.start()
+    process2.start()
+    process3.start()
 
-    # 스레드 종료 대기
-    thread1.join()
-    thread2.join()
-    thread3.join()
-
+    # 프로세스 종료 대기
+    process1.join()
+    process2.join()
+    process3.join()
