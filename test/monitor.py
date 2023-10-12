@@ -13,7 +13,6 @@ os.makedirs("result/csv_files", exist_ok=True)
 # 첫 번째 프로그램: CPU 온도 정보 수집
 def collect_cpu_temperature():
 
-    temperature_file=open("./result/text_files/temperature.txt","a",encoding="utf-8-sig")
  
     cnt=1
     while True:
@@ -26,7 +25,8 @@ def collect_cpu_temperature():
             
             # sensors_output을 문자열로 변환하여 temperature_file에 쓰기
             sensors_output_str = sensors_output.decode("utf-8")
-            temperature_file.write(sensors_output_str)
+            with open("./result/text_files/temperature.txt","a",encoding="utf-8-sig") as temperature_file:
+                temperature_file.write(sensors_output_str)
             time.sleep(20)
         except KeyboardInterrupt:
             temperature_file.close()
