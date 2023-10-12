@@ -1,0 +1,311 @@
+Date-Time,Usage,Events/s,Category,Description,PW Estimate
+2023-10-12 15:40:25,   0.2%,405.4,kWork,dbs_work_handler,  1.60 W
+2023-10-12 15:40:25,   0.2%,199.6,Timer,tick_sched_timer,  791 mW
+2023-10-12 15:40:25,   0.2%, 99.7,Interrupt,[3] net_rx(softirq),  397 mW
+2023-10-12 15:40:25,   0.1%, 66.0,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  262 mW
+2023-10-12 15:40:25,   0.1%, 52.6,Process,[PID 1302] /usr/bin/containerd ,  209 mW
+2023-10-12 15:40:25,   0.0%, 19.3,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 76.6 mW
+2023-10-12 15:40:25,   0.0%, 18.6,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 73.7 mW
+2023-10-12 15:40:25,   0.0%, 18.2,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 71.9 mW
+2023-10-12 15:40:25,   0.0%, 17.9,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 70.8 mW
+2023-10-12 15:40:25,   0.0%, 17.5,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 69.4 mW
+2023-10-12 15:40:48,   0.2%,452.2,kWork,dbs_work_handler,  1.79 W
+2023-10-12 15:40:48,   0.2%,260.4,Timer,tick_sched_timer,  1.03 W
+2023-10-12 15:40:48,   0.4%,177.2,Interrupt,[3] net_rx(softirq),  706 mW
+2023-10-12 15:40:48,   0.1%, 62.9,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  250 mW
+2023-10-12 15:40:48,   0.1%, 56.5,Process,[PID 1302] /usr/bin/containerd ,  224 mW
+2023-10-12 15:40:48,   0.0%, 28.9,Process,[PID 1296] /usr/local/bin/node_exporter ,  115 mW
+2023-10-12 15:40:48,   1.1%, 19.1,Process,[PID 1195] avahi-daemon: running [sunserver.local] , 92.9 mW
+2023-10-12 15:40:48,   0.0%, 19.4,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 77.0 mW
+2023-10-12 15:40:48,   0.0%, 19.4,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 76.9 mW
+2023-10-12 15:40:48,   0.0%, 18.7,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 74.1 mW
+2023-10-12 15:41:11,   0.2%,415.9,kWork,dbs_work_handler,  1.65 W
+2023-10-12 15:41:11,   0.2%,209.6,Timer,tick_sched_timer,  831 mW
+2023-10-12 15:41:11,   0.2%,113.9,Interrupt,[3] net_rx(softirq),  453 mW
+2023-10-12 15:41:11,   0.1%, 65.4,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  259 mW
+2023-10-12 15:41:11,   0.1%, 49.2,Process,[PID 1302] /usr/bin/containerd ,  195 mW
+2023-10-12 15:41:11,   0.0%, 19.1,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 75.8 mW
+2023-10-12 15:41:11,   0.0%, 17.9,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 71.2 mW
+2023-10-12 15:41:11,   0.0%, 17.6,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 69.7 mW
+2023-10-12 15:41:11,   0.0%, 17.5,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 69.3 mW
+2023-10-12 15:41:11,   0.0%, 16.5,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 65.2 mW
+2023-10-12 15:41:35,   0.2%,450.6,kWork,dbs_work_handler,  1.78 W
+2023-10-12 15:41:35,   0.2%,249.5,Timer,tick_sched_timer,  989 mW
+2023-10-12 15:41:35,   0.3%,149.8,Interrupt,[3] net_rx(softirq),  597 mW
+2023-10-12 15:41:35,   0.1%, 66.8,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  265 mW
+2023-10-12 15:41:35,   0.1%, 52.8,Process,[PID 1302] /usr/bin/containerd ,  209 mW
+2023-10-12 15:41:35,   0.9%, 26.8,Process,[PID 1195] avahi-daemon: running [sunserver.local] ,  120 mW
+2023-10-12 15:41:35,   0.0%, 18.3,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 72.7 mW
+2023-10-12 15:41:35,   0.0%, 18.0,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 71.5 mW
+2023-10-12 15:41:35,   0.0%, 17.2,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 68.3 mW
+2023-10-12 15:41:35,   0.0%, 16.9,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 67.0 mW
+2023-10-12 15:41:58,   0.2%,430.0,kWork,dbs_work_handler,  1.70 W
+2023-10-12 15:41:58,   0.2%,224.1,Timer,tick_sched_timer,  888 mW
+2023-10-12 15:41:58,   0.2%,113.4,Interrupt,[3] net_rx(softirq),  451 mW
+2023-10-12 15:41:58,   0.1%, 67.6,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  268 mW
+2023-10-12 15:41:58,   0.1%, 56.9,Process,[PID 1302] /usr/bin/containerd ,  226 mW
+2023-10-12 15:41:58,   0.0%, 18.5,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 73.3 mW
+2023-10-12 15:41:58,   0.0%, 18.2,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 72.0 mW
+2023-10-12 15:41:58,   0.0%, 17.6,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 69.6 mW
+2023-10-12 15:41:58,   0.0%, 17.6,Process,[PID 1296] /usr/local/bin/node_exporter , 69.5 mW
+2023-10-12 15:41:58,   0.0%, 16.9,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 67.0 mW
+2023-10-12 15:42:21,   0.2%,416.8,kWork,dbs_work_handler,  1.65 W
+2023-10-12 15:42:21,   0.2%,215.8,Timer,tick_sched_timer,  855 mW
+2023-10-12 15:42:21,   0.2%,110.0,Interrupt,[3] net_rx(softirq),  438 mW
+2023-10-12 15:42:21,   0.1%, 63.7,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  253 mW
+2023-10-12 15:42:21,   0.1%, 51.5,Process,[PID 1302] /usr/bin/containerd ,  204 mW
+2023-10-12 15:42:21,   0.0%, 21.1,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 83.7 mW
+2023-10-12 15:42:21,   0.0%, 17.5,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 69.3 mW
+2023-10-12 15:42:21,   0.0%, 17.0,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 67.4 mW
+2023-10-12 15:42:21,   0.0%, 16.5,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 65.2 mW
+2023-10-12 15:42:21,   0.0%, 16.1,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 63.9 mW
+2023-10-12 15:42:44,   0.2%,424.2,kWork,dbs_work_handler,  1.68 W
+2023-10-12 15:42:44,   0.2%,211.4,Timer,tick_sched_timer,  838 mW
+2023-10-12 15:42:44,   0.2%,100.6,Interrupt,[3] net_rx(softirq),  400 mW
+2023-10-12 15:42:44,   0.1%, 64.9,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  257 mW
+2023-10-12 15:42:44,   0.1%, 52.4,Process,[PID 1302] /usr/bin/containerd ,  208 mW
+2023-10-12 15:42:44,   0.0%, 20.2,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 80.2 mW
+2023-10-12 15:42:44,   0.0%, 19.9,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 79.0 mW
+2023-10-12 15:42:44,   0.0%, 19.2,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 76.1 mW
+2023-10-12 15:42:44,   0.0%, 19.0,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 75.4 mW
+2023-10-12 15:42:44,   0.0%, 18.9,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 74.9 mW
+2023-10-12 15:43:08,   0.2%,420.1,kWork,dbs_work_handler,  1.66 W
+2023-10-12 15:43:08,   0.2%,218.5,Timer,tick_sched_timer,  866 mW
+2023-10-12 15:43:08,   0.2%,109.0,Interrupt,[3] net_rx(softirq),  434 mW
+2023-10-12 15:43:08,   0.1%, 64.0,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  254 mW
+2023-10-12 15:43:08,   0.1%, 53.0,Process,[PID 1302] /usr/bin/containerd ,  210 mW
+2023-10-12 15:43:08,   0.0%, 20.2,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 79.9 mW
+2023-10-12 15:43:08,   0.0%, 19.4,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 77.0 mW
+2023-10-12 15:43:08,   0.0%, 19.2,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 76.1 mW
+2023-10-12 15:43:08,   0.0%, 18.8,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 74.7 mW
+2023-10-12 15:43:08,   0.0%, 17.6,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 69.9 mW
+2023-10-12 15:43:31,   0.2%,450.3,kWork,dbs_work_handler,  1.78 W
+2023-10-12 15:43:31,   0.2%,237.3,Timer,tick_sched_timer,  941 mW
+2023-10-12 15:43:31,   0.2%,110.5,Interrupt,[3] net_rx(softirq),  440 mW
+2023-10-12 15:43:31,   0.1%, 66.7,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  264 mW
+2023-10-12 15:43:31,   0.1%, 57.0,Process,[PID 1302] /usr/bin/containerd ,  226 mW
+2023-10-12 15:43:31,   0.0%, 30.7,Process,[PID 1296] /usr/local/bin/node_exporter ,  122 mW
+2023-10-12 15:43:31,   0.0%, 19.9,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 78.8 mW
+2023-10-12 15:43:31,   0.0%, 18.7,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 74.1 mW
+2023-10-12 15:43:31,   0.0%, 18.6,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 73.7 mW
+2023-10-12 15:43:31,   0.0%, 18.4,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 72.9 mW
+2023-10-12 15:43:55,   0.2%,417.3,kWork,dbs_work_handler,  1.65 W
+2023-10-12 15:43:55,   0.2%,220.1,Timer,tick_sched_timer,  872 mW
+2023-10-12 15:43:55,   0.2%,128.9,Interrupt,[3] net_rx(softirq),  513 mW
+2023-10-12 15:43:55,   0.1%, 68.9,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  273 mW
+2023-10-12 15:43:55,   0.1%, 52.1,Process,[PID 1302] /usr/bin/containerd ,  207 mW
+2023-10-12 15:43:55,   0.0%, 19.0,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 75.1 mW
+2023-10-12 15:43:55,   0.0%, 18.2,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 72.0 mW
+2023-10-12 15:43:55,   0.0%, 18.0,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 71.2 mW
+2023-10-12 15:43:55,   0.0%, 17.6,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 69.8 mW
+2023-10-12 15:43:55,   0.0%, 17.5,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 69.4 mW
+2023-10-12 15:44:18,   0.2%,452.9,kWork,dbs_work_handler,  1.79 W
+2023-10-12 15:44:18,   0.2%,239.1,Timer,tick_sched_timer,  948 mW
+2023-10-12 15:44:18,   0.2%,125.1,Interrupt,[3] net_rx(softirq),  498 mW
+2023-10-12 15:44:18,   0.1%, 71.5,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  283 mW
+2023-10-12 15:44:18,   0.1%, 55.2,Process,[PID 1302] /usr/bin/containerd ,  219 mW
+2023-10-12 15:44:18,   0.0%, 24.7,Process,[PID 1296] /usr/local/bin/node_exporter , 97.7 mW
+2023-10-12 15:44:18,   0.0%, 19.4,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 76.8 mW
+2023-10-12 15:44:18,   0.0%, 19.3,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 76.4 mW
+2023-10-12 15:44:18,   0.0%, 18.2,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 72.2 mW
+2023-10-12 15:44:18,   0.0%, 18.1,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 71.7 mW
+2023-10-12 15:44:41,   0.2%,430.1,kWork,dbs_work_handler,  1.70 W
+2023-10-12 15:44:41,   0.2%,234.9,Timer,tick_sched_timer,  931 mW
+2023-10-12 15:44:41,   0.2%,108.0,Interrupt,[3] net_rx(softirq),  430 mW
+2023-10-12 15:44:41,   0.1%, 70.7,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  280 mW
+2023-10-12 15:44:41,   0.1%, 55.2,Process,[PID 1302] /usr/bin/containerd ,  219 mW
+2023-10-12 15:44:41,   0.0%, 20.3,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 80.6 mW
+2023-10-12 15:44:41,   0.0%, 20.3,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 80.4 mW
+2023-10-12 15:44:41,   0.0%, 19.7,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 78.3 mW
+2023-10-12 15:44:41,   0.0%, 19.2,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 76.1 mW
+2023-10-12 15:44:41,   0.0%, 18.9,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 74.9 mW
+2023-10-12 15:45:05,   0.2%,447.7,kWork,dbs_work_handler,  1.77 W
+2023-10-12 15:45:05,   0.2%,248.5,Timer,tick_sched_timer,  985 mW
+2023-10-12 15:45:05,   0.2%,123.2,Interrupt,[3] net_rx(softirq),  490 mW
+2023-10-12 15:45:05,   0.1%, 64.8,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  257 mW
+2023-10-12 15:45:05,   0.1%, 53.7,Process,[PID 1302] /usr/bin/containerd ,  213 mW
+2023-10-12 15:45:05,   0.0%, 23.9,Process,[PID 1296] /usr/local/bin/node_exporter , 94.8 mW
+2023-10-12 15:45:05,   0.0%, 20.7,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 82.0 mW
+2023-10-12 15:45:05,   0.0%, 19.1,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 75.6 mW
+2023-10-12 15:45:05,   0.0%, 18.9,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 75.0 mW
+2023-10-12 15:45:05,   0.0%, 18.9,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 74.8 mW
+2023-10-12 15:45:28,   0.2%,440.2,kWork,dbs_work_handler,  1.74 W
+2023-10-12 15:45:28,   0.2%,228.8,Timer,tick_sched_timer,  907 mW
+2023-10-12 15:45:28,   0.3%,137.1,Interrupt,[3] net_rx(softirq),  546 mW
+2023-10-12 15:45:28,   0.1%, 70.3,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  279 mW
+2023-10-12 15:45:28,   0.1%, 54.5,Process,[PID 1302] /usr/bin/containerd ,  216 mW
+2023-10-12 15:45:28,   0.0%, 20.0,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 79.2 mW
+2023-10-12 15:45:28,   0.0%, 19.0,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 75.3 mW
+2023-10-12 15:45:28,   0.0%, 18.9,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 74.9 mW
+2023-10-12 15:45:28,   0.0%, 17.5,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 69.4 mW
+2023-10-12 15:45:28,   0.0%, 17.1,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 67.8 mW
+2023-10-12 15:45:52,   0.2%,435.8,kWork,dbs_work_handler,  1.72 W
+2023-10-12 15:45:52,   0.2%,233.0,Timer,tick_sched_timer,  923 mW
+2023-10-12 15:45:52,   0.3%,139.5,Interrupt,[3] net_rx(softirq),  556 mW
+2023-10-12 15:45:52,   0.1%, 65.5,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  260 mW
+2023-10-12 15:45:52,   0.1%, 55.3,Process,[PID 1302] /usr/bin/containerd ,  220 mW
+2023-10-12 15:45:52,   0.0%, 20.0,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 79.2 mW
+2023-10-12 15:45:52,   0.0%, 19.8,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 78.6 mW
+2023-10-12 15:45:52,   0.0%, 18.7,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 74.3 mW
+2023-10-12 15:45:52,   0.0%, 17.9,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 71.0 mW
+2023-10-12 15:45:52,   0.0%, 17.3,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 68.6 mW
+2023-10-12 15:46:15,   0.2%,427.5,kWork,dbs_work_handler,  1.69 W
+2023-10-12 15:46:15,   0.2%,208.2,Timer,tick_sched_timer,  825 mW
+2023-10-12 15:46:15,   0.2%,114.8,Interrupt,[3] net_rx(softirq),  457 mW
+2023-10-12 15:46:15,   0.1%, 62.9,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  249 mW
+2023-10-12 15:46:15,   0.1%, 56.1,Process,[PID 1302] /usr/bin/containerd ,  222 mW
+2023-10-12 15:46:15,   0.0%, 18.7,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 73.9 mW
+2023-10-12 15:46:15,   0.0%, 18.4,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 72.7 mW
+2023-10-12 15:46:15,   0.0%, 17.2,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 68.0 mW
+2023-10-12 15:46:15,   0.0%, 16.8,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 66.7 mW
+2023-10-12 15:46:15,   0.0%, 16.2,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 64.1 mW
+2023-10-12 15:46:39,   0.2%,435.1,kWork,dbs_work_handler,  1.72 W
+2023-10-12 15:46:39,   0.2%,218.2,Timer,tick_sched_timer,  865 mW
+2023-10-12 15:46:39,   0.3%,141.9,Interrupt,[3] net_rx(softirq),  565 mW
+2023-10-12 15:46:39,   0.1%, 62.9,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  250 mW
+2023-10-12 15:46:39,   0.1%, 50.4,Process,[PID 1302] /usr/bin/containerd ,  200 mW
+2023-10-12 15:46:39,   0.9%, 17.9,Process,[PID 1195] avahi-daemon: running [sunserver.local] , 85.3 mW
+2023-10-12 15:46:39,   0.0%, 19.2,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 76.0 mW
+2023-10-12 15:46:39,   0.0%, 18.3,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 72.5 mW
+2023-10-12 15:46:39,   0.0%, 18.1,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 71.9 mW
+2023-10-12 15:46:39,   0.0%, 17.9,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 71.1 mW
+2023-10-12 15:47:03,   0.2%,442.8,kWork,dbs_work_handler,  1.75 W
+2023-10-12 15:47:03,   0.2%,234.0,Timer,tick_sched_timer,  928 mW
+2023-10-12 15:47:03,   0.2%,105.2,Interrupt,[3] net_rx(softirq),  419 mW
+2023-10-12 15:47:03,   0.1%, 66.5,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  264 mW
+2023-10-12 15:47:03,   0.1%, 56.7,Process,[PID 1302] /usr/bin/containerd ,  225 mW
+2023-10-12 15:47:03,   0.0%, 29.3,Process,[PID 1296] /usr/local/bin/node_exporter ,  116 mW
+2023-10-12 15:47:03,   0.0%, 20.4,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 80.7 mW
+2023-10-12 15:47:03,   0.0%, 18.9,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 74.9 mW
+2023-10-12 15:47:03,   0.0%, 18.4,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 72.7 mW
+2023-10-12 15:47:03,   0.0%, 18.3,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 72.4 mW
+2023-10-12 15:47:26,   0.2%,427.1,kWork,dbs_work_handler,  1.69 W
+2023-10-12 15:47:26,   0.2%,221.2,Timer,tick_sched_timer,  877 mW
+2023-10-12 15:47:26,   0.2%, 99.6,Interrupt,[3] net_rx(softirq),  396 mW
+2023-10-12 15:47:26,   0.1%, 70.3,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  279 mW
+2023-10-12 15:47:26,   0.1%, 54.6,Process,[PID 1302] /usr/bin/containerd ,  217 mW
+2023-10-12 15:47:26,   0.0%, 22.1,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 87.7 mW
+2023-10-12 15:47:26,   0.0%, 20.0,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 79.4 mW
+2023-10-12 15:47:26,   0.0%, 19.8,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 78.4 mW
+2023-10-12 15:47:26,   0.0%, 19.2,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 76.1 mW
+2023-10-12 15:47:26,   0.0%, 18.2,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 72.3 mW
+2023-10-12 15:47:49,   0.2%,466.0,kWork,dbs_work_handler,  1.84 W
+2023-10-12 15:47:49,   0.2%,260.5,Timer,tick_sched_timer,  1.03 W
+2023-10-12 15:47:49,   0.4%,163.4,Interrupt,[3] net_rx(softirq),  651 mW
+2023-10-12 15:47:49,   0.1%, 68.0,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  270 mW
+2023-10-12 15:47:49,   0.1%, 52.4,Process,[PID 1302] /usr/bin/containerd ,  208 mW
+2023-10-12 15:47:49,   0.0%, 37.1,Process,[PID 1296] /usr/local/bin/node_exporter ,  147 mW
+2023-10-12 15:47:49,   1.1%, 20.9,Process,[PID 1195] avahi-daemon: running [sunserver.local] , 99.2 mW
+2023-10-12 15:47:49,   0.0%, 20.2,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 80.2 mW
+2023-10-12 15:47:49,   0.0%, 19.7,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 78.0 mW
+2023-10-12 15:47:49,   0.0%, 19.0,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 75.5 mW
+2023-10-12 15:48:13,   0.2%,440.1,kWork,dbs_work_handler,  1.74 W
+2023-10-12 15:48:13,   0.2%,231.1,Timer,tick_sched_timer,  916 mW
+2023-10-12 15:48:13,   0.2%,102.6,Interrupt,[3] net_rx(softirq),  409 mW
+2023-10-12 15:48:13,   0.1%, 67.0,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  266 mW
+2023-10-12 15:48:13,   0.1%, 58.5,Process,[PID 1302] /usr/bin/containerd ,  232 mW
+2023-10-12 15:48:13,   0.0%, 20.1,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 79.6 mW
+2023-10-12 15:48:13,   0.0%, 19.4,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 77.1 mW
+2023-10-12 15:48:13,   0.0%, 19.0,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 75.5 mW
+2023-10-12 15:48:13,   0.0%, 19.0,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 75.1 mW
+2023-10-12 15:48:13,   0.0%, 18.8,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 74.5 mW
+2023-10-12 15:48:37,   0.2%,433.0,kWork,dbs_work_handler,  1.71 W
+2023-10-12 15:48:37,   0.2%,228.1,Timer,tick_sched_timer,  904 mW
+2023-10-12 15:48:37,   0.3%,155.6,Interrupt,[3] net_rx(softirq),  620 mW
+2023-10-12 15:48:37,   0.1%, 64.5,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  256 mW
+2023-10-12 15:48:37,   0.1%, 54.2,Process,[PID 1302] /usr/bin/containerd ,  215 mW
+2023-10-12 15:48:37,   0.0%, 19.5,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 77.4 mW
+2023-10-12 15:48:37,   0.0%, 18.8,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 74.6 mW
+2023-10-12 15:48:37,   0.0%, 18.5,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 73.3 mW
+2023-10-12 15:48:37,   0.0%, 18.3,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 72.7 mW
+2023-10-12 15:48:37,   0.0%, 18.2,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 72.3 mW
+2023-10-12 15:49:00,   0.2%,425.1,kWork,dbs_work_handler,  1.68 W
+2023-10-12 15:49:00,   0.2%,225.6,Timer,tick_sched_timer,  894 mW
+2023-10-12 15:49:00,   0.2%,106.8,Interrupt,[3] net_rx(softirq),  425 mW
+2023-10-12 15:49:00,   0.1%, 67.0,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  266 mW
+2023-10-12 15:49:00,   0.1%, 56.8,Process,[PID 1302] /usr/bin/containerd ,  225 mW
+2023-10-12 15:49:00,   0.0%, 20.5,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 81.3 mW
+2023-10-12 15:49:00,   0.0%, 20.4,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 80.9 mW
+2023-10-12 15:49:00,   0.0%, 20.3,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 80.3 mW
+2023-10-12 15:49:00,   0.0%, 18.6,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 73.7 mW
+2023-10-12 15:49:00,   0.0%, 18.3,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 72.7 mW
+2023-10-12 15:49:24,   0.2%,423.4,kWork,dbs_work_handler,  1.68 W
+2023-10-12 15:49:24,   0.2%,222.9,Timer,tick_sched_timer,  883 mW
+2023-10-12 15:49:24,   0.2%, 94.2,Interrupt,[3] net_rx(softirq),  375 mW
+2023-10-12 15:49:24,   0.1%, 67.1,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  266 mW
+2023-10-12 15:49:24,   0.1%, 57.8,Process,[PID 1302] /usr/bin/containerd ,  229 mW
+2023-10-12 15:49:24,   0.0%, 19.4,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 76.9 mW
+2023-10-12 15:49:24,   0.0%, 19.1,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 75.6 mW
+2023-10-12 15:49:24,   0.0%, 17.4,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 68.9 mW
+2023-10-12 15:49:24,   0.0%, 16.6,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 65.6 mW
+2023-10-12 15:49:24,   0.0%, 15.7,Process,[PID 1296] /usr/local/bin/node_exporter , 62.0 mW
+2023-10-12 15:49:48,   0.2%,459.4,kWork,dbs_work_handler,  1.82 W
+2023-10-12 15:49:48,   0.2%,263.7,Timer,tick_sched_timer,  1.05 W
+2023-10-12 15:49:48,   0.3%,176.4,Interrupt,[3] net_rx(softirq),  702 mW
+2023-10-12 15:49:48,   0.1%, 70.7,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  280 mW
+2023-10-12 15:49:48,   0.1%, 56.5,Process,[PID 1302] /usr/bin/containerd ,  224 mW
+2023-10-12 15:49:48,   1.1%, 21.2,Process,[PID 1195] avahi-daemon: running [sunserver.local] ,  101 mW
+2023-10-12 15:49:48,   0.0%, 21.8,Process,[PID 1296] /usr/local/bin/node_exporter , 86.3 mW
+2023-10-12 15:49:48,   0.0%, 18.8,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 74.3 mW
+2023-10-12 15:49:48,   0.0%, 18.1,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 71.5 mW
+2023-10-12 15:49:48,   0.0%, 17.8,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 70.4 mW
+2023-10-12 15:50:13,   0.2%,441.4,kWork,dbs_work_handler,  1.75 W
+2023-10-12 15:50:13,   0.2%,245.9,Timer,tick_sched_timer,  975 mW
+2023-10-12 15:50:13,   0.2%,102.6,Interrupt,[3] net_rx(softirq),  408 mW
+2023-10-12 15:50:13,   0.1%, 65.5,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  260 mW
+2023-10-12 15:50:13,   0.1%, 52.0,Process,[PID 1302] /usr/bin/containerd ,  206 mW
+2023-10-12 15:50:13,   0.0%, 20.6,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 81.5 mW
+2023-10-12 15:50:13,   0.0%, 20.0,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 79.1 mW
+2023-10-12 15:50:13,   0.0%, 19.0,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 75.4 mW
+2023-10-12 15:50:13,   0.0%, 18.6,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 73.6 mW
+2023-10-12 15:50:13,   0.0%, 18.6,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 73.6 mW
+2023-10-12 15:50:36,   0.2%,430.4,kWork,dbs_work_handler,  1.70 W
+2023-10-12 15:50:36,   0.2%,211.7,Timer,tick_sched_timer,  839 mW
+2023-10-12 15:50:36,   0.2%,111.2,Interrupt,[3] net_rx(softirq),  443 mW
+2023-10-12 15:50:36,   0.1%, 66.3,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  263 mW
+2023-10-12 15:50:36,   0.1%, 56.9,Process,[PID 1302] /usr/bin/containerd ,  226 mW
+2023-10-12 15:50:36,   0.0%, 20.2,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 80.2 mW
+2023-10-12 15:50:36,   0.0%, 19.6,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 77.8 mW
+2023-10-12 15:50:36,   0.0%, 19.4,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 76.9 mW
+2023-10-12 15:50:36,   0.0%, 18.7,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 74.1 mW
+2023-10-12 15:50:36,   0.0%, 18.1,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 71.8 mW
+2023-10-12 15:51:00,   0.2%,416.4,kWork,dbs_work_handler,  1.65 W
+2023-10-12 15:51:00,   0.2%,215.7,Timer,tick_sched_timer,  855 mW
+2023-10-12 15:51:00,   0.3%,139.1,Interrupt,[3] net_rx(softirq),  554 mW
+2023-10-12 15:51:00,   0.1%, 61.8,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  245 mW
+2023-10-12 15:51:00,   0.1%, 53.1,Process,[PID 1302] /usr/bin/containerd ,  211 mW
+2023-10-12 15:51:00,   0.0%, 19.4,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 76.7 mW
+2023-10-12 15:51:00,   0.0%, 18.7,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 74.0 mW
+2023-10-12 15:51:00,   0.0%, 18.3,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 72.4 mW
+2023-10-12 15:51:00,   0.0%, 17.0,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 67.5 mW
+2023-10-12 15:51:00,   0.0%, 16.3,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 64.8 mW
+2023-10-12 15:51:24,   0.2%,423.8,kWork,dbs_work_handler,  1.68 W
+2023-10-12 15:51:24,   0.2%,217.5,Timer,tick_sched_timer,  862 mW
+2023-10-12 15:51:24,   0.2%,103.1,Interrupt,[3] net_rx(softirq),  410 mW
+2023-10-12 15:51:24,   0.1%, 60.8,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  241 mW
+2023-10-12 15:51:24,   0.1%, 51.3,Process,[PID 1302] /usr/bin/containerd ,  204 mW
+2023-10-12 15:51:24,   0.0%, 19.0,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 75.2 mW
+2023-10-12 15:51:24,   0.0%, 16.8,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 66.4 mW
+2023-10-12 15:51:24,   0.0%, 15.7,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 62.3 mW
+2023-10-12 15:51:24,   0.0%, 15.6,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 61.7 mW
+2023-10-12 15:51:24,   0.0%, 15.6,Process,[PID 1296] /usr/local/bin/node_exporter , 61.6 mW
+2023-10-12 15:51:47,   0.2%,439.0,kWork,dbs_work_handler,  1.74 W
+2023-10-12 15:51:47,   0.2%,248.1,Timer,tick_sched_timer,  983 mW
+2023-10-12 15:51:47,   0.2%,119.0,Interrupt,[3] net_rx(softirq),  474 mW
+2023-10-12 15:51:47,   0.1%, 60.8,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  241 mW
+2023-10-12 15:51:47,   0.1%, 55.4,Process,[PID 1302] /usr/bin/containerd ,  220 mW
+2023-10-12 15:51:47,   0.0%, 23.8,Process,[PID 1296] /usr/local/bin/node_exporter , 94.1 mW
+2023-10-12 15:51:47,   0.0%, 18.3,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 72.3 mW
+2023-10-12 15:51:47,   0.0%, 17.8,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 70.4 mW
+2023-10-12 15:51:47,   0.0%, 15.8,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 62.7 mW
+2023-10-12 15:51:47,   0.0%, 15.7,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 62.3 mW
+2023-10-12 15:52:10,   0.2%,419.2,kWork,dbs_work_handler,  1.66 W
+2023-10-12 15:52:10,   0.2%,210.5,Timer,tick_sched_timer,  834 mW
+2023-10-12 15:52:10,   0.2%,106.9,Interrupt,[3] net_rx(softirq),  425 mW
+2023-10-12 15:52:10,   0.1%, 63.6,Process,[PID 1473] /usr/bin/dockerd -H fd:// --containerd=/run/containerd/containerd.sock ,  252 mW
+2023-10-12 15:52:10,   0.1%, 53.9,Process,[PID 1302] /usr/bin/containerd ,  214 mW
+2023-10-12 15:52:10,   0.0%, 20.4,Process,[PID 2250] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 907b1b91c6f77abffe65e20a61f79e2497091db7f47276a63a0806c1fcee68f, 80.8 mW
+2023-10-12 15:52:10,   0.0%, 19.1,Process,[PID 2283] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 4ae5066abca9b5eb7673e33837f2590257fd6d0a091f47983066e06b568ac91, 75.7 mW
+2023-10-12 15:52:10,   0.0%, 19.1,Process,[PID 2160] /usr/bin/containerd-shim-runc-v2 -namespace moby -id ee265b576e34ab50a27b11be8790662be49ae41a1256446d245af2455e1c419, 75.7 mW
+2023-10-12 15:52:10,   0.0%, 18.7,Process,[PID 2046] /usr/bin/containerd-shim-runc-v2 -namespace moby -id e1b43e6e4afc39f492c1fab88a1781e1f1d63c3cc3f14c1c91e003cf5c1a3ab, 74.1 mW
+2023-10-12 15:52:10,   0.0%, 18.5,Process,[PID 2104] /usr/bin/containerd-shim-runc-v2 -namespace moby -id 3d0c790e0f7669654036a28a5fc731f0fb0f2b841dc45dd542a168e4dc87122, 73.1 mW
