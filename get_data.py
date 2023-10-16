@@ -44,12 +44,11 @@ for file_name in file_names:
         writer1 = csv.writer(cpu1)
         writer2 = csv.writer(cpu2)
 
-        cpu_data = []
+        cpu1_data = []
+        cpu2_data = []
 
         for line in txt:
             # cpu 구분용
-            if(line.startswith('2023')):
-                cpu_data.append(line[0:-1])
             if line.startswith("coretemp-isa-0000"):
                 current_cpu = 1
             elif line.startswith("coretemp-isa-0001"):
@@ -59,13 +58,23 @@ for file_name in file_names:
             i = line.find("°C")
 
             if(i != -1):
-                cpu_data.append(line[i-4:i]) 
-            else:
                 if(current_cpu == 1):
-                    writer1.writerow(cpu_data)
+                    cpu1_data.append(line[i-4:i]) 
                 else:
-                    writer2.writerow(cpu_data)
-                cpu_data.clear()
+                    cpu2_data.append(line[i-4:i])
+            else:
+                if(current_cpu == 1 and len(cpu1_data) > 0):
+                    writer1.writerow(cpu1_data)
+                    cpu1_data.clear()
+
+                elif(current_cpu == 2 and len(cpu2_data) > 0):
+                    writer2.writerow(cpu2_data)
+                    cpu2_data.clear()
+                
+                if(line.startswith('2023')):
+                    cpu1_data.append(line[0:-1])
+                    cpu2_data.append(line[0:-1])
+
 
             i = -1
         cpu1.close()
