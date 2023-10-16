@@ -39,10 +39,10 @@ def create_excel_xsl(path, sheet_name, value):
 
 def write_excel_xls_append(path, sheet_name, value):
     """
-    将value值写入到指定的excel表格中
-    :param path: 表格路径
-    :param sheet_name: sheet名称
-    :param value: 新增一列，形式如下
+    이 값은 지정된 엑셀 테이블에 쓰여집니다.
+    :param path: Excel 파일의 경로
+    :param sheet_name: 시트의 이름
+    :param value: 새 열에 쓰여질 값들을 리스트 형태로 제공
     :return: None
 
     value = [["feature1", "feature2", "feature3"....]]

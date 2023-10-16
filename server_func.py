@@ -36,7 +36,7 @@ def start_server(socket_server, device):
 
     # "중간 데이터 수신 및 전송 지연 반환"
     
-    for _ in range(100):
+    for _ in range(300):
     
         edge_output, transfer_latency = net.get_data(conn)
 
@@ -97,7 +97,7 @@ def start_client(ip, port, input_x, model_type, upload_bandwidth, device):
     model_partition_edge = get_partition_points(graph_partition_edge, dict_node_layer)
     print(f"partition edges : {model_partition_edge}")
     """
-    model_partition_edge = [(4,5)]
+    model_partition_edge = [(35,36)]
     # "분할 지점을 전송합니다."
     net.send_short_data(conn, model_partition_edge, msg="partition strategy")
 
@@ -108,7 +108,7 @@ def start_client(ip, port, input_x, model_type, upload_bandwidth, device):
     # "에지에서 추론을 시작합니다. 먼저 예열을 수행합니다."
     inference_utils.warmUp(edge_model, input_x, device)
     
-    for _ in range(100):
+    for _ in range(300):
         edge_output, edge_latency = inference_utils.recordTime(edge_model, input_x, device, epoch_cpu=30, epoch_gpu=100)
         print(f"{model_type} 에지 디바이스에서 추론이 완료되었습니다. - {edge_latency:.3f} ms")
 
