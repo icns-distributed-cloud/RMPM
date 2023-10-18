@@ -16,22 +16,23 @@ from datetime import datetime
 """
 if __name__ == '__main__':
     try:
-        opts, args = getopt.getopt(sys.argv[1:], "i:I:p:P:d:", ["front_ip=","back_ip=","front_port=","back_port=","device"])
+        opts, args = getopt.getopt(sys.argv[1:], "i:I:p:P:d:", ["front_ip=","back_ip=","front_port=","back_port=","device="])
     except getopt.GetoptError:
         print('input argv error')
         sys.exit(2)
 
     # 옵션은 (옵션, 인수) 튜플 형태로 처리됩니다. (front한테 받아서 back한테 보낸다.)
-    front_ip, back_ip, front_port, back_port = "127.0.0.1", "127.0.0.1", 8090, 8091
+    front_ip, back_ip, front_port, back_port = "127.0.0.1", "127.0.0.1", 0, 0
     device = "cpu"
     for opt, arg in opts:
-        if opt in ("-i", "--frint_ip"):
+        print(opt, arg)
+        if opt in ("-i", "--front_ip"):
             front_ip = arg
-        elif opt in ("-I", "--backip"):
+        elif opt in ("-I", "--back_ip"):
             back_ip = arg
         elif opt in ("-p", "--front_port"):
             front_port = int(arg)
-        elif opt in ("-P", "--back_prot"):
+        elif opt in ("-P", "--back_port"):
             back_port = int(arg)
         elif opt in ("-d", "--device"):
             device = arg
@@ -45,11 +46,11 @@ if __name__ == '__main__':
         try:
             # 서버를 열어서 대기합니다.
             print("middle server 대기중...")
-
+            print(front_ip, back_ip, front_port, back_port, device)
             front_conn = net_utils.get_socket_server(front_ip, front_port) # 이전 노드와 연결
-            back_conn = net.get_socket_client(back_ip, back_port)           # 다음 노드와 연결
+            back_conn = net_utils.get_socket_client(back_ip, back_port)
+            print("back connected")
 
-            print("start time : ", datetime.now()) 
             send_receive(front_conn, back_conn, device)
             break
         except ConnectionRefusedError:

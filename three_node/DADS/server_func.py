@@ -13,7 +13,6 @@ def send_receive(front, back, device):
     """
     # 리시버 연결 대기" (샌더는 데이터 전송 용도)
     front_conn, receive_client = net.wait_client(front)
-
     start_time = datetime.now()
 
     # 시작 시간 출력
