@@ -5,7 +5,7 @@
 처음 실행
 python3 end_server.py -i 163.180.117.202 -p 100
 
-이후 실행
+이후 실행 (아이피 + 포트 변경해야함)
 python3 middle_server.py -i 163.180.117.202 -I 163.180.117.202 -p 99 –P 100
 -i : front_ip
 -I : back_ip
