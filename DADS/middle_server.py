@@ -16,23 +16,23 @@ from datetime import datetime
 """
 if __name__ == '__main__':
     try:
-        opts, args = getopt.getopt(sys.argv[1:], "r:s:f:b:d:", ["receive=","send=","port=","device"])
+        opts, args = getopt.getopt(sys.argv[1:], "i:I:p:P:d:", ["front_ip=","back_ip=","front_port=","back_port=","device"])
     except getopt.GetoptError:
         print('input argv error')
         sys.exit(2)
 
-    # 옵션은 (옵션, 인수) 튜플 형태로 처리됩니다. (receive한테 받아서 send한테 보낸다.)
-    send, receive, s_port, r_port = "127.0.0.1", "127.0.0.1", 8090, 8091
+    # 옵션은 (옵션, 인수) 튜플 형태로 처리됩니다. (front한테 받아서 back한테 보낸다.)
+    front_ip, back_ip, front_port, back_port = "127.0.0.1", "127.0.0.1", 8090, 8091
     device = "cpu"
     for opt, arg in opts:
-        if opt in ("-r", "--receive"):
-            receive = arg
-        elif opt in ("-s", "--send"):
-            send = arg
-        elif opt in ("-f", "--front_port"):
-            r_port = int(arg)
-        elif opt in ("-b", "--back_prot"):
-            s_port = int(arg)
+        if opt in ("-i", "--frint_ip"):
+            front_ip = arg
+        elif opt in ("-I", "--backip"):
+            back_ip = arg
+        elif opt in ("-p", "--front_port"):
+            front_port = int(arg)
+        elif opt in ("-P", "--back_prot"):
+            back_port = int(arg)
         elif opt in ("-d", "--device"):
             device = arg
         
@@ -46,11 +46,11 @@ if __name__ == '__main__':
             # 서버를 열어서 대기합니다.
             print("middle server 대기중...")
 
-            receive_conn = net_utils.get_socket_server(receive, r_port) # receive와 연결
-            send_conn = net.get_socket_client(send, s_port)
+            front_conn = net_utils.get_socket_server(front_ip, front_port) # 이전 노드와 연결
+            back_conn = net.get_socket_client(back_ip, back_port)           # 다음 노드와 연결
 
             print("start time : ", datetime.now()) 
-            send_receive(receive_conn, send_conn, device)
+            send_receive(front_conn, back_conn, device)
             break
         except ConnectionRefusedError:
             pass

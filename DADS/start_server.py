@@ -2,6 +2,7 @@ import torch
 import sys, getopt
 from server_func import send
 from net.monitor_client import MonitorClient
+from net.net_utils import get_socket_client
 import multiprocessing
 from datetime import datetime
 import warnings
@@ -53,7 +54,8 @@ if __name__ == '__main__':
         try:
             # 서버를 열어서 대기합니다.
             print("start server 대기중...")
-            send(ip, port, x, model_type, upload_bandwidth, device)
+            conn = get_socket_client(ip, port)
+            send(conn, x, model_type, upload_bandwidth, device)
 
             print("start time : \n" , datetime.now())
             break
@@ -61,4 +63,5 @@ if __name__ == '__main__':
             pass
 
     
+
 

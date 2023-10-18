@@ -77,7 +77,7 @@ def send_receive(front, back, device):
     front.close()
     back.close()
 
-def send(ip, port, input_x, model_type, upload_bandwidth, device):
+def send(conn, input_x, model_type, upload_bandwidth, device):
     """
     # 클라이언트 클라이언트를 시작하고 서버에 추론 요청을 보냅니다.
     # 일반적으로 edge_api.py에서 직접 호출됩니다.
@@ -91,8 +91,6 @@ def send(ip, port, input_x, model_type, upload_bandwidth, device):
     """
     # "모델을 읽기"
     model = inference_utils.get_dnn_model(model_type)
-    # "클라우드와의 연결을 설정합니다."
-    conn = net.get_socket_client(ip, port)
     net.send_short_data(conn, model_type, msg="model type")
 
     model_partition_edge = [(2,5)]
@@ -182,8 +180,9 @@ def receive(front, device):
                                                                 epoch_gpu=100)
         print(f"count : {i} // {model_type} 추론을 수행했습니다. {cloud_latency:.3f} ms")
         net.send_short_data(front_conn, cloud_latency, "cloud latency")
-
+    
     print("================= DNN Collaborative Inference Finished. ===================")
+    print(f"완료 시각 : {datetime.now()}")
     front.close()
 
     
