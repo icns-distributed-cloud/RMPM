@@ -37,7 +37,7 @@ def send(conn, input_x, model_type, upload_bandwidth, device):
         end_time = (datetime.now())
         print(f"{model_type} 에지 디바이스에서 추론이 완료되었습니다. - {end_time - start_time} ms")
 
-    print("\n================= DNN Collaborative Inference Finished. ===================\n")
+    print(f"\n count{i} ================= DNN Collaborative Inference Finished. ===================\n")
     end_time = datetime.now()
     print("Task completion time : ", end_time)
     print("Task duration time : ", end_time - start_time)
