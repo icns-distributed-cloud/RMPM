@@ -2,7 +2,6 @@ import torch
 import sys,getopt
 import warnings
 warnings.filterwarnings("ignore")
-from net.monitor_server import MonitorServer
 from server_func import receive
 from net import net_utils
 from datetime import datetime
