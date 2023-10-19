@@ -31,7 +31,7 @@ def send(conn, input_x, model_type, upload_bandwidth, device):
     # "에지에서 추론을 시작합니다. 먼저 예열을 수행합니다."
     inference_utils.warmUp(edge_model, input_x, device)
     
-    for i in range(100):
+    for i in range(1000):
         start_time = (datetime.now())
         edge_latency = inference_utils.recordTime(edge_model, input_x, device, epoch_cpu=30, epoch_gpu=100)
         end_time = (datetime.now())
