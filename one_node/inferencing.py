@@ -44,6 +44,6 @@ if __name__ == '__main__':
     upload_bandwidth = 10  # MBps를 프로그램이 올바르게 실행되도록 하기 위해 여기서는 10으로 설정합니다. 실제 실행 시에는 위의 행을 사용하세요.
 
     # 클라우드 엣지 협업 방식으로 시뮬레이션을 수행합니다.
-    send(x, model_type, upload_bandwidth, device)
+    send(0, x, model_type, upload_bandwidth, device)
         
        
