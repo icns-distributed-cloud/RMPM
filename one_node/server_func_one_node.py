@@ -35,9 +35,9 @@ def send(conn, input_x, model_type, upload_bandwidth, device):
         start_time = (datetime.now())
         edge_latency = inference_utils.recordTime(edge_model, input_x, device, epoch_cpu=30, epoch_gpu=100)
         end_time = (datetime.now())
-        print(f"{model_type} 에지 디바이스에서 추론이 완료되었습니다. - {end_time - start_time} ms")
+        print(f"count : {i} // {model_type} 에지 디바이스에서 추론이 완료되었습니다. - {end_time - start_time} ms")
 
-    print(f"\n count{i} ================= DNN Collaborative Inference Finished. ===================\n")
+    print("\n ================= DNN Collaborative Inference Finished. ===================\n")
     end_time = datetime.now()
     print("Task completion time : ", end_time)
     print("Task duration time : ", end_time - start_time)
