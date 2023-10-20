@@ -2,6 +2,7 @@ from utils import inference_utils
 from dads_framework.dads import algorithm_DSL, get_partition_points
 from dads_framework.graph_construct import get_layers_latency
 import net.net_utils as net
+from datetime import datetime
 
 def start_server(socket_server, device):
     """
@@ -13,6 +14,9 @@ def start_server(socket_server, device):
     """
     # "클라이언트 연결 대기 중"
     conn, client = net.wait_client(socket_server)
+
+    test_start_time = datetime.now()
+    print("Task start time : ", test_start_time)
 
     # "모델 유형 수신"
     model_type = net.get_short_data(conn)
@@ -35,15 +39,15 @@ def start_server(socket_server, device):
     cloud_model = cloud_model.to(device)
 
     # "중간 데이터 수신 및 전송 지연 반환"
-    
-    for _ in range(300):
+
+    for i in range(300):
     
         edge_output, transfer_latency = net.get_data(conn)
 
         # "두 번의 메시지를 연속해서 보내지 않도록 메시지 간에 구분자를 사용하여 메시지 분리"
         conn.recv(40)
 
-        print(f"get edge_output and transfer latency successfully.")
+        print(f"count : {i} // get edge_output and transfer latency successfully.")
         net.send_short_data(conn, transfer_latency, "transfer latency")
 
         # "두 번의 메시지를 연속해서 보내지 않도록 메시지 간에 구분자를 사용하여 메시지 분리"
@@ -54,11 +58,14 @@ def start_server(socket_server, device):
         # "클라우드 추론 지연 기록"
         cloud_output, cloud_latency = inference_utils.recordTime(cloud_model, edge_output, device, epoch_cpu=30,
                                                                 epoch_gpu=100)
-        print(f"{model_type} 완료된 추론을 클라우드 디바이스에서 수행했습니다. {cloud_latency:.3f} ms")
+        print(f"count : {i} // {model_type} 완료된 추론을 클라우드 디바이스에서 수행했습니다. {cloud_latency:.3f} ms")
         net.send_short_data(conn, cloud_latency, "cloud latency")
 
     print("================= DNN Collaborative Inference Finished. ===================")
+    test_end_time = datetime.now()
 
+    print("Task completion time : " , test_end_time)
+    print("Task duration time : ", test_end_time - test_start_time)
 
 def start_client(ip, port, input_x, model_type, upload_bandwidth, device):
     """
@@ -72,6 +79,10 @@ def start_client(ip, port, input_x, model_type, upload_bandwidth, device):
     # :param device: 로컬에서 CPU 또는 CUDA를 사용하여 실행
     # :return: None
     """
+
+    test_start_time = datetime.now()
+    print("Task start time : ", test_start_time)
+
     # "모델을 읽기"
     model = inference_utils.get_dnn_model(model_type)
     # "클라우드와의 연결을 설정합니다."
@@ -108,9 +119,9 @@ def start_client(ip, port, input_x, model_type, upload_bandwidth, device):
     # "에지에서 추론을 시작합니다. 먼저 예열을 수행합니다."
     inference_utils.warmUp(edge_model, input_x, device)
     
-    for _ in range(300):
+    for i in range(300):
         edge_output, edge_latency = inference_utils.recordTime(edge_model, input_x, device, epoch_cpu=30, epoch_gpu=100)
-        print(f"{model_type} 에지 디바이스에서 추론이 완료되었습니다. - {edge_latency:.3f} ms")
+        print(f"count : {i} // {model_type} 에지 디바이스에서 추론이 완료되었습니다. - {edge_latency:.3f} ms")
 
         # "중간 데이터를 전송합니다."
         net.send_data(conn, edge_output, "edge output")
@@ -119,13 +130,18 @@ def start_client(ip, port, input_x, model_type, upload_bandwidth, device):
         conn.sendall("avoid  sticky".encode())
 
         transfer_latency = net.get_short_data(conn)
-        print(f"{model_type} 전송이 완료되었습니다. - {transfer_latency:.3f} ms")
+        print(f"count : {i} // {model_type} 전송이 완료되었습니다. - {transfer_latency:.3f} ms")
 
         # "두 개의 메시지가 연속으로 수신되지 않도록 메시지 사이에 구분자를 사용하여 메시지를 분리합니다."
         conn.sendall("avoid  sticky".encode())
 
         cloud_latency = net.get_short_data(conn)
-        print(f"{model_type} 클라우드 기기에서 추론이 완료되었습니다. - {cloud_latency:.3f} ms")
+        print(f"count : {i} // {model_type} 클라우드 기기에서 추론이 완료되었습니다. - {cloud_latency:.3f} ms")
 
     print("================= DNN Collaborative Inference Finished. ===================")
+
+    test_end_time = datetime.now()
+
+    print("Task completion time : " , test_end_time)
+    print("Task duration time : ", test_end_time - test_start_time)
     conn.close()
