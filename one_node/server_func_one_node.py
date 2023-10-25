@@ -15,10 +15,10 @@ def send(conn, input_x, model_type, upload_bandwidth, device):
     # :return: None
     """
     #실행 시간 출력
-    start_time = datetime.now()
+    test_start_time = datetime.now()
 
     # 시작 시간 출력
-    print("Task start time : \n" , start_time)
+    print("Task start time : \n" , test_start_time)
 
     # "모델을 읽기"
     model = inference_utils.get_dnn_model(model_type)
@@ -38,9 +38,9 @@ def send(conn, input_x, model_type, upload_bandwidth, device):
         print(f"count : {i} // {model_type} 에지 디바이스에서 추론이 완료되었습니다. - {end_time - start_time} ms")
 
     print("\n ================= DNN Collaborative Inference Finished. ===================\n")
-    end_time = datetime.now()
-    print("Task completion time : ", end_time)
-    print("Task duration time : ", end_time - start_time)
+    test_end_time = datetime.now()
+    print("Task completion time : ", test_end_time)
+    print("Task duration time : ", test_end_time - test_start_time)
     conn.close()
 
 
