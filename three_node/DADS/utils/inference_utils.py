@@ -271,9 +271,9 @@ def model_partition(model, model_partition_edge):
         partition_point = model_partition_edge[0][0]
         idx = 1
         for layer in model:
-            if idx <= 14:
+            if idx <= 15:
                 start.add_module(f"{idx}-{layer.__class__.__name__}", layer)
-            elif idx <= 27:
+            elif idx <= 34:
                 middle.add_module(f"{idx}-{layer.__class__.__name__}", layer)
             else:
                 end.add_module(f"{idx}-{layer.__class__.__name__}", layer)
