@@ -270,11 +270,11 @@ def model_partition(model, model_partition_edge):
     if len(model_partition_edge) == 1:  # 체인 구조의 분할을 사용합니다.
         idx = 1
         for layer in model:
-            if idx <= 10:
+            if idx <= 12:
                 first.add_module(f"{idx}-{layer.__class__.__name__}", layer)
-            elif idx <= 20:
+            elif idx <= 28:
                 second.add_module(f"{idx}-{layer.__class__.__name__}", layer)
-            elif idx <= 30:
+            elif idx <= 35:
                 third.add_module(f"{idx}-{layer.__class__.__name__}", layer)
             elif idx <= 40:
                 fourth.add_module(f"{idx}-{layer.__class__.__name__}", layer)
