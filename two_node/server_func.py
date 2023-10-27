@@ -15,9 +15,6 @@ def start_server(socket_server, device):
     # "클라이언트 연결 대기 중"
     conn, client = net.wait_client(socket_server)
 
-    test_start_time = datetime.now()
-    print("Task start time : ", test_start_time)
-
     # "모델 유형 수신"
     model_type = net.get_short_data(conn)
     print(f"get model type successfully.")
@@ -39,6 +36,9 @@ def start_server(socket_server, device):
     cloud_model = cloud_model.to(device)
 
     # "중간 데이터 수신 및 전송 지연 반환"
+
+    test_start_time = datetime.now()
+    print("Task start time : ", test_start_time)
 
     for i in range(300):
     
@@ -80,9 +80,6 @@ def start_client(ip, port, input_x, model_type, upload_bandwidth, device):
     # :return: None
     """
 
-    test_start_time = datetime.now()
-    print("Task start time : ", test_start_time)
-
     # "모델을 읽기"
     model = inference_utils.get_dnn_model(model_type)
     # "클라우드와의 연결을 설정합니다."
@@ -118,7 +115,10 @@ def start_client(ip, port, input_x, model_type, upload_bandwidth, device):
 
     # "에지에서 추론을 시작합니다. 먼저 예열을 수행합니다."
     inference_utils.warmUp(edge_model, input_x, device)
-    
+
+    test_start_time = datetime.now()
+    print("Task start time : ", test_start_time)
+
     for i in range(300):
         edge_output, edge_latency = inference_utils.recordTime(edge_model, input_x, device, epoch_cpu=30, epoch_gpu=100)
         print(f"count : {i} // {model_type} 에지 디바이스에서 추론이 완료되었습니다. - {edge_latency:.3f} ms")
