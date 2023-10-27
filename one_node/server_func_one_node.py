@@ -14,9 +14,7 @@ def send(conn, input_x, model_type, upload_bandwidth, device):
     # :param device: 로컬에서 CPU 또는 CUDA를 사용하여 실행
     # :return: None
     """
-    #실행 시간 출력
-    test_start_time = datetime.now()
-
+   
     # 시작 시간 출력
     print("Task start time : \n" , test_start_time)
 
@@ -30,6 +28,9 @@ def send(conn, input_x, model_type, upload_bandwidth, device):
 
     # "에지에서 추론을 시작합니다. 먼저 예열을 수행합니다."
     inference_utils.warmUp(edge_model, input_x, device)
+
+     #실행 시간 출력
+    test_start_time = datetime.now()
     
     for i in range(300):
         start_time = (datetime.now())
