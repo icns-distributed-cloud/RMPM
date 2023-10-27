@@ -13,10 +13,6 @@ def send_receive(front, back, device, count):
     """
     # 리시버 연결 대기" (샌더는 데이터 전송 용도)
     front_conn, receive_client = net.wait_client(front)
-    start_time = datetime.now()
-
-    # 시작 시간 출력
-    print("Task start time : \n" , start_time)
 
     # "모델 유형 수신" (send 시에도 동일 모델)
     model_type = net.get_short_data(front_conn)
@@ -48,7 +44,9 @@ def send_receive(front, back, device, count):
     print(f"count{count}")
     cloud_model = infer_model.to(device)
 
-    # "중간 데이터 수신 및 전송 지연 반환"
+    # 시작 시간 출력
+    start_time = datetime.now()
+    print("Task start time : \n" , start_time)
     
     for i in range(300):
         # 중간 데이터를 받는다.
@@ -109,11 +107,7 @@ def send(conn, input_x, model_type, upload_bandwidth, device):
     # :param device: 로컬에서 CPU 또는 CUDA를 사용하여 실행
     # :return: None
     """
-    start_time = datetime.now()
-
-    # 시작 시간 출력
-    print("Task start time : \n" , start_time)
-
+    
     # "모델을 읽기"
     model = inference_utils.get_dnn_model(model_type)
     net.send_short_data(conn, model_type, msg="model type")
@@ -126,6 +120,10 @@ def send(conn, input_x, model_type, upload_bandwidth, device):
 
     # "에지에서 추론을 시작합니다. 먼저 예열을 수행합니다."
     inference_utils.warmUp(edge_model, input_x, device)
+
+    # 시작 시간 출력
+    start_time = datetime.now()
+    print("Task start time : \n" , start_time)
     
     for i in range(300):
         edge_output, edge_latency = inference_utils.recordTime(edge_model, input_x, device, epoch_cpu=30, epoch_gpu=100)
@@ -167,11 +165,6 @@ def receive(front, device):
     # 리시버 연결 대기" (샌더는 데이터 전송 용도)
     front_conn, receive_client = net.wait_client(front)
 
-    start_time = datetime.now()
-
-    # 시작 시간 출력
-    print("Task start time : \n" , start_time)
-
     # "모델 유형 수신" (send 시에도 동일 모델)
     model_type = net.get_short_data(front_conn)
     print(f"get model type successfully.")
@@ -192,7 +185,9 @@ def receive(front, device):
     start, secoond, third, fourth = inference_utils.model_partition(model, model_partition_edge)
     cloud_model = fourth.to(device)
 
-    # "중간 데이터 수신 및 전송 지연 반환"
+    # 시작 시간 출력
+    start_time = datetime.now()
+    print("Task start time : \n" , start_time)
     
     for i in range(300):
     
