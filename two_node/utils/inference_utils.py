@@ -272,7 +272,7 @@ def model_partition(model, model_partition_edge):
         partition_point = model_partition_edge[0][0]
         idx = 1
         for layer in model:
-            if idx <= partition_point:
+            if idx <= 20:
                 edge_model.add_module(f"{idx}-{layer.__class__.__name__}", layer)
             else:
                 cloud_model.add_module(f"{idx}-{layer.__class__.__name__}", layer)
